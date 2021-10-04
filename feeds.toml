@@ -1,4 +1,4 @@
-[newstapa]
+[recent]
 title = "뉴스타파"
 url = "http://newstapa.org/recent"
 entrySelector = "article.article"
