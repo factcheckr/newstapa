@@ -22,7 +22,7 @@ dateFormat = "yyyy.mm.dd"
 imageSelector = "figure.article-image img.d-block.w-100"
 waitUntil = "networkidle"
 
-[news_%EC%82%AC%EB%B2%95%EC%A0%95%EC%9D%98]
+[news_justice]
 title = "뉴스타파 ─ 뉴스 ─ 사법정의"
 url = "http://newstapa.org/category/%EC%82%AC%EB%B2%95%EC%A0%95%EC%9D%98"
 entrySelector = "article.article"
