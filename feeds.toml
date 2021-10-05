@@ -10,7 +10,7 @@ dateFormat = "yyyy.MM.dd"
 imageSelector = "figure.article-image img.d-block.w-100"
 waitUntil = "networkidle"
 
-[news_surveillance]
+[news_public]
 title = "뉴스타파 ─ 뉴스 ─ 공직감시"
 url = "http://newstapa.org/category/%EA%B3%B5%EC%A7%81%EA%B0%90%EC%8B%9C"
 entrySelector = "article.article"
@@ -34,6 +34,53 @@ dateFormat = "yyyy.mm.dd"
 imageSelector = "figure.article-image img.d-block.w-100"
 waitUntil = "networkidle"
 
+[news_budget]
+title = "뉴스타파 ─ 뉴스 ─ 예산감시"
+url = "http://newstapa.org/category/%EC%98%88%EC%82%B0%EA%B0%90%EC%8B%9C"
+entrySelector = "article.article"
+titleSelector = "h6.font-weight-bold"
+linkSelector = "h6.font-weight-bold a"
+contentSelector = "h6.font-weight-bold a"
+dateSelector = "p.float-right.mt-2.date"
+dateFormat = "yyyy.mm.dd"
+imageSelector = "figure.article-image img.d-block.w-100"
+waitUntil = "networkidle"
+
+[news_chaebol]
+title = "뉴스타파 ─ 뉴스 ─ 재벌"
+url = "http://newstapa.org/category/%EC%9E%AC%EB%B2%8C"
+entrySelector = "article.article"
+titleSelector = "h6.font-weight-bold"
+linkSelector = "h6.font-weight-bold a"
+contentSelector = "h6.font-weight-bold a"
+dateSelector = "p.float-right.mt-2.date"
+dateFormat = "yyyy.mm.dd"
+imageSelector = "figure.article-image img.d-block.w-100"
+waitUntil = "networkidle"
+
+[news_religion]
+title = "뉴스타파 ─ 뉴스 ─ 종교"
+url = "http://newstapa.org/category/%EC%A2%85%EA%B5%90"
+entrySelector = "article.article"
+titleSelector = "h6.font-weight-bold"
+linkSelector = "h6.font-weight-bold a"
+contentSelector = "h6.font-weight-bold a"
+dateSelector = "p.float-right.mt-2.date"
+dateFormat = "yyyy.mm.dd"
+imageSelector = "figure.article-image img.d-block.w-100"
+waitUntil = "networkidle"
+
+[news_economy]
+title = "뉴스타파 ─ 뉴스 ─ 경제소비자"
+url = "http://newstapa.org/category/%EA%B2%BD%EC%A0%9C%EC%86%8C%EB%B9%84%EC%9E%90"
+entrySelector = "article.article"
+titleSelector = "h6.font-weight-bold"
+linkSelector = "h6.font-weight-bold a"
+contentSelector = "h6.font-weight-bold a"
+dateSelector = "p.float-right.mt-2.date"
+dateFormat = "yyyy.mm.dd"
+imageSelector = "figure.article-image img.d-block.w-100"
+waitUntil = "networkidle"
 
 [project]
 title = "뉴스타파 ─ 프로젝트"
