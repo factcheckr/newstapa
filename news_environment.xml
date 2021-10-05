@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 08:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 09:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]환경부 장관, "조류경보제 개선하겠다"]]></title>
+            <link>http://newstapa.org/article/zEEt5</link>
+            <guid>http://newstapa.org/article/zEEt5</guid>
+            <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]환경부 장관, "조류경보제 개선하겠다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05172839-26BA-D1B1-A2A8-BKM1V2EIS06194LNNN4W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환경부, '유등 축제' 구실로 수문 닫아...생태계 훼손]]></title>
             <link>http://newstapa.org/article/wwj39</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 16 Jan 2021 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나 시대 '구멍 뚫린' 의료폐기물 관리 시스템... "환경부 직무유기"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/16162002-4ABB-1964-C50E-XVZU0A9RF5HRDRI4RQCS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문재인정부의 4대강] 차기 정부로 넘어간 보 해체..."세종보 하나라도 임기 내 해체해야"]]></title>
-            <link>http://newstapa.org/article/Fob_j</link>
-            <guid>http://newstapa.org/article/Fob_j</guid>
-            <pubDate>Thu, 21 Jan 2021 00:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[[문재인정부의 4대강] 차기 정부로 넘어간 보 해체..."세종보 하나라도 임기 내 해체해야"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/01/21160822-82B0-A07F-06F7-FJK19Q5X0JLY5XCF7FFC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
