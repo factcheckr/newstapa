@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 07:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 08:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<최초 확인> 국가보훈처 수십억대 기부금 강요...'거짓말'로 은폐 시도]]></title>
+            <link>http://newstapa.org/article/NS6zm</link>
+            <guid>http://newstapa.org/article/NS6zm</guid>
+            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;최초 확인&gt; 국가보훈처 수십억대 기부금 강요...'거짓말'로 은폐 시도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/06160834-F55E-BFC7-78A0-CIPE38493D9VMV9R9PDW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[환경부와 국립공원공단의 '가짜 그린뉴딜']]></title>
             <link>http://newstapa.org/article/rXffS</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 11 Jan 2021 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA['낙하산 원장님' 모교에 예산 5천만 원 '셀프 투하']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/11094309-9E77-5982-639A-JUWQXY0LQDWDW7NY82AC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총선 앞두고 출마 지역구 단체에 공기업 예산 수천만 원 '펑펑']]></title>
-            <link>http://newstapa.org/article/GG9Rc</link>
-            <guid>http://newstapa.org/article/GG9Rc</guid>
-            <pubDate>Sat, 09 Jan 2021 00:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[총선 앞두고 출마 지역구 단체에 공기업 예산 수천만 원 '펑펑']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/09150221-C158-5E62-D4D4-ONO79M0Y03BZ5YY98PSX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
