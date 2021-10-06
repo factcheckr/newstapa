@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 22:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 23:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조세도피처 파일에서 나온 이재용 여권...삼성 오너 유령회사 첫 확인]]></title>
+            <link>http://newstapa.org/article/1-_w7</link>
+            <guid>http://newstapa.org/article/1-_w7</guid>
+            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조세도피처 파일에서 나온 이재용 여권...삼성 오너 유령회사 첫 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/07075142-097B-F93F-1CEC-01IIT4HTD5EHIFNDQ6W5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, 삼성 이재용 '조세도피처 회사' 설립 확인]]></title>
+            <link>http://newstapa.org/article/cY66e</link>
+            <guid>http://newstapa.org/article/cY66e</guid>
+            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 삼성 이재용 '조세도피처 회사' 설립 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/07032239-9EB6-332D-A681-Y4V6GCQXBSESAKZMEG26.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성의 끝없는 해외비자금 의혹...이번에는 이재용]]></title>
+            <link>http://newstapa.org/article/VPexB</link>
+            <guid>http://newstapa.org/article/VPexB</guid>
+            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[삼성의 끝없는 해외비자금 의혹...이번에는 이재용]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/07075059-D7B9-FDA3-5B07-JW07PYL69ZY017AH8JJZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이들은 왜 섬나라에 갔나?]]></title>
             <link>http://newstapa.org/article/YhJWa</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 04 Jan 2021 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성 전직 직원들, 몽골 전 총리 유령회사 '프록시'로 활약]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/07181619-B71D-A5FC-FF36-ZFAN1WXBK26NSK5UJST7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미얀마 현지 기고③] 군부의 언론탄압...독립언론과 시민의 저항]]></title>
-            <link>http://newstapa.org/article/RUGBn</link>
-            <guid>http://newstapa.org/article/RUGBn</guid>
-            <pubDate>Mon, 04 Jan 2021 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[[미얀마 현지 기고③] 군부의 언론탄압...독립언론과 시민의 저항]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/04134523-3F0C-249D-41EF-ZA5R3HKZ5RJ9O8GCEAFJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미얀마 현지 기고②] 수만명 피신…"태국은 난민 못 오게 철조망 쳐"]]></title>
-            <link>http://newstapa.org/article/sbUE4</link>
-            <guid>http://newstapa.org/article/sbUE4</guid>
-            <pubDate>Tue, 26 Jan 2021 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[[미얀마 현지 기고②] 수만명 피신…"태국은 난민 못 오게 철조망 쳐"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/26141134-FAD5-0CA4-6D62-JKJDVY9GEW7BG4R872KQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미얀마 현지기고] "시위대는 시민의 권리와 자유를 앗아간 나쁜 체제와 싸운다"]]></title>
-            <link>http://newstapa.org/article/QkPM3</link>
-            <guid>http://newstapa.org/article/QkPM3</guid>
-            <pubDate>Tue, 19 Jan 2021 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[[미얀마 현지기고] "시위대는 시민의 권리와 자유를 앗아간 나쁜 체제와 싸운다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/19165120-24D3-AAFA-AFAE-ECHM90WZCPGLMNXRHHIE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
