@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 04:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/CV3ag</link>
+            <guid>http://newstapa.org/article/CV3ag</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가보훈처와 전관재단의 수상한 커넥션...재단업무 대행하고 억대 부당 수수료까지 지급 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/oXoFy</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[사상최대 조세도피처 정보유출...판도라상자 열리다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004306-EDDA-7040-DD52-QR6IGWADU9AQOFYI2E9O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 사업가의 홍콩 페이퍼컴퍼니 사용 후기 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/fqJDP</link>
-            <guid>http://newstapa.org/article/fqJDP</guid>
-            <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[어느 사업가의 홍콩 페이퍼컴퍼니 사용 후기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004207-D01C-AF7D-DBBE-YS4ETBA32E1AYNL3VH8B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국가보훈처와 전관재단의 수상한 커넥션...재단업무 대행하고 억대 부당 수수료까지 지급 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004442-C663-96DB-969C-R8M5OJF60KWXMBIAY95N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/CV3ag</link>
+            <guid>http://newstapa.org/article/CV3ag</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 시청자 기만한 SBSBiz 체리 협찬방송은 "방심위 제재 사항" (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/aKrUj</link>
             <guid>http://newstapa.org/article/aKrUj</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 21 Jan 2021 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[[영화 '족벌' 플러스] 박종만 최후진술 "이 땅에 언론은 없습니다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/21172852-9E2D-BD62-D0A6-J9CZFCA8W0ZC2MQFBARP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 '족벌' 플러스] TV조선 방정오 검찰 송치...'부당거래' 의혹 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/f9lH5</link>
-            <guid>http://newstapa.org/article/f9lH5</guid>
-            <pubDate>Sat, 16 Jan 2021 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[[영화 '족벌' 플러스] TV조선 방정오 검찰 송치...'부당거래' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/16162256-91EB-9E68-654C-EXA6B82AOXCH22HJCPLT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 뉴스 해부 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2600,6 +2600,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/CV3ag</link>
+            <guid>https://www.newstapa.org/article/CV3ag</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 시청자 기만한 SBSBiz 체리 협찬방송은 "방심위 제재 사항" (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/aKrUj</link>
             <guid>https://www.newstapa.org/article/aKrUj</guid>
@@ -2718,14 +2726,6 @@
             <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.02.15]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/15181003-DEC6-3755-227C-5ABUOZSFZWA0TG12WH6R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 한스바이오메드 사건, 권익위 '올해의 공익신고' 선정 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/nSl84</link>
-            <guid>https://www.newstapa.org/article/nSl84</guid>
-            <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.12.31]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/31125855-F1F9-D2C1-3D01-DJWVO86WW4FEPVJ2LR05.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대학생탐사공모] '상도동 이야기' 2부. 도시의 끝자락으로 (뉴스타파 ─ 참여)]]></title>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 04:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 05:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></title>
+            <link>http://newstapa.org/article/CV3ag</link>
+            <guid>http://newstapa.org/article/CV3ag</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가보훈처와 전관재단의 수상한 커넥션...재단업무 대행하고 억대 부당 수수료까지 지급]]></title>
             <link>http://newstapa.org/article/oXoFy</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 04 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[사상최대 조세도피처 정보유출...판도라상자 열리다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004306-EDDA-7040-DD52-QR6IGWADU9AQOFYI2E9O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 사업가의 홍콩 페이퍼컴퍼니 사용 후기]]></title>
-            <link>http://newstapa.org/article/fqJDP</link>
-            <guid>http://newstapa.org/article/fqJDP</guid>
-            <pubDate>Mon, 04 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어느 사업가의 홍콩 페이퍼컴퍼니 사용 후기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004207-D01C-AF7D-DBBE-YS4ETBA32E1AYNL3VH8B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
