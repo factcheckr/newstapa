@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판도라 페이퍼스]]></title>
+            <link>http://newstapa.org/tags/%ED%8C%90%EB%8F%84%EB%9D%BC%ED%8E%98%EC%9D%B4%ED%8D%BC%EC%8A%A4</link>
+            <guid>http://newstapa.org/tags/%ED%8C%90%EB%8F%84%EB%9D%BC%ED%8E%98%EC%9D%B4%ED%8D%BC%EC%8A%A4</guid>
+            <pubDate>Mon, 04 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사상 최대 규모의 조세도피처 고객 정보가 유출됐습니다. 국왕과 대통령, 총리와 정치인, 고위 공직자의 이름이 역외 서비스 업체에서 쏟아져 나왔습니다. 뉴스타파와 전세계 150개 언론사가 진행한 이번 조세도피처 프로젝트의 이름은 ‘판도라페이퍼스(Pandora Papers)입니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/13143039-D2B0-A49B-D14E-MUSAOH498NA5VF337TCC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한 뉴스 해부]]></title>
             <link>https://newstapa.org/tags/%EB%B6%81%ED%95%9C%20%EB%89%B4%EC%8A%A4%20%ED%95%B4%EB%B6%80</link>
