@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 22:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 23:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보]]></title>
+            <link>http://newstapa.org/article/ckJPy</link>
+            <guid>http://newstapa.org/article/ckJPy</guid>
+            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이재용·홍라희 모자 40억 기부금 추적기]]></title>
             <link>http://newstapa.org/article/cqc9E</link>
@@ -126,14 +133,6 @@
             <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 삼성 이재용 '조세도피처 회사' 설립 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/07032239-9EB6-332D-A681-Y4V6GCQXBSESAKZMEG26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성의 끝없는 해외비자금 의혹...이번에는 이재용]]></title>
-            <link>http://newstapa.org/article/VPexB</link>
-            <guid>http://newstapa.org/article/VPexB</guid>
-            <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성의 끝없는 해외비자금 의혹...이번에는 이재용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/07075059-D7B9-FDA3-5B07-JW07PYL69ZY017AH8JJZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
