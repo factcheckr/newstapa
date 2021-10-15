@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 09:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/14162806-44F0-2A68-3E5E-VEZ8SQ7RY5GSJR06S5DH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 대법원, 영풍 석포제련소 '조업정지 10일' 결정 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/fJNdi</link>
+            <guid>http://newstapa.org/article/fJNdi</guid>
+            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 대법원, 영풍 석포제련소 '조업정지 10일' 결정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15174538-66A0-2E84-EFB6-PMZRZCYU6C7D4E0T0ORJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]환경부 장관, "조류경보제 개선하겠다" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/zEEt5</link>
             <guid>http://newstapa.org/article/zEEt5</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 16 Jan 2020 00:12:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 사참위 ‘조타장치 모형시험’으로 ‘세월호 내인설’ 기각됐다?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/16101414-30E7-88B9-8631-N4TQ28YAED336569R9TC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[텔레그램 마약방] ③ 돈세탁하는 마약상들...범죄에 눈 감은 텔레그램 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/7FxK8</link>
-            <guid>http://newstapa.org/article/7FxK8</guid>
-            <pubDate>Thu, 16 Jan 2020 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텔레그램 마약방] ③ 돈세탁하는 마약상들...범죄에 눈 감은 텔레그램]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/10/16103953-276B-2706-16CB-V9IAX0SQVCECZS5NG33L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[총장님의 폭행을 신고했더니 생긴 일 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2615,6 +2615,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 대법원, 영풍 석포제련소 '조업정지 10일' 결정 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/fJNdi</link>
+            <guid>https://www.newstapa.org/article/fJNdi</guid>
+            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15174538-66A0-2E84-EFB6-PMZRZCYU6C7D4E0T0ORJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/CV3ag</link>
             <guid>https://www.newstapa.org/article/CV3ag</guid>
@@ -2733,14 +2741,6 @@
             <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.03]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/03100231-B0F9-EE8D-A242-FJYZEFW5C4ELDH0YE6SX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 무차별적 보험사기 몰이 제동...김현순 씨 1심 무죄 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/XLJHc</link>
-            <guid>https://www.newstapa.org/article/XLJHc</guid>
-            <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.02.15]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/15181003-DEC6-3755-227C-5ABUOZSFZWA0TG12WH6R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대학생탐사공모] '상도동 이야기' 2부. 도시의 끝자락으로 (뉴스타파 ─ 참여)]]></title>
