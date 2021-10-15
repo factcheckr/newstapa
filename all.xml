@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 23:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 00:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>http://newstapa.org/article/ckJPy</guid>
             <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15080914-5824-FB30-2967-HLK9F23O2UZM2IFKLTTF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재용·홍라희 모자 40억 기부금 추적기 (뉴스타파 ─ 뉴스)]]></title>
