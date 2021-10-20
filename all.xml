@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 06:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/SB5xQ</link>
+            <guid>http://newstapa.org/article/SB5xQ</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20145912-FE4D-07A7-FB16-AG0PVDML7LCDYF4W5TM4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/L_DVR</link>
+            <guid>http://newstapa.org/article/L_DVR</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위법·탐욕으로 범벅된 보훈처와 나라사랑재단의 10년 유착 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/4_iXA</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12165312-4724-FD8F-1E34-QVISQJDYCAXKQD6WY49O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4.15 총선 사전투표 조작설...'K값'과 판박이 음모론 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Crpok</link>
-            <guid>http://newstapa.org/article/Crpok</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4.15 총선 사전투표 조작설...'K값'과 판박이 음모론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12103426-72AC-1ED0-BC96-PBWJQN6LKKYQRCQXZX6X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/CV3ag</link>
-            <guid>http://newstapa.org/article/CV3ag</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/SB5xQ</link>
+            <guid>http://newstapa.org/article/SB5xQ</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20145912-FE4D-07A7-FB16-AG0PVDML7LCDYF4W5TM4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위법·탐욕으로 범벅된 보훈처와 나라사랑재단의 10년 유착 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 13 Jan 2021 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 공수처, 김형준-박수종 뇌물 의혹 수사 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/13172726-3240-983C-18C0-RF4FQ0A153OX7KONY2HB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 전직 검사들의 무차별 소송 폭탄, 뉴스타파 9:0 승소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/2ij5t</link>
-            <guid>http://newstapa.org/article/2ij5t</guid>
-            <pubDate>Wed, 13 Jan 2021 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 전직 검사들의 무차별 소송 폭탄, 뉴스타파 9:0 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/13170508-24D9-2DDF-FC93-D9V6DQU0HXS14WJ8MT86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['불법 없다'던 삼성 이재용, 재판에선 '프로포폴 41회 불법 투약 인정' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/50d3182ddef790fa7884af29b2a2cbbcd032f8ed7e63f0c83c68d57b89b152ae0b11a6c010737ecb8e32b5d0b069376dc60bd86972adff96113046c12613f412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/L_DVR</link>
+            <guid>http://newstapa.org/article/L_DVR</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['녹조 라떼'로 키운 채소에서 발암물질 독소 검출 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/62leg</link>
             <guid>http://newstapa.org/article/62leg</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Sat, 02 Jan 2021 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[녹색강의 습격]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/02151313-A44E-8593-206B-CC9AI84BM7CARMFMJW6Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로젝트 1.5°C : 고장난 배출권 거래제... 온실가스 내뿜고 돈 번 기업들 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/eRQBR</link>
-            <guid>http://newstapa.org/article/eRQBR</guid>
-            <pubDate>Mon, 11 Jan 2021 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 1.5°C : 고장난 배출권 거래제... 온실가스 내뿜고 돈 번 기업들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/11173533-8032-5988-9FB7-V182J0459XYMF15IBPNW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[총장님의 폭행을 신고했더니 생긴 일 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/14162806-44F0-2A68-3E5E-VEZ8SQ7RY5GSJR06S5DH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/L_DVR</link>
+            <guid>http://newstapa.org/article/L_DVR</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['녹조 라떼'로 키운 채소에서 발암물질 독소 검출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/62leg</link>
             <guid>http://newstapa.org/article/62leg</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Tue, 26 Jan 2021 00:01:00 GMT</pubDate>
             <content:encoded><![CDATA["세월호 항적 2개 있었다?"...사참위, '또 부실조사']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/01/25173110-E4C8-2C4D-18B2-CL7J04G2DSG40L2ONIH4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월호 특수단 수사가 남긴 것... '풀지 못한 모순'과 '사참위 낙제 성적표' (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/znit6</link>
-            <guid>http://newstapa.org/article/znit6</guid>
-            <pubDate>Thu, 21 Jan 2021 00:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[세월호 특수단 수사가 남긴 것... '풀지 못한 모순'과 '사참위 낙제 성적표']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/01/21180456-7B2C-7E12-3813-M4L3Y5YUX9ZI3DJX1N2K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[총장님의 폭행을 신고했더니 생긴 일 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2615,6 +2615,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라" (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/L_DVR</link>
+            <guid>https://www.newstapa.org/article/L_DVR</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 대법원, 영풍 석포제련소 '조업정지 10일' 결정 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/fJNdi</link>
             <guid>https://www.newstapa.org/article/fJNdi</guid>
@@ -2733,14 +2741,6 @@
             <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.22]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/22161919-AFAF-56F3-008D-22M5WIJ0QBL94PS9YGLD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '배달사고' 고 김은범 군 유족, 업주 상대 민사소송 '승소' (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/HHRRy</link>
-            <guid>https://www.newstapa.org/article/HHRRy</guid>
-            <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.03.03]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/03100231-B0F9-EE8D-A242-FJYZEFW5C4ELDH0YE6SX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대학생탐사공모] '상도동 이야기' 2부. 도시의 끝자락으로 (뉴스타파 ─ 참여)]]></title>

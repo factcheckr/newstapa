@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 05:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 06:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></title>
+            <link>https://www.newstapa.org/article/L_DVR</link>
+            <guid>https://www.newstapa.org/article/L_DVR</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 대법원, 영풍 석포제련소 '조업정지 10일' 결정]]></title>
             <link>https://www.newstapa.org/article/fJNdi</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.03.22]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/22161919-AFAF-56F3-008D-22M5WIJ0QBL94PS9YGLD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '배달사고' 고 김은범 군 유족, 업주 상대 민사소송 '승소']]></title>
-            <link>https://www.newstapa.org/article/HHRRy</link>
-            <guid>https://www.newstapa.org/article/HHRRy</guid>
-            <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.03.03]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/03100231-B0F9-EE8D-A242-FJYZEFW5C4ELDH0YE6SX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
