@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말]]></title>
+            <link>http://newstapa.org/article/5YssY</link>
+            <guid>http://newstapa.org/article/5YssY</guid>
+            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/21094953-E998-3715-CC24-RFW07E8OVFHSB1KE9O46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[총장님의 폭행을 신고했더니 생긴 일]]></title>
             <link>http://newstapa.org/article/9HgqF</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 28 Jan 2021 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[국정원, 탈북자 간첩사건 조사 후 '규정 위반 없었다' 결론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/28150549-B3DD-3644-5E23-4C83ER6LNA4NZAIWWBI5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기호일보 한창원 사장, 이번엔 '근로기준법 위반'...검찰 '기소유예']]></title>
-            <link>http://newstapa.org/article/8tDmp</link>
-            <guid>http://newstapa.org/article/8tDmp</guid>
-            <pubDate>Thu, 14 Jan 2021 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[기호일보 한창원 사장, 이번엔 '근로기준법 위반'...검찰 '기소유예']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/14162806-44F0-2A68-3E5E-VEZ8SQ7RY5GSJR06S5DH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

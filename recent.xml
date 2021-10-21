@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 02:07:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 03:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말]]></title>
+            <link>http://newstapa.org/article/5YssY</link>
+            <guid>http://newstapa.org/article/5YssY</guid>
+            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/21094953-E998-3715-CC24-RFW07E8OVFHSB1KE9O46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야"]]></title>
             <link>http://newstapa.org/article/SB5xQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[How to Abuse Hong Kong Shell Company: a Korean Businessman's Telltale]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12165404-43E6-2579-FB80-SPPQ01DF2WS087QXVEQ3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pandora's Box is Open: the Biggest Leak of Tax Haven files]]></title>
-            <link>http://newstapa.org/article/gJ5w_</link>
-            <guid>http://newstapa.org/article/gJ5w_</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Pandora's Box is Open: the Biggest Leak of Tax Haven files]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12165312-4724-FD8F-1E34-QVISQJDYCAXKQD6WY49O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
