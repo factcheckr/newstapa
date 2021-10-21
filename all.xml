@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/iKeHK</link>
+            <guid>http://newstapa.org/article/iKeHK</guid>
+            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/21130151-6441-CCB3-FA9A-INZCBOIY8JMC7OLKV2O9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5YssY</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[K-Pop Mogul Lee Soo-man's Alleged Connection to Hong Kong Shell Companies]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12165339-62F0-BD9E-EF4E-ADWXWHKVE12PZH7G8U02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How to Abuse Hong Kong Shell Company: a Korean Businessman's Telltale (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kMImp</link>
-            <guid>http://newstapa.org/article/kMImp</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[How to Abuse Hong Kong Shell Company: a Korean Businessman's Telltale]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12165404-43E6-2579-FB80-SPPQ01DF2WS087QXVEQ3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/02151313-A44E-8593-206B-CC9AI84BM7CARMFMJW6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/iKeHK</link>
+            <guid>http://newstapa.org/article/iKeHK</guid>
+            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/21140333-5A3F-B425-CA66-1DQT8TJ8NKNTU5MFERS9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/5YssY</link>
             <guid>http://newstapa.org/article/5YssY</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 07 Jan 2021 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[[대학생탐사공모] '상도동 이야기' 1부. 내몰린 사람들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/07191004-5DB8-A27B-7B18-IM0NCDZXD80CZIN8262Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국정원, 탈북자 간첩사건 조사 후 '규정 위반 없었다' 결론 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/K1hoV</link>
-            <guid>http://newstapa.org/article/K1hoV</guid>
-            <pubDate>Thu, 28 Jan 2021 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[국정원, 탈북자 간첩사건 조사 후 '규정 위반 없었다' 결론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/28150549-B3DD-3644-5E23-4C83ER6LNA4NZAIWWBI5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
