@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 08:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 09:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prosecutors launch an investigation into Samsung chief Lee Jae-yong's shell company and its Swiss account]]></title>
+            <link>http://newstapa.org/article/lMmOv</link>
+            <guid>http://newstapa.org/article/lMmOv</guid>
+            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Prosecutors launch an investigation into Samsung chief Lee Jae-yong's shell company and its Swiss account]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/22154050-7ECE-3026-7E64-ZDODD22IYA3BE5YHT1RG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수]]></title>
             <link>http://newstapa.org/article/2_O7a</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['불법 없다'던 삼성 이재용, 재판에선 '프로포폴 41회 불법 투약 인정']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12174107-14EA-10E6-4637-ETQQELJ7932Y77N87BAC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Soo-man's Purchase of a Malibu Villa (feat. Shell Company)]]></title>
-            <link>http://newstapa.org/article/KJKyH</link>
-            <guid>http://newstapa.org/article/KJKyH</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Lee Soo-man's Purchase of a Malibu Villa (feat. Shell Company)]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12165244-34C7-BD6B-136D-P5MLEA39TVFNQLT7T3FV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
