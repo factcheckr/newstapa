@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 08:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제]]></title>
+            <link>http://newstapa.org/article/LG398</link>
+            <guid>http://newstapa.org/article/LG398</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25170707-3C7B-EA82-5A85-ML8FPS8J1QH0Z73F129U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></title>
+            <link>http://newstapa.org/article/ULW9Q</link>
+            <guid>http://newstapa.org/article/ULW9Q</guid>
+            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25160721-B562-1225-A4DC-21EG76E6PG3TZMVEVC0I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prosecutors launch an investigation into Samsung chief Lee Jae-yong's shell company and its Swiss account]]></title>
             <link>http://newstapa.org/article/lMmOv</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Samsung Lee Jae-yong’s Shell Company Identified for the First Time]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/14143818-BD87-0F34-4A51-NJ0WRF94RE227EBQXEBZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 황기철 보훈처장 "죄송하다"... 전현희 권익위원장 "공무원행동강령 위반 검토하겠다"]]></title>
-            <link>http://newstapa.org/article/1CAJ-</link>
-            <guid>http://newstapa.org/article/1CAJ-</guid>
-            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 황기철 보훈처장 "죄송하다"... 전현희 권익위원장 "공무원행동강령 위반 검토하겠다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/13103823-E55C-4077-6B75-M31WNZGPVBQNC135MXP5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불법 없다'던 삼성 이재용, 재판에선 '프로포폴 41회 불법 투약 인정']]></title>
-            <link>http://newstapa.org/article/MfEoX</link>
-            <guid>http://newstapa.org/article/MfEoX</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['불법 없다'던 삼성 이재용, 재판에선 '프로포폴 41회 불법 투약 인정']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12174107-14EA-10E6-4637-ETQQELJ7932Y77N87BAC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
