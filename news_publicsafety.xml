@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 05:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 06:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[텔레그램 마약방] ⑤ 끝나지 않은 마약상 추적... 마약상 '청담' 실체도 확인]]></title>
+            <link>http://newstapa.org/article/cBG81</link>
+            <guid>http://newstapa.org/article/cBG81</guid>
+            <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[텔레그램 마약방] ⑤ 끝나지 않은 마약상 추적... 마약상 '청담' 실체도 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/26171912-11BF-6D20-EF98-NX8AJYZ8WD1IHP14HUDI.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></title>
             <link>http://newstapa.org/article/L_DVR</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 05 Jan 2021 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[[텔레그램 마약방] ④ "내가 ‘마약왕 박왕열’ 상선"...'마약 네트워크' 추적기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/05160821-0B15-C85E-71EF-QG2QKGN8R10WNMCCYCUP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["세월호 항적 2개 있었다?"...사참위, '또 부실조사']]></title>
-            <link>http://newstapa.org/article/1LtW9</link>
-            <guid>http://newstapa.org/article/1LtW9</guid>
-            <pubDate>Tue, 26 Jan 2021 00:01:00 GMT</pubDate>
-            <content:encoded><![CDATA["세월호 항적 2개 있었다?"...사참위, '또 부실조사']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/01/25173110-E4C8-2C4D-18B2-CL7J04G2DSG40L2ONIH4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
