@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-10-28T00:39:28.554Z</updated>
+    <updated>2021-10-28T01:56:17.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89188979</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89188979"/>
+        <updated>2021-10-28T01:56:16.353Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89188979"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/Ga993/btri6oCfdVF/EMzjoKJn8Z14lsC9Gjpitk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">코로나19 국민성금 노린 재향군인회의 불법계약</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/89041517</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/88653396"/>
         <updated>2021-10-27T20:22:16.955Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88653396"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/lpqdk/btrisMKdNdO/xUV0UvqbsCsC7c287kYLS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/88640873</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/88640873"/>
-        <updated>2021-10-27T20:22:16.956Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88640873"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/c0NXcP/btrisL42EX7/VL3q0L6LfldRNr7QHkinn1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
