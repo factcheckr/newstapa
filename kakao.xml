@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-10-28T05:13:05.835Z</updated>
+    <updated>2021-10-28T06:16:15.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89197021</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89197021"/>
+        <updated>2021-10-28T06:16:14.610Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89197021"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/vqoD3/btri5j3a233/9H3t4jIspIdmhs6Bg0Abl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/89188979</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/88667024"/>
         <updated>2021-10-27T20:22:16.953Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88667024"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/xaZeE/btripFkRw3k/dKxGVbFpShiqAIZK5CmrJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/88653396</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/88653396"/>
-        <updated>2021-10-27T20:22:16.955Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88653396"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/lpqdk/btrisMKdNdO/xUV0UvqbsCsC7c287kYLS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

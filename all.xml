@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 05:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 06:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5inTF</link>
+            <guid>http://newstapa.org/article/5inTF</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28130348-C796-71E4-FCF4-2N7PNYTFHA5RHS8ZCDML.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/6rM7L</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보훈처의 기부금 비리... 31억 보훈성금 유령회사로 빠져간 것도 몰랐다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15160238-76E6-75A4-FEEC-M0LJ9M31NFWCIPDOHJSW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ckJPy</link>
-            <guid>http://newstapa.org/article/ckJPy</guid>
-            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15080914-5824-FB30-2967-HLK9F23O2UZM2IFKLTTF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -525,7 +525,7 @@
             <guid>http://newstapa.org/article/MDN2j</guid>
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/26131734-74D0-F214-4704-Y1EDM6RXXY82XRVGFKCW.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28151400-F149-6233-3028-QRXHWLJUSSZ96JMJM1R7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재용·홍라희 모자 40억 기부금 추적기 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/03151209-9804-4B00-4EEC-0807W9K6IYVBIACYPVCW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/5inTF</link>
+            <guid>http://newstapa.org/article/5inTF</guid>
+            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28130348-C796-71E4-FCF4-2N7PNYTFHA5RHS8ZCDML.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/2_O7a</link>
             <guid>http://newstapa.org/article/2_O7a</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA['K-Pop 대부' 이수만 관련 홍콩 페이퍼컴퍼니 무더기 발견]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004104-FDBC-C166-ED5A-KQIDT9Q7WMGACHZJZZBV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이수만과 유령법인의 말리부 별장 ‘매매 콜라보’ (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/c1tBx</link>
-            <guid>http://newstapa.org/article/c1tBx</guid>
-            <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수만과 유령법인의 말리부 별장 ‘매매 콜라보’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04012304-ABF8-BA65-2FF3-YJY19KDVX3YOL7FK65TK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가? (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/89197021</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/89197021</guid>
+            <pubDate>Thu, 28 Oct 2021 06:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89197021"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/vqoD3/btri5j3a233/9H3t4jIspIdmhs6Bg0Abl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/89188979</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/89188979</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/88667024</guid>
             <pubDate>Wed, 27 Oct 2021 20:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/88667024"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/xaZeE/btripFkRw3k/dKxGVbFpShiqAIZK5CmrJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/88653396</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/88653396</guid>
-            <pubDate>Wed, 27 Oct 2021 20:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/88653396"><span class="thume_item" style="background-image: url(&quot;http://scrap.kakaocdn.net/dn/lpqdk/btrisMKdNdO/xUV0UvqbsCsC7c287kYLS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">나의 참혹한 대한민국 : 범죄자가 된 성폭력 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
