@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-04T00:39:52.423Z</updated>
+    <updated>2021-11-04T01:59:41.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89679238</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89679238"/>
+        <updated>2021-11-04T01:59:40.932Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89679238"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/w41wg/btrjPEdStv6/NuGnsYqtvQOr6pRe1oyd31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 폐기물과 기자, 그리고 공무원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/89197021</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/88737414"/>
         <updated>2021-10-27T20:22:16.952Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88737414"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OQ8QY/btrivBXrqus/YQ2uKK4yJf3DFwMHfZY8k0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장 기업 삼성과 언론은 '깐부'잖아. 조세도피처 전문 기자가 말합니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/88667024</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/88667024"/>
-        <updated>2021-10-27T20:22:16.953Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88667024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/xaZeE/btripFkRw3k/dKxGVbFpShiqAIZK5CmrJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 00:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 01:59:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석탄재 폐기물과 기자, 그리고 공무원 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/VdC5p</link>
+            <guid>http://newstapa.org/article/VdC5p</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/03164615-04BF-C3F9-BBF2-MA8K861K7V48K8BPIQ8T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5inTF</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 대법원, 영풍 석포제련소 '조업정지 10일' 결정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15174538-66A0-2E84-EFB6-PMZRZCYU6C7D4E0T0ORJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보훈처의 기부금 비리... 31억 보훈성금 유령회사로 빠져간 것도 몰랐다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/98IW3</link>
-            <guid>http://newstapa.org/article/98IW3</guid>
-            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보훈처의 기부금 비리... 31억 보훈성금 유령회사로 빠져간 것도 몰랐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15160238-76E6-75A4-FEEC-M0LJ9M31NFWCIPDOHJSW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/50d3182ddef790fa7884af29b2a2cbbcd032f8ed7e63f0c83c68d57b89b152ae0b11a6c010737ecb8e32b5d0b069376dc60bd86972adff96113046c12613f412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[석탄재 폐기물과 기자, 그리고 공무원 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/VdC5p</link>
+            <guid>http://newstapa.org/article/VdC5p</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/03164615-04BF-C3F9-BBF2-MA8K861K7V48K8BPIQ8T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/L_DVR</link>
             <guid>http://newstapa.org/article/L_DVR</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 15 Jan 2021 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[GTX와 기울어진 아파트, 도심 터널의 잠재적 위험]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/15160420-EFC7-FED7-51F7-UFCQ63HKXX79RU6993EI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[녹색강의 습격 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/wZH3t</link>
-            <guid>http://newstapa.org/article/wZH3t</guid>
-            <pubDate>Sat, 02 Jan 2021 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[녹색강의 습격]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/02151313-A44E-8593-206B-CC9AI84BM7CARMFMJW6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004104-FDBC-C166-ED5A-KQIDT9Q7WMGACHZJZZBV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[석탄재 폐기물과 기자, 그리고 공무원 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/VdC5p</link>
+            <guid>http://newstapa.org/article/VdC5p</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/03164615-04BF-C3F9-BBF2-MA8K861K7V48K8BPIQ8T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가? (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/ULW9Q</link>
             <guid>http://newstapa.org/article/ULW9Q</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 26 Jan 2021 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 언론이 만든 '치외법권' 희망브리지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/26145746-392B-B9AA-61A9-M0ZJ8XUFR9L2N9GAYNNS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기호일보 한창원 사장, 이번엔 '근로기준법 위반'...검찰 '기소유예' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/8tDmp</link>
-            <guid>http://newstapa.org/article/8tDmp</guid>
-            <pubDate>Thu, 14 Jan 2021 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[기호일보 한창원 사장, 이번엔 '근로기준법 위반'...검찰 '기소유예']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/14162806-44F0-2A68-3E5E-VEZ8SQ7RY5GSJR06S5DH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판도라 페이퍼스 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[석탄재 폐기물과 기자, 그리고 공무원 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/89679238</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/89679238</guid>
+            <pubDate>Thu, 04 Nov 2021 01:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89679238"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/w41wg/btrjPEdStv6/NuGnsYqtvQOr6pRe1oyd31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 폐기물과 기자, 그리고 공무원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/89197021</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/89197021</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/88737414</guid>
             <pubDate>Wed, 27 Oct 2021 20:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/88737414"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OQ8QY/btrivBXrqus/YQ2uKK4yJf3DFwMHfZY8k0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장 기업 삼성과 언론은 '깐부'잖아. 조세도피처 전문 기자가 말합니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/88667024</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/88667024</guid>
-            <pubDate>Wed, 27 Oct 2021 20:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/88667024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/xaZeE/btripFkRw3k/dKxGVbFpShiqAIZK5CmrJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
