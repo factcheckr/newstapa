@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-09T08:17:19.392Z</updated>
+    <updated>2021-11-09T09:14:22.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89876165</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89876165"/>
+        <updated>2021-11-09T09:14:21.861Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89876165"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/IZ97R/btrknWLeqZJ/0JAAk67vqIwUsVGMs7kbg0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피해자 보호 외면한 경찰과 출입국 관리사무소, 추가 정황 확인]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/89876130</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/89041517"/>
         <updated>2021-10-27T20:22:16.950Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89041517"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ig3CJ/btriYoV373y/V7Ijs3ZtIU4LvV3x4SPFi0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/88968877</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/88968877"/>
-        <updated>2021-10-27T20:22:16.952Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88968877"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/6WSlY/btriSJTr5Bc/FkYnwQhKWKeER0qhkNkQg0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
