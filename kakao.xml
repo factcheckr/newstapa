@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-09T07:14:56.601Z</updated>
+    <updated>2021-11-09T08:17:19.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피해자 보호 외면한 경찰과 출입국 관리사무소, 추가 정황 확인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89876130</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89876130"/>
+        <updated>2021-11-09T08:17:18.680Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89876130"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bMtZZ8/btrkjWkV3CF/uX82bF5jw3zATVjVOT0lek/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피해자 보호 외면한 경찰과 출입국 관리사무소, 추가 정황 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/89679238</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/88968877"/>
         <updated>2021-10-27T20:22:16.952Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88968877"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/6WSlY/btriSJTr5Bc/FkYnwQhKWKeER0qhkNkQg0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장 기업 삼성과 언론은 '깐부'잖아. 조세도피처 전문 기자가 말합니다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/88737414</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/88737414"/>
-        <updated>2021-10-27T20:22:16.952Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/88737414"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OQ8QY/btrivBXrqus/YQ2uKK4yJf3DFwMHfZY8k0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장 기업 삼성과 언론은 '깐부'잖아. 조세도피처 전문 기자가 말합니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
