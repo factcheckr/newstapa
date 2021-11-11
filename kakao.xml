@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-11T00:39:58.012Z</updated>
+    <updated>2021-11-11T01:57:24.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파 국제 협업취재물, 미국 '나이트 공익 보도 어워드' 최종후보작 선정]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89932791</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89932791"/>
+        <updated>2021-11-11T01:57:23.633Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89932791"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/boZgV7/btrkqsYtVOB/bt019Fw1M8qhEoWuK4LUEK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 국제 협업취재물, 미국 '나이트 공익 보도 어워드' 최종후보작 선정</span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89931592</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89931592"/>
+        <updated>2021-11-11T01:57:23.635Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89931592"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d5ejZn/btrkw33WYzu/nFlscWKmOkJYVgXZp8IHd1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 사업에 뛰어든 기자...토호세력과 검은 돈</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/89876165</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/89197021"/>
         <updated>2021-10-28T06:16:14.610Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89197021"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vqoD3/btri5j3a233/9H3t4jIspIdmhs6Bg0Abl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/89188979</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/89188979"/>
-        <updated>2021-10-28T01:56:16.353Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89188979"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Ga993/btri6oCfdVF/EMzjoKJn8Z14lsC9Gjpitk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">코로나19 국민성금 노린 재향군인회의 불법계약</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/89041517</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/89041517"/>
-        <updated>2021-10-27T20:22:16.950Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89041517"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ig3CJ/btriYoV373y/V7Ijs3ZtIU4LvV3x4SPFi0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
