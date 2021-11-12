@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 01:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 02:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/FaQfy</link>
+            <guid>http://newstapa.org/article/FaQfy</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12095744-009F-760F-8D96-O4YWLA4WAGLU3RCWHWBY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/GbHde</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20145912-FE4D-07A7-FB16-AG0PVDML7LCDYF4W5TM4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/L_DVR</link>
-            <guid>http://newstapa.org/article/L_DVR</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/10144523-C1BB-310B-DAF6-E3P4K9LG0AN3W2XYZIQA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/FaQfy</link>
+            <guid>http://newstapa.org/article/FaQfy</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12095744-009F-760F-8D96-O4YWLA4WAGLU3RCWHWBY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[텔레그램 마약방] ⑤ 끝나지 않은 마약상 추적... 마약상 '청담' 실체도 확인 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/cBG81</link>
             <guid>http://newstapa.org/article/cBG81</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Sat, 02 Jan 2021 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[녹색강의 습격]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/02151313-A44E-8593-206B-CC9AI84BM7CARMFMJW6Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[텔레그램 마약방] ④ "내가 ‘마약왕 박왕열’ 상선"...'마약 네트워크' 추적기 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/iUEGY</link>
-            <guid>http://newstapa.org/article/iUEGY</guid>
-            <pubDate>Tue, 05 Jan 2021 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텔레그램 마약방] ④ "내가 ‘마약왕 박왕열’ 상선"...'마약 네트워크' 추적기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/05160821-0B15-C85E-71EF-QG2QKGN8R10WNMCCYCUP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/89961297</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/89961297</guid>
+            <pubDate>Fri, 12 Nov 2021 02:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89961297"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g0iGQ/btrkyQ6oJDW/6up0D51E58PJEtDfgPYkBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파 국제 협업취재물, 미국 '나이트 공익 보도 어워드' 최종후보작 선정 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/89932791</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/89932791</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/89679238</guid>
             <pubDate>Thu, 04 Nov 2021 01:59:40 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89679238"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/w41wg/btrjPEdStv6/NuGnsYqtvQOr6pRe1oyd31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 폐기물과 기자, 그리고 공무원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/89197021</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/89197021</guid>
-            <pubDate>Thu, 28 Oct 2021 06:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89197021"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vqoD3/btri5j3a233/9H3t4jIspIdmhs6Bg0Abl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
