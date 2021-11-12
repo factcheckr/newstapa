@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-12T06:16:53.268Z</updated>
+    <updated>2021-11-12T07:16:01.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/89985144</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/89985144"/>
+        <updated>2021-11-12T07:16:01.220Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89985144"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wod9X/btrkHpsmibC/RQCkjylhdgwti0cXkhdgBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/89961297</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/89876130"/>
         <updated>2021-11-09T08:17:18.680Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89876130"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bMtZZ8/btrkjWkV3CF/uX82bF5jw3zATVjVOT0lek/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피해자 보호 외면한 경찰과 출입국 관리사무소, 추가 정황 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/89679238</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/89679238"/>
-        <updated>2021-11-04T01:59:40.932Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89679238"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/w41wg/btrjPEdStv6/NuGnsYqtvQOr6pRe1oyd31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 폐기물과 기자, 그리고 공무원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
