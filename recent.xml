@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></title>
+            <link>http://newstapa.org/article/a8uRJ</link>
+            <guid>http://newstapa.org/article/a8uRJ</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지]]></title>
             <link>http://newstapa.org/article/DR1Df</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25160721-B562-1225-A4DC-21EG76E6PG3TZMVEVC0I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prosecutors launch an investigation into Samsung chief Lee Jae-yong's shell company and its Swiss account]]></title>
-            <link>http://newstapa.org/article/lMmOv</link>
-            <guid>http://newstapa.org/article/lMmOv</guid>
-            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Prosecutors launch an investigation into Samsung chief Lee Jae-yong's shell company and its Swiss account]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/22154050-7ECE-3026-7E64-ZDODD22IYA3BE5YHT1RG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

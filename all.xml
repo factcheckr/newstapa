@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/a8uRJ</link>
+            <guid>http://newstapa.org/article/a8uRJ</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/DR1Df</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25160721-B562-1225-A4DC-21EG76E6PG3TZMVEVC0I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prosecutors launch an investigation into Samsung chief Lee Jae-yong's shell company and its Swiss account (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/lMmOv</link>
-            <guid>http://newstapa.org/article/lMmOv</guid>
-            <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Prosecutors launch an investigation into Samsung chief Lee Jae-yong's shell company and its Swiss account]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/22154050-7ECE-3026-7E64-ZDODD22IYA3BE5YHT1RG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/16140329-5FBA-A109-1D76-FW1P5OX6MH1DB7GBDZEM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/a8uRJ</link>
+            <guid>http://newstapa.org/article/a8uRJ</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피해자 보호 외면한 경찰과 출입국 관리사무소, 추가 정황 확인 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/aF5D3</link>
             <guid>http://newstapa.org/article/aF5D3</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Sun, 17 Jan 2021 00:06:00 GMT</pubDate>
             <content:encoded><![CDATA[택배 ‘사장님’이 노조 가입을 권유하는 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/17130726-6F32-0C4D-6DD3-82BHSFY2A6VT47DCHXPZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부에게: "나는 간첩이 아닙니다" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/ieQsS</link>
-            <guid>http://newstapa.org/article/ieQsS</guid>
-            <pubDate>Sun, 10 Jan 2021 00:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[문재인 정부에게: "나는 간첩이 아닙니다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/10144523-C1BB-310B-DAF6-E3P4K9LG0AN3W2XYZIQA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/02151313-A44E-8593-206B-CC9AI84BM7CARMFMJW6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법" (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/a8uRJ</link>
+            <guid>http://newstapa.org/article/a8uRJ</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/LG398</link>
             <guid>http://newstapa.org/article/LG398</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Wed, 16 Jan 2019 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] "병역법위반은 공익신고 아니다?"..부패신고 외면한 국민권익위]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/08/dd99d23c1db4717205ea387bb7ad9e6122de4eb29f41bfec7f8a30d5cb99c575c638742b69ed7bb65578c6727842f806f6bc88610fc3b0c629c706e0ae3b3e2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[민국100년 특별기획] 족벌사학과 세습⑧ '민족교육자'로 변신한 친일파 87명...13개교는 세습 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/xTHN6</link>
-            <guid>http://newstapa.org/article/xTHN6</guid>
-            <pubDate>Fri, 25 Jan 2019 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[민국100년 특별기획] 족벌사학과 세습⑧ '민족교육자'로 변신한 친일파 87명...13개교는 세습]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/07/4d3d2d9504279c0fc1b30fa0c247b4958ff4a7af605004d88ed72b2b10227fdc49b54579b8b37082a88ac3db8c2f08e1cc3e6beadd7f91734f8f34e645e1493e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[당신이 보지 못한 한국전쟁]③판문점...전쟁과 평화 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>

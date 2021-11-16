@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 05:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 06:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></title>
+            <link>http://newstapa.org/article/a8uRJ</link>
+            <guid>http://newstapa.org/article/a8uRJ</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제]]></title>
             <link>http://newstapa.org/article/LG398</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Jan 2019 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] "병역법위반은 공익신고 아니다?"..부패신고 외면한 국민권익위]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/08/dd99d23c1db4717205ea387bb7ad9e6122de4eb29f41bfec7f8a30d5cb99c575c638742b69ed7bb65578c6727842f806f6bc88610fc3b0c629c706e0ae3b3e2c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[민국100년 특별기획] 족벌사학과 세습⑧ '민족교육자'로 변신한 친일파 87명...13개교는 세습]]></title>
-            <link>http://newstapa.org/article/xTHN6</link>
-            <guid>http://newstapa.org/article/xTHN6</guid>
-            <pubDate>Fri, 25 Jan 2019 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[민국100년 특별기획] 족벌사학과 세습⑧ '민족교육자'로 변신한 친일파 87명...13개교는 세습]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/07/4d3d2d9504279c0fc1b30fa0c247b4958ff4a7af605004d88ed72b2b10227fdc49b54579b8b37082a88ac3db8c2f08e1cc3e6beadd7f91734f8f34e645e1493e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
