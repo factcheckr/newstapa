@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 대선 후보 관련 의혹 총정리 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/90195963</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/90195963</guid>
+            <pubDate>Tue, 16 Nov 2021 07:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90195963"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eqL9SG/btrleq5K0w6/xoukPKgxk2ZDiFEU4W6svK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대선 후보 관련 의혹 총정리</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대장동 남욱 빚 2600억 원, 예금보험공사는 안 찾았나 못 찾았나 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/89986276</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/89986276</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/89961297</guid>
             <pubDate>Fri, 12 Nov 2021 02:30:01 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89961297"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g0iGQ/btrkyQ6oJDW/6up0D51E58PJEtDfgPYkBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 국제 협업취재물, 미국 '나이트 공익 보도 어워드' 최종후보작 선정 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/89932791</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/89932791</guid>
-            <pubDate>Thu, 11 Nov 2021 01:57:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89932791"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/boZgV7/btrkqsYtVOB/bt019Fw1M8qhEoWuK4LUEK/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 국제 협업취재물, 미국 '나이트 공익 보도 어워드' 최종후보작 선정</span></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
