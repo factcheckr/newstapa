@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 01:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 02:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[석탄재 페기물 이권에 뛰어든 또 다른 언론인 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/yetgt</link>
+            <guid>http://newstapa.org/article/yetgt</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[석탄재 페기물 이권에 뛰어든 또 다른 언론인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/18103112-8B0B-A316-0656-B8JLKQK9BW2VQN16A8IY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/a8uRJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25170707-3C7B-EA82-5A85-ML8FPS8J1QH0Z73F129U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ULW9Q</link>
-            <guid>http://newstapa.org/article/ULW9Q</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25160721-B562-1225-A4DC-21EG76E6PG3TZMVEVC0I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004104-FDBC-C166-ED5A-KQIDT9Q7WMGACHZJZZBV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[석탄재 페기물 이권에 뛰어든 또 다른 언론인 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/yetgt</link>
+            <guid>http://newstapa.org/article/yetgt</guid>
+            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[석탄재 페기물 이권에 뛰어든 또 다른 언론인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/18103112-8B0B-A316-0656-B8JLKQK9BW2VQN16A8IY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/6Re-x</link>
             <guid>http://newstapa.org/article/6Re-x</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 12 Jan 2021 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/12114944-26B2-D231-FE3E-F7J9VV3SVMEPL0FZXEIF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 '족벌' 플러스] 88년 언론청문회 조중동 사주 발언 전문 공개 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/N5b-P</link>
-            <guid>http://newstapa.org/article/N5b-P</guid>
-            <pubDate>Sat, 16 Jan 2021 00:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[[영화 '족벌' 플러스] 88년 언론청문회 조중동 사주 발언 전문 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/15181415-6E27-6079-975D-GW15RY6249GN6DPD1XHI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판도라 페이퍼스 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[석탄재 페기물 이권에 뛰어든 또 다른 언론인 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/90285004</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/90285004</guid>
+            <pubDate>Thu, 18 Nov 2021 02:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90285004"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yhM6I/btrlmmDcy3l/4JL4n5f6WCu0XiG6bcz6lK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 페기물 이권에 뛰어든 또 다른 언론인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 대선 후보 관련 의혹 총정리 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/90195963</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/90195963</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/89985144</guid>
             <pubDate>Fri, 12 Nov 2021 07:16:01 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89985144"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wod9X/btrkHpsmibC/RQCkjylhdgwti0cXkhdgBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/89961297</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/89961297</guid>
-            <pubDate>Fri, 12 Nov 2021 02:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89961297"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g0iGQ/btrkyQ6oJDW/6up0D51E58PJEtDfgPYkBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

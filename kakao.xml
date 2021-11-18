@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-18T01:57:06.658Z</updated>
+    <updated>2021-11-18T02:29:05.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[석탄재 페기물 이권에 뛰어든 또 다른 언론인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90285004</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90285004"/>
+        <updated>2021-11-18T02:29:04.967Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90285004"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yhM6I/btrlmmDcy3l/4JL4n5f6WCu0XiG6bcz6lK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 페기물 이권에 뛰어든 또 다른 언론인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대선 후보 관련 의혹 총정리]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90195963</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/89985144"/>
         <updated>2021-11-12T07:16:01.220Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89985144"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wod9X/btrkHpsmibC/RQCkjylhdgwti0cXkhdgBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/89961297</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/89961297"/>
-        <updated>2021-11-12T02:30:01.171Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89961297"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g0iGQ/btrkyQ6oJDW/6up0D51E58PJEtDfgPYkBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">사참위-KBS가 띄운 '세월호 잠수함 충돌설'...학계 "근거 부실" 혹평</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
