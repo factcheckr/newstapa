@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-18T08:16:14.137Z</updated>
+    <updated>2021-11-18T09:14:50.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90307467</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90307467"/>
+        <updated>2021-11-18T09:14:49.575Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90307467"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hCCVi/btrlyjxJOA2/FDABnfedvpd0x3Wz5eyQvk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[석탄재 폐기물 이권에 뛰어든 또 다른 언론인]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90285004</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/89986058"/>
         <updated>2021-11-12T08:16:51.686Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89986058"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/belHQr/btrkHJjYhGJ/RExYikBL3DkcHCwSNKGoK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/89985144</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/89985144"/>
-        <updated>2021-11-12T07:16:01.220Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89985144"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wod9X/btrkHpsmibC/RQCkjylhdgwti0cXkhdgBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
