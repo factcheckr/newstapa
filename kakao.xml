@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-19T04:17:49.307Z</updated>
+    <updated>2021-11-19T05:13:38.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세월호 참사 진상 규명이 더딘 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90347348</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90347348"/>
+        <updated>2021-11-19T05:13:37.588Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90347348"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bxk1z3/btrlyjZTqSD/BjUsAfyLsCHlLhRq4KU7a0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세월호 참사 진상 규명이 더딘 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90307467</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/89986133"/>
         <updated>2021-11-12T08:16:51.685Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89986133"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/biAE9w/btrkHLhL6wd/BEgPugU2V1SRnRwqz1jNok/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 머니, 쌍방울 전 대표에게로...'주가조작' 전 부사장도 연루</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/89986058</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/89986058"/>
-        <updated>2021-11-12T08:16:51.686Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89986058"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/belHQr/btrkHJjYhGJ/RExYikBL3DkcHCwSNKGoK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
