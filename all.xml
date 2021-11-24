@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 00:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 01:57:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 언론사 포럼 행정심판 : 상식을 뒤집는 공공기관들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NdqCu</link>
+            <guid>http://newstapa.org/article/NdqCu</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 언론사 포럼 행정심판 : 상식을 뒤집는 공공기관들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/23173909-263F-79A9-8BE7-FLGO9JM93HPMSA4RX5S8.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/59Tif</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 27 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[텔레그램 마약방] ⑤ 끝나지 않은 마약상 추적... 마약상 '청담' 실체도 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28152159-73AB-7FBE-F6D6-XHQ285JUOZ8Z6N6X9ANC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/MDN2j</link>
-            <guid>http://newstapa.org/article/MDN2j</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28151400-F149-6233-3028-QRXHWLJUSSZ96JMJM1R7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004104-FDBC-C166-ED5A-KQIDT9Q7WMGACHZJZZBV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 언론사 포럼 행정심판 : 상식을 뒤집는 공공기관들 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/NdqCu</link>
+            <guid>http://newstapa.org/article/NdqCu</guid>
+            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 언론사 포럼 행정심판 : 상식을 뒤집는 공공기관들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/23173909-263F-79A9-8BE7-FLGO9JM93HPMSA4RX5S8.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[석탄재 폐기물 이권에 뛰어든 또 다른 언론인 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/yetgt</link>
             <guid>http://newstapa.org/article/yetgt</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Wed, 13 Jan 2021 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[최저임금 올리면 고용 쇼크? 전경련과 언론의 합작 꼼수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/13172109-2602-896C-1F0A-8WZGL6WGK6QCULCURM6H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/aBBIY</link>
-            <guid>http://newstapa.org/article/aBBIY</guid>
-            <pubDate>Tue, 12 Jan 2021 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/12114944-26B2-D231-FE3E-F7J9VV3SVMEPL0FZXEIF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판도라 페이퍼스 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정보를 숨기는 공공기관들을 심판했습니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/90465982</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/90465982</guid>
+            <pubDate>Wed, 24 Nov 2021 01:57:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90465982"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/csO9Lc/btrlY4H1zRq/NUknW4BW2lYhhQLRYjM91K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정보를 숨기는 공공기관들을 심판했습니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세월호 참사 진상 규명이 더딘 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/90347348</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/90347348</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/89986276</guid>
             <pubDate>Fri, 12 Nov 2021 08:16:51 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89986276"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/elTezu/btrkFNnpKTq/NYHXHyJcrNBgBcIcRRbsqk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 남욱 빚 2600억 원, 예금보험공사는 안 찾았나 못 찾았나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대장동 머니, 쌍방울 전 대표에게로...'주가조작' 전 부사장도 연루 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/89986133</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/89986133</guid>
-            <pubDate>Fri, 12 Nov 2021 08:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89986133"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/biAE9w/btrkHLhL6wd/BEgPugU2V1SRnRwqz1jNok/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 머니, 쌍방울 전 대표에게로...'주가조작' 전 부사장도 연루</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
