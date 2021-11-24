@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 13:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 14:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['변호사비 의혹' 기업인들, 이재명 후보에 고액 후원 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/90496067</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/90496067</guid>
+            <pubDate>Wed, 24 Nov 2021 14:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90496067"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4mgIW/btrl43aNGAV/VA5RtEImLwHsr6oGbpvsLK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'변호사비 의혹' 기업인들, 이재명 후보에 고액 후원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정보를 숨기는 공공기관들을 심판했습니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/90465982</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/90465982</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/90195963</guid>
             <pubDate>Tue, 16 Nov 2021 07:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90195963"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eqL9SG/btrleq5K0w6/xoukPKgxk2ZDiFEU4W6svK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대선 후보 관련 의혹 총정리</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대장동 남욱 빚 2600억 원, 예금보험공사는 안 찾았나 못 찾았나 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/89986276</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/89986276</guid>
-            <pubDate>Fri, 12 Nov 2021 08:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/89986276"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/elTezu/btrkFNnpKTq/NYHXHyJcrNBgBcIcRRbsqk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 남욱 빚 2600억 원, 예금보험공사는 안 찾았나 못 찾았나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

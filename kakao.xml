@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-24T13:21:29.479Z</updated>
+    <updated>2021-11-24T14:14:08.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['변호사비 의혹' 기업인들, 이재명 후보에 고액 후원]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90496067</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90496067"/>
+        <updated>2021-11-24T14:14:07.775Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90496067"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4mgIW/btrl43aNGAV/VA5RtEImLwHsr6oGbpvsLK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'변호사비 의혹' 기업인들, 이재명 후보에 고액 후원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정보를 숨기는 공공기관들을 심판했습니다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90465982</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90195963"/>
         <updated>2021-11-16T07:14:21.096Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90195963"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eqL9SG/btrleq5K0w6/xoukPKgxk2ZDiFEU4W6svK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대선 후보 관련 의혹 총정리</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 남욱 빚 2600억 원, 예금보험공사는 안 찾았나 못 찾았나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/89986276</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/89986276"/>
-        <updated>2021-11-12T08:16:51.684Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/89986276"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/elTezu/btrkFNnpKTq/NYHXHyJcrNBgBcIcRRbsqk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 남욱 빚 2600억 원, 예금보험공사는 안 찾았나 못 찾았나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
