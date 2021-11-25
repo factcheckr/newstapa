@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-25T09:14:43.209Z</updated>
+    <updated>2021-11-25T10:15:24.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90531374</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90531374"/>
+        <updated>2021-11-25T10:15:24.053Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90531374"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bjKSfU/btrmaoFN2Xk/ZXSNmp4SLzkfXXAbcedQS0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'전두환의 광주학살' 진실 규명 남은 과제는?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['변호사비 의혹' 기업인들, 이재명 후보에 고액 후원]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90496067</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90285004"/>
         <updated>2021-11-18T02:29:04.967Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90285004"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yhM6I/btrlmmDcy3l/4JL4n5f6WCu0XiG6bcz6lK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 폐기물 이권에 뛰어든 또 다른 언론인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대선 후보 관련 의혹 총정리]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90195963</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90195963"/>
-        <updated>2021-11-16T07:14:21.096Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90195963"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eqL9SG/btrleq5K0w6/xoukPKgxk2ZDiFEU4W6svK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대선 후보 관련 의혹 총정리</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
