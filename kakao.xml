@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-25T10:15:24.716Z</updated>
+    <updated>2021-11-25T11:13:35.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명에게 20억 전달?... 박철민 폭로 검증]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90533472</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90533472"/>
+        <updated>2021-11-25T11:13:34.814Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90533472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kr2cL/btrmbWWayrp/ZKuLgB89l6KkNlG8KIlWy0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재명에게 20억 전달?... 박철민 폭로 검증</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90531374</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90307467"/>
         <updated>2021-11-18T09:14:49.575Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90307467"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hCCVi/btrlyjxJOA2/FDABnfedvpd0x3Wz5eyQvk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[석탄재 폐기물 이권에 뛰어든 또 다른 언론인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90285004</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90285004"/>
-        <updated>2021-11-18T02:29:04.967Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90285004"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yhM6I/btrlmmDcy3l/4JL4n5f6WCu0XiG6bcz6lK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석탄재 폐기물 이권에 뛰어든 또 다른 언론인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
