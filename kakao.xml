@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-27T00:40:25.283Z</updated>
+    <updated>2021-11-27T01:55:22.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전두환 사망, 죽음은 면죄부가 아니다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90600681</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90600681"/>
+        <updated>2021-11-27T01:55:21.814Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90600681"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b0hcsv/btrmgE3ZLRS/zWMG7ZaoI5WyOOkS1ZksxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 사망, 죽음은 면죄부가 아니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금융 실격 ① 추락하는 것은 금융이 없다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90555169</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90465982"/>
         <updated>2021-11-24T01:57:24.527Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90465982"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/csO9Lc/btrlY4H1zRq/NUknW4BW2lYhhQLRYjM91K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정보를 숨기는 공공기관들을 심판했습니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세월호 참사 진상 규명이 더딘 이유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90347348</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90347348"/>
-        <updated>2021-11-19T05:13:37.588Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90347348"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bxk1z3/btrlyjZTqSD/BjUsAfyLsCHlLhRq4KU7a0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세월호 참사 진상 규명이 더딘 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
