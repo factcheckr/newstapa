@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 06:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/gN-Vn</link>
+            <guid>http://newstapa.org/article/gN-Vn</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/29142153-5E33-DC43-AAAD-FERKRSBV94IUISN0YB5G.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전두환 사망, 죽음은 면죄부가 아니다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/B-N14</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/10173640-71ED-65E5-C7BD-OI3U94FTUXY1FCAUROQV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/pYWQj</link>
-            <guid>http://newstapa.org/article/pYWQj</guid>
-            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/09170307-0689-91DE-DA73-J3C7GN7RULS71AYW6AUP.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/gN-Vn</link>
+            <guid>http://newstapa.org/article/gN-Vn</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/29142153-5E33-DC43-AAAD-FERKRSBV94IUISN0YB5G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재명에게 20억 전달?... 박철민 폭로 검증 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 06 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[누구도 답하지 못하는 공공예산 1억 원 증발 미스터리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/06113637-065D-77F6-EF90-OH29B95C0437XSMSS48A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서금회 낙하산, 공공예산으로 이승만·박정희 미화 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/O-OTp</link>
-            <guid>http://newstapa.org/article/O-OTp</guid>
-            <pubDate>Fri, 01 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[서금회 낙하산, 공공예산으로 이승만·박정희 미화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/01154515-A42C-6FFF-80B6-NVE13N5T5BR0FV8O7XJP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는? (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004104-FDBC-C166-ED5A-KQIDT9Q7WMGACHZJZZBV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은? (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/gN-Vn</link>
+            <guid>http://newstapa.org/article/gN-Vn</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/29142153-5E33-DC43-AAAD-FERKRSBV94IUISN0YB5G.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재명에게 20억 전달?... 박철민 폭로 검증 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/Ga2Kd</link>
             <guid>http://newstapa.org/article/Ga2Kd</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Wed, 06 Jan 2021 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA["세금 횡령 직원에 월급 줬다"...기호일보 전 직원의 음성파일]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/05105245-5EF3-3CB3-6675-NW2TKPLQEFU3CJ4962XF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/p0Y-i</link>
-            <guid>http://newstapa.org/article/p0Y-i</guid>
-            <pubDate>Tue, 26 Jan 2021 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/26160020-A04F-F84B-7E95-ZBI605R9U38YWQI459ZK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판도라 페이퍼스 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/90715221</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/90715221</guid>
+            <pubDate>Mon, 29 Nov 2021 06:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90715221"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b0x5al/btrmtguag7X/Kv43jfrVno3JmSWKNkhKe0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전두환 사망, 죽음은 면죄부가 아니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/90600681</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/90600681</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/90496067</guid>
             <pubDate>Wed, 24 Nov 2021 14:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90496067"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4mgIW/btrl43aNGAV/VA5RtEImLwHsr6oGbpvsLK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'변호사비 의혹' 기업인들, 이재명 후보에 고액 후원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[정보를 숨기는 공공기관들을 심판했습니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/90465982</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/90465982</guid>
-            <pubDate>Wed, 24 Nov 2021 01:57:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90465982"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/csO9Lc/btrlY4H1zRq/NUknW4BW2lYhhQLRYjM91K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정보를 숨기는 공공기관들을 심판했습니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

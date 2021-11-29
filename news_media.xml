@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 06:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></title>
+            <link>http://newstapa.org/article/gN-Vn</link>
+            <guid>http://newstapa.org/article/gN-Vn</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/29142153-5E33-DC43-AAAD-FERKRSBV94IUISN0YB5G.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명에게 20억 전달?... 박철민 폭로 검증]]></title>
             <link>http://newstapa.org/article/Ga2Kd</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 06 Jan 2021 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA["세금 횡령 직원에 월급 줬다"...기호일보 전 직원의 음성파일]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/05105245-5EF3-3CB3-6675-NW2TKPLQEFU3CJ4962XF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></title>
-            <link>http://newstapa.org/article/p0Y-i</link>
-            <guid>http://newstapa.org/article/p0Y-i</guid>
-            <pubDate>Tue, 26 Jan 2021 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/26160020-A04F-F84B-7E95-ZBI605R9U38YWQI459ZK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
