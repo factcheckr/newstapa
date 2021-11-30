@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-30T08:14:40.606Z</updated>
+    <updated>2021-11-30T09:13:21.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부 위의 정부, 기재부를 개혁해야 하는 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90786683</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90786683"/>
+        <updated>2021-11-30T09:13:20.740Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90786683"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cEuONf/btrmALgWgRD/No320SuqYnHf4lfwJjiXg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정부 위의 정부, 기재부를 개혁해야 하는 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낙동강에 카드뮴 배출한 영풍, 수십년 만에 처음으로 제재 받은 이유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90768961</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90533472"/>
         <updated>2021-11-25T11:13:34.814Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90533472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kr2cL/btrmbWWayrp/ZKuLgB89l6KkNlG8KIlWy0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재명에게 20억 전달?... 박철민 폭로 검증</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90531374</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90531374"/>
-        <updated>2021-11-25T10:15:24.053Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90531374"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bjKSfU/btrmaoFN2Xk/ZXSNmp4SLzkfXXAbcedQS0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'전두환의 광주학살' 진실 규명 남은 과제는?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
