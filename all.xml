@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 21:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 22:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/BnQlZ</link>
+            <guid>http://newstapa.org/article/BnQlZ</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/30231001-93A2-375F-BF3A-T2Y0UGFVS97W2E1DIWD6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부 위의 정부, 기재부를 개혁해야 하는 이유 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/mdRGk</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대장동 남욱 빚 2600억 원, 예금보험공사는 안 찾았나 못 찾았나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12161022-610D-362A-AB0D-MQ1C5IUOVYF0EDDA46E1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/6Re-x</link>
-            <guid>http://newstapa.org/article/6Re-x</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12154158-9876-CDDA-DE0F-L6NTQW6K1YCEBP2PNQAO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부 위의 정부, 기재부를 개혁해야 하는 이유 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/06160834-F55E-BFC7-78A0-CIPE38493D9VMV9R9PDW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/BnQlZ</link>
+            <guid>http://newstapa.org/article/BnQlZ</guid>
+            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/30231001-93A2-375F-BF3A-T2Y0UGFVS97W2E1DIWD6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는? (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/WSbFe</link>
             <guid>http://newstapa.org/article/WSbFe</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 30 Jan 2021 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[1986 김성수 의문사 ③ 지금 여기의 의문사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/30003231-DCD0-721D-CAFA-XMHOWIRJ1BYB7KW1TNDP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["김영문 관세청장 · 손영배 부장검사에 밥 샀다" 윤우진 스폰서 폭로 ② (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/bOIZd</link>
-            <guid>http://newstapa.org/article/bOIZd</guid>
-            <pubDate>Fri, 29 Jan 2021 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA["김영문 관세청장 · 손영배 부장검사에 밥 샀다" 윤우진 스폰서 폭로 ②]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/29095006-B2F3-45EC-1083-65G3L0IOT6SFMISV255I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<최초 확인> 국가보훈처 수십억대 기부금 강요...'거짓말'로 은폐 시도 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -2871,6 +2871,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/90799713</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/90799713</guid>
+            <pubDate>Tue, 30 Nov 2021 22:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90799713"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgryly/btrmALaw1kf/8EEHlmROeyPTrBcMkDVFkk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정부 위의 정부, 기재부를 개혁해야 하는 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/90786683</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/90786683</guid>
@@ -2904,13 +2911,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/90555169</guid>
             <pubDate>Fri, 26 Nov 2021 05:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90555169"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bb9AoK/btrmf5S6Xls/1Ku2FONMDAe0j0demTK3MK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">금융 실격 ① 추락하는 것은 금융이 없다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이재명에게 20억 전달?... 박철민 폭로 검증 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/90533472</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/90533472</guid>
-            <pubDate>Thu, 25 Nov 2021 11:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90533472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kr2cL/btrmbWWayrp/ZKuLgB89l6KkNlG8KIlWy0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재명에게 20억 전달?... 박철민 폭로 검증</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
