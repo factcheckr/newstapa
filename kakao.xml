@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-11-30T04:16:27.380Z</updated>
+    <updated>2021-11-30T05:11:56.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낙동강에 카드뮴 배출한 영풍, 수십년 만에 처음으로 제재 받은 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90768961</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90768961"/>
+        <updated>2021-11-30T05:11:56.261Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90768961"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c5oV7p/btrmyla8leB/SJbqvhf26VLy1AGHIL3TvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">낙동강에 카드뮴 배출한 영풍, 수십년 만에 처음으로 제재 받은 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90715221</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90531374"/>
         <updated>2021-11-25T10:15:24.053Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90531374"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bjKSfU/btrmaoFN2Xk/ZXSNmp4SLzkfXXAbcedQS0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'전두환의 광주학살' 진실 규명 남은 과제는?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['변호사비 의혹' 기업인들, 이재명 후보에 고액 후원]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90496067</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90496067"/>
-        <updated>2021-11-24T14:14:07.775Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90496067"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4mgIW/btrl43aNGAV/VA5RtEImLwHsr6oGbpvsLK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'변호사비 의혹' 기업인들, 이재명 후보에 고액 후원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
