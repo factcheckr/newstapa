@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 06:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 07:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2054,6 +2054,13 @@
             <pubDate>Wed, 06 Jan 2021 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA["세금 횡령 직원에 월급 줬다"...기호일보 전 직원의 음성파일]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/05105245-5EF3-3CB3-6675-NW2TKPLQEFU3CJ4962XF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤우진 - 검찰 커넥션 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/search?s=%EC%9C%A4%EC%9A%B0%EC%A7%84</link>
+            <guid>https://newstapa.org/search?s=%EC%9C%A4%EC%9A%B0%EC%A7%84</guid>
+            <pubDate>Sat, 23 Oct 2021 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/02161423-9A4B-E48C-B93C-Y1J47IVLPUA7GAZFM9OR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판도라 페이퍼스 (뉴스타파 ─ 프로젝트)]]></title>
