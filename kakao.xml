@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-12-02T08:16:16.131Z</updated>
+    <updated>2021-12-02T09:14:27.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/90853508</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/90853508"/>
+        <updated>2021-12-02T09:14:26.901Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90853508"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4iwvP/btrmRRNGXxp/Mo8LMNQV7prE0dm7T75EuK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90799713</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90600681"/>
         <updated>2021-11-27T01:55:21.814Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90600681"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b0hcsv/btrmgE3ZLRS/zWMG7ZaoI5WyOOkS1ZksxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 사망, 죽음은 면죄부가 아니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융 실격 ① 추락하는 것은 금융이 없다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90555169</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90555169"/>
-        <updated>2021-11-26T05:13:18.403Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90555169"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bb9AoK/btrmf5S6Xls/1Ku2FONMDAe0j0demTK3MK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">금융 실격 ① 추락하는 것은 금융이 없다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
