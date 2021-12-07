@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-12-07T14:18:08.854Z</updated>
+    <updated>2021-12-07T15:16:14.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91095403</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91095403"/>
+        <updated>2021-12-07T15:16:14.110Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91095403"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jK9mB/btrnkwWHZMJ/1ADBdTwemBMKV6YA5lwJ91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤우진 구속영장..윤석열 아킬레스건, '윤우진 3030 대포폰']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/90909264</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90768961"/>
         <updated>2021-11-30T05:11:56.261Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90768961"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c5oV7p/btrmyla8leB/SJbqvhf26VLy1AGHIL3TvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">낙동강에 카드뮴 배출한 영풍, 수십년 만에 처음으로 제재 받은 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90715221</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90715221"/>
-        <updated>2021-11-29T06:19:06.924Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90715221"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b0x5al/btrmtguag7X/Kv43jfrVno3JmSWKNkhKe0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
