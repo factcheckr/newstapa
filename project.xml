@@ -4,14 +4,14 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[윤우진 - 검찰 커넥션]]></title>
-            <link>https://newstapa.org/search?s=%EC%9C%A4%EC%9A%B0%EC%A7%84</link>
-            <guid>https://newstapa.org/search?s=%EC%9C%A4%EC%9A%B0%EC%A7%84</guid>
-            <pubDate>Sat, 23 Oct 2021 00:00:00 GMT</pubDate>
+            <link>https://newstapa.org/tags/%EC%9C%A4%EC%9A%B0%EC%A7%84</link>
+            <guid>https://newstapa.org/tags/%EC%9C%A4%EC%9A%B0%EC%A7%84</guid>
+            <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤우진 전 용산세무서장 뇌물 수수 사건은 어떻게 무마됐을까요? 윤 전 서장에게 제기되는 검찰을 비롯한 정관계 로비의혹의 실체를 추적했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/02161423-9A4B-E48C-B93C-Y1J47IVLPUA7GAZFM9OR.jpg" length="0" type="image/jpg"/>
         </item>
