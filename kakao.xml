@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-12-10T07:14:28.762Z</updated>
+    <updated>2021-12-10T08:16:56.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 검찰 송치]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91240384</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91240384"/>
+        <updated>2021-12-10T08:16:56.155Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91240384"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nu87r/btrnAjKoloz/1v1tZUJW58BHnbaRi3s92k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 기호일보 한창원 사장 '업무상 배임' 검찰 송치</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/91095403</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90786683"/>
         <updated>2021-11-30T09:13:20.740Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90786683"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cEuONf/btrmALgWgRD/No320SuqYnHf4lfwJjiXg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정부 위의 정부, 기재부를 개혁해야 하는 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낙동강에 카드뮴 배출한 영풍, 수십년 만에 처음으로 제재 받은 이유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90768961</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90768961"/>
-        <updated>2021-11-30T05:11:56.261Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90768961"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c5oV7p/btrmyla8leB/SJbqvhf26VLy1AGHIL3TvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">낙동강에 카드뮴 배출한 영풍, 수십년 만에 처음으로 제재 받은 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
