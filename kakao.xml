@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-12-11T06:16:52.681Z</updated>
+    <updated>2021-12-11T07:14:35.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91267793</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91267793"/>
+        <updated>2021-12-11T07:14:34.435Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91267793"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bMbZc9/btrnAYf3fFs/HIklOFIPPzzIrwm1kjPgS0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 검찰 송치]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/91240384</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90799713"/>
         <updated>2021-11-30T22:14:32.268Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90799713"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgryly/btrmALaw1kf/8EEHlmROeyPTrBcMkDVFkk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 위의 정부, 기재부를 개혁해야 하는 이유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90786683</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90786683"/>
-        <updated>2021-11-30T09:13:20.740Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90786683"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cEuONf/btrmALgWgRD/No320SuqYnHf4lfwJjiXg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정부 위의 정부, 기재부를 개혁해야 하는 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
