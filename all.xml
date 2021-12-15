@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 10:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 11:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융 실격 ② 만드는 자와 챙기는 자 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/iNvEy</link>
+            <guid>http://newstapa.org/article/iNvEy</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융 실격 ② 만드는 자와 챙기는 자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/15193519-6C9A-417D-3A98-49029S130082JHDU28JG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/JzU5c</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 언론사 포럼 행정심판 : 상식을 뒤집는 공공기관들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/25143103-3CC0-0C0F-59FB-7P44F2L9R72RN15FA2BK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/59Tif</link>
-            <guid>http://newstapa.org/article/59Tif</guid>
-            <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/18175024-920A-21AB-B3E1-RIT4WD9I6MXWUJFIWLJ6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정부 위의 정부, 기재부를 개혁해야 하는 이유 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/04b1e173e71f47028ec97517738d805da0daf2aadb322947f314832a30765312dc093682fe576154e6d0d4c68fe080de73140c0c8c9c5c28c4af93bde7abefde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금융 실격 ② 만드는 자와 챙기는 자 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/iNvEy</link>
+            <guid>http://newstapa.org/article/iNvEy</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융 실격 ② 만드는 자와 챙기는 자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/15193519-6C9A-417D-3A98-49029S130082JHDU28JG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금융 실격 ① 추락하는 것은 금융이 없다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/5JWRr</link>
             <guid>http://newstapa.org/article/5JWRr</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 18 Jan 2018 00:12:00 GMT</pubDate>
             <content:encoded><![CDATA[20년만에 제동걸린 헬기보험 나눠먹기...보험사엔 또 '면죄부']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/12/f2025f4de7f80eb1e71aef2a07cddb2397fc6d2170ffdf348a749348eede67f52f8585e9828dcecec256be64dad1f85ef7183fd93012c2a7f2deff485c3b1ab2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보험의 배신⑩ 기자들은 보험 소비자를 만나지 않는다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/yFxQY</link>
-            <guid>http://newstapa.org/article/yFxQY</guid>
-            <pubDate>Mon, 15 Jan 2018 00:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[보험의 배신⑩ 기자들은 보험 소비자를 만나지 않는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/7865b2831624832554f7759130b6f9b06eac0569587952f38ec31da0a72252c14bf7240ddfa0ca3e5b88016ac2d4685654ecb446b96c836f012f107bcabc9772.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -2879,6 +2879,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금융 실격 ② 만드는 자와 챙기는 자 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/91411925</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/91411925</guid>
+            <pubDate>Wed, 15 Dec 2021 11:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/91411925"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/psaWI/btrn1gso28U/roiZv5TNLHcHKwphocQ1Ck/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">금융 실격 ② 만드는 자와 챙기는 자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/91267793</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/91267793</guid>
@@ -2912,13 +2919,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/90853508</guid>
             <pubDate>Thu, 02 Dec 2021 09:14:26 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90853508"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4iwvP/btrmRRNGXxp/Mo8LMNQV7prE0dm7T75EuK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/90799713</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/90799713</guid>
-            <pubDate>Tue, 30 Nov 2021 22:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/90799713"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgryly/btrmALaw1kf/8EEHlmROeyPTrBcMkDVFkk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
