@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></title>
+            <link>http://newstapa.org/article/PiYh_</link>
+            <guid>http://newstapa.org/article/PiYh_</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16152841-EAC9-6BB0-6CE8-RTP5D5ZJGM0M8HH8WERO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다]]></title>
             <link>http://newstapa.org/article/5inTF</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[어느 사업가의 홍콩 페이퍼컴퍼니 사용 후기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004207-D01C-AF7D-DBBE-YS4ETBA32E1AYNL3VH8B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['K-Pop 대부' 이수만 관련 홍콩 페이퍼컴퍼니 무더기 발견]]></title>
-            <link>http://newstapa.org/article/2OCjX</link>
-            <guid>http://newstapa.org/article/2OCjX</guid>
-            <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA['K-Pop 대부' 이수만 관련 홍콩 페이퍼컴퍼니 무더기 발견]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004104-FDBC-C166-ED5A-KQIDT9Q7WMGACHZJZZBV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

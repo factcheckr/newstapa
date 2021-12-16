@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></title>
+            <link>http://newstapa.org/article/PiYh_</link>
+            <guid>http://newstapa.org/article/PiYh_</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16152841-EAC9-6BB0-6CE8-RTP5D5ZJGM0M8HH8WERO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말]]></title>
             <link>http://newstapa.org/article/qeTOm</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/25183236-C69C-4342-788D-PCHRXQMIBU12J2I7TB2C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['변호사비 의혹' 기업인들, 이재명 후보에 고액 후원]]></title>
-            <link>http://newstapa.org/article/4A1jH</link>
-            <guid>http://newstapa.org/article/4A1jH</guid>
-            <pubDate>Wed, 24 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['변호사비 의혹' 기업인들, 이재명 후보에 고액 후원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/24185849-7EE5-6DD3-8FCD-PL9TFNMNTQ8RR2BAPHM1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

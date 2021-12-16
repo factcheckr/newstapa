@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-12-16T06:16:46.678Z</updated>
+    <updated>2021-12-16T07:14:30.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91450155</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91450155"/>
+        <updated>2021-12-16T07:14:29.375Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91450155"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zlnqq/btrn22nMX9O/z3z10EneuKfG998bUsrzI0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/91446209</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/91095403"/>
         <updated>2021-12-07T15:16:14.110Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91095403"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jK9mB/btrnkwWHZMJ/1ADBdTwemBMKV6YA5lwJ91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤우진 구속영장..윤석열 아킬레스건, '윤우진 3030 대포폰']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90909264</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90909264"/>
-        <updated>2021-12-03T10:15:01.777Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90909264"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c9gLYB/btrmWrpe2Ux/6QEL1kTx4N6fg6qjMTHg3K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤우진 구속영장..윤석열 아킬레스건, '윤우진 3030 대포폰'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
