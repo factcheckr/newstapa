@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 04:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 05:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말]]></title>
+            <link>http://newstapa.org/article/qeTOm</link>
+            <guid>http://newstapa.org/article/qeTOm</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16135333-8A86-B8A7-6C2E-7PQHWUVIZCZDEZB1I5K5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개]]></title>
             <link>http://newstapa.org/article/JzU5c</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[해운대그랜드호텔 대표의 '다잉 메시지']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/17195349-D35D-2FA5-D3B1-LG5TCALGEW75J14EOD7I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]32년 만의 무죄 판결과 뉴스타파]]></title>
-            <link>http://newstapa.org/article/_JKTP</link>
-            <guid>http://newstapa.org/article/_JKTP</guid>
-            <pubDate>Fri, 08 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]32년 만의 무죄 판결과 뉴스타파]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/07171011-C7AF-4181-C8F3-9XZ8RJH1XENFRYOMAR3M.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

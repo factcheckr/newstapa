@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-12-16T04:17:37.501Z</updated>
+    <updated>2021-12-16T05:13:45.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91446209</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91446209"/>
+        <updated>2021-12-16T05:13:44.576Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91446209"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/z1DlE/btrn15x0vzj/XgZIT1whVDETTrpEFHl6F0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금융 실격 ② 만드는 자와 챙기는 자]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/91411925</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/90909264"/>
         <updated>2021-12-03T10:15:01.777Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90909264"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c9gLYB/btrmWrpe2Ux/6QEL1kTx4N6fg6qjMTHg3K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤우진 구속영장..윤석열 아킬레스건, '윤우진 3030 대포폰'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/90853508</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/90853508"/>
-        <updated>2021-12-02T09:14:26.901Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/90853508"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4iwvP/btrmRRNGXxp/Mo8LMNQV7prE0dm7T75EuK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
