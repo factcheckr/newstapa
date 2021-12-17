@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 05:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 06:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2879,6 +2879,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[베일 속 윤석열 고액 후원자...국힘 "대선 전 공개 생각 없다" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/91475902</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/91475902</guid>
+            <pubDate>Fri, 17 Dec 2021 06:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/91475902"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/BenEg/btrobUoSX0U/Le3AYVLkcnv5bJ5mP8NJT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">베일 속 윤석열 고액 후원자...국힘 "대선 전 공개 생각 없다"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/91450155</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/91450155</guid>
@@ -2912,13 +2919,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/91240384</guid>
             <pubDate>Fri, 10 Dec 2021 08:16:56 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/91240384"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nu87r/btrnAjKoloz/1v1tZUJW58BHnbaRi3s92k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 기호일보 한창원 사장 '업무상 배임' 검찰 송치</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/91095403</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/91095403</guid>
-            <pubDate>Tue, 07 Dec 2021 15:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/91095403"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jK9mB/btrnkwWHZMJ/1ADBdTwemBMKV6YA5lwJ91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
