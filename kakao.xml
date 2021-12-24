@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2021-12-24T09:14:56.717Z</updated>
+    <updated>2021-12-24T10:15:49.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비정규직이 불법에 맞선 '죄', 징역 5년]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91657473</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91657473"/>
+        <updated>2021-12-24T10:15:48.677Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91657473"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/SIxys/btroRZ35KHS/Kz2sWsOVvzVRDMwrxAlXs1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비정규직이 불법에 맞선 '죄', 징역 5년</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베일 속 윤석열 고액 후원자...국힘 "대선 전 공개 생각 없다"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/91475902</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/91267793"/>
         <updated>2021-12-11T07:14:34.435Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91267793"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bMbZc9/btrnAYf3fFs/HIklOFIPPzzIrwm1kjPgS0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 검찰 송치]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/91240384</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/91240384"/>
-        <updated>2021-12-10T08:16:56.155Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91240384"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nu87r/btrnAjKoloz/1v1tZUJW58BHnbaRi3s92k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 기호일보 한창원 사장 '업무상 배임' 검찰 송치</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
