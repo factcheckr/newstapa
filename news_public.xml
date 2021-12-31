@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 22:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 17:48:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유]]></title>
+            <link>http://newstapa.org/article/3KFkb</link>
+            <guid>http://newstapa.org/article/3KFkb</guid>
+            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31130015-A33D-FC0C-F5E5-HPDS7NLL015H7BNWCFST.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이재명 뇌물 증거 편지' 조작 정황 확인]]></title>
+            <link>http://newstapa.org/article/YxvVW</link>
+            <guid>http://newstapa.org/article/YxvVW</guid>
+            <pubDate>Mon, 27 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이재명 뇌물 증거 편지' 조작 정황 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/27174955-EB85-4E47-F90E-1N11CDXNMFYHZBWIIZBB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베일 속 윤석열 고액 후원자...국힘 "대선 전 공개 생각 없다"]]></title>
             <link>http://newstapa.org/article/uIwLl</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 황기철 보훈처장 "죄송하다"... 전현희 권익위원장 "공무원행동강령 위반 검토하겠다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/13103823-E55C-4077-6B75-M31WNZGPVBQNC135MXP5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4.15 총선 사전투표 조작설...'K값'과 판박이 음모론]]></title>
-            <link>http://newstapa.org/article/Crpok</link>
-            <guid>http://newstapa.org/article/Crpok</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4.15 총선 사전투표 조작설...'K값'과 판박이 음모론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12103426-72AC-1ED0-BC96-PBWJQN6LKKYQRCQXZX6X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가보훈처와 전관재단의 수상한 커넥션...재단업무 대행하고 억대 부당 수수료까지 지급]]></title>
-            <link>http://newstapa.org/article/oXoFy</link>
-            <guid>http://newstapa.org/article/oXoFy</guid>
-            <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가보훈처와 전관재단의 수상한 커넥션...재단업무 대행하고 억대 부당 수수료까지 지급]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/08162945-1960-D856-A29E-4CM63CPN7OT09BEMAM7L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
