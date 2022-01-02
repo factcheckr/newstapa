@@ -95,7 +95,7 @@ imageSelector = "figure.article-image img.d-block.w-100"
 waitUntil = "networkidle"
 
 [news_laborrights]
-title = "뉴스타파 ─ 뉴스 ─ 환경"
+title = "뉴스타파 ─ 뉴스 ─ "
 url = "http://newstapa.org/category/%EB%85%B8%EB%8F%99%EC%9D%B8%EA%B6%8C"
 entrySelector = "article.article"
 titleSelector = "h6.font-weight-bold"
