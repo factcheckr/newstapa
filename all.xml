@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 06:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 07:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2054,6 +2054,14 @@
             <pubDate>Wed, 13 Jan 2021 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 뉴스타파 언더커버: 아침방송에서 체리를 팔아봤습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/13182333-4833-5161-DD85-R6LZCQ2AET3FNB9A9SEA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광고의 그물망 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/%EA%B4%91%EA%B3%A0%EC%9D%98%EA%B7%B8%EB%AC%BC%EB%A7%9D</link>
+            <guid>https://newstapa.org/tags/%EA%B4%91%EA%B3%A0%EC%9D%98%EA%B7%B8%EB%AC%BC%EB%A7%9D</guid>
+            <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[겉으로는 시청자를 위하는 척 하면서 협찬 받은 제품을 광고하는 방송사의 '뒷광고'. 거미줄처럼 시청자를 옭아매는 방송사 뒷광고 실태를 추적했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/06155005-E6F8-5120-FC1E-SWQ1E5VD9KCN0D5SH1C8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤우진 - 검찰 커넥션 (뉴스타파 ─ 프로젝트)]]></title>
