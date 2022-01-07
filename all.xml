@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 07:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 08:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/d1NFN</link>
+            <guid>http://newstapa.org/article/d1NFN</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/07153614-991A-6BEB-8206-KM1CPV7SXB82VV43D0YN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 검찰, '윤우진 뇌물사건' 부실수사 인정...과거 자체 수사결과 뒤집어 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/B5o0Z</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/02173909-F9C2-423A-B377-9ERKM7EE7OLYVOO3XM1J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/BnQlZ</link>
-            <guid>http://newstapa.org/article/BnQlZ</guid>
-            <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤우진, 검찰 수사 직후 150억대 부동산 매각...'하와이 골프장' 소유 의혹도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/30231001-93A2-375F-BF3A-T2Y0UGFVS97W2E1DIWD6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/16140329-5FBA-A109-1D76-FW1P5OX6MH1DB7GBDZEM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/d1NFN</link>
+            <guid>http://newstapa.org/article/d1NFN</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/07153614-991A-6BEB-8206-KM1CPV7SXB82VV43D0YN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/3KFkb</link>
             <guid>http://newstapa.org/article/3KFkb</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 28 Jan 2021 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[1986 김성수 의문사 ② 모두가 권력의 사람들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/28173717-27F0-7357-2611-4NCMTNZFNEDRYMQUT3R2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1986 김성수 의문사 ① 침묵의 계보 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/AS9Ig</link>
-            <guid>http://newstapa.org/article/AS9Ig</guid>
-            <pubDate>Thu, 21 Jan 2021 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[1986 김성수 의문사 ① 침묵의 계보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/21171124-814A-587D-E8B8-TI2LZAIPEIQ8ZL4E517O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -2887,6 +2887,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/91999003</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/91999003</guid>
+            <pubDate>Fri, 07 Jan 2022 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/91999003"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c35M8O/btrp3WFZoY2/0nfnYsXkrmDZAg8vOsD090/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뉴스타파 х ICIJ] 국제협업 10년의 비결 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/91996685</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/91996685</guid>
@@ -2920,13 +2927,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/91758599</guid>
             <pubDate>Fri, 31 Dec 2021 17:48:19 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/91758599"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bA7kI2/btro7fUGVRS/OM5T5S09ff1VztIeVgTIq1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'기사형광고 맛집' 조선일보의 메뉴판</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이재명 뇌물 증거 편지' 조작 정황 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/91722335</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/91722335</guid>
-            <pubDate>Fri, 31 Dec 2021 17:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/91722335"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4G4Al/btroWocVvWc/HsKp57JnLaGWeUThZc4J70/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이재명 뇌물 증거 편지' 조작 정황 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

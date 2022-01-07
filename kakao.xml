@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-07T07:10:26.153Z</updated>
+    <updated>2022-01-07T08:11:48.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91999003</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91999003"/>
+        <updated>2022-01-07T08:11:47.590Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91999003"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c35M8O/btrp3WFZoY2/0nfnYsXkrmDZAg8vOsD090/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스타파 х ICIJ] 국제협업 10년의 비결]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/91996685</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/91758599"/>
         <updated>2021-12-31T17:48:19.204Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91758599"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bA7kI2/btro7fUGVRS/OM5T5S09ff1VztIeVgTIq1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'기사형광고 맛집' 조선일보의 메뉴판</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이재명 뇌물 증거 편지' 조작 정황 확인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/91722335</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/91722335"/>
-        <updated>2021-12-31T17:48:19.205Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91722335"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4G4Al/btroWocVvWc/HsKp57JnLaGWeUThZc4J70/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이재명 뇌물 증거 편지' 조작 정황 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
