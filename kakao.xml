@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-07T06:12:29.880Z</updated>
+    <updated>2022-01-07T07:10:26.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스타파 х ICIJ] 국제협업 10년의 비결]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/91996685</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/91996685"/>
+        <updated>2022-01-07T07:10:25.444Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91996685"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/quMWR/btrp0IuZ1TB/M9UhKkMhZbxBQ2jSfoLAtk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 х ICIJ] 국제협업 10년의 비결</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 검찰, '윤우진 뇌물사건' 부실수사 인정...과거 자체 수사결과 뒤집어]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/91815397</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/91722335"/>
         <updated>2021-12-31T17:48:19.205Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91722335"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4G4Al/btroWocVvWc/HsKp57JnLaGWeUThZc4J70/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이재명 뇌물 증거 편지' 조작 정황 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비정규직이 불법에 맞선 '죄', 징역 5년]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/91657473</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/91657473"/>
-        <updated>2021-12-24T10:15:48.677Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91657473"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/SIxys/btroRZ35KHS/Kz2sWsOVvzVRDMwrxAlXs1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비정규직이 불법에 맞선 '죄', 징역 5년</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
