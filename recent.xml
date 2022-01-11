@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 09:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 10:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열과 신안저축은행, 핵심 고리는 김건희]]></title>
+            <link>http://newstapa.org/article/SA_7P</link>
+            <guid>http://newstapa.org/article/SA_7P</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열과 신안저축은행, 핵심 고리는 김건희]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/11161824-208C-99B8-7926-PWEGQ9GUP4ZEQS2XPEW2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹]]></title>
+            <link>http://newstapa.org/article/2AlqA</link>
+            <guid>http://newstapa.org/article/2AlqA</guid>
+            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/11175952-AD5B-1D3B-2577-8YLD6HH7C8BPMFXPXXJ0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></title>
             <link>http://newstapa.org/article/d1NFN</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/07233833-4D16-8051-D128-0ODD3H9FXK6D79BU820D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤우진 구속영장...윤석열 아킬레스건, '윤우진 3030 대포폰']]></title>
-            <link>http://newstapa.org/article/rF6PH</link>
-            <guid>http://newstapa.org/article/rF6PH</guid>
-            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤우진 구속영장...윤석열 아킬레스건, '윤우진 3030 대포폰']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/03184046-E81B-DAD5-9459-LW50OFROLEZWH6XR54VU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></title>
-            <link>http://newstapa.org/article/miFA_</link>
-            <guid>http://newstapa.org/article/miFA_</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/02173909-F9C2-423A-B377-9ERKM7EE7OLYVOO3XM1J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
