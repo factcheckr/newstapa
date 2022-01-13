@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 참여</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,12 +128,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18122350-9BA9-DF34-E704-A3KEFY42Y1O9SC2MBSA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[의원님, 여기서 책 팔아도 되나요?]]></title>
-            <link>https://www.newstapa.org/article/o6GmV</link>
-            <guid>https://www.newstapa.org/article/o6GmV</guid>
+            <title><![CDATA[퇴직 검사장의 법률고문행...검찰과 기업의 연결고리]]></title>
+            <link>https://www.newstapa.org/article/n8N9k</link>
+            <guid>https://www.newstapa.org/article/n8N9k</guid>
             <pubDate>Fri, 03 Apr 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2020.04.03]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03155106-6D65-9024-C874-QVCL2UXNVIF2ZTS5XE5S.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

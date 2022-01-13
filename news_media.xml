@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말]]></title>
+            <link>http://newstapa.org/article/3blnP</link>
+            <guid>http://newstapa.org/article/3blnP</guid>
+            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/13144432-14C1-3C24-A36B-0QVLP72DBFYB8D32UGZC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['기사형광고 맛집' 조선일보의 메뉴판]]></title>
             <link>http://newstapa.org/article/d39jz</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 24 Jan 2021 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[방송인가 광고인가 : 아침 방송에서 체리를 팔아봤습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/24154728-FFE5-AC43-FFED-MDAJNYYTVYQG0QLCOTJH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 뉴스타파 언더커버: 아침방송에서 체리를 팔아봤습니다.]]></title>
-            <link>http://newstapa.org/article/tNpT0</link>
-            <guid>http://newstapa.org/article/tNpT0</guid>
-            <pubDate>Wed, 13 Jan 2021 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 뉴스타파 언더커버: 아침방송에서 체리를 팔아봤습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/13182333-4833-5161-DD85-R6LZCQ2AET3FNB9A9SEA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
