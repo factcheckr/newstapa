@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 08:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 09:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서]원전묵시록 못 다한 이야기, 첫 번째 – 비번 0303 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/vYGYa</link>
+            <guid>http://newstapa.org/article/vYGYa</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]원전묵시록 못 다한 이야기, 첫 번째 – 비번 0303]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14171305-6DCC-5C25-087B-H4439HJYV8VX3NOF748V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/89Vap</link>
+            <guid>http://newstapa.org/article/89Vap</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14165551-AB0F-186B-2C8C-4UY0W9EKQSYTALF65FH9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기상천외한 검찰의 '신종' 제식구 감싸기 기술 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Hj7u7</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[베일 속 윤석열 고액 후원자...국힘 "대선 전 공개 생각 없다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/17134332-9E73-8308-CFB1-6OW69FJ71NFRUYXVW5QM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/PiYh_</link>
-            <guid>http://newstapa.org/article/PiYh_</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16152841-EAC9-6BB0-6CE8-RTP5D5ZJGM0M8HH8WERO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/qeTOm</link>
-            <guid>http://newstapa.org/article/qeTOm</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열의 '윤우진 관련 발언' 검증...5가지 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16135333-8A86-B8A7-6C2E-7PQHWUVIZCZDEZB1I5K5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/30003231-DCD0-721D-CAFA-XMHOWIRJ1BYB7KW1TNDP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서]원전묵시록 못 다한 이야기, 첫 번째 – 비번 0303 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/vYGYa</link>
+            <guid>http://newstapa.org/article/vYGYa</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]원전묵시록 못 다한 이야기, 첫 번째 – 비번 0303]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14171305-6DCC-5C25-087B-H4439HJYV8VX3NOF748V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/rw_LZ</link>
             <guid>http://newstapa.org/article/rw_LZ</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 20 Jan 2021 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[희망브리지, 무자격 재향군인회와 33억 마스크 거래]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/20143131-A166-0A04-57E4-0W3WN6DIMGDFVBOD77PJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '마약왕' 박왕열과 김형렬, 언제쯤 데려와 처벌할 수 있을까 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/hVg4a</link>
-            <guid>http://newstapa.org/article/hVg4a</guid>
-            <pubDate>Sat, 30 Jan 2021 00:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '마약왕' 박왕열과 김형렬, 언제쯤 데려와 처벌할 수 있을까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/29164433-CB24-3E8F-5F47-E03SG7AWIORDTTFDKCDE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법" (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2887,6 +2887,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/92289811</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/92289811</guid>
+            <pubDate>Fri, 14 Jan 2022 09:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92289811"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byuKqp/btrqJ7NRb0b/of3kHFbFHZoBrmkDBO6jg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기상천외한 검찰의 '신종' 제식구 감싸기 기술 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/92288983</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/92288983</guid>
@@ -2920,13 +2927,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/92099601</guid>
             <pubDate>Tue, 11 Jan 2022 10:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92099601"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tGlS1/btrquPZPjRh/kkNIqNnhanqMKF38jlLK5k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열과 신안저축은행, 핵심 고리는 김건희</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92099383</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92099383</guid>
-            <pubDate>Tue, 11 Jan 2022 10:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92099383"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QwJbx/btrquPrZCPp/89YLkmLr4cQibcbfvF8Kdk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
