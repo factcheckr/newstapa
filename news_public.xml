@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 05:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 06:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다]]></title>
+            <link>http://newstapa.org/article/s0qjB</link>
+            <guid>http://newstapa.org/article/s0qjB</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14142327-7066-5190-28F8-P8TUOD1P2Y2UNS80SAGB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 특활비 공개 1심 판결, 검찰은 항소 포기하고 자료 공개해야]]></title>
+            <link>http://newstapa.org/article/UshIu</link>
+            <guid>http://newstapa.org/article/UshIu</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 특활비 공개 1심 판결, 검찰은 항소 포기하고 자료 공개해야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14142249-86C9-19AA-C5B9-5GDZMVECYA0IQMGZAS0E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열과 신안저축은행, 핵심 고리는 김건희]]></title>
             <link>http://newstapa.org/article/SA_7P</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/27141128-564B-74AA-08AD-E8WK3SW9V6UKI8RH4PPW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야"]]></title>
-            <link>http://newstapa.org/article/SB5xQ</link>
-            <guid>http://newstapa.org/article/SB5xQ</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열도 김건희 계좌 대여 인정..민형배 "제보 경찰관 선처해야"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20145912-FE4D-07A7-FB16-AG0PVDML7LCDYF4W5TM4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위법·탐욕으로 범벅된 보훈처와 나라사랑재단의 10년 유착]]></title>
-            <link>http://newstapa.org/article/4_iXA</link>
-            <guid>http://newstapa.org/article/4_iXA</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[위법·탐욕으로 범벅된 보훈처와 나라사랑재단의 10년 유착]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20103907-A07C-3317-9B65-0RLFYXL46K9AQB2FC6XQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
