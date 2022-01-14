@@ -4,17 +4,9 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 09:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 10:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[현장에서]원전묵시록 못 다한 이야기, 첫 번째 – 비번 0303]]></title>
-            <link>http://newstapa.org/article/vYGYa</link>
-            <guid>http://newstapa.org/article/vYGYa</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]원전묵시록 못 다한 이야기, 첫 번째 – 비번 0303]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14171305-6DCC-5C25-087B-H4439HJYV8VX3NOF748V.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만]]></title>
             <link>http://newstapa.org/article/89Vap</link>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[베일 속 윤석열 고액 후원자...국힘 "대선 전 공개 생각 없다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/17134332-9E73-8308-CFB1-6OW69FJ71NFRUYXVW5QM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></title>
+            <link>http://newstapa.org/article/PiYh_</link>
+            <guid>http://newstapa.org/article/PiYh_</guid>
+            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16152841-EAC9-6BB0-6CE8-RTP5D5ZJGM0M8HH8WERO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
