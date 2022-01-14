@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-14T07:10:32.077Z</updated>
+    <updated>2022-01-14T08:11:40.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기상천외한 검찰의 '신종' 제식구 감싸기 기술]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92288983</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92288983"/>
+        <updated>2022-01-14T08:11:39.827Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92288983"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdniwM/btrqIsSblkK/bsIvKlcptq7IyyVkxUAFWK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기상천외한 검찰의 '신종' 제식구 감싸기 기술</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92276867</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92099383"/>
         <updated>2022-01-11T10:10:50.370Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92099383"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QwJbx/btrquPrZCPp/89YLkmLr4cQibcbfvF8Kdk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/91999003</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/91999003"/>
-        <updated>2022-01-07T08:11:47.590Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/91999003"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c35M8O/btrp3WFZoY2/0nfnYsXkrmDZAg8vOsD090/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
