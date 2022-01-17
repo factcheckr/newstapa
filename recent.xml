@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 06:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></title>
+            <link>http://newstapa.org/article/tOiX0</link>
+            <guid>http://newstapa.org/article/tOiX0</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만]]></title>
             <link>http://newstapa.org/article/89Vap</link>
@@ -126,14 +133,6 @@
             <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[베일 속 윤석열 고액 후원자...국힘 "대선 전 공개 생각 없다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/17134332-9E73-8308-CFB1-6OW69FJ71NFRUYXVW5QM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></title>
-            <link>http://newstapa.org/article/PiYh_</link>
-            <guid>http://newstapa.org/article/PiYh_</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16152841-EAC9-6BB0-6CE8-RTP5D5ZJGM0M8HH8WERO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

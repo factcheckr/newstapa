@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-17T05:12:45.672Z</updated>
+    <updated>2022-01-17T06:12:26.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92410109</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92410109"/>
+        <updated>2022-01-17T06:12:26.406Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92410109"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bIQbUq/btrq1gI2tK8/rHMTvnC3p8TMCidrFCKsa1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92289811</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92191219"/>
         <updated>2022-01-13T06:12:12.008Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92191219"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpOjv1/btrqzQMMnX3/4Rzk09LEjinqpUPQpLdMa1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열과 신안저축은행, 핵심 고리는 김건희]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92099601</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92099601"/>
-        <updated>2022-01-11T10:10:50.369Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92099601"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tGlS1/btrquPZPjRh/kkNIqNnhanqMKF38jlLK5k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열과 신안저축은행, 핵심 고리는 김건희</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

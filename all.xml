@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 06:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/tOiX0</link>
+            <guid>http://newstapa.org/article/tOiX0</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/89Vap</link>
@@ -128,12 +135,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/17134332-9E73-8308-CFB1-6OW69FJ71NFRUYXVW5QM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/PiYh_</link>
-            <guid>http://newstapa.org/article/PiYh_</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/16152841-EAC9-6BB0-6CE8-RTP5D5ZJGM0M8HH8WERO.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/tOiX0</link>
+            <guid>http://newstapa.org/article/tOiX0</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +261,6 @@
             <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/09170307-0689-91DE-DA73-J3C7GN7RULS71AYW6AUP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/6rM7L</link>
-            <guid>http://newstapa.org/article/6rM7L</guid>
-            <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/27141128-564B-74AA-08AD-E8WK3SW9V6UKI8RH4PPW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기상천외한 검찰의 '신종' 제식구 감싸기 기술 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1672,6 +1671,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/05175217-D2CD-4EAD-0425-LEC3328T5NLGAOUJL7NJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/tOiX0</link>
+            <guid>http://newstapa.org/article/tOiX0</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[의도된 '재탕'?…미 싱크탱크 CSIS와 '북한 뉴스' (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/zI4Yy</link>
             <guid>http://newstapa.org/article/zI4Yy</guid>
@@ -1790,14 +1797,6 @@
             <pubDate>Fri, 08 Jan 2021 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[공공주택 예정지 '캠프킴'...발암 확률 100명 중 2명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/08160540-C62C-E218-A64C-K8UJNBRU5SXO27EIC5UB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 미군기지 위해성보고서 첫 공개...발암성 높은 곳에 코로나19 병동 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/OgvE_</link>
-            <guid>http://newstapa.org/article/OgvE_</guid>
-            <pubDate>Sun, 03 Jan 2021 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울 미군기지 위해성보고서 첫 공개...발암성 높은 곳에 코로나19 병동]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/03151209-9804-4B00-4EEC-0807W9K6IYVBIACYPVCW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -2887,6 +2886,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/92410109</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/92410109</guid>
+            <pubDate>Mon, 17 Jan 2022 06:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92410109"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bIQbUq/btrq1gI2tK8/rHMTvnC3p8TMCidrFCKsa1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/92289811</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/92289811</guid>
@@ -2920,13 +2926,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/92191219</guid>
             <pubDate>Thu, 13 Jan 2022 06:12:12 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92191219"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpOjv1/btrqzQMMnX3/4Rzk09LEjinqpUPQpLdMa1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열과 신안저축은행, 핵심 고리는 김건희 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92099601</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92099601</guid>
-            <pubDate>Tue, 11 Jan 2022 10:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92099601"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tGlS1/btrquPZPjRh/kkNIqNnhanqMKF38jlLK5k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열과 신안저축은행, 핵심 고리는 김건희</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
