@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 06:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 07:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>http://newstapa.org/article/tOiX0</guid>
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만 (뉴스타파 ─ 뉴스)]]></title>
@@ -138,7 +139,7 @@
             <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/tOiX0</link>
             <guid>http://newstapa.org/article/tOiX0</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1674,7 +1675,7 @@
             <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/tOiX0</link>
             <guid>http://newstapa.org/article/tOiX0</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
         </item>
