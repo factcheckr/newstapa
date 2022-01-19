@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-19T08:10:59.288Z</updated>
+    <updated>2022-01-19T09:10:09.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈특별 기획〉 윤석열과 윤우진 뇌물사건...'거짓말과 면죄부' - 뉴스타파]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92532186</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92532186"/>
+        <updated>2022-01-19T09:10:09.327Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92532186"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hYzkR/btrrch9C8df/rp5FnB1yCTu86GxVPxSqN0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈특별 기획〉 윤석열과 윤우진 뇌물사건...'거짓말과 면죄부' - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92410109</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92276698"/>
         <updated>2022-01-14T06:11:50.797Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92276698"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bmzMDB/btrqMwei0jB/4wVHv4XyBKOn1uvk22fzA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 특활비 공개 1심 판결, 검찰은 항소 포기하고 자료 공개해야</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92191219</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92191219"/>
-        <updated>2022-01-13T06:12:12.008Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92191219"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpOjv1/btrqzQMMnX3/4Rzk09LEjinqpUPQpLdMa1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
