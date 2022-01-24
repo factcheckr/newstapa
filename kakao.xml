@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-24T07:12:27.134Z</updated>
+    <updated>2022-01-24T08:14:31.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대선 캠프 분석 ①] '중대재해처벌법' 반대 의원 44명 중 33명, 윤석열 캠프 참여]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92675371</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92675371"/>
+        <updated>2022-01-24T08:14:30.527Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92675371"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bbTynU/btrrAdsumcK/vDK9EKyR2nXGOkX5z1rbqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대선 캠프 분석 ①] '중대재해처벌법' 반대 의원 44명 중 33명, 윤석열 캠프 참여</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거래의 기술 : 김건희 일가 '삼각 거래' 의혹과 그 대가]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92588978</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92289811"/>
         <updated>2022-01-14T09:10:19.857Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92289811"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byuKqp/btrqJ7NRb0b/of3kHFbFHZoBrmkDBO6jg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기상천외한 검찰의 '신종' 제식구 감싸기 기술]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92288983</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92288983"/>
-        <updated>2022-01-14T08:11:39.827Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92288983"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdniwM/btrqIsSblkK/bsIvKlcptq7IyyVkxUAFWK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기상천외한 검찰의 '신종' 제식구 감싸기 기술</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
