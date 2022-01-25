@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 08:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/ZMCAZ</link>
+            <guid>http://newstapa.org/article/ZMCAZ</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/25162347-4FD0-282F-1FB6-OGURPC2K00L9ORHSJ64D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공공관리제 하면 재개발 비리 없어지나? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/YcUys</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31130015-A33D-FC0C-F5E5-HPDS7NLL015H7BNWCFST.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<특집 다큐> 문재인정부 검찰개혁 잔혹사 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/t34ie</link>
-            <guid>http://newstapa.org/article/t34ie</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;특집 다큐&gt; 문재인정부 검찰개혁 잔혹사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/30194016-639F-901D-907B-8I5FT4CPSZDW258L7V7B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공공관리제 하면 재개발 비리 없어지나? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/04b1e173e71f47028ec97517738d805da0daf2aadb322947f314832a30765312dc093682fe576154e6d0d4c68fe080de73140c0c8c9c5c28c4af93bde7abefde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/ZMCAZ</link>
+            <guid>http://newstapa.org/article/ZMCAZ</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/25162347-4FD0-282F-1FB6-OGURPC2K00L9ORHSJ64D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[금융 실격 ② 만드는 자와 챙기는 자 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/iNvEy</link>
             <guid>http://newstapa.org/article/iNvEy</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 25 Jan 2019 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[5G 알짜기업 거래정지.. '기업 사냥꾼'이 있었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/04/3cc538e8a59934ead36583ff8df934d56c9d484e8b2a312661be30fdf8e2d558aaccb30de3cfcc79b02050abb9a5229dd31b2c214b3d59645e2b8fc0bbc6bd02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20년만에 제동걸린 헬기보험 나눠먹기...보험사엔 또 '면죄부' (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/7jYyM</link>
-            <guid>http://newstapa.org/article/7jYyM</guid>
-            <pubDate>Thu, 18 Jan 2018 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[20년만에 제동걸린 헬기보험 나눠먹기...보험사엔 또 '면죄부']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/12/f2025f4de7f80eb1e71aef2a07cddb2397fc6d2170ffdf348a749348eede67f52f8585e9828dcecec256be64dad1f85ef7183fd93012c2a7f2deff485c3b1ab2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -2887,6 +2887,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/92716778</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/92716778</guid>
+            <pubDate>Tue, 25 Jan 2022 09:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92716778"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bEhLPe/btrrEU7PrmU/glI3B7aYFAkkAXnkCn1kx0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공공관리제 하면 재개발 비리 없어지나? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/92703241</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/92703241</guid>
@@ -2920,13 +2927,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/92532186</guid>
             <pubDate>Wed, 19 Jan 2022 09:10:09 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92532186"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hYzkR/btrrch9C8df/rp5FnB1yCTu86GxVPxSqN0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈특별 기획〉 윤석열과 윤우진 뇌물사건...'거짓말과 면죄부' - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92410109</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92410109</guid>
-            <pubDate>Mon, 17 Jan 2022 06:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92410109"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bIQbUq/btrq1gI2tK8/rHMTvnC3p8TMCidrFCKsa1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
