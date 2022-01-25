@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 05:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공관리제 하면 재개발 비리 없어지나?]]></title>
+            <link>http://newstapa.org/article/YcUys</link>
+            <guid>http://newstapa.org/article/YcUys</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공공관리제 하면 재개발 비리 없어지나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/25131951-1F9A-F58B-8878-UE75ZVQ1VO0N7QF8SEX1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 캠프 분석 ①] '중대재해처벌법' 반대 의원 44명 중 33명, 윤석열 캠프 참여]]></title>
             <link>http://newstapa.org/article/uCOCD</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대장동 불법 수익으로 기업 인수... 주가조작 시도 정황까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12161100-5011-EF77-0874-ILLBRT1IFFEAY356Q9PO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대장동 머니, 쌍방울 전 대표에게로...'주가조작' 전 부사장도 연루]]></title>
-            <link>http://newstapa.org/article/RaxDB</link>
-            <guid>http://newstapa.org/article/RaxDB</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대장동 머니, 쌍방울 전 대표에게로...'주가조작' 전 부사장도 연루]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12102802-AF19-F409-9152-BA3OR5RZITF5Q4GLZXSN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

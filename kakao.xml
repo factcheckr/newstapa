@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-25T04:11:57.581Z</updated>
+    <updated>2022-01-25T05:09:43.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공공관리제 하면 재개발 비리 없어지나?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92703241</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92703241"/>
+        <updated>2022-01-25T05:09:42.728Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92703241"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ezuf4C/btrrEUlUaCC/fUbWFHjZtfgVV8KhQnSwgK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">공공관리제 하면 재개발 비리 없어지나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대선 캠프 분석 ①] '중대재해처벌법' 반대 의원 44명 중 33명, 윤석열 캠프 참여]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92675371</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92410109"/>
         <updated>2022-01-17T06:12:26.406Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92410109"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bIQbUq/btrq1gI2tK8/rHMTvnC3p8TMCidrFCKsa1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92289811</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92289811"/>
-        <updated>2022-01-14T09:10:19.857Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92289811"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byuKqp/btrqJ7NRb0b/of3kHFbFHZoBrmkDBO6jg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 04:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 05:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공관리제 하면 재개발 비리 없어지나?]]></title>
+            <link>http://newstapa.org/article/YcUys</link>
+            <guid>http://newstapa.org/article/YcUys</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공공관리제 하면 재개발 비리 없어지나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/25131951-1F9A-F58B-8878-UE75ZVQ1VO0N7QF8SEX1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 캠프 분석 ①] '중대재해처벌법' 반대 의원 44명 중 33명, 윤석열 캠프 참여]]></title>
             <link>http://newstapa.org/article/uCOCD</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;특집 다큐&gt; 문재인정부 검찰개혁 잔혹사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/30194016-639F-901D-907B-8I5FT4CPSZDW258L7V7B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기사형광고 맛집' 조선일보의 메뉴판]]></title>
-            <link>http://newstapa.org/article/d39jz</link>
-            <guid>http://newstapa.org/article/d39jz</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['기사형광고 맛집' 조선일보의 메뉴판]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/29143719-8763-8B13-924C-0Q4TKRF1ZYH81S0YLFDV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
