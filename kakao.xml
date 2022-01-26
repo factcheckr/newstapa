@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-26T08:11:04.105Z</updated>
+    <updated>2022-01-26T09:09:57.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파 10년 영상 기록]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92749774</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92749774"/>
+        <updated>2022-01-26T09:09:56.369Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92749774"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bLIxLz/btrrP4g9Gi1/oJQkVFSINrirPoXPkvCjOk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 10년 영상 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알권리 아닌 검찰 편에 선 법무부... "특활비 예산 빗장 잠가라"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92745801</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92588978"/>
         <updated>2022-01-21T05:09:07.772Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92588978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/IO5gO/btrrfobcc3Y/wVo157Oh71KArYpOqk12qk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">거래의 기술 : 김건희 일가 '삼각 거래' 의혹과 그 대가</span><em class="emph_g">pages.newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령이 KBS 사극 편성에 관여할 수 있나?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92562605</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92562605"/>
-        <updated>2022-01-20T07:10:36.175Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92562605"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/4fJKk/btrrdm4GqUo/iQnT8GAI2vGXk7Q5rlUKb0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령이 KBS 사극 편성에 관여할 수 있나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
