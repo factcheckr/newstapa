@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 07:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 08:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2054,6 +2054,14 @@
             <pubDate>Sun, 10 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA['김중배선언' 30년 특집-누가 언론을 지배하는가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/10185029-293F-9E2C-317B-XZ9TD8Z1902J2F7QZ8YV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희와 장모 최씨 의혹 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/%EA%B9%80%EA%B1%B4%ED%9D%AC%EC%9D%98%ED%98%B9</link>
+            <guid>https://newstapa.org/tags/%EA%B9%80%EA%B1%B4%ED%9D%AC%EC%9D%98%ED%98%B9</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도이치모터스 주가조작 사건과 도촌동 사건 등 윤석열 대선후보의 아내 김건희 씨와 장모 최 씨에게 제기되는 의혹을 취재했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/26164101-C85A-1259-B0FE-R33Y9K4CCMH1EXKU4O0S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광고의 그물망 (뉴스타파 ─ 프로젝트)]]></title>
