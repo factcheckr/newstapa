@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-27T06:10:59.532Z</updated>
+    <updated>2022-01-27T07:10:31.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92768337</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92768337"/>
+        <updated>2022-01-27T07:10:30.509Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92768337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b7Jbgp/btrrQycMJCp/GSS9SAYZTFeAdNfK6DWup0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스쿨] 뉴스타파 10년 독립언론 노하우 공유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92765826</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92745801"/>
         <updated>2022-01-26T07:09:48.056Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92745801"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d2B1a6/btrrPpMwf7y/TqrUul50cvMEugcF31tIgk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">알권리 아닌 검찰 편에 선 법무부... "특활비 예산 빗장 잠가라"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92716778</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92716778"/>
-        <updated>2022-01-25T09:10:18.083Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92716778"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bEhLPe/btrrEU7PrmU/glI3B7aYFAkkAXnkCn1kx0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

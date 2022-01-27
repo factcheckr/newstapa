@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></title>
+            <link>http://newstapa.org/article/lNKu_</link>
+            <guid>http://newstapa.org/article/lNKu_</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27151337-80C2-8CB1-DA5B-FX8ZOB9B6ZWQ221UNVZS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개]]></title>
             <link>http://newstapa.org/article/JzU5c</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 29 Jan 2021 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA[[영화 '족벌' 플러스] 최후진술 김종철 "걸레 같은 신문방송 보는 게 고문"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/29185816-990C-BE1F-99E6-PM07T6KJ6XZ1TBNBFV46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 '족벌' 플러스] ③ 일제 최고 정보기관이 조선·동아를 칭찬한 이유]]></title>
-            <link>http://newstapa.org/article/P0D5B</link>
-            <guid>http://newstapa.org/article/P0D5B</guid>
-            <pubDate>Fri, 15 Jan 2021 00:01:00 GMT</pubDate>
-            <content:encoded><![CDATA[[영화 '족벌' 플러스] ③ 일제 최고 정보기관이 조선·동아를 칭찬한 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/01/15173611-EC9A-6374-E4DE-GB5U5EE165NKAW6YKLBI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
