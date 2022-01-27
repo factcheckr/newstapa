@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정]]></title>
+            <link>https://www.newstapa.org/article/_N8q-</link>
+            <guid>https://www.newstapa.org/article/_N8q-</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.27]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27125316-0A4D-9507-6D17-TKYYKW755TE7Y2EAM0X2.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중]]></title>
             <link>https://www.newstapa.org/article/yxj5l</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.06.10]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/10113739-E793-3CF0-B718-Y3134VGMMXRXX3G5TGIX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 엉터리상 '스티비 어워즈', 공공기관서 사실상 퇴출]]></title>
-            <link>https://www.newstapa.org/article/ubEPB</link>
-            <guid>https://www.newstapa.org/article/ubEPB</guid>
-            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.05.27]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/27140928-54A5-766D-384F-1088GEJCVV6WI616IPWQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

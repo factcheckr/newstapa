@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 04:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 05:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정]]></title>
+            <link>http://newstapa.org/article/_N8q-</link>
+            <guid>http://newstapa.org/article/_N8q-</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27125316-0A4D-9507-6D17-TKYYKW755TE7Y2EAM0X2.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['안철수의 생각'은 10년 간 변하지 않았다?]]></title>
+            <link>http://newstapa.org/article/t0Zyx</link>
+            <guid>http://newstapa.org/article/t0Zyx</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['안철수의 생각'은 10년 간 변하지 않았다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27132836-D508-4069-441E-YZSWDXSDV3LKM9IJ6CLN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 10년 영상 기록]]></title>
             <link>http://newstapa.org/article/in3oN</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열과 신안저축은행, 핵심 고리는 김건희]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/11161824-208C-99B8-7926-PWEGQ9GUP4ZEQS2XPEW2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹]]></title>
-            <link>http://newstapa.org/article/2AlqA</link>
-            <guid>http://newstapa.org/article/2AlqA</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/11175952-AD5B-1D3B-2577-8YLD6HH7C8BPMFXPXXJ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></title>
-            <link>http://newstapa.org/article/d1NFN</link>
-            <guid>http://newstapa.org/article/d1NFN</guid>
-            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/07153614-991A-6BEB-8206-KM1CPV7SXB82VV43D0YN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
