@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-01-28T07:09:44.097Z</updated>
+    <updated>2022-01-28T08:11:20.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['초록동색'...권력이 권력을 수사하는 법]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92794320</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92794320"/>
+        <updated>2022-01-28T08:11:19.366Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92794320"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/htdly/btrr1mIACkk/uyzxdYyAsXVRHHNkvn6171/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'초록동색'...권력이 권력을 수사하는 법</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대선 캠프 분석 ②] 이재명·윤석열 캠프, 부적격·부적절 '폴리널리스트' 수두룩]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92789177</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92764929"/>
         <updated>2022-01-27T05:09:39.457Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92764929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cTn866/btrrTjZKSWN/qm1xHcnUJDCM34z4XzLWCk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'안철수의 생각'은 10년 간 변하지 않았다?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파 10년 영상 기록]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92749774</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92749774"/>
-        <updated>2022-01-26T09:09:56.369Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92749774"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bLIxLz/btrrP4g9Gi1/oJQkVFSINrirPoXPkvCjOk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 10년 영상 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

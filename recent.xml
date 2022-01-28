@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 07:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['초록동색'...권력이 권력을 수사하는 법]]></title>
+            <link>http://newstapa.org/article/Ku6kj</link>
+            <guid>http://newstapa.org/article/Ku6kj</guid>
+            <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['초록동색'...권력이 권력을 수사하는 법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/28152313-E182-5310-D9F6-30SLZI1T7F5THW37H2YL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 캠프 분석 ②] 이재명·윤석열 캠프, 부적격·부적절 '폴리널리스트' 수두룩]]></title>
             <link>http://newstapa.org/article/xPtNy</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14142327-7066-5190-28F8-P8TUOD1P2Y2UNS80SAGB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 특활비 공개 1심 판결, 검찰은 항소 포기하고 자료 공개해야]]></title>
-            <link>http://newstapa.org/article/UshIu</link>
-            <guid>http://newstapa.org/article/UshIu</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 특활비 공개 1심 판결, 검찰은 항소 포기하고 자료 공개해야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14142249-86C9-19AA-C5B9-5GDZMVECYA0IQMGZAS0E.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
