@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 09:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 10:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2895,6 +2895,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스쿨 1기를 모집합니다. (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/92918573</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/92918573</guid>
+            <pubDate>Fri, 04 Feb 2022 10:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92918573"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jYsaw/btrssBT1ffj/Rxv9UQiimfsIZoZCAl5Ih1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스쿨 1기를 모집합니다.</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['초록동색'...권력이 권력을 수사하는 법 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/92794320</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/92794320</guid>
@@ -2928,13 +2935,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/92765053</guid>
             <pubDate>Thu, 27 Jan 2022 05:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92765053"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bGIMqY/btrrP5nSNCK/mv6HAHUMEL2nTPs10Agakk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['안철수의 생각'은 10년 간 변하지 않았다? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92764929</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92764929</guid>
-            <pubDate>Thu, 27 Jan 2022 05:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92764929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cTn866/btrrTjZKSWN/qm1xHcnUJDCM34z4XzLWCk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'안철수의 생각'은 10년 간 변하지 않았다?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
