@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:55:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></title>
+            <link>http://newstapa.org/article/cf0mm</link>
+            <guid>http://newstapa.org/article/cf0mm</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원]]></title>
             <link>http://newstapa.org/article/rw_LZ</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Jan 2021 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[희망브리지, 무자격 재향군인회와 33억 마스크 거래]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/20143131-A166-0A04-57E4-0W3WN6DIMGDFVBOD77PJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '마약왕' 박왕열과 김형렬, 언제쯤 데려와 처벌할 수 있을까]]></title>
-            <link>http://newstapa.org/article/hVg4a</link>
-            <guid>http://newstapa.org/article/hVg4a</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '마약왕' 박왕열과 김형렬, 언제쯤 데려와 처벌할 수 있을까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/29164433-CB24-3E8F-5F47-E03SG7AWIORDTTFDKCDE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

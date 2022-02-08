@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-08T00:28:16.160Z</updated>
+    <updated>2022-02-08T01:55:24.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92960557</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92960557"/>
+        <updated>2022-02-08T01:55:24.175Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92960557"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/biExqF/btrsNwDO0rJ/Slqx5Zew1t0S38o9Bpbqx0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">노지 재배 쌀 배추 무에서 녹조 독소 첫 검출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스쿨 1기를 모집합니다.]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92918573</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92765826"/>
         <updated>2022-01-27T05:09:39.455Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92765826"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpZNXG/btrrRUTBHON/gEkQJ8wObtBDZnCEEJ7n31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] 뉴스타파 10년 독립언론 노하우 공유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92765053</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92765053"/>
-        <updated>2022-01-27T05:09:39.457Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92765053"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bGIMqY/btrrP5nSNCK/mv6HAHUMEL2nTPs10Agakk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

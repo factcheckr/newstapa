@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 00:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:55:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/cf0mm</link>
+            <guid>http://newstapa.org/article/cf0mm</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['초록동색'...권력이 권력을 수사하는 법 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Ku6kj</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기상천외한 검찰의 '신종' 제식구 감싸기 기술]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14160015-E0DC-28CC-6A6F-JJ6LVV1ZHC34BOE54T37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/s0qjB</link>
-            <guid>http://newstapa.org/article/s0qjB</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[최초 승소] 검찰 예산의 빗장을 처음으로 풀었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14142327-7066-5190-28F8-P8TUOD1P2Y2UNS80SAGB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['초록동색'...권력이 권력을 수사하는 법 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/08/0097e01da316915bd478296dbc8aa3a30d219ea37c1f5bf095ade003a7ec30294042b137b8c2e1b0493009c0cb2202d541d56c64e13658067d23153de5891426.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/cf0mm</link>
+            <guid>http://newstapa.org/article/cf0mm</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/GbHde</link>
             <guid>http://newstapa.org/article/GbHde</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Tue, 10 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무늬만 그린 뉴딜, 탄소제로는 빠졌다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/09173710-9311-1881-2EC7-E8P4Q1NJVQR2JQI3H7GD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]정부, 폭염 사망자 집계 기준 변경...이전보다 4배 늘어 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/RV8Nm</link>
-            <guid>http://newstapa.org/article/RV8Nm</guid>
-            <pubDate>Sat, 16 Jan 2021 00:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]정부, 폭염 사망자 집계 기준 변경...이전보다 4배 늘어]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/16140329-5FBA-A109-1D76-FW1P5OX6MH1DB7GBDZEM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/30003231-DCD0-721D-CAFA-XMHOWIRJ1BYB7KW1TNDP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/cf0mm</link>
+            <guid>http://newstapa.org/article/cf0mm</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/rw_LZ</link>
             <guid>http://newstapa.org/article/rw_LZ</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 20 Jan 2021 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[희망브리지, 무자격 재향군인회와 33억 마스크 거래]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/20143131-A166-0A04-57E4-0W3WN6DIMGDFVBOD77PJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '마약왕' 박왕열과 김형렬, 언제쯤 데려와 처벌할 수 있을까 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/hVg4a</link>
-            <guid>http://newstapa.org/article/hVg4a</guid>
-            <pubDate>Fri, 30 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '마약왕' 박왕열과 김형렬, 언제쯤 데려와 처벌할 수 있을까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/29164433-CB24-3E8F-5F47-E03SG7AWIORDTTFDKCDE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법" (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2895,6 +2895,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/92960557</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/92960557</guid>
+            <pubDate>Tue, 08 Feb 2022 01:55:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92960557"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/biExqF/btrsNwDO0rJ/Slqx5Zew1t0S38o9Bpbqx0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">노지 재배 쌀 배추 무에서 녹조 독소 첫 검출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스쿨 1기를 모집합니다. (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/92918573</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/92918573</guid>
@@ -2928,13 +2935,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/92765826</guid>
             <pubDate>Thu, 27 Jan 2022 05:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92765826"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpZNXG/btrrRUTBHON/gEkQJ8wObtBDZnCEEJ7n31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] 뉴스타파 10년 독립언론 노하우 공유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92765053</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92765053</guid>
-            <pubDate>Thu, 27 Jan 2022 05:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92765053"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bGIMqY/btrrP5nSNCK/mv6HAHUMEL2nTPs10Agakk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
