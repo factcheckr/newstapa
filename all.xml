@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 08:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 09:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2895,6 +2895,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년 02월 08일의 소식 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/92971256</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/92971256</guid>
+            <pubDate>Tue, 08 Feb 2022 09:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92971256"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9SXxg/btrsScyvsGV/jJGMqFd6RVItjSucICIr0k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2022년 02월 08일의 소식</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/92960557</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/92960557</guid>
@@ -2928,13 +2935,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/92768337</guid>
             <pubDate>Thu, 27 Jan 2022 07:10:30 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92768337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b7Jbgp/btrrQycMJCp/GSS9SAYZTFeAdNfK6DWup0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스쿨] 뉴스타파 10년 독립언론 노하우 공유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92765826</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92765826</guid>
-            <pubDate>Thu, 27 Jan 2022 05:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92765826"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpZNXG/btrrRUTBHON/gEkQJ8wObtBDZnCEEJ7n31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] 뉴스타파 10년 독립언론 노하우 공유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
