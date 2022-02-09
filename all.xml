@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 09:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 10:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불법에 맞선 비정규직 시위, 모두 유죄 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/JmsaF</link>
+            <guid>http://newstapa.org/article/JmsaF</guid>
+            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[불법에 맞선 비정규직 시위, 모두 유죄]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/09175501-863C-CA56-E506-P8WCPJMPWCDBOKWB3QDR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/w2kZI</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/89Vap</link>
-            <guid>http://newstapa.org/article/89Vap</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] ‘성폭행 시도’ 모텔 사장 구속…보도 석 달만]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14165551-AB0F-186B-2C8C-4UY0W9EKQSYTALF65FH9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -2895,6 +2895,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[불법에 맞선 비정규직 시위, 모두 유죄 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/92991512</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/92991512</guid>
+            <pubDate>Wed, 09 Feb 2022 10:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92991512"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/B4dY2/btrsSu1w3E7/jV27D2RMDeKnfqBrkMBEr1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">불법에 맞선 비정규직 시위, 모두 유죄</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/92971256</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/92971256</guid>
@@ -2928,13 +2935,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/92789177</guid>
             <pubDate>Fri, 28 Jan 2022 05:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92789177"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bx2WwY/btrrZRIM7LC/1HLkpKTisdUZt98BN0HZKk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대선 캠프 분석 ②] 이재명·윤석열 캠프, 부적격·부적절 '폴리널리스트' 수두룩</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92768337</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92768337</guid>
-            <pubDate>Thu, 27 Jan 2022 07:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92768337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b7Jbgp/btrrQycMJCp/GSS9SAYZTFeAdNfK6DWup0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

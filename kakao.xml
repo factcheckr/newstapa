@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-09T09:09:48.910Z</updated>
+    <updated>2022-02-09T10:11:57.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불법에 맞선 비정규직 시위, 모두 유죄]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/92991512</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/92991512"/>
+        <updated>2022-02-09T10:11:57.299Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92991512"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/B4dY2/btrsSu1w3E7/jV27D2RMDeKnfqBrkMBEr1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">불법에 맞선 비정규직 시위, 모두 유죄</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92971256</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92789177"/>
         <updated>2022-01-28T05:09:31.716Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92789177"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bx2WwY/btrrZRIM7LC/1HLkpKTisdUZt98BN0HZKk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대선 캠프 분석 ②] 이재명·윤석열 캠프, 부적격·부적절 '폴리널리스트' 수두룩</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92768337</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92768337"/>
-        <updated>2022-01-27T07:10:30.509Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92768337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b7Jbgp/btrrQycMJCp/GSS9SAYZTFeAdNfK6DWup0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
