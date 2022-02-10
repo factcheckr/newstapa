@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-10T08:11:14.317Z</updated>
+    <updated>2022-02-10T09:10:04.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열의 마지막 결재]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93010955</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93010955"/>
+        <updated>2022-02-10T09:10:03.740Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93010955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vEhs7/btrsXt9hIKe/Iw3h43PQc6ecCoQtBDg91k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열의 마지막 결재</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최저임금 인상분을 정부가 지원해야 한다?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/92997901</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/92918573"/>
         <updated>2022-02-04T10:08:45.603Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92918573"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jYsaw/btrssBT1ffj/Rxv9UQiimfsIZoZCAl5Ih1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스쿨 1기를 모집합니다.</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['초록동색'...권력이 권력을 수사하는 법]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92794320</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92794320"/>
-        <updated>2022-01-28T08:11:19.366Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92794320"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/htdly/btrr1mIACkk/uyzxdYyAsXVRHHNkvn6171/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'초록동색'...권력이 권력을 수사하는 법</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
