@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 06:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 07:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대를 이은 환경부 기만 정책, 조류경보제]]></title>
+            <link>http://newstapa.org/article/97jQT</link>
+            <guid>http://newstapa.org/article/97jQT</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대를 이은 환경부 기만 정책, 조류경보제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/14151024-D191-1B6F-FD10-G7MJNGGP54OUNVLL7NE3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 대선 캠프의 문제적 인사들]]></title>
             <link>http://newstapa.org/article/WTeiG</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[금융실격 ③ 사모펀드 사태, 누가 '야만인'을 불러들였나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/25162347-4FD0-282F-1FB6-OGURPC2K00L9ORHSJ64D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공공관리제 하면 재개발 비리 없어지나?]]></title>
-            <link>http://newstapa.org/article/YcUys</link>
-            <guid>http://newstapa.org/article/YcUys</guid>
-            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공공관리제 하면 재개발 비리 없어지나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/25131951-1F9A-F58B-8878-UE75ZVQ1VO0N7QF8SEX1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
