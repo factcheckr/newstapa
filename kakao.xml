@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-17T08:11:18.608Z</updated>
+    <updated>2022-02-17T09:10:05.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93136148</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93136148"/>
+        <updated>2022-02-17T09:10:05.026Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93136148"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cv2D9X/btrtxmIhM2h/wHE7IEOs2koUJpKhxAUtZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93109573</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93010955"/>
         <updated>2022-02-10T09:10:03.740Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93010955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vEhs7/btrsXt9hIKe/Iw3h43PQc6ecCoQtBDg91k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열의 마지막 결재</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최저임금 인상분을 정부가 지원해야 한다?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/92997901</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/92997901"/>
-        <updated>2022-02-10T01:56:16.954Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/92997901"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bRJ283/btrsW9ChX6d/3TPsjKmfMcmvDbRRNtk8A0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">최저임금 인상분을 정부가 지원해야 한다?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

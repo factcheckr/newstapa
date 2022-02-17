@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0QiTu</link>
+            <guid>http://newstapa.org/article/0QiTu</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/16123757-FF64-4E9A-83C6-8JD3ZEXFCVKLT5CLFEYM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/KLMh7</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파 10년 영상 기록]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/26171432-7723-08FA-8E01-Y6DIA30SMLY7EP5JRQQZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알권리 아닌 검찰 편에 선 법무부... "특활비 예산 빗장 잠가라" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/G3SA1</link>
-            <guid>http://newstapa.org/article/G3SA1</guid>
-            <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[알권리 아닌 검찰 편에 선 법무부... "특활비 예산 빗장 잠가라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/26143838-75BC-ECBF-140A-7QARF6Z8A2VLB7EXMDTU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 대선 캠프의 문제적 인사들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/05175217-D2CD-4EAD-0425-LEC3328T5NLGAOUJL7NJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/0QiTu</link>
+            <guid>http://newstapa.org/article/0QiTu</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/16123757-FF64-4E9A-83C6-8JD3ZEXFCVKLT5CLFEYM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/KLMh7</link>
             <guid>http://newstapa.org/article/KLMh7</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Tue, 26 Jan 2021 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[미얀마 쿠데타, SNS로 본 시민 저항...광주항쟁 떠올라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/26153848-2DE3-7B14-C9D2-JA0WP4VK5UYOGE56XCZT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지역 미군기지 6곳의 '발암 위해도'를 알려드립니다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/YEPnF</link>
-            <guid>http://newstapa.org/article/YEPnF</guid>
-            <pubDate>Sat, 23 Jan 2021 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[지역 미군기지 6곳의 '발암 위해도'를 알려드립니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/22175604-AD57-7352-815A-RGG3ZDMGI4D6JJ94ZY3W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -2895,6 +2895,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93136148</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93136148</guid>
+            <pubDate>Thu, 17 Feb 2022 09:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93136148"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cv2D9X/btrtxmIhM2h/wHE7IEOs2koUJpKhxAUtZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93109573</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93109573</guid>
@@ -2928,13 +2935,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93010955</guid>
             <pubDate>Thu, 10 Feb 2022 09:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93010955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vEhs7/btrsXt9hIKe/Iw3h43PQc6ecCoQtBDg91k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열의 마지막 결재</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최저임금 인상분을 정부가 지원해야 한다? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/92997901</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/92997901</guid>
-            <pubDate>Thu, 10 Feb 2022 01:56:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/92997901"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bRJ283/btrsW9ChX6d/3TPsjKmfMcmvDbRRNtk8A0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">최저임금 인상분을 정부가 지원해야 한다?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
