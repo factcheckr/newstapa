@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-18T05:09:40.667Z</updated>
+    <updated>2022-02-18T06:12:37.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파저널리즘스쿨(뉴스쿨) 1기 모집 마감 D-2]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93154011</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93154011"/>
+        <updated>2022-02-18T06:12:36.669Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93154011"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bCof7p/btrtGiEXOoa/JEEBNgKWwIMqUXm8vhQYS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파저널리즘스쿨(뉴스쿨) 1기 모집 마감 D-2</span><em class="emph_g">withnewstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93136148</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93019408"/>
         <updated>2022-02-11T01:57:02.645Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93019408"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/buTR2J/btrs2E269Uh/nUIiz26c5qtYCyf3cOt4C0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'검찰개혁 촛불문화제'가 사법처리 대상이었다?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열의 마지막 결재]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93010955</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93010955"/>
-        <updated>2022-02-10T09:10:03.740Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93010955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vEhs7/btrsXt9hIKe/Iw3h43PQc6ecCoQtBDg91k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열의 마지막 결재</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
