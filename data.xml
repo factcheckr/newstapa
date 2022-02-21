@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 06:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,13 @@
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 공공 아카이브]]></title>
+            <link>https://publicarchive.newstapa.org/</link>
+            <guid>https://publicarchive.newstapa.org/</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/21142509-BA2B-1F69-347A-OTENKMSR90OCJJ5VUO6H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사전투표일 vs 선거일 투표 경향]]></title>
