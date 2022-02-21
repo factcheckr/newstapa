@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-21T08:13:50.987Z</updated>
+    <updated>2022-02-21T09:11:11.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93207710</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93207710"/>
+        <updated>2022-02-21T09:11:10.497Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93207710"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cv12IO/btrtXxhnupe/NCKq7WaNs04yfkh1VOvWu1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93194449</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93109573"/>
         <updated>2022-02-16T04:11:28.533Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93109573"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dmwdqT/btrtrXVlUVW/2v4MBlcWpe3LyLKZk9VkJk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대를 이은 환경부 기만 정책, 조류경보제]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93070856</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93070856"/>
-        <updated>2022-02-14T07:10:41.844Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93070856"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mE6IF/btrtlUKspUt/BhM6JwOUschKz0mRcMK5dk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대를 이은 환경부 기만 정책, 조류경보제</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
