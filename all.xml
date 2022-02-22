@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 03:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 04:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Lstmi</link>
+            <guid>http://newstapa.org/article/Lstmi</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/21181041-E50B-7E3B-2C47-P1EAWD630HXNHV7C7GDU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/BOxFL</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대선 캠프 분석 ②] 이재명·윤석열 캠프, 부적격·부적절 '폴리널리스트' 수두룩]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/28110333-D322-762C-1EEE-4N968BPE0JQ35U6MSMP2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/lNKu_</link>
-            <guid>http://newstapa.org/article/lNKu_</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27151337-80C2-8CB1-DA5B-FX8ZOB9B6ZWQ221UNVZS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004207-D01C-AF7D-DBBE-YS4ETBA32E1AYNL3VH8B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/Lstmi</link>
+            <guid>http://newstapa.org/article/Lstmi</guid>
+            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/21181041-E50B-7E3B-2C47-P1EAWD630HXNHV7C7GDU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대선 캠프 분석 ②] 이재명·윤석열 캠프, 부적격·부적절 '폴리널리스트' 수두룩 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/xPtNy</link>
             <guid>http://newstapa.org/article/xPtNy</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 시청자 기만한 SBSBiz 체리 협찬방송은 "방심위 제재 사항" (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/aKrUj</link>
-            <guid>http://newstapa.org/article/aKrUj</guid>
-            <pubDate>Thu, 14 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 시청자 기만한 SBSBiz 체리 협찬방송은 "방심위 제재 사항"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/14152757-80DD-EF58-6BD6-OJB2ITFYZHUKIB7Z2I6X.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건희와 장모 최씨 의혹 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2902,6 +2902,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93222271</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93222271</guid>
+            <pubDate>Tue, 22 Feb 2022 04:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93222271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bH7fgK/btrt3eIno0q/rt0SfWsHh6AKbmQfYygGK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[<판도라 페이퍼스> 취재진, 미디어공공성포럼 언론상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93220618</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93220618</guid>
@@ -2935,13 +2942,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93154011</guid>
             <pubDate>Fri, 18 Feb 2022 06:12:36 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93154011"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bCof7p/btrtGiEXOoa/JEEBNgKWwIMqUXm8vhQYS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파저널리즘스쿨(뉴스쿨) 1기 모집 마감 D-2</span><em class="emph_g">withnewstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93136148</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93136148</guid>
-            <pubDate>Thu, 17 Feb 2022 09:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93136148"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cv2D9X/btrtxmIhM2h/wHE7IEOs2koUJpKhxAUtZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

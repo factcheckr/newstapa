@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-22T03:11:19.229Z</updated>
+    <updated>2022-02-22T04:12:17.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93222271</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93222271"/>
+        <updated>2022-02-22T04:12:16.837Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93222271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bH7fgK/btrt3eIno0q/rt0SfWsHh6AKbmQfYygGK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<판도라 페이퍼스> 취재진, 미디어공공성포럼 언론상 수상]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93220618</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93154011"/>
         <updated>2022-02-18T06:12:36.669Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93154011"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bCof7p/btrtGiEXOoa/JEEBNgKWwIMqUXm8vhQYS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파저널리즘스쿨(뉴스쿨) 1기 모집 마감 D-2</span><em class="emph_g">withnewstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93136148</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93136148"/>
-        <updated>2022-02-17T09:10:05.026Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93136148"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cv2D9X/btrtxmIhM2h/wHE7IEOs2koUJpKhxAUtZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
