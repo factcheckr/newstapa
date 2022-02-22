@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2902,6 +2902,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<판도라 페이퍼스> 취재진, 미디어공공성포럼 언론상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93220618</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93220618</guid>
+            <pubDate>Tue, 22 Feb 2022 03:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93220618"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/q5yIE/btrtKGtvEUa/YKlw9PJpWaV8vAKpVzb6z0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">&lt;판도라 페이퍼스&gt; 취재진, 미디어공공성포럼 언론상 수상</span></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93207710</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93207710</guid>
@@ -2935,13 +2942,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93136148</guid>
             <pubDate>Thu, 17 Feb 2022 09:10:05 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93136148"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cv2D9X/btrtxmIhM2h/wHE7IEOs2koUJpKhxAUtZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93109573</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93109573</guid>
-            <pubDate>Wed, 16 Feb 2022 04:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93109573"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dmwdqT/btrtrXVlUVW/2v4MBlcWpe3LyLKZk9VkJk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
