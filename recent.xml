@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 12:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 13:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더초이스 2022] 안철수]]></title>
+            <link>http://newstapa.org/article/TRND2</link>
+            <guid>http://newstapa.org/article/TRND2</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 안철수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23111521-FC72-4E98-4A73-NZ72THWTTPZRLVQL0BQA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></title>
+            <link>http://newstapa.org/article/NQP6T</link>
+            <guid>http://newstapa.org/article/NQP6T</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23202819-1C71-EF5A-9FCE-M8P3859I70QY11YZOI7P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연']]></title>
             <link>http://newstapa.org/article/o51gp</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[불법에 맞선 비정규직 시위, 모두 유죄]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/09175501-863C-CA56-E506-P8WCPJMPWCDBOKWB3QDR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도]]></title>
-            <link>http://newstapa.org/article/w2kZI</link>
-            <guid>http://newstapa.org/article/w2kZI</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08151124-6162-0B61-F62D-XJJZ4A9174JJH9ZH4942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></title>
-            <link>http://newstapa.org/article/cf0mm</link>
-            <guid>http://newstapa.org/article/cf0mm</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

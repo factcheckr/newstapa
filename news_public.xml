@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 12:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 13:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더초이스 2022] 안철수]]></title>
+            <link>http://newstapa.org/article/TRND2</link>
+            <guid>http://newstapa.org/article/TRND2</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 안철수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23111521-FC72-4E98-4A73-NZ72THWTTPZRLVQL0BQA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></title>
+            <link>http://newstapa.org/article/NQP6T</link>
+            <guid>http://newstapa.org/article/NQP6T</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23202819-1C71-EF5A-9FCE-M8P3859I70QY11YZOI7P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연']]></title>
             <link>http://newstapa.org/article/o51gp</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대선 캠프 분석 ①] '중대재해처벌법' 반대 의원 44명 중 33명, 윤석열 캠프 참여]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/24142015-F0C9-3D05-79DB-NQKBVPRSDAWOZGTUCNCS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령이 KBS 사극 편성에 관여할 수 있나?]]></title>
-            <link>http://newstapa.org/article/sfXzb</link>
-            <guid>http://newstapa.org/article/sfXzb</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령이 KBS 사극 편성에 관여할 수 있나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/20134036-F165-47E2-D7BD-5IQYHFI1D98MJSKUGOEM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></title>
-            <link>http://newstapa.org/article/tOiX0</link>
-            <guid>http://newstapa.org/article/tOiX0</guid>
-            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

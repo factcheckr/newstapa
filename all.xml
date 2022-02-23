@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 12:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 13:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더초이스 2022] 안철수 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/TRND2</link>
+            <guid>http://newstapa.org/article/TRND2</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 안철수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23111521-FC72-4E98-4A73-NZ72THWTTPZRLVQL0BQA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 이재명 vs 윤석열 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NQP6T</link>
+            <guid>http://newstapa.org/article/NQP6T</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23202819-1C71-EF5A-9FCE-M8P3859I70QY11YZOI7P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/o51gp</link>
@@ -120,20 +136,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/09175501-863C-CA56-E506-P8WCPJMPWCDBOKWB3QDR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/w2kZI</link>
-            <guid>http://newstapa.org/article/w2kZI</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08151124-6162-0B61-F62D-XJJZ4A9174JJH9ZH4942.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[더초이스 2022] 안철수 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/TRND2</link>
+            <guid>http://newstapa.org/article/TRND2</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 안철수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23111521-FC72-4E98-4A73-NZ72THWTTPZRLVQL0BQA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/cf0mm</link>
-            <guid>http://newstapa.org/article/cf0mm</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[더초이스 2022] 이재명 vs 윤석열 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/NQP6T</link>
+            <guid>http://newstapa.org/article/NQP6T</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23202819-1C71-EF5A-9FCE-M8P3859I70QY11YZOI7P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -246,22 +262,6 @@
             <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대선 캠프 분석 ①] '중대재해처벌법' 반대 의원 44명 중 33명, 윤석열 캠프 참여]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/24142015-F0C9-3D05-79DB-NQKBVPRSDAWOZGTUCNCS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령이 KBS 사극 편성에 관여할 수 있나? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/sfXzb</link>
-            <guid>http://newstapa.org/article/sfXzb</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령이 KBS 사극 편성에 관여할 수 있나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/20134036-F165-47E2-D7BD-5IQYHFI1D98MJSKUGOEM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/tOiX0</link>
-            <guid>http://newstapa.org/article/tOiX0</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열의 마지막 결재 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -2902,6 +2902,27 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[더초이스 2022] 인터뷰 원문 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93257383</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93257383</guid>
+            <pubDate>Wed, 23 Feb 2022 13:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93257383"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dmlb88/btrt7tfYeKa/2YN14EKZvdZBZ8VixBnXGk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 인터뷰 원문 공개</span><em class="emph_g">pages.newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 안철수 - 뉴스타파 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93257273</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93257273</guid>
+            <pubDate>Wed, 23 Feb 2022 13:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93257273"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/drJf31/btrt5xb7Gcp/eSU0G6QR2D5IXNr8Edstv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 안철수 - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 이재명 vs 윤석열 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93257234</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93257234</guid>
+            <pubDate>Wed, 23 Feb 2022 13:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93257234"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/slldz/btrt84G2Gr5/HktbYqGNI9Dsv2EZGnumUK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 이재명 vs 윤석열</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연' (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93225228</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93225228</guid>
@@ -2921,27 +2942,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93222271</guid>
             <pubDate>Tue, 22 Feb 2022 04:12:16 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93222271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bH7fgK/btrt3eIno0q/rt0SfWsHh6AKbmQfYygGK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[<판도라 페이퍼스> 취재진, 미디어공공성포럼 언론상 수상 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93220618</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93220618</guid>
-            <pubDate>Tue, 22 Feb 2022 03:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93220618"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/q5yIE/btrtKGtvEUa/YKlw9PJpWaV8vAKpVzb6z0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">&lt;판도라 페이퍼스&gt; 취재진, 미디어공공성포럼 언론상 수상</span></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93207710</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93207710</guid>
-            <pubDate>Mon, 21 Feb 2022 09:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93207710"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cv12IO/btrtXxhnupe/NCKq7WaNs04yfkh1VOvWu1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93194449</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93194449</guid>
-            <pubDate>Mon, 21 Feb 2022 00:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93194449"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bnjuhy/btrtLANhBzI/XRN0QouKVVvI3KOhYzKQK0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 도이치모터스 주가조작 '전방위 연루' 드러나다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
