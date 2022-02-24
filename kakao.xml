@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-24T04:15:16.840Z</updated>
+    <updated>2022-02-24T05:10:23.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ① 심상정]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93267891</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93267891"/>
+        <updated>2022-02-24T05:10:22.818Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93267891"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/F1day/btruedJ57IA/zy3RkM3wCQkSAmKBNtzdQK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ① 심상정</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더초이스 2022] 인터뷰 원문 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93257383</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93223818"/>
         <updated>2022-02-22T05:10:14.703Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93223818"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cWjK7E/btrt1IXujaI/RiaQ0r4gUoVXEFKzbqUYSK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문재인 정부 집값 폭등, 건국이래 처음?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93222271</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93222271"/>
-        <updated>2022-02-22T04:12:16.837Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93222271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bH7fgK/btrt3eIno0q/rt0SfWsHh6AKbmQfYygGK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
