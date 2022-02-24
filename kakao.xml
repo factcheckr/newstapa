@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-24T06:13:37.855Z</updated>
+    <updated>2022-02-24T07:11:15.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주가조작 연루 김건희 계좌, HTS로도 거래했다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93271558</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93271558"/>
+        <updated>2022-02-24T07:11:14.464Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93271558"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bALB0p/btrugQVlQuh/yqNm2jKXHRLEqSGKMKSkVK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">주가조작 연루 김건희 계좌, HTS로도 거래했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ① 심상정]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93267891</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93225228"/>
         <updated>2022-02-22T06:15:50.524Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93225228"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Nr8dC/btrt4hrJrIY/WBcvX1RE3IMVk2TXU8G350/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연'</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문재인 정부 집값 폭등, 건국이래 처음?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93223818</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93223818"/>
-        <updated>2022-02-22T05:10:14.703Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93223818"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cWjK7E/btrt1IXujaI/RiaQ0r4gUoVXEFKzbqUYSK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문재인 정부 집값 폭등, 건국이래 처음?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
