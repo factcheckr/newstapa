@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2470,6 +2470,13 @@
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 인터뷰 원문 공개 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/n2201</link>
+            <guid>https://pages.newstapa.org/n2201</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24141849-E7E7-AB97-6D1F-HBYKD6W5YL12ZPSOR5XF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 공공 아카이브 (뉴스타파 ─ 데이터)]]></title>
