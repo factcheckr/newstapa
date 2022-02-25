@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-25T02:35:03.391Z</updated>
+    <updated>2022-02-25T03:10:36.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93287386</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93287386"/>
+        <updated>2022-02-25T03:10:35.960Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287386"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/pvw0Q/btrugQoxNt1/kErthjm8F8TQY5jPJpvQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93287271</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93287271"/>
+        <updated>2022-02-25T03:10:35.960Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/l9Cq5/btrugPJU6zN/32UMWJgzwGLokPzcT1LgvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주가조작 연루 김건희 계좌, HTS로도 거래했다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93271558</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93257273"/>
         <updated>2022-02-23T13:15:53.658Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93257273"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/drJf31/btrt5xb7Gcp/eSU0G6QR2D5IXNr8Edstv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 안철수 - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93257234</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93257234"/>
-        <updated>2022-02-23T13:15:53.660Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93257234"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/slldz/btrt84G2Gr5/HktbYqGNI9Dsv2EZGnumUK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 이재명 vs 윤석열</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93225228</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93225228"/>
-        <updated>2022-02-22T06:15:50.524Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93225228"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Nr8dC/btrt4hrJrIY/WBcvX1RE3IMVk2TXU8G350/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연'</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

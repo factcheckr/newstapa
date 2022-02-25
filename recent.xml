@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤]]></title>
+            <link>http://newstapa.org/article/A0BNO</link>
+            <guid>http://newstapa.org/article/A0BNO</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24173048-F708-AA0B-DE08-R7VTL6QCYY298ITS3HFG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호]]></title>
+            <link>http://newstapa.org/article/Hkhmq</link>
+            <guid>http://newstapa.org/article/Hkhmq</guid>
+            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24173119-09D7-FC84-B8F8-5U93VRL27K7Q0G4SSE8T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주가조작 연루 김건희 계좌, HTS로도 거래했다]]></title>
             <link>http://newstapa.org/article/vrtqN</link>
@@ -16,11 +32,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24153428-7D9F-5FD7-D005-8G5XB3YM28X141V0QPNM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ① 심상정]]></title>
+            <title><![CDATA[[더초이스 2022] 대선후보 대담 ① 정의당 심상정]]></title>
             <link>http://newstapa.org/article/Ba4fx</link>
             <guid>http://newstapa.org/article/Ba4fx</guid>
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ① 심상정]]></content:encoded>
+            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ① 정의당 심상정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24134606-F4EC-D027-24B4-HELAUCNHRA9G6QJW18F9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 대선 캠프의 문제적 인사들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/11101809-ADEF-84FF-7881-GNTZZZGT0CBIHB69ZCXA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검찰개혁 촛불문화제'가 사법처리 대상이었다?]]></title>
-            <link>http://newstapa.org/article/nbaqD</link>
-            <guid>http://newstapa.org/article/nbaqD</guid>
-            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검찰개혁 촛불문화제'가 사법처리 대상이었다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/10123501-9590-12FD-A080-VFCP3OGJ32I6VV2HDURY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열의 마지막 결재]]></title>
-            <link>http://newstapa.org/article/DyVMX</link>
-            <guid>http://newstapa.org/article/DyVMX</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열의 마지막 결재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/10110206-CFA2-9AF7-4C0A-9WH0OV3WLBG3ZRGYNE37.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
