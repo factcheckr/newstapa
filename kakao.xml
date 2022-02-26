@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-26T01:53:53.365Z</updated>
+    <updated>2022-02-26T02:28:59.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93314721</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93314721"/>
+        <updated>2022-02-26T02:28:59.010Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93314721"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g3xdl/btruokv3hsT/ObMgRoIKwfQiEn199eqpCk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93314679</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93314679"/>
+        <updated>2022-02-26T02:28:59.011Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93314679"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/5f56j/btruolhoPAF/AhC8MLt4zAttYcQ9yAlKw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93294814</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93271558"/>
         <updated>2022-02-24T07:11:14.464Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93271558"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bALB0p/btrugQVlQuh/yqNm2jKXHRLEqSGKMKSkVK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">주가조작 연루 김건희 계좌, HTS로도 거래했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ① 심상정]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93267891</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93267891"/>
-        <updated>2022-02-24T05:10:22.818Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93267891"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/F1day/btruedJ57IA/zy3RkM3wCQkSAmKBNtzdQK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ① 심상정</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더초이스 2022] 인터뷰 원문 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93257383</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93257383"/>
-        <updated>2022-02-23T13:15:53.657Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93257383"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dmlb88/btrt7tfYeKa/2YN14EKZvdZBZ8VixBnXGk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 인터뷰 원문 공개</span><em class="emph_g">pages.newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
