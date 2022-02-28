@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-28T09:11:08.202Z</updated>
+    <updated>2022-02-28T10:12:58.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93356989</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93356989"/>
+        <updated>2022-02-28T10:12:57.886Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93356989"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EJKbv/btruDBRN30t/sTu9B5rBq7rmKJkhpnWLPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">일제 '태형'에 사망한 조선 청년의 '마지막 소원'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93354288</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93287386"/>
         <updated>2022-02-25T03:10:35.960Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287386"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/pvw0Q/btrugQoxNt1/kErthjm8F8TQY5jPJpvQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93287271</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93287271"/>
-        <updated>2022-02-25T03:10:35.960Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/l9Cq5/btrugPJU6zN/32UMWJgzwGLokPzcT1LgvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

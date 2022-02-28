@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 09:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 10:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/EaoOR</link>
+            <guid>http://newstapa.org/article/EaoOR</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28182504-C5E7-7746-5D98-07ZDW260QSC7Q9G5CJX7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/dVHAi</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/20220601-70B3-5614-C6CC-EVWPJQSSBC9Q40WMNGNS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 도이치모터스 거래 분석 "전형적 작전 패턴" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/WNoFK</link>
-            <guid>http://newstapa.org/article/WNoFK</guid>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 도이치모터스 거래 분석 "전형적 작전 패턴"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/18180545-A0E7-25D9-52AF-2ZNCU8J0F7CNM181PLOY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/08/dd99d23c1db4717205ea387bb7ad9e6122de4eb29f41bfec7f8a30d5cb99c575c638742b69ed7bb65578c6727842f806f6bc88610fc3b0c629c706e0ae3b3e2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원' (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/EaoOR</link>
+            <guid>http://newstapa.org/article/EaoOR</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28182504-C5E7-7746-5D98-07ZDW260QSC7Q9G5CJX7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/lNKu_</link>
             <guid>http://newstapa.org/article/lNKu_</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Sat, 30 Jan 2021 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA[안상근 의문사와 '알프스 계획']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/30163322-C805-D1EF-5E0C-CG9UA93VF631ANLJDLJR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 '족벌' 플러스] 최후진술 김종철 "걸레 같은 신문방송 보는 게 고문" (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/VHYWD</link>
-            <guid>http://newstapa.org/article/VHYWD</guid>
-            <pubDate>Fri, 29 Jan 2021 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[[영화 '족벌' 플러스] 최후진술 김종철 "걸레 같은 신문방송 보는 게 고문"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/29185816-990C-BE1F-99E6-PM07T6KJ6XZ1TBNBFV46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93356989</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93356989</guid>
+            <pubDate>Mon, 28 Feb 2022 10:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93356989"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EJKbv/btruDBRN30t/sTu9B5rBq7rmKJkhpnWLPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">일제 '태형'에 사망한 조선 청년의 '마지막 소원'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93354288</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93354288</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93287386</guid>
             <pubDate>Fri, 25 Feb 2022 03:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287386"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/pvw0Q/btrugQoxNt1/kErthjm8F8TQY5jPJpvQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93287271</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93287271</guid>
-            <pubDate>Fri, 25 Feb 2022 03:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/l9Cq5/btrugPJU6zN/32UMWJgzwGLokPzcT1LgvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
