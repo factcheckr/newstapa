@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-02-28T08:12:30.742Z</updated>
+    <updated>2022-02-28T09:11:08.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93354288</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93354288"/>
+        <updated>2022-02-28T09:11:07.597Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93354288"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ZB21G/btruGZEtKk2/vgnhljxrZNqpag5KcYDLtK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 택배 기사 김봉석과 이수헌</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93314721</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93287271"/>
         <updated>2022-02-25T03:10:35.960Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/l9Cq5/btrugPJU6zN/32UMWJgzwGLokPzcT1LgvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주가조작 연루 김건희 계좌, HTS로도 거래했다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93271558</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93271558"/>
-        <updated>2022-02-24T07:11:14.464Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93271558"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bALB0p/btrugQVlQuh/yqNm2jKXHRLEqSGKMKSkVK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">주가조작 연루 김건희 계좌, HTS로도 거래했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

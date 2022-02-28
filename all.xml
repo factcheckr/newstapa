@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 08:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 09:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dVHAi</link>
+            <guid>http://newstapa.org/article/dVHAi</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28155831-CC90-C6B9-4B08-41D4JQ7P9D30ZADGAUOA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/eArRI</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 도이치모터스 거래 분석 "전형적 작전 패턴"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/18180545-A0E7-25D9-52AF-2ZNCU8J0F7CNM181PLOY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/0QiTu</link>
-            <guid>http://newstapa.org/article/0QiTu</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/16123757-FF64-4E9A-83C6-8JD3ZEXFCVKLT5CLFEYM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/17095514-D837-1727-5684-H7LOLIU3NWGMFLMOKDWX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/dVHAi</link>
+            <guid>http://newstapa.org/article/dVHAi</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28155831-CC90-C6B9-4B08-41D4JQ7P9D30ZADGAUOA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최저임금 인상분을 정부가 지원해야 한다? (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/QuDmI</link>
             <guid>http://newstapa.org/article/QuDmI</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Sun, 31 Jan 2021 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성이 만든 어용 노조, 법원 “설립 무효” 판결]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/31110306-0423-557E-C8EC-EDBLGVBIJVV8SUH9TN8Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SPC 노조 파괴 ② ‘S그룹’ 노조 파괴자는 사장으로...달라진 게 없다 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/q-pIY</link>
-            <guid>http://newstapa.org/article/q-pIY</guid>
-            <pubDate>Tue, 19 Jan 2021 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[SPC 노조 파괴 ② ‘S그룹’ 노조 파괴자는 사장으로...달라진 게 없다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/19171146-1C6C-334F-45F4-4PRDD9K5JJXDIE5FFO9B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대를 이은 환경부 기만 정책, 조류경보제 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93354288</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93354288</guid>
+            <pubDate>Mon, 28 Feb 2022 09:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93354288"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ZB21G/btruGZEtKk2/vgnhljxrZNqpag5KcYDLtK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 택배 기사 김봉석과 이수헌</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93314721</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93314721</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93287271</guid>
             <pubDate>Fri, 25 Feb 2022 03:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287271"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/l9Cq5/btrugPJU6zN/32UMWJgzwGLokPzcT1LgvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주가조작 연루 김건희 계좌, HTS로도 거래했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93271558</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93271558</guid>
-            <pubDate>Thu, 24 Feb 2022 07:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93271558"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bALB0p/btrugQVlQuh/yqNm2jKXHRLEqSGKMKSkVK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">주가조작 연루 김건희 계좌, HTS로도 거래했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
