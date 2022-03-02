@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-02T07:10:28.805Z</updated>
+    <updated>2022-03-02T08:14:48.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 성남시의 수의계약 난맥상]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93389172</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93389172"/>
+        <updated>2022-03-02T08:14:47.798Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93389172"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tszTG/btruQkPHqsH/ZGnxZYmAPesWhOdWe0vpc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재명 성남시의 수의계약 난맥상</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93382952</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93314679"/>
         <updated>2022-02-26T02:28:59.011Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93314679"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/5f56j/btruolhoPAF/AhC8MLt4zAttYcQ9yAlKw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93294814</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93294814"/>
-        <updated>2022-02-25T08:14:09.329Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93294814"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cLnprf/btruh6LYhxb/W07UjcOYnbL64956X7S0kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
