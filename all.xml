@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/DEA7Q</link>
+            <guid>http://newstapa.org/article/DEA7Q</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/EaoOR</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/21172021-60E3-1EE8-C883-GHKK0GNJ69ITKBGXV69S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/j3M5Z</link>
-            <guid>http://newstapa.org/article/j3M5Z</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/20220601-70B3-5614-C6CC-EVWPJQSSBC9Q40WMNGNS.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/DEA7Q</link>
+            <guid>http://newstapa.org/article/DEA7Q</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/09184054-3B10-E4F8-1E76-HX9ADKZPWK24Z2H6VXC3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/w2kZI</link>
-            <guid>http://newstapa.org/article/w2kZI</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대선 캠프 분석 ③] 선거법 위반 31명, 음주운전 28명...이재명 캠프엔 횡령·배임 전력자도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08151124-6162-0B61-F62D-XJJZ4A9174JJH9ZH4942.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/DEA7Q</link>
+            <guid>http://newstapa.org/article/DEA7Q</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤우진, 고대영 전 KBS 사장에게 월 300만 원 고문료, 사무실 제공 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/18175024-920A-21AB-B3E1-RIT4WD9I6MXWUJFIWLJ6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/MDN2j</link>
-            <guid>http://newstapa.org/article/MDN2j</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법원, 이재용에게 "프로포폴 상당, 죄질 가볍지 않아" 벌금 7000만원 선고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28151400-F149-6233-3028-QRXHWLJUSSZ96JMJM1R7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알권리 아닌 검찰 편에 선 법무부... "특활비 예산 빗장 잠가라" (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93382952</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93382952</guid>
+            <pubDate>Wed, 02 Mar 2022 05:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93382952"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AkYIf/btruPasKuIH/k3LFJSYtVCVSlBA8RRKYGK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원' (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93356989</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93356989</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93294814</guid>
             <pubDate>Fri, 25 Feb 2022 08:14:09 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93294814"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cLnprf/btruh6LYhxb/W07UjcOYnbL64956X7S0kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93287386</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93287386</guid>
-            <pubDate>Fri, 25 Feb 2022 03:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287386"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/pvw0Q/btrugQoxNt1/kErthjm8F8TQY5jPJpvQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

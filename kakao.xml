@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-02T04:12:18.413Z</updated>
+    <updated>2022-03-02T05:10:04.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93382952</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93382952"/>
+        <updated>2022-03-02T05:10:04.086Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93382952"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AkYIf/btruPasKuIH/k3LFJSYtVCVSlBA8RRKYGK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93356989</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93294814"/>
         <updated>2022-02-25T08:14:09.329Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93294814"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cLnprf/btruh6LYhxb/W07UjcOYnbL64956X7S0kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93287386</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93287386"/>
-        <updated>2022-02-25T03:10:35.960Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93287386"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/pvw0Q/btrugQoxNt1/kErthjm8F8TQY5jPJpvQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
