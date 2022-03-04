@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 00:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변']]></title>
+            <link>http://newstapa.org/article/FBSSy</link>
+            <guid>http://newstapa.org/article/FBSSy</guid>
+            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/04103721-0D91-FB32-F5DD-ZRJUP18DL9SGGFF9JDUN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명 성남시의 수의계약 난맥상]]></title>
             <link>http://newstapa.org/article/5wKvh</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 대선 캠프의 문제적 인사들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/11101809-ADEF-84FF-7881-GNTZZZGT0CBIHB69ZCXA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검찰개혁 촛불문화제'가 사법처리 대상이었다?]]></title>
-            <link>http://newstapa.org/article/nbaqD</link>
-            <guid>http://newstapa.org/article/nbaqD</guid>
-            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검찰개혁 촛불문화제'가 사법처리 대상이었다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/10123501-9590-12FD-A080-VFCP3OGJ32I6VV2HDURY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
