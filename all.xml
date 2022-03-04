@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,20 +160,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/7u1Qe</link>
-            <guid>http://newstapa.org/article/7u1Qe</guid>
-            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25165658-30A4-0354-2179-UIEQZBZ7N8GGHTLFG8UM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/eArRI</link>
             <guid>http://newstapa.org/article/eArRI</guid>
             <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25170055-0454-56F8-A314-2BE5B99FU6F8MA8ATCXJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/7u1Qe</link>
+            <guid>http://newstapa.org/article/7u1Qe</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25165658-30A4-0354-2179-UIEQZBZ7N8GGHTLFG8UM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93424539</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93424539</guid>
+            <pubDate>Fri, 04 Mar 2022 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93424539"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bh4TKB/btru3sfngrP/9BpWqTTbpDHSG9HTa1N8f1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이재명 성남시의 수의계약 난맥상 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93389172</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93389172</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93314721</guid>
             <pubDate>Sat, 26 Feb 2022 02:28:59 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93314721"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g3xdl/btruokv3hsT/ObMgRoIKwfQiEn199eqpCk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93314679</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93314679</guid>
-            <pubDate>Sat, 26 Feb 2022 02:28:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93314679"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/5f56j/btruolhoPAF/AhC8MLt4zAttYcQ9yAlKw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

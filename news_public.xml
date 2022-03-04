@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></title>
-            <link>http://newstapa.org/article/7u1Qe</link>
-            <guid>http://newstapa.org/article/7u1Qe</guid>
-            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25165658-30A4-0354-2179-UIEQZBZ7N8GGHTLFG8UM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연]]></title>
             <link>http://newstapa.org/article/eArRI</link>
             <guid>http://newstapa.org/article/eArRI</guid>
             <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25170055-0454-56F8-A314-2BE5B99FU6F8MA8ATCXJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></title>
+            <link>http://newstapa.org/article/7u1Qe</link>
+            <guid>http://newstapa.org/article/7u1Qe</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25165658-30A4-0354-2179-UIEQZBZ7N8GGHTLFG8UM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤]]></title>
