@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 16:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 17:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02111820-12C9-7DD1-4A0E-D9XI06HK89X97JHS1YPY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/eArRI</link>
-            <guid>http://newstapa.org/article/eArRI</guid>
-            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25170055-0454-56F8-A314-2BE5B99FU6F8MA8ATCXJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/7u1Qe</link>
             <guid>http://newstapa.org/article/7u1Qe</guid>
             <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25165658-30A4-0354-2179-UIEQZBZ7N8GGHTLFG8UM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/eArRI</link>
+            <guid>http://newstapa.org/article/eArRI</guid>
+            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25170055-0454-56F8-A314-2BE5B99FU6F8MA8ATCXJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공 (뉴스타파 ─ 뉴스)]]></title>
@@ -2056,12 +2056,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[더초이스 2022 (뉴스타파 ─ 프로젝트)]]></title>
-            <link>https://newstapa.org/projects/thechoice2022</link>
-            <guid>https://newstapa.org/projects/thechoice2022</guid>
-            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["그 사람이 싫다면 그 사람을 더 알아야 한다." 링컨이 남긴 말입니다. 대한민국의 새로운 대통령을 뽑는 선거가 다가왔습니다. 유력 대선후보의 면면을 총체적으로 들여다 볼 수 있도록 다큐멘터리로 제작했습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24135530-D352-A4FE-DA54-GMIKRXEPRB7Y2IFJ1L98.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[광고의 그물망 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/%EA%B4%91%EA%B3%A0%EC%9D%98%20%EA%B7%B8%EB%AC%BC%EB%A7%9D</link>
+            <guid>https://newstapa.org/tags/%EA%B4%91%EA%B3%A0%EC%9D%98%20%EA%B7%B8%EB%AC%BC%EB%A7%9D</guid>
+            <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[겉으로는 시청자를 위하는 척 하면서 협찬 받은 제품을 광고하는 방송사의 '뒷광고'. 거미줄처럼 시청자를 옭아매는 방송사 뒷광고 실태를 추적했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/06155005-E6F8-5120-FC1E-SWQ1E5VD9KCN0D5SH1C8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건희와 장모 최씨 의혹 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2072,12 +2072,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/26164101-C85A-1259-B0FE-R33Y9K4CCMH1EXKU4O0S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[광고의 그물망 (뉴스타파 ─ 프로젝트)]]></title>
-            <link>https://newstapa.org/tags/%EA%B4%91%EA%B3%A0%EC%9D%98%20%EA%B7%B8%EB%AC%BC%EB%A7%9D</link>
-            <guid>https://newstapa.org/tags/%EA%B4%91%EA%B3%A0%EC%9D%98%20%EA%B7%B8%EB%AC%BC%EB%A7%9D</guid>
-            <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[겉으로는 시청자를 위하는 척 하면서 협찬 받은 제품을 광고하는 방송사의 '뒷광고'. 거미줄처럼 시청자를 옭아매는 방송사 뒷광고 실태를 추적했습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/06155005-E6F8-5120-FC1E-SWQ1E5VD9KCN0D5SH1C8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[더초이스 2022 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/projects/thechoice2022</link>
+            <guid>https://newstapa.org/projects/thechoice2022</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["그 사람이 싫다면 그 사람을 더 알아야 한다." 링컨이 남긴 말입니다. 대한민국의 새로운 대통령을 뽑는 선거가 다가왔습니다. 유력 대선후보의 면면을 총체적으로 들여다 볼 수 있도록 다큐멘터리로 제작했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24135530-D352-A4FE-DA54-GMIKRXEPRB7Y2IFJ1L98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤우진 - 검찰 커넥션 (뉴스타파 ─ 프로젝트)]]></title>
