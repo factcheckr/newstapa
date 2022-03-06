@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 12:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 13:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></title>
+            <link>http://newstapa.org/article/ybGav</link>
+            <guid>http://newstapa.org/article/ybGav</guid>
+            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/06212556-B9AF-477E-F77A-BH6UUFKCKLR7Q63CV6TV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변']]></title>
             <link>http://newstapa.org/article/FBSSy</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 도이치모터스 거래 분석 "전형적 작전 패턴"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/18180545-A0E7-25D9-52AF-2ZNCU8J0F7CNM181PLOY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 대선 캠프의 문제적 인사들]]></title>
-            <link>http://newstapa.org/article/WTeiG</link>
-            <guid>http://newstapa.org/article/WTeiG</guid>
-            <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 대선 캠프의 문제적 인사들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/11101809-ADEF-84FF-7881-GNTZZZGT0CBIHB69ZCXA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
