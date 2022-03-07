@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 04:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/BOqmT</link>
+            <guid>http://newstapa.org/article/BOqmT</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/07113759-D0A4-4258-10D1-J5IJ8RFUD9UBYUA4KLOO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ybGav</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[더초이스 2022] 이재명 vs 윤석열]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/23202819-1C71-EF5A-9FCE-M8P3859I70QY11YZOI7P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/o51gp</link>
-            <guid>http://newstapa.org/article/o51gp</guid>
-            <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[성남진흥원의 '이재명 캠프·인수위 자녀' 채용... 면접관 다수 '이재명과 인연']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/18092019-D4AA-BC7E-1021-KLCW8ONCOUDBK0K59TPV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/04b1e173e71f47028ec97517738d805da0daf2aadb322947f314832a30765312dc093682fe576154e6d0d4c68fe080de73140c0c8c9c5c28c4af93bde7abefde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/BOqmT</link>
+            <guid>http://newstapa.org/article/BOqmT</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/07113759-D0A4-4258-10D1-J5IJ8RFUD9UBYUA4KLOO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/_N8q-</link>
             <guid>http://newstapa.org/article/_N8q-</guid>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 09 Jan 2019 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[한전과 퇴피아 ① 23년 독점계약의 비밀]]></content:encoded>
             <enclosure url="https://img.youtube.com/vi/2ANZXlPlc0k/maxresdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[갑질타파] "나는 코레일에 서울역 시계탑을 빼앗겼다" (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/oYm6b</link>
-            <guid>http://newstapa.org/article/oYm6b</guid>
-            <pubDate>Sat, 05 Jan 2019 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[[갑질타파] "나는 코레일에 서울역 시계탑을 빼앗겼다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/08/0097e01da316915bd478296dbc8aa3a30d219ea37c1f5bf095ade003a7ec30294042b137b8c2e1b0493009c0cb2202d541d56c64e13658067d23153de5891426.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대를 이은 환경부 기만 정책, 조류경보제 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93520509</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93520509</guid>
+            <pubDate>Mon, 07 Mar 2022 04:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93520509"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cnNxjs/btrvhM5721c/AzKSirIad1snjDkpg0kBBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[김만배 음성파일] "박영수-윤석열 통해 부산저축은행 사건 해결" - 뉴스타파 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93507997</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93507997</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93356989</guid>
             <pubDate>Mon, 28 Feb 2022 10:12:57 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93356989"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EJKbv/btruDBRN30t/sTu9B5rBq7rmKJkhpnWLPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">일제 '태형'에 사망한 조선 청년의 '마지막 소원'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93354288</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93354288</guid>
-            <pubDate>Mon, 28 Feb 2022 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93354288"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ZB21G/btruGZEtKk2/vgnhljxrZNqpag5KcYDLtK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 택배 기사 김봉석과 이수헌</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

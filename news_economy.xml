@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 03:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 04:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></title>
+            <link>http://newstapa.org/article/BOqmT</link>
+            <guid>http://newstapa.org/article/BOqmT</guid>
+            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/07113759-D0A4-4258-10D1-J5IJ8RFUD9UBYUA4KLOO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정]]></title>
             <link>http://newstapa.org/article/_N8q-</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 09 Jan 2019 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[한전과 퇴피아 ① 23년 독점계약의 비밀]]></content:encoded>
             <enclosure url="https://img.youtube.com/vi/2ANZXlPlc0k/maxresdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[갑질타파] "나는 코레일에 서울역 시계탑을 빼앗겼다"]]></title>
-            <link>http://newstapa.org/article/oYm6b</link>
-            <guid>http://newstapa.org/article/oYm6b</guid>
-            <pubDate>Sat, 05 Jan 2019 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[[갑질타파] "나는 코레일에 서울역 시계탑을 빼앗겼다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/08/0097e01da316915bd478296dbc8aa3a30d219ea37c1f5bf095ade003a7ec30294042b137b8c2e1b0493009c0cb2202d541d56c64e13658067d23153de5891426.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
