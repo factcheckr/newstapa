@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 07:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 08:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자]]></title>
+            <link>http://newstapa.org/article/-xlb2</link>
+            <guid>http://newstapa.org/article/-xlb2</guid>
+            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/08160202-2936-6EDD-0BE3-01YBBIJBNCJJW34BL7SM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></title>
             <link>http://newstapa.org/article/ybGav</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/20220601-70B3-5614-C6CC-EVWPJQSSBC9Q40WMNGNS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 도이치모터스 거래 분석 "전형적 작전 패턴"]]></title>
-            <link>http://newstapa.org/article/WNoFK</link>
-            <guid>http://newstapa.org/article/WNoFK</guid>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 도이치모터스 거래 분석 "전형적 작전 패턴"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/18180545-A0E7-25D9-52AF-2ZNCU8J0F7CNM181PLOY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-08T07:11:15.168Z</updated>
+    <updated>2022-03-08T08:12:56.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93555126</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93555126"/>
+        <updated>2022-03-08T08:12:55.831Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93555126"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yKlZO/btrvtbYI6Co/4ebTeYWusyTlT9vrBJOHmk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93520509</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93382952"/>
         <updated>2022-03-02T05:10:04.086Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93382952"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AkYIf/btruPasKuIH/k3LFJSYtVCVSlBA8RRKYGK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93356989</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93356989"/>
-        <updated>2022-02-28T10:12:57.886Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93356989"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EJKbv/btruDBRN30t/sTu9B5rBq7rmKJkhpnWLPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">일제 '태형'에 사망한 조선 청년의 '마지막 소원'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
