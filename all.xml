@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 09:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 10:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93628614</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93628614</guid>
+            <pubDate>Fri, 11 Mar 2022 10:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93628614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bDvTxv/btrvLIt3pjk/C9SUujMckgFVGhHc8U5Ff1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스쿨 1기 20명 선발, 독립언론 100개 만들기 프로젝트 시작 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93628200</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93628200</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93424539</guid>
             <pubDate>Fri, 04 Mar 2022 03:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93424539"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bh4TKB/btru3sfngrP/9BpWqTTbpDHSG9HTa1N8f1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이재명 성남시의 수의계약 난맥상 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93389172</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93389172</guid>
-            <pubDate>Wed, 02 Mar 2022 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93389172"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tszTG/btruQkPHqsH/ZGnxZYmAPesWhOdWe0vpc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재명 성남시의 수의계약 난맥상</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

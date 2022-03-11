@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-11T09:11:19.840Z</updated>
+    <updated>2022-03-11T10:11:50.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93628614</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93628614"/>
+        <updated>2022-03-11T10:11:50.255Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93628614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bDvTxv/btrvLIt3pjk/C9SUujMckgFVGhHc8U5Ff1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스쿨 1기 20명 선발, 독립언론 100개 만들기 프로젝트 시작]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93628200</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93424539"/>
         <updated>2022-03-04T03:14:04.870Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93424539"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bh4TKB/btru3sfngrP/9BpWqTTbpDHSG9HTa1N8f1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 성남시의 수의계약 난맥상]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93389172</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93389172"/>
-        <updated>2022-03-02T08:14:47.798Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93389172"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tszTG/btruQkPHqsH/ZGnxZYmAPesWhOdWe0vpc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재명 성남시의 수의계약 난맥상</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
