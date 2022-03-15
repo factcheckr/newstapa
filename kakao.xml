@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-15T08:12:50.484Z</updated>
+    <updated>2022-03-15T09:11:13.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93698294</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93698294"/>
+        <updated>2022-03-15T09:11:13.095Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93698294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/J2ATM/btrv2FSzcEK/m6kSP8wCK8Vpm1KFtYdoBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93628614</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93507997"/>
         <updated>2022-03-06T13:14:12.904Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93507997"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ke4rE/btrvaJh6aoK/IeNscUdlIDELydR9PnkQT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[김만배 음성파일] "박영수-윤석열 통해 부산저축은행 사건 해결" - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93424539</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93424539"/>
-        <updated>2022-03-04T03:14:04.870Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93424539"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bh4TKB/btru3sfngrP/9BpWqTTbpDHSG9HTa1N8f1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

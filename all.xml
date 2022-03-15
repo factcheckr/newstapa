@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/BscBe</link>
+            <guid>http://newstapa.org/article/BscBe</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/15175454-7C35-BDD0-B1C1-A836RRZQ5MK8S24ZKPMG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/-y3Vk</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[주가조작 연루 김건희 계좌, HTS로도 거래했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24153428-7D9F-5FD7-D005-8G5XB3YM28X141V0QPNM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ① 정의당 심상정 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Ba4fx</link>
-            <guid>http://newstapa.org/article/Ba4fx</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ① 정의당 심상정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24134606-F4EC-D027-24B4-HELAUCNHRA9G6QJW18F9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/30163322-C805-D1EF-5E0C-CG9UA93VF631ANLJDLJR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/BscBe</link>
+            <guid>http://newstapa.org/article/BscBe</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/15175454-7C35-BDD0-B1C1-A836RRZQ5MK8S24ZKPMG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[판도라페이퍼스에 불법 'FX마진거래' 조직 다수 발견 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/PiYh_</link>
             <guid>http://newstapa.org/article/PiYh_</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[사상최대 조세도피처 정보유출...판도라상자 열리다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004306-EDDA-7040-DD52-QR6IGWADU9AQOFYI2E9O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 사업가의 홍콩 페이퍼컴퍼니 사용 후기 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/fqJDP</link>
-            <guid>http://newstapa.org/article/fqJDP</guid>
-            <pubDate>Mon, 04 Jan 2021 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[어느 사업가의 홍콩 페이퍼컴퍼니 사용 후기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004207-D01C-AF7D-DBBE-YS4ETBA32E1AYNL3VH8B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93698294</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93698294</guid>
+            <pubDate>Tue, 15 Mar 2022 09:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93698294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/J2ATM/btrv2FSzcEK/m6kSP8wCK8Vpm1KFtYdoBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93628614</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93628614</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93507997</guid>
             <pubDate>Sun, 06 Mar 2022 13:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93507997"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ke4rE/btrvaJh6aoK/IeNscUdlIDELydR9PnkQT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[김만배 음성파일] "박영수-윤석열 통해 부산저축은행 사건 해결" - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변' (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93424539</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93424539</guid>
-            <pubDate>Fri, 04 Mar 2022 03:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93424539"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bh4TKB/btru3sfngrP/9BpWqTTbpDHSG9HTa1N8f1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
