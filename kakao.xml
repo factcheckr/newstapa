@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-16T00:35:02.945Z</updated>
+    <updated>2022-03-16T02:17:01.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93709957</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93709957"/>
+        <updated>2022-03-16T02:17:00.752Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93709957"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP6h0t/btrv2Ez7cFH/3UacP32PvHyuTkOyFuQoWk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93698294</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93520509"/>
         <updated>2022-03-07T04:14:48.758Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93520509"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cnNxjs/btrvhM5721c/AzKSirIad1snjDkpg0kBBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김만배 음성파일] "박영수-윤석열 통해 부산저축은행 사건 해결" - 뉴스타파]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93507997</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93507997"/>
-        <updated>2022-03-06T13:14:12.904Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93507997"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ke4rE/btrvaJh6aoK/IeNscUdlIDELydR9PnkQT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[김만배 음성파일] "박영수-윤석열 통해 부산저축은행 사건 해결" - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

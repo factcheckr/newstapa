@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 00:35:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 02:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></title>
+            <link>http://newstapa.org/article/H9at7</link>
+            <guid>http://newstapa.org/article/H9at7</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/15200516-B6B4-B514-A3B9-DJKNBPBTQFMFY4V9X1KV.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자]]></title>
             <link>http://newstapa.org/article/-xlb2</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[문재인 정부 집값 폭등, 건국이래 처음?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24162641-555A-0876-EB91-8DAIXY7R47FW1DAJ4VPP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다]]></title>
-            <link>http://newstapa.org/article/j3M5Z</link>
-            <guid>http://newstapa.org/article/j3M5Z</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 도이치모터스 주가조작 '전방위 연루' 드러나다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/20220601-70B3-5614-C6CC-EVWPJQSSBC9Q40WMNGNS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
