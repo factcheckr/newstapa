@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2661,6 +2661,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/H9at7</link>
+            <guid>https://www.newstapa.org/article/H9at7</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.16]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/17094457-DFCB-788A-561B-S2D0YKCFS97IV856N2JW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/-y3Vk</link>
+            <guid>https://www.newstapa.org/article/-y3Vk</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.11]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/11171503-886A-8890-0D15-MZB0VZ9AGHWOD754F6ID.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/_N8q-</link>
             <guid>https://www.newstapa.org/article/_N8q-</guid>
@@ -2771,22 +2787,6 @@
             <pubDate>Tue, 13 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.07.13]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/13170508-24D9-2DDF-FC93-D9V6DQU0HXS14WJ8MT86.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 542일 암 환자들의 투쟁...'공룡' 삼성생명을 움직였다 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/uSLTb</link>
-            <guid>https://www.newstapa.org/article/uSLTb</guid>
-            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.07.12]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/12150232-A47F-8EB9-4FE9-SBQ08WQVX5MIUPPD5W2X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] LG유플러스 고객 연체료 불법 추심, 과징금 6억 부과 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/tIkOp</link>
-            <guid>https://www.newstapa.org/article/tIkOp</guid>
-            <pubDate>Thu, 10 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.06.10]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/10113739-E793-3CF0-B718-Y3134VGMMXRXX3G5TGIX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대학생탐사공모] '상도동 이야기' 2부. 도시의 끝자락으로 (뉴스타파 ─ 참여)]]></title>
