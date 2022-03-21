@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-21T07:10:59.227Z</updated>
+    <updated>2022-03-21T08:13:31.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고문] '국방부 강제퇴거 사건', 그 총체적 난맥상]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93808472</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93808472"/>
+        <updated>2022-03-21T08:13:31.015Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93808472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MkoGz/btrwJWFbPzI/KtOrkc2z2KELho9W90hjI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[기고문] '국방부 강제퇴거 사건', 그 총체적 난맥상</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93709957</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93555126"/>
         <updated>2022-03-08T08:12:55.831Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93555126"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yKlZO/btrvtbYI6Co/4ebTeYWusyTlT9vrBJOHmk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93520509</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93520509"/>
-        <updated>2022-03-07T04:14:48.758Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93520509"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cnNxjs/btrvhM5721c/AzKSirIad1snjDkpg0kBBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
