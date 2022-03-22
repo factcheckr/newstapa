@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 03:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 04:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,11 +56,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28152159-73AB-7FBE-F6D6-XHQ285JUOZ8Z6N6X9ANC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></title>
+            <title><![CDATA[[변화] 환경부 “녹조 농작물 실험하겠다”, 환경단체 “민관공동으로 하라”]]></title>
             <link>http://newstapa.org/article/L_DVR</link>
             <guid>http://newstapa.org/article/L_DVR</guid>
             <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 환경부 "녹조 농작물 실험하겠다" 환경단체 "민관공동으로 하라"]]></content:encoded>
+            <content:encoded><![CDATA[[변화] 환경부 “녹조 농작물 실험하겠다”, 환경단체 “민관공동으로 하라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
