@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-25T09:11:33.936Z</updated>
+    <updated>2022-03-25T10:13:16.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[윤석열 인수위 검증] 장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93903835</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93903835"/>
+        <updated>2022-03-25T10:13:15.489Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93903835"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/h5O9i/btrxiWFamAY/ZWw9n3dif8FA3yZdGA47x0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 인수위 검증] 장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93902847</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93709957"/>
         <updated>2022-03-16T02:17:00.752Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93709957"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP6h0t/btrv2Ez7cFH/3UacP32PvHyuTkOyFuQoWk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93698294</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93698294"/>
-        <updated>2022-03-15T09:11:13.095Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93698294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/J2ATM/btrv2FSzcEK/m6kSP8wCK8Vpm1KFtYdoBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
