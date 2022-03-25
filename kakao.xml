@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-25T08:13:40.454Z</updated>
+    <updated>2022-03-25T09:11:33.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93902847</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93902847"/>
+        <updated>2022-03-25T09:11:33.231Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93902847"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvZ6za/btrxhOnmk9r/ZBi5eKFqxV2tV0Z3TmAK4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">추가 반환 용산기지에도 중금속 검출...공원화 차질 우려</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93878567</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93698294"/>
         <updated>2022-03-15T09:11:13.095Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93698294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/J2ATM/btrv2FSzcEK/m6kSP8wCK8Vpm1KFtYdoBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93628614</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93628614"/>
-        <updated>2022-03-11T10:11:50.255Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93628614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bDvTxv/btrvLIt3pjk/C9SUujMckgFVGhHc8U5Ff1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

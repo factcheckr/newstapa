@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 08:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 09:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></title>
+            <link>http://newstapa.org/article/nOJV-</link>
+            <guid>http://newstapa.org/article/nOJV-</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성]]></title>
             <link>http://newstapa.org/article/j1V3-</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4대강 10년의 기록, 예고된 죽음]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/25130000-982B-6ADE-100F-SJ2P4ZT52DUKKME8VB5V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙동강·금강에서 물놀이 기준치의 최고 수백 배 녹조 독성 검출]]></title>
-            <link>http://newstapa.org/article/nQqZg</link>
-            <guid>http://newstapa.org/article/nQqZg</guid>
-            <pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[낙동강·금강에서 물놀이 기준치의 최고 수백 배 녹조 독성 검출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/24173923-2EAF-9C26-3633-8UIFBDCT18KUKOL5C9O4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

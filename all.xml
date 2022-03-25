@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 08:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 09:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/nOJV-</link>
+            <guid>http://newstapa.org/article/nOJV-</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/h4Wee</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ⑤ 진보당 김재연]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25165658-30A4-0354-2179-UIEQZBZ7N8GGHTLFG8UM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/eArRI</link>
-            <guid>http://newstapa.org/article/eArRI</guid>
-            <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ④ 새로운물결 김동연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25170055-0454-56F8-A314-2BE5B99FU6F8MA8ATCXJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고문] '국방부 강제퇴거 사건', 그 총체적 난맥상 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://img.youtube.com/vi/2ANZXlPlc0k/maxresdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/nOJV-</link>
+            <guid>http://newstapa.org/article/nOJV-</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/j1V3-</link>
             <guid>http://newstapa.org/article/j1V3-</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Mon, 25 Jan 2021 00:08:00 GMT</pubDate>
             <content:encoded><![CDATA[4대강 10년의 기록, 예고된 죽음]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/25130000-982B-6ADE-100F-SJ2P4ZT52DUKKME8VB5V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙동강·금강에서 물놀이 기준치의 최고 수백 배 녹조 독성 검출 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/nQqZg</link>
-            <guid>http://newstapa.org/article/nQqZg</guid>
-            <pubDate>Tue, 24 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[낙동강·금강에서 물놀이 기준치의 최고 수백 배 녹조 독성 검출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/24173923-2EAF-9C26-3633-8UIFBDCT18KUKOL5C9O4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/05175217-D2CD-4EAD-0425-LEC3328T5NLGAOUJL7NJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/nOJV-</link>
+            <guid>http://newstapa.org/article/nOJV-</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/BOxFL</link>
             <guid>http://newstapa.org/article/BOxFL</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Mon, 11 Jan 2021 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[김일성 왈가왈부 : ‘그 법’의 7조]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/11002605-FB8B-DE3D-1434-D5G2D5F8US1DGEKIILYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안상근 의문사와 '알프스 계획' (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/pzHtk</link>
-            <guid>http://newstapa.org/article/pzHtk</guid>
-            <pubDate>Sat, 30 Jan 2021 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[안상근 의문사와 '알프스 계획']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/30163322-C805-D1EF-5E0C-CG9UA93VF631ANLJDLJR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/93902847</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/93902847</guid>
+            <pubDate>Fri, 25 Mar 2022 09:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93902847"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvZ6za/btrxhOnmk9r/ZBi5eKFqxV2tV0Z3TmAK4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">추가 반환 용산기지에도 중금속 검출...공원화 차질 우려</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93878567</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93878567</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93698294</guid>
             <pubDate>Tue, 15 Mar 2022 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93698294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/J2ATM/btrv2FSzcEK/m6kSP8wCK8Vpm1KFtYdoBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93628614</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93628614</guid>
-            <pubDate>Fri, 11 Mar 2022 10:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93628614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bDvTxv/btrvLIt3pjk/C9SUujMckgFVGhHc8U5Ff1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
