@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-03-28T00:36:28.022Z</updated>
+    <updated>2022-03-28T02:30:06.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/93936711</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/93936711"/>
+        <updated>2022-03-28T02:30:05.733Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93936711"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpojRg/btrxwYJPlXQ/bqvhWkIj9glq7ZaLP2Egt0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[윤석열 인수위 검증] 장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/93903835</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93808472"/>
         <updated>2022-03-21T08:13:31.015Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93808472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MkoGz/btrwJWFbPzI/KtOrkc2z2KELho9W90hjI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[기고문] '국방부 강제퇴거 사건', 그 총체적 난맥상</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93709957</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93709957"/>
-        <updated>2022-03-16T02:17:00.752Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93709957"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP6h0t/btrv2Ez7cFH/3UacP32PvHyuTkOyFuQoWk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
