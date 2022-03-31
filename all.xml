@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 08:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 09:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/B0lw-</link>
+            <guid>http://newstapa.org/article/B0lw-</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31171735-71B7-8552-8616-4X2MBYUFR9D13JP2DJ2A.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/jT3Ww</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이재명 성남시의 수의계약 난맥상]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02164211-82DC-55D5-7F25-B8E7465XRCRZPU78SA7Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/DEA7Q</link>
-            <guid>http://newstapa.org/article/DEA7Q</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹...보고서 베껴 학술지 3곳 중복 투고 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/25130000-982B-6ADE-100F-SJ2P4ZT52DUKKME8VB5V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/B0lw-</link>
+            <guid>http://newstapa.org/article/B0lw-</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31171735-71B7-8552-8616-4X2MBYUFR9D13JP2DJ2A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/jT3Ww</link>
             <guid>http://newstapa.org/article/jT3Ww</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 27 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[협성대 총장님의 ‘보이지 않는 손’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/27142404-3E76-0801-9FA1-D6RX99BYTP6LLZWGI1JS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해운대그랜드호텔 대표의 '다잉 메시지' (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/-nj7D</link>
-            <guid>http://newstapa.org/article/-nj7D</guid>
-            <pubDate>Tue, 19 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[해운대그랜드호텔 대표의 '다잉 메시지']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/17195349-D35D-2FA5-D3B1-LG5TCALGEW75J14EOD7I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94030722</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94030722</guid>
+            <pubDate>Thu, 31 Mar 2022 09:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94030722"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cbc8vV/btrx7zBNwdR/EnbkKkwoJivqyVGOuJXvPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94017368</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94017368</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93878567</guid>
             <pubDate>Thu, 24 Mar 2022 09:11:17 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93878567"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/IK0tx/btrxcxkQt4a/4KvIPUVJs2oQls8UWv0q9k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재용, '준법 약속' 직후에도 프로포폴 불법 투약</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93822032</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93822032</guid>
-            <pubDate>Tue, 22 Mar 2022 02:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93822032"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b1WtyF/btrwMGvOqoj/IMcK3R9pHzvxuLaHAt8C3k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
