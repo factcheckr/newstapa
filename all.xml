@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 00:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/jT3Ww</link>
+            <guid>http://newstapa.org/article/jT3Ww</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹...보고서 베껴 학술지 3곳 중복 투고 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/PqPzr</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/EaoOR</link>
-            <guid>http://newstapa.org/article/EaoOR</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28182504-C5E7-7746-5D98-07ZDW260QSC7Q9G5CJX7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹...보고서 베껴 학술지 3곳 중복 투고 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/25130000-982B-6ADE-100F-SJ2P4ZT52DUKKME8VB5V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/jT3Ww</link>
+            <guid>http://newstapa.org/article/jT3Ww</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/dVHAi</link>
             <guid>http://newstapa.org/article/dVHAi</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 19 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[해운대그랜드호텔 대표의 '다잉 메시지']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/17195349-D35D-2FA5-D3B1-LG5TCALGEW75J14EOD7I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성이 만든 어용 노조, 법원 “설립 무효” 판결 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/zjIQl</link>
-            <guid>http://newstapa.org/article/zjIQl</guid>
-            <pubDate>Sun, 31 Jan 2021 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성이 만든 어용 노조, 법원 “설립 무효” 판결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/31110306-0423-557E-C8EC-EDBLGVBIJVV8SUH9TN8Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/25130000-982B-6ADE-100F-SJ2P4ZT52DUKKME8VB5V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/jT3Ww</link>
+            <guid>http://newstapa.org/article/jT3Ww</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법" (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/a8uRJ</link>
             <guid>http://newstapa.org/article/a8uRJ</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Mon, 21 Jan 2019 00:11:00 GMT</pubDate>
             <content:encoded><![CDATA[어느 특권층 자녀들의 '특별한' 스펙 쌓기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/11/7daead9c792b02bf82dacc57fc96b51ebf5aa6c03f5b989f2b2076b906d718011f040c79722066e9bafe07bce2673125f431a5467a1d57867bc5b24676d52814.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] "병역법위반은 공익신고 아니다?"..부패신고 외면한 국민권익위 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/_89g_</link>
-            <guid>http://newstapa.org/article/_89g_</guid>
-            <pubDate>Wed, 16 Jan 2019 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] "병역법위반은 공익신고 아니다?"..부패신고 외면한 국민권익위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/08/dd99d23c1db4717205ea387bb7ad9e6122de4eb29f41bfec7f8a30d5cb99c575c638742b69ed7bb65578c6727842f806f6bc88610fc3b0c629c706e0ae3b3e2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원' (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94017368</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94017368</guid>
+            <pubDate>Thu, 31 Mar 2022 02:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94017368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dnkskI/btrx059P40S/ALZQNWs4NKKTsTQkbvbYlK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 폭력 총장이 복귀했습니다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/93936711</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/93936711</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/93822032</guid>
             <pubDate>Tue, 22 Mar 2022 02:23:28 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93822032"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b1WtyF/btrwMGvOqoj/IMcK3R9pHzvxuLaHAt8C3k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[기고문] '국방부 강제퇴거 사건', 그 총체적 난맥상 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/93808472</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/93808472</guid>
-            <pubDate>Mon, 21 Mar 2022 08:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/93808472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MkoGz/btrwJWFbPzI/KtOrkc2z2KELho9W90hjI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[기고문] '국방부 강제퇴거 사건', 그 총체적 난맥상</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
