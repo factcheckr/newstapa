@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-05T07:11:23.872Z</updated>
+    <updated>2022-04-05T08:13:26.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94122993</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94122993"/>
+        <updated>2022-04-05T08:13:26.297Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94122993"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ricm4/btryt5IIEMc/rNr36rTMPIRoTfHlc0sBC0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94030722</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93902847"/>
         <updated>2022-03-25T09:11:33.231Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93902847"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvZ6za/btrxhOnmk9r/ZBi5eKFqxV2tV0Z3TmAK4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">추가 반환 용산기지에도 중금속 검출...공원화 차질 우려</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93878567</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93878567"/>
-        <updated>2022-03-24T09:11:17.297Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93878567"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/IK0tx/btrxcxkQt4a/4KvIPUVJs2oQls8UWv0q9k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이재용, '준법 약속' 직후에도 프로포폴 불법 투약</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
