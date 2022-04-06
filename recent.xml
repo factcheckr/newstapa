@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도]]></title>
+            <link>http://newstapa.org/article/znz45</link>
+            <guid>http://newstapa.org/article/znz45</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06175036-0E29-63E7-B443-4I0SOECCH59CQNIMNAW5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></title>
             <link>http://newstapa.org/article/bMinp</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/07113759-D0A4-4258-10D1-J5IJ8RFUD9UBYUA4KLOO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></title>
-            <link>http://newstapa.org/article/ybGav</link>
-            <guid>http://newstapa.org/article/ybGav</guid>
-            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/06212556-B9AF-477E-F77A-BH6UUFKCKLR7Q63CV6TV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

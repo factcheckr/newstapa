@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-06T08:13:23.937Z</updated>
+    <updated>2022-04-06T09:11:43.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94148220</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94148220"/>
+        <updated>2022-04-06T09:11:42.604Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94148220"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hmtRy/btryCkE8uCL/aLwWq87N2hlY98inhTzf61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94136251</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93936711"/>
         <updated>2022-03-28T02:30:05.733Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93936711"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpojRg/btrxwYJPlXQ/bqvhWkIj9glq7ZaLP2Egt0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤석열 인수위 검증] 장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93903835</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93903835"/>
-        <updated>2022-03-25T10:13:15.489Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93903835"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/h5O9i/btrxiWFamAY/ZWw9n3dif8FA3yZdGA47x0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 인수위 검증] 장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
