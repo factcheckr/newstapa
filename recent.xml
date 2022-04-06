@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 00:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></title>
+            <link>http://newstapa.org/article/bMinp</link>
+            <guid>http://newstapa.org/article/bMinp</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06100200-6A91-9214-02F9-TRFSG1PSB8CUII56K598.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트]]></title>
             <link>http://newstapa.org/article/mPMvH</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/06212556-B9AF-477E-F77A-BH6UUFKCKLR7Q63CV6TV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변']]></title>
-            <link>http://newstapa.org/article/FBSSy</link>
-            <guid>http://newstapa.org/article/FBSSy</guid>
-            <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰총장 특활비 공개 소송, 검찰 항소이유서 '궤변']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/04103721-0D91-FB32-F5DD-ZRJUP18DL9SGGFF9JDUN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

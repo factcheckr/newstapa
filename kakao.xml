@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-06T00:40:32.796Z</updated>
+    <updated>2022-04-06T02:26:21.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94136251</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94136251"/>
+        <updated>2022-04-06T02:26:20.800Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94136251"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EUsjD/btryxH1Z1QA/lLCbI6bMCjtG8KRkkgE9S1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤석열 특수활동비' 항소심 본격 개시</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94122993</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/93903835"/>
         <updated>2022-03-25T10:13:15.489Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93903835"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/h5O9i/btrxiWFamAY/ZWw9n3dif8FA3yZdGA47x0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 인수위 검증] 장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93902847</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93902847"/>
-        <updated>2022-03-25T09:11:33.231Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93902847"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvZ6za/btrxhOnmk9r/ZBi5eKFqxV2tV0Z3TmAK4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">추가 반환 용산기지에도 중금속 검출...공원화 차질 우려</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
