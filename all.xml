@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 02:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/lS4CT</link>
+            <guid>http://newstapa.org/article/lS4CT</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06222939-94D6-0192-15DB-QYAGPZVD6QCIOJ9AAZOX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/znz45</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/08160202-2936-6EDD-0BE3-01YBBIJBNCJJW34BL7SM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/BOqmT</link>
-            <guid>http://newstapa.org/article/BOqmT</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/07113759-D0A4-4258-10D1-J5IJ8RFUD9UBYUA4KLOO.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/lS4CT</link>
+            <guid>http://newstapa.org/article/lS4CT</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06222939-94D6-0192-15DB-QYAGPZVD6QCIOJ9AAZOX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ③ 노동당 이백윤]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24173048-F708-AA0B-DE08-R7VTL6QCYY298ITS3HFG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Hkhmq</link>
-            <guid>http://newstapa.org/article/Hkhmq</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[더초이스 2022] 대선후보 대담 ② 기본소득당 오준호]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24173119-09D7-FC84-B8F8-5U93VRL27K7Q0G4SSE8T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
