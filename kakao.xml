@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-07T03:25:33.163Z</updated>
+    <updated>2022-04-07T04:13:08.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94159791</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94159791"/>
+        <updated>2022-04-07T04:13:07.977Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94159791"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/LFKGH/btryIpkVZm4/XTlMPKBSKxGr0MIYdsUgU1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94148220</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94017368"/>
         <updated>2022-03-31T02:24:48.480Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94017368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dnkskI/btrx059P40S/ALZQNWs4NKKTsTQkbvbYlK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 폭력 총장이 복귀했습니다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/93936711</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/93936711"/>
-        <updated>2022-03-28T02:30:05.733Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/93936711"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpojRg/btrxwYJPlXQ/bqvhWkIj9glq7ZaLP2Egt0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 인수위 검증] 당선자 '외교 책사' 연구윤리 위반 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
