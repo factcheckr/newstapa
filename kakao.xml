@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-12T05:10:59.161Z</updated>
+    <updated>2022-04-12T06:13:08.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94268671</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94268671"/>
+        <updated>2022-04-12T06:13:07.819Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94268671"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PrZar/btry8QqFwhC/Swpw7lKv2MdLTL0cGp4Fuk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘서학개미 공직자'가 보유한 해외주식 1위는 애플..2, 3위는?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94164180</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94122993"/>
         <updated>2022-04-05T08:13:26.297Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94122993"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ricm4/btryt5IIEMc/rNr36rTMPIRoTfHlc0sBC0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94030722</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94030722"/>
-        <updated>2022-03-31T09:12:47.241Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94030722"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cbc8vV/btrx7zBNwdR/EnbkKkwoJivqyVGOuJXvPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
