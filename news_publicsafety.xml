@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 04:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ②]]></title>
+            <link>http://newstapa.org/article/hhbYK</link>
+            <guid>http://newstapa.org/article/hhbYK</guid>
+            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ②]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132304-CE54-EC89-2565-8VYK5S28W7AOCSX6M0AI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></title>
+            <link>http://newstapa.org/article/TjrSB</link>
+            <guid>http://newstapa.org/article/TjrSB</guid>
+            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132240-F4D7-D515-2007-VTTPJ40YGT9COGQ4GJ0C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성]]></title>
             <link>http://newstapa.org/article/j1V3-</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[[텔레그램 마약방] 마약상 김형렬, 신종 마약 'ADB-부티나카' 국내 밀반입]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/06134647-0A57-72D0-05CC-5GKSJE0TZDDMW9YH5WBS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 재벌의 민낯 ① 영풍이 오염시킨 땅에 혈세 쓰인다]]></title>
-            <link>http://newstapa.org/article/FMQct</link>
-            <guid>http://newstapa.org/article/FMQct</guid>
-            <pubDate>Wed, 06 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[책 재벌의 민낯 ① 영풍이 오염시킨 땅에 혈세 쓰인다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/06144426-7B15-25CC-9270-B9FHN6QWTHBL9AHR035K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4대강 10년의 기록, 예고된 죽음]]></title>
-            <link>http://newstapa.org/article/_Dqxu</link>
-            <guid>http://newstapa.org/article/_Dqxu</guid>
-            <pubDate>Mon, 25 Jan 2021 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[4대강 10년의 기록, 예고된 죽음]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/25130000-982B-6ADE-100F-SJ2P4ZT52DUKKME8VB5V.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

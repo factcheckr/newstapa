@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-13T04:13:43.965Z</updated>
+    <updated>2022-04-13T05:10:48.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ②]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94290485</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94290485"/>
+        <updated>2022-04-13T05:10:47.953Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94290485"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/CdbBi/btrzeZOnAYB/WX9bR2knyhehWhokOGHQdK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 대한민국 마약 - 최정옥 케이스 ②</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94290442</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94290442"/>
+        <updated>2022-04-13T05:10:47.954Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94290442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dqrkzE/btrziguzeHu/wZApjcVYpx5MaS670m2kX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 대한민국 마약 - 최정옥 케이스 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94268671</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94148220"/>
         <updated>2022-04-06T09:11:42.604Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94148220"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hmtRy/btryCkE8uCL/aLwWq87N2hlY98inhTzf61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94136251</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94136251"/>
-        <updated>2022-04-06T02:26:20.800Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94136251"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EUsjD/btryxH1Z1QA/lLCbI6bMCjtG8KRkkgE9S1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤석열 특수활동비' 항소심 본격 개시</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94122993</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94122993"/>
-        <updated>2022-04-05T08:13:26.297Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94122993"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ricm4/btryt5IIEMc/rNr36rTMPIRoTfHlc0sBC0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

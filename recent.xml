@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 04:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ②]]></title>
+            <link>http://newstapa.org/article/hhbYK</link>
+            <guid>http://newstapa.org/article/hhbYK</guid>
+            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ②]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132304-CE54-EC89-2565-8VYK5S28W7AOCSX6M0AI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></title>
+            <link>http://newstapa.org/article/TjrSB</link>
+            <guid>http://newstapa.org/article/TjrSB</guid>
+            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132240-F4D7-D515-2007-VTTPJ40YGT9COGQ4GJ0C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청]]></title>
             <link>http://newstapa.org/article/TkSaT</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기고문] '국방부 강제퇴거 사건', 그 총체적 난맥상]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/21153811-DC4E-D74B-CD77-F18GYHT7DEUIX7VI85TG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></title>
-            <link>http://newstapa.org/article/H9at7</link>
-            <guid>http://newstapa.org/article/H9at7</guid>
-            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/17094457-DFCB-788A-561B-S2D0YKCFS97IV856N2JW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부]]></title>
-            <link>http://newstapa.org/article/BscBe</link>
-            <guid>http://newstapa.org/article/BscBe</guid>
-            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/15175454-7C35-BDD0-B1C1-A836RRZQ5MK8S24ZKPMG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 04:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 05:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></title>
+            <link>http://newstapa.org/article/TjrSB</link>
+            <guid>http://newstapa.org/article/TjrSB</guid>
+            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132240-F4D7-D515-2007-VTTPJ40YGT9COGQ4GJ0C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청]]></title>
             <link>http://newstapa.org/article/TkSaT</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤우진 구속영장...윤석열 아킬레스건, '윤우진 3030 대포폰']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/03184046-E81B-DAD5-9459-LW50OFROLEZWH6XR54VU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></title>
-            <link>http://newstapa.org/article/miFA_</link>
-            <guid>http://newstapa.org/article/miFA_</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/02173909-F9C2-423A-B377-9ERKM7EE7OLYVOO3XM1J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
