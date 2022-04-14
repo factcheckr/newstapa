@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-14T00:45:38.274Z</updated>
+    <updated>2022-04-14T02:41:21.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94304541</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94304541"/>
+        <updated>2022-04-14T02:41:20.442Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94304541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eJL2jL/btrziFP0ov9/QKAUsYvxoYdKNHNqb0kL4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ②]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94290485</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94159791"/>
         <updated>2022-04-07T04:13:07.977Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94159791"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/LFKGH/btryIpkVZm4/XTlMPKBSKxGr0MIYdsUgU1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94148220</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94148220"/>
-        <updated>2022-04-06T09:11:42.604Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94148220"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hmtRy/btryCkE8uCL/aLwWq87N2hlY98inhTzf61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">고위공직자 '사인간 대출' 증가...자녀에게 주택자금 대여도</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
