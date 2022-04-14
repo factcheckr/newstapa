@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 09:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 10:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/mDXEi</link>
+            <guid>http://newstapa.org/article/mDXEi</guid>
+            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14121747-E111-4144-C2BC-XOPGZ520VQ11MWN2QOOZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/2UF6J</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/h4Wee</link>
-            <guid>http://newstapa.org/article/h4Wee</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/24094031-C06C-89CA-A075-X7BD2N8JFUZEZ90K2OIA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/04b1e173e71f47028ec97517738d805da0daf2aadb322947f314832a30765312dc093682fe576154e6d0d4c68fe080de73140c0c8c9c5c28c4af93bde7abefde.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/mDXEi</link>
+            <guid>http://newstapa.org/article/mDXEi</guid>
+            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14121747-E111-4144-C2BC-XOPGZ520VQ11MWN2QOOZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다시 촛불이 묻는다 : 문재인 정부 경제 5년의 기록 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/BOqmT</link>
             <guid>http://newstapa.org/article/BOqmT</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 10 Jan 2019 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[한전과 퇴피아 ② 퇴직자만 배불리는 '수의계약']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/10/a0d7564565e1ce65e6f7cad3d61f2718dab532b2821b299751f3ffbe9d0ba9ceb73897875e14b65a26a3118cf12e19c28b522ad23aa7ee228622bc70e3d0f93c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한전과 퇴피아 ① 23년 독점계약의 비밀 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/BOiwg</link>
-            <guid>http://newstapa.org/article/BOiwg</guid>
-            <pubDate>Wed, 09 Jan 2019 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[한전과 퇴피아 ① 23년 독점계약의 비밀]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/2ANZXlPlc0k/maxresdefault.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94318668</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94318668</guid>
+            <pubDate>Thu, 14 Apr 2022 10:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94318668"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dZLSM2/btrzmkkIgiE/BNwhjQhkvr8TjT5Fl9Ta6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94310258</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94310258</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94268671</guid>
             <pubDate>Tue, 12 Apr 2022 06:13:07 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94268671"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PrZar/btry8QqFwhC/Swpw7lKv2MdLTL0cGp4Fuk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘서학개미 공직자'가 보유한 해외주식 1위는 애플..2, 3위는? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94164180</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94164180</guid>
-            <pubDate>Thu, 07 Apr 2022 07:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94164180"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cjINH2/btryJi7txLs/tVUjSi3Y5JH9Ks1kNkkKW1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘서학개미 공직자'가 보유한 해외주식 1위는 애플..2, 3위는?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
