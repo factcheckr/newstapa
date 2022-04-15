@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 09:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 10:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개]]></title>
+            <link>http://newstapa.org/article/LP4tv</link>
+            <guid>http://newstapa.org/article/LP4tv</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15173029-E444-AE4B-0394-8V0J23PCVE7HBJ91EPEP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></title>
             <link>http://newstapa.org/article/PKpAV</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14214832-0D8A-4425-1159-ZS1OMQG3R9OC9H52XW46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개]]></title>
-            <link>http://newstapa.org/article/LP4tv</link>
-            <guid>http://newstapa.org/article/LP4tv</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15173029-E444-AE4B-0394-8V0J23PCVE7HBJ91EPEP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다]]></title>
