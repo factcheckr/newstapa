@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 04:31:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/H10U7</link>
+            <guid>http://newstapa.org/article/H10U7</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14214832-0D8A-4425-1159-ZS1OMQG3R9OC9H52XW46.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/mDXEi</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25175645-2706-241E-39AB-4JMP7RGH7P2RW1AJKSD1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/nOJV-</link>
-            <guid>http://newstapa.org/article/nOJV-</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/27142404-3E76-0801-9FA1-D6RX99BYTP6LLZWGI1JS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/H10U7</link>
+            <guid>http://newstapa.org/article/H10U7</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14214832-0D8A-4425-1159-ZS1OMQG3R9OC9H52XW46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ② (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/hhbYK</link>
             <guid>http://newstapa.org/article/hhbYK</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Fri, 08 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[책 재벌의 민낯 ② 영풍 환경오염 책임자, 옥살이 중에도 임원 재직]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/08145224-8FCA-FC16-3433-2HZ1OS7TWQHLN7ILL8OT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[텔레그램 마약방] 마약상 김형렬, 신종 마약 'ADB-부티나카' 국내 밀반입 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/S6r-r</link>
-            <guid>http://newstapa.org/article/S6r-r</guid>
-            <pubDate>Thu, 07 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[텔레그램 마약방] 마약상 김형렬, 신종 마약 'ADB-부티나카' 국내 밀반입]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/06134647-0A57-72D0-05CC-5GKSJE0TZDDMW9YH5WBS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94331404</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94331404</guid>
+            <pubDate>Fri, 15 Apr 2022 05:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94331404"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yv6ym/btrzraPKl3s/S4fLlTGDGKkk2MDrhvG0Pk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '세월호 참사 팩트체킹 시스템' 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94318668</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94318668</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94290442</guid>
             <pubDate>Wed, 13 Apr 2022 05:10:47 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94290442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dqrkzE/btrziguzeHu/wZApjcVYpx5MaS670m2kX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 대한민국 마약 - 최정옥 케이스 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94268671</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94268671</guid>
-            <pubDate>Tue, 12 Apr 2022 06:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94268671"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PrZar/btry8QqFwhC/Swpw7lKv2MdLTL0cGp4Fuk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

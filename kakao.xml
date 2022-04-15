@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-15T04:31:30.348Z</updated>
+    <updated>2022-04-15T05:18:29.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94331404</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94331404"/>
+        <updated>2022-04-15T05:18:29.025Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94331404"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yv6ym/btrzraPKl3s/S4fLlTGDGKkk2MDrhvG0Pk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '세월호 참사 팩트체킹 시스템' 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94318668</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94290442"/>
         <updated>2022-04-13T05:10:47.954Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94290442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dqrkzE/btrziguzeHu/wZApjcVYpx5MaS670m2kX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 대한민국 마약 - 최정옥 케이스 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94268671</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94268671"/>
-        <updated>2022-04-12T06:13:07.819Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94268671"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PrZar/btry8QqFwhC/Swpw7lKv2MdLTL0cGp4Fuk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
