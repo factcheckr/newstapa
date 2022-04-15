@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 08:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 09:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MB정부 언론통제 대통령기록물 원본 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/PKpAV</link>
+            <guid>http://newstapa.org/article/PKpAV</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15145028-3E49-5E83-D5AA-2GH58EQ8R947IPBG10WM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/H10U7</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14214832-0D8A-4425-1159-ZS1OMQG3R9OC9H52XW46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/LP4tv</link>
+            <guid>http://newstapa.org/article/LP4tv</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15173029-E444-AE4B-0394-8V0J23PCVE7HBJ91EPEP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다 (뉴스타파 ─ 뉴스)]]></title>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당선자 '외교 책사' 연구윤리 위반 의혹...보고서 베껴 학술지 3곳 중복 투고 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/PqPzr</link>
-            <guid>http://newstapa.org/article/PqPzr</guid>
-            <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[당선자 '외교 책사' 연구윤리 위반 의혹...보고서 베껴 학술지 3곳 중복 투고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25213118-D842-7E3C-8E8A-M59RA3494MOWMNWZEDNZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/zPnii</link>
-            <guid>http://newstapa.org/article/zPnii</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[장제원 일가가 억대 세금 안 내고 고급아파트에 사는 법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25175645-2706-241E-39AB-4JMP7RGH7P2RW1AJKSD1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MB정부 언론통제 대통령기록물 원본 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/PKpAV</link>
+            <guid>http://newstapa.org/article/PKpAV</guid>
+            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15145028-3E49-5E83-D5AA-2GH58EQ8R947IPBG10WM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이재명 성남시의 수의계약 난맥상]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02164211-82DC-55D5-7F25-B8E7465XRCRZPU78SA7Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/DEA7Q</link>
-            <guid>http://newstapa.org/article/DEA7Q</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -2917,6 +2917,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MB정부 언론통제 대통령기록물 원본 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94337937</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94337937</guid>
+            <pubDate>Fri, 15 Apr 2022 09:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94337937"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/F4Cjh/btrzvbf5n13/8I70RnkZMWDH0ctGNHJIh1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">MB정부 언론통제 대통령기록물 원본 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 인수위 인사들의 MB정부 언론통제 기록 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94337788</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94337788</guid>
+            <pubDate>Fri, 15 Apr 2022 09:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94337788"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/4tBOh/btrztXpylVP/9Kg35xDClkERpinHg7zT7K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 인수위 인사들의 MB정부 언론통제 기록 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94331404</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94331404</guid>
@@ -2943,20 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94304541</guid>
             <pubDate>Thu, 14 Apr 2022 02:41:20 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94304541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eJL2jL/btrziFP0ov9/QKAUsYvxoYdKNHNqb0kL4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ② (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94290485</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94290485</guid>
-            <pubDate>Wed, 13 Apr 2022 05:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94290485"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/CdbBi/btrzeZOnAYB/WX9bR2knyhehWhokOGHQdK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 대한민국 마약 - 최정옥 케이스 ②</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ① (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94290442</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94290442</guid>
-            <pubDate>Wed, 13 Apr 2022 05:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94290442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dqrkzE/btrziguzeHu/wZApjcVYpx5MaS670m2kX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 대한민국 마약 - 최정옥 케이스 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
