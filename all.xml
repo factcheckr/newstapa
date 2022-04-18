@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 00:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 02:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/YIvo-</link>
+            <guid>http://newstapa.org/article/YIvo-</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18095554-5B50-0CB8-819D-WOUQ10WGFXE4Q29FLH3D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/LP4tv</link>
@@ -21,7 +29,7 @@
             <guid>http://newstapa.org/article/PKpAV</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15145028-3E49-5E83-D5AA-2GH58EQ8R947IPBG10WM.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18101353-BE0D-3AD0-1B8B-ZTQT2OF2BU34AKDSH23T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 뉴스)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31171735-71B7-8552-8616-4X2MBYUFR9D13JP2DJ2A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/jT3Ww</link>
-            <guid>http://newstapa.org/article/jT3Ww</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/LP4tv</link>
             <guid>http://newstapa.org/article/LP4tv</guid>
@@ -149,7 +149,7 @@
             <guid>http://newstapa.org/article/PKpAV</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15145028-3E49-5E83-D5AA-2GH58EQ8R947IPBG10WM.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18101353-BE0D-3AD0-1B8B-ZTQT2OF2BU34AKDSH23T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -312,11 +312,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25161232-EC87-C0D9-DC7B-ZVMHAMIHXSOVVLE96XF6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열의 마지막 결재 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <title><![CDATA[윤석열의 마지막 결재① 한밤의 교통사고 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/DyVMX</link>
             <guid>http://newstapa.org/article/DyVMX</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열의 마지막 결재]]></content:encoded>
+            <content:encoded><![CDATA[윤석열의 마지막 결재① 한밤의 교통사고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/10110206-CFA2-9AF7-4C0A-9WH0OV3WLBG3ZRGYNE37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/05175217-D2CD-4EAD-0425-LEC3328T5NLGAOUJL7NJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개' (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/YIvo-</link>
+            <guid>http://newstapa.org/article/YIvo-</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18095554-5B50-0CB8-819D-WOUQ10WGFXE4Q29FLH3D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/nOJV-</link>
             <guid>http://newstapa.org/article/nOJV-</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Thu, 28 Jan 2021 00:05:00 GMT</pubDate>
             <content:encoded><![CDATA[국정원, 탈북자 간첩사건 조사 후 '규정 위반 없었다' 결론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/28150549-B3DD-3644-5E23-4C83ER6LNA4NZAIWWBI5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일성 왈가왈부 : ‘그 법’의 7조 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/50OLk</link>
-            <guid>http://newstapa.org/article/50OLk</guid>
-            <pubDate>Mon, 11 Jan 2021 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[김일성 왈가왈부 : ‘그 법’의 7조]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/11002605-FB8B-DE3D-1434-D5G2D5F8US1DGEKIILYN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정의는 없었다…이재용 ‘스위스계좌’ 조사도 않고 면죄부 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/03153348-9D20-6BE9-4364-8FETVOX2CFLAN12JMBGQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94364909</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94364909</guid>
+            <pubDate>Mon, 18 Apr 2022 02:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94364909"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OQIr0/btrzFHloFuQ/6GqMbjetFJulkRdsBOBR7K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[MB정부 언론통제 대통령기록물 원본 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94337937</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94337937</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94310258</guid>
             <pubDate>Thu, 14 Apr 2022 05:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94310258"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kKDlr/btrzjn9B1GN/9PG2jX4GgHcFd1iRkwChoK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[기고문] '청와대이전TF'는 법의 사각지대?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94304541</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94304541</guid>
-            <pubDate>Thu, 14 Apr 2022 02:41:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94304541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eJL2jL/btrziFP0ov9/QKAUsYvxoYdKNHNqb0kL4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

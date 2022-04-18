@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 00:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 02:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></title>
+            <link>http://newstapa.org/article/YIvo-</link>
+            <guid>http://newstapa.org/article/YIvo-</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18095554-5B50-0CB8-819D-WOUQ10WGFXE4Q29FLH3D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개]]></title>
             <link>http://newstapa.org/article/LP4tv</link>
@@ -21,7 +29,7 @@
             <guid>http://newstapa.org/article/PKpAV</guid>
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15145028-3E49-5E83-D5AA-2GH58EQ8R947IPBG10WM.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18101353-BE0D-3AD0-1B8B-ZTQT2OF2BU34AKDSH23T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중대재해법 두 달① 아직, 김용균의 죽음은 되풀이된다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31171735-71B7-8552-8616-4X2MBYUFR9D13JP2DJ2A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></title>
-            <link>http://newstapa.org/article/jT3Ww</link>
-            <guid>http://newstapa.org/article/jT3Ww</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
