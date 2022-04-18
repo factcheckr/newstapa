@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-18T09:11:28.980Z</updated>
+    <updated>2022-04-18T10:12:48.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열의 마지막 결재② 사라진 공중전화]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94377316</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94377316"/>
+        <updated>2022-04-18T10:12:47.370Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94377316"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b5X0p9/btrzIsbfzOx/P4Wgjn3qjGH0HK6KqP44SK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열의 마지막 결재② 사라진 공중전화</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94364909</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94318668"/>
         <updated>2022-04-14T10:11:44.776Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94318668"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dZLSM2/btrzmkkIgiE/BNwhjQhkvr8TjT5Fl9Ta6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94310258</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94310258"/>
-        <updated>2022-04-14T05:11:21.304Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94310258"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kKDlr/btrzjn9B1GN/9PG2jX4GgHcFd1iRkwChoK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[기고문] '청와대이전TF'는 법의 사각지대?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
