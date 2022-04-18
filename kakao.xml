@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-18T11:11:04.329Z</updated>
+    <updated>2022-04-18T12:17:24.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남겨진 사람들 ①유가족 전담 공무원을 아십니까]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94379211</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94379211"/>
+        <updated>2022-04-18T12:17:23.812Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94379211"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Gtq43/btrzHNAh5j5/hYxwVwsb7D16zILAAQr1gK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">남겨진 사람들 ①유가족 전담 공무원을 아십니까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열의 마지막 결재② 사라진 공중전화]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94377316</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94331404"/>
         <updated>2022-04-15T05:18:29.025Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94331404"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yv6ym/btrzraPKl3s/S4fLlTGDGKkk2MDrhvG0Pk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '세월호 참사 팩트체킹 시스템' 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94318668</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94318668"/>
-        <updated>2022-04-14T10:11:44.776Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94318668"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dZLSM2/btrzmkkIgiE/BNwhjQhkvr8TjT5Fl9Ta6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

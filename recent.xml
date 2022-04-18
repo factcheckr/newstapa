@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 11:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 12:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남겨진 사람들 ①유가족 전담 공무원을 아십니까]]></title>
+            <link>http://newstapa.org/article/bQrZj</link>
+            <guid>http://newstapa.org/article/bQrZj</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남겨진 사람들 ①유가족 전담 공무원을 아십니까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18170313-B5E8-CD3E-B18A-GBQKR7RWJX6RT2EVCC99.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 마지막 결재② 사라진 공중전화]]></title>
             <link>http://newstapa.org/article/ABmX8</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06100200-6A91-9214-02F9-TRFSG1PSB8CUII56K598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트]]></title>
-            <link>http://newstapa.org/article/mPMvH</link>
-            <guid>http://newstapa.org/article/mPMvH</guid>
-            <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[고위공직자 보유 건물 임대보증금 2천 7백억..뉴스타파 공직자재산 사이트 업데이트]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/05163702-CDFA-3D3B-30AD-MF3D9HD8ZRWT73NAFJNK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
