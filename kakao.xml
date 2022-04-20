@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-20T00:42:20.401Z</updated>
+    <updated>2022-04-20T03:05:09.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그럼에도 출근]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94403004</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94403004"/>
+        <updated>2022-04-20T03:05:09.257Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94403004"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/L09fQ/btrzQYuzm7A/14JQUeTpKUpCgtN2cIqfJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">그럼에도 출근</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남겨진 사람들 ①유가족 전담 공무원을 아십니까]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94379211</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94337788"/>
         <updated>2022-04-15T09:11:18.098Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94337788"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/4tBOh/btrztXpylVP/9Kg35xDClkERpinHg7zT7K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 인수위 인사들의 MB정부 언론통제 기록 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94331404</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94331404"/>
-        <updated>2022-04-15T05:18:29.025Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94331404"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yv6ym/btrzraPKl3s/S4fLlTGDGKkk2MDrhvG0Pk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '세월호 참사 팩트체킹 시스템' 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
