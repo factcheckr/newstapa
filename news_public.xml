@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경북 봉화군의 수상한 건설사들]]></title>
+            <link>http://newstapa.org/article/R7_IP</link>
+            <guid>http://newstapa.org/article/R7_IP</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경북 봉화군의 수상한 건설사들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/21151417-C4D5-ADE4-821F-V5BM1C1KYY8UNUU9HNJ7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현숙, 교수 임용 앞두고 업적 부풀리기 의혹]]></title>
             <link>http://newstapa.org/article/Ew1xc</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/08160202-2936-6EDD-0BE3-01YBBIJBNCJJW34BL7SM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></title>
-            <link>http://newstapa.org/article/ybGav</link>
-            <guid>http://newstapa.org/article/ybGav</guid>
-            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[김만배 음성파일]“박영수-윤석열 통해 부산저축은행 사건 해결”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/06212556-B9AF-477E-F77A-BH6UUFKCKLR7Q63CV6TV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
