@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-21T06:14:59.116Z</updated>
+    <updated>2022-04-21T07:11:24.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현숙, 교수 임용 앞두고 업적 부풀리기 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94431502</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94431502"/>
+        <updated>2022-04-21T07:11:23.457Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94431502"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bsdAIk/btrz2pSO9m2/iJdhCf2pOpZFaAdyHkmLAk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김현숙, 교수 임용 앞두고 업적 부풀리기 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남겨진 사람들 ②투입부터 되는 유가족 전담 공무원]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94417628</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94364909"/>
         <updated>2022-04-18T02:52:10.866Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94364909"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OQIr0/btrzFHloFuQ/6GqMbjetFJulkRdsBOBR7K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94337937</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94337937"/>
-        <updated>2022-04-15T09:11:18.097Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94337937"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/F4Cjh/btrzvbf5n13/8I70RnkZMWDH0ctGNHJIh1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">MB정부 언론통제 대통령기록물 원본 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
