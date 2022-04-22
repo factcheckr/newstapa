@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 12:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 13:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2917,6 +2917,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[남겨진 사람들 ③회복은 남겨진 사람들의 권리 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94457776</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94457776</guid>
+            <pubDate>Fri, 22 Apr 2022 13:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94457776"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/u04dk/btrAc6dySZc/AfAICtcw3bR6Ilqv46j2H0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">남겨진 사람들 ③회복은 남겨진 사람들의 권리</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94453629</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94453629</guid>
@@ -2950,13 +2957,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94417628</guid>
             <pubDate>Wed, 20 Apr 2022 12:17:27 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94417628"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/du15Vg/btrzYjZo8Y8/1BXBPQVX5HQmkZhyAlSuF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">남겨진 사람들 ②투입부터 되는 유가족 전담 공무원</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그럼에도 출근 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94403004</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94403004</guid>
-            <pubDate>Wed, 20 Apr 2022 03:05:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94403004"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/L09fQ/btrzQYuzm7A/14JQUeTpKUpCgtN2cIqfJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">그럼에도 출근</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
