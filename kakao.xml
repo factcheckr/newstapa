@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-22T08:13:43.269Z</updated>
+    <updated>2022-04-22T09:11:56.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94453629</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94453629"/>
+        <updated>2022-04-22T09:11:55.504Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94453629"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/B8DVW/btrAbKImKSw/R9j6l2SM0SSAatnX6yOqxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94452561</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94403004"/>
         <updated>2022-04-20T03:05:09.257Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94403004"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/L09fQ/btrzQYuzm7A/14JQUeTpKUpCgtN2cIqfJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">그럼에도 출근</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남겨진 사람들 ①유가족 전담 공무원을 아십니까]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94379211</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94379211"/>
-        <updated>2022-04-18T12:17:23.812Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94379211"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Gtq43/btrzHNAh5j5/hYxwVwsb7D16zILAAQr1gK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">남겨진 사람들 ①유가족 전담 공무원을 아십니까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
