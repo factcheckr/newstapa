@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 07:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 08:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들]]></title>
+            <link>http://newstapa.org/article/3pKZk</link>
+            <guid>http://newstapa.org/article/3pKZk</guid>
+            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/22151746-34CD-FBBA-EA76-03TW4C8BG93J0JCSI3TW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경북 봉화군의 수상한 건설사들]]></title>
             <link>http://newstapa.org/article/R7_IP</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/17094457-DFCB-788A-561B-S2D0YKCFS97IV856N2JW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자]]></title>
-            <link>http://newstapa.org/article/-xlb2</link>
-            <guid>http://newstapa.org/article/-xlb2</guid>
-            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 김만배와 조선일보, 화천대유로 간 전직 조선 기자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/08160202-2936-6EDD-0BE3-01YBBIJBNCJJW34BL7SM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
