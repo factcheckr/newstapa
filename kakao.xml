@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-25T00:37:26.415Z</updated>
+    <updated>2022-04-25T02:50:16.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94477083</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94477083"/>
+        <updated>2022-04-25T02:50:15.464Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94477083"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TuNk0/btrAnFtofGt/v8RKyK3zRkVdwAVoyb5qgk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남겨진 사람들 ③회복은 남겨진 사람들의 권리]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94457776</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94431502"/>
         <updated>2022-04-21T07:11:23.457Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94431502"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bsdAIk/btrz2pSO9m2/iJdhCf2pOpZFaAdyHkmLAk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김현숙, 교수 임용 앞두고 업적 부풀리기 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남겨진 사람들 ②투입부터 되는 유가족 전담 공무원]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94417628</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94417628"/>
-        <updated>2022-04-20T12:17:27.309Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94417628"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/du15Vg/btrzYjZo8Y8/1BXBPQVX5HQmkZhyAlSuF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">남겨진 사람들 ②투입부터 되는 유가족 전담 공무원</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
