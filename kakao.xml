@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-26T11:10:32.441Z</updated>
+    <updated>2022-04-26T12:18:28.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94509890</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94509890"/>
+        <updated>2022-04-26T12:18:27.945Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94509890"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YHBik/btrAwEIRzB0/hKQZGif0zbQoy158xXB4Q0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김인철, 징계·삭감약속도 무시하고 업무추진비 '펑펑']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94499873</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94453629"/>
         <updated>2022-04-22T09:11:55.504Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94453629"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/B8DVW/btrAbKImKSw/R9j6l2SM0SSAatnX6yOqxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94452561</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94452561"/>
-        <updated>2022-04-22T08:13:42.558Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94452561"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgE0WI/btrAbu6CR0j/4CMGFdQ3TNlGonRGlKuApk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
