@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-26T22:11:12.514Z</updated>
+    <updated>2022-04-26T23:11:40.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상민, 친일재산 국가귀속 저항 친일 후손 변호]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94512529</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94512529"/>
+        <updated>2022-04-26T23:11:39.631Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94512529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ony4h/btrAAcYK35v/dPEuhLfivyA5xZmlUhaVyk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민, 친일재산 국가귀속 저항 친일 후손 변호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94509890</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94457776"/>
         <updated>2022-04-22T13:31:57.728Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94457776"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/u04dk/btrAc6dySZc/AfAICtcw3bR6Ilqv46j2H0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">남겨진 사람들 ③회복은 남겨진 사람들의 권리</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94453629</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94453629"/>
-        <updated>2022-04-22T09:11:55.504Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94453629"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/B8DVW/btrAbKImKSw/R9j6l2SM0SSAatnX6yOqxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

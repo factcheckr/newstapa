@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 23:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상민, 친일재산 국가귀속에 저항한 친일후손 변호]]></title>
+            <link>http://newstapa.org/article/HgqQq</link>
+            <guid>http://newstapa.org/article/HgqQq</guid>
+            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이상민, 친일재산 국가귀속에 저항한 친일후손 변호]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/26203545-BE1E-3C53-D7A2-K731H1OKEOBXAGMW307X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비']]></title>
             <link>http://newstapa.org/article/x3WWB</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['대통령 비판 빼고, 영부인 동정 넣고 '...인수위 인사들의 MB정부 언론통제 기록 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/15173029-E444-AE4B-0394-8V0J23PCVE7HBJ91EPEP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></title>
-            <link>http://newstapa.org/article/PKpAV</link>
-            <guid>http://newstapa.org/article/PKpAV</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MB정부 언론통제 대통령기록물 원본 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18101353-BE0D-3AD0-1B8B-ZTQT2OF2BU34AKDSH23T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
