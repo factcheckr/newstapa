@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-27T04:37:03.776Z</updated>
+    <updated>2022-04-27T05:24:49.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김인철, 외대 총장 때 석좌교수 'MB·박근혜 정권 출신' 다수]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94520117</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94520117"/>
+        <updated>2022-04-27T05:24:49.271Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94520117"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cyHMFP/btrAA0qXMnT/gMPUduElrF6v8bjd8SljCK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김인철, 외대 총장 때 석좌교수 'MB·박근혜 정권 출신' 다수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민, 친일재산 국가귀속 저항 친일 후손 변호]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94512529</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94477083"/>
         <updated>2022-04-25T02:50:15.464Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94477083"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TuNk0/btrAnFtofGt/v8RKyK3zRkVdwAVoyb5qgk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남겨진 사람들 ③회복은 남겨진 사람들의 권리]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94457776</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94457776"/>
-        <updated>2022-04-22T13:31:57.728Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94457776"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/u04dk/btrAc6dySZc/AfAICtcw3bR6Ilqv46j2H0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">남겨진 사람들 ③회복은 남겨진 사람들의 권리</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
