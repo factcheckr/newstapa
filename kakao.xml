@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-29T05:16:05.460Z</updated>
+    <updated>2022-04-29T06:14:23.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상민, '친일재산귀속법'이 위헌이라는 위헌법률심판제청 신청 참여]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94566214</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94566214"/>
+        <updated>2022-04-29T06:14:22.713Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94566214"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cZh53J/btrAOBLinzT/tkNE60Rstjkd1VUrxluGu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민, '친일재산귀속법'이 위헌이라는 위헌법률심판제청 신청 참여</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] "KT링커스 '모바일 서포터'는 노동자"... 대법원 부당해고 인정]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94559699</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94499873"/>
         <updated>2022-04-26T04:22:22.592Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94499873"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/duI4mE/btrAuMFVMKw/IXK3bFRHS34lpsSTazIdhk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김인철, 징계·삭감약속도 무시하고 업무추진비 '펑펑'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진, 외대 석좌교수 7년 재직하며 정규 강의·연구 없이 3억 받았다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94487069</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94487069"/>
-        <updated>2022-04-25T08:14:04.554Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94487069"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/L3bcl/btrAp6kv7YD/RdJXxEMVxPsWRFK8g4PQ51/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박진, 외대 석좌교수 7년 재직하며 정규 강의·연구 없이 3억 받았다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
