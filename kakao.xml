@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-29T03:00:00.443Z</updated>
+    <updated>2022-04-29T03:50:24.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] "KT링커스 '모바일 서포터'는 노동자"... 대법원 부당해고 인정]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94559699</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94559699"/>
+        <updated>2022-04-29T03:50:23.517Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94559699"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dY3Ytp/btrAMtM0Edh/dApqDk0E6oUXa8otNbb6U0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] "KT링커스 '모바일 서포터'는 노동자"... 대법원 부당해고 인정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김인철, 외대 총장 때 석좌교수 'MB·박근혜 정권 출신' 다수]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94520117</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94487069"/>
         <updated>2022-04-25T08:14:04.554Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94487069"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/L3bcl/btrAp6kv7YD/RdJXxEMVxPsWRFK8g4PQ51/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박진, 외대 석좌교수 7년 재직하며 정규 강의·연구 없이 3억 받았다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94477083</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94477083"/>
-        <updated>2022-04-25T02:50:15.464Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94477083"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TuNk0/btrAnFtofGt/v8RKyK3zRkVdwAVoyb5qgk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
