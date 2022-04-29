@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-04-29T07:11:09.573Z</updated>
+    <updated>2022-04-29T08:13:33.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중대재해법 그 후③ 윤석열이 몰랐던 안양 롤러 사망 사건의 전말]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94569506</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94569506"/>
+        <updated>2022-04-29T08:13:32.974Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94569506"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bronKZ/btrAKTM5uHN/fklKbNOWJkmRJPKjJBckHk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 그 후③ 윤석열이 몰랐던 안양 롤러 사망 사건의 전말 </span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민, '친일재산귀속법'이 위헌이라는 위헌법률심판제청 신청 참여]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94566214</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94509890"/>
         <updated>2022-04-26T12:18:27.945Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94509890"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YHBik/btrAwEIRzB0/hKQZGif0zbQoy158xXB4Q0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김인철, 징계·삭감약속도 무시하고 업무추진비 '펑펑']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94499873</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94499873"/>
-        <updated>2022-04-26T04:22:22.592Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94499873"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/duI4mE/btrAuMFVMKw/IXK3bFRHS34lpsSTazIdhk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김인철, 징계·삭감약속도 무시하고 업무추진비 '펑펑'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
