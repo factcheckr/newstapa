@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-01T09:11:40.270Z</updated>
+    <updated>2022-05-01T10:16:15.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진, 연구원 이사장 때 '이해관계' 업체서 수천만 원 기부금 받았다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94610820</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94610820"/>
+        <updated>2022-05-01T10:16:14.515Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94610820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1gprs/btrAXDaT9Bk/aJfCS7HyivkBo71a3tKJ30/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박진, 연구원 이사장 때 '이해관계' 업체서 수천만 원 기부금 받았다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중대재해법 그 후③ 윤석열이 몰랐던 안양 롤러 사망 사건의 전말]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94569506</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94512529"/>
         <updated>2022-04-26T23:11:39.631Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94512529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ony4h/btrAAcYK35v/dPEuhLfivyA5xZmlUhaVyk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민, 친일재산 국가귀속 저항 친일 후손 변호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94509890</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94509890"/>
-        <updated>2022-04-26T12:18:27.945Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94509890"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YHBik/btrAwEIRzB0/hKQZGif0zbQoy158xXB4Q0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
