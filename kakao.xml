@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-01T23:11:29.967Z</updated>
+    <updated>2022-05-02T00:43:25.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94617368</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94617368"/>
+        <updated>2022-05-02T00:43:24.767Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94617368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bBRQrO/btrA3sGoXtz/2V5CqlfSJx9gzaiQYqjhKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94617274</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94617274"/>
+        <updated>2022-05-02T00:43:24.768Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94617274"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpwoIm/btrAVsuM5sX/CFpcPrJfHMKYoJ8jR92OyK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진, 연구원 이사장 때 '이해관계' 업체서 수천만 원 기부금 받았다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94610820</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94559699"/>
         <updated>2022-04-29T03:50:23.517Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94559699"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dY3Ytp/btrAMtM0Edh/dApqDk0E6oUXa8otNbb6U0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] "KT링커스 '모바일 서포터'는 노동자"... 대법원 부당해고 인정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김인철, 외대 총장 때 석좌교수 'MB·박근혜 정권 출신' 다수]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94520117</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94520117"/>
-        <updated>2022-04-27T05:24:49.271Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94520117"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cyHMFP/btrAA0qXMnT/gMPUduElrF6v8bjd8SljCK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김인철, 외대 총장 때 석좌교수 'MB·박근혜 정권 출신' 다수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민, 친일재산 국가귀속 저항 친일 후손 변호]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94512529</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94512529"/>
-        <updated>2022-04-26T23:11:39.631Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94512529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ony4h/btrAAcYK35v/dPEuhLfivyA5xZmlUhaVyk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민, 친일재산 국가귀속 저항 친일 후손 변호</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

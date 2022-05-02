@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 00:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></title>
+            <link>http://newstapa.org/article/s47Sl</link>
+            <guid>http://newstapa.org/article/s47Sl</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/01212134-9979-6BCE-BCCA-CUEK2F2016M68PET80KD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명]]></title>
+            <link>http://newstapa.org/article/Bs9uc</link>
+            <guid>http://newstapa.org/article/Bs9uc</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02001811-C9C9-CBD7-290E-JHAB8SNB9QQAFXBGPH6L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박진, 연구원 이사장 때 '이해관계' 업체서 수천만 원 기부금 받았다]]></title>
             <link>http://newstapa.org/article/Wn1rO</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13141959-BD0D-0D4D-D857-RLTWFCJB2W9V3AMXMODV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서학개미 공직자'가 보유한 해외주식 1위는 애플..2, 3위는?]]></title>
-            <link>http://newstapa.org/article/Ydj2h</link>
-            <guid>http://newstapa.org/article/Ydj2h</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘서학개미 공직자'가 보유한 해외주식 1위는 애플..2, 3위는?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06152829-6E47-D9B9-5465-1PLPNZI7ZIRETYT38649.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장]]></title>
-            <link>http://newstapa.org/article/lS4CT</link>
-            <guid>http://newstapa.org/article/lS4CT</guid>
-            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[가스공사 채희봉 일행, ‘렌트비만 3천만 원’ 호주 출장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/07124645-93B7-A7F2-3CDA-KND4XLBJLM7INUIQ3UFM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
