@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 09:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 10:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></title>
+            <link>http://newstapa.org/article/lajst</link>
+            <guid>http://newstapa.org/article/lajst</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02180523-7404-7166-B84E-HR6MXDB4FRF92D01J0RS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></title>
             <link>http://newstapa.org/article/s47Sl</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/22135639-E145-E9B6-1A57-G10JEUFFK82TOH0YQUQQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경북 봉화군의 수상한 건설사들]]></title>
-            <link>http://newstapa.org/article/R7_IP</link>
-            <guid>http://newstapa.org/article/R7_IP</guid>
-            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경북 봉화군의 수상한 건설사들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/21151417-C4D5-ADE4-821F-V5BM1C1KYY8UNUU9HNJ7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
