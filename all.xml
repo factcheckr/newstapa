@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/21151417-C4D5-ADE4-821F-V5BM1C1KYY8UNUU9HNJ7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/lajst</link>
+            <guid>http://newstapa.org/article/lajst</guid>
+            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02180523-7404-7166-B84E-HR6MXDB4FRF92D01J0RS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/s47Sl</link>
             <guid>http://newstapa.org/article/s47Sl</guid>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[기고문] '청와대이전TF'는 법의 사각지대?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14133510-5F37-3756-1FA6-RWCYTFO0JSCO0QRJHJQ9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/SE1eA</link>
-            <guid>http://newstapa.org/article/SE1eA</guid>
-            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 특별고문 이동관, MB 정권 언론 장악 지휘 기록물 첫 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13141959-BD0D-0D4D-D857-RLTWFCJB2W9V3AMXMODV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -2054,6 +2054,14 @@
             <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 내각 검증 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EA%B0%81%20%EA%B2%80%EC%A6%9D</link>
+            <guid>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EA%B0%81%20%EA%B2%80%EC%A6%9D</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 초대 내각 후보자들이 발표됐습니다. 새 정부를 이끌어갈 내각 후보자들을 검증했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02180323-CD41-7E85-C8D8-O38LMY3K7GTW9G0GXR5H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광고의 그물망 (뉴스타파 ─ 프로젝트)]]></title>

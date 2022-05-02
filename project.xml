@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 08:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 09:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 내각 검증]]></title>
+            <link>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EA%B0%81%20%EA%B2%80%EC%A6%9D</link>
+            <guid>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EA%B0%81%20%EA%B2%80%EC%A6%9D</guid>
+            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 초대 내각 후보자들이 발표됐습니다. 새 정부를 이끌어갈 내각 후보자들을 검증했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02180323-CD41-7E85-C8D8-O38LMY3K7GTW9G0GXR5H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광고의 그물망]]></title>
             <link>https://newstapa.org/tags/%EA%B4%91%EA%B3%A0%EC%9D%98%20%EA%B7%B8%EB%AC%BC%EB%A7%9D</link>
