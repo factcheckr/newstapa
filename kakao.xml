@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-03T02:59:01.909Z</updated>
+    <updated>2022-05-03T03:50:06.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94645033</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94645033"/>
+        <updated>2022-05-03T03:50:05.574Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94645033"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uwd57/btrA6x2XMEF/WzYwGyvj9UHFdgs7JbWbT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘윤핵관’ 사촌과 특혜 의혹]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94640814</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94610820"/>
         <updated>2022-05-01T10:16:14.515Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94610820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1gprs/btrAXDaT9Bk/aJfCS7HyivkBo71a3tKJ30/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박진, 연구원 이사장 때 '이해관계' 업체서 수천만 원 기부금 받았다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대재해법 그 후③ 윤석열이 몰랐던 안양 롤러 사망 사건의 전말]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94569506</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94569506"/>
-        <updated>2022-04-29T08:13:32.974Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94569506"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bronKZ/btrAKTM5uHN/fklKbNOWJkmRJPKjJBckHk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 그 후③ 윤석열이 몰랐던 안양 롤러 사망 사건의 전말 </span></span></a>]]></content>
     </entry>
 </feed>
