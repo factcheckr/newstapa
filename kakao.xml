@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-03T05:16:07.992Z</updated>
+    <updated>2022-05-03T06:13:49.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신을 속이는 기사형 광고...포털에 의심사례 수천 건]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94649024</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94649024"/>
+        <updated>2022-05-03T06:13:48.974Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94649024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TNwN2/btrA9iq0rbg/uN9kaEPr2RO0BaJcT2vKp1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">당신을 속이는 기사형 광고...포털에 의심사례 수천 건</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조승환, 공직 퇴직 후 로펌서 '공짜 사무실' 받고 '거짓 해명' 논란]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94647475</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94617368"/>
         <updated>2022-05-02T00:43:24.767Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94617368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bBRQrO/btrA3sGoXtz/2V5CqlfSJx9gzaiQYqjhKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94617274</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94617274"/>
-        <updated>2022-05-02T00:43:24.768Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94617274"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpwoIm/btrAVsuM5sX/CFpcPrJfHMKYoJ8jR92OyK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

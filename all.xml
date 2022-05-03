@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 06:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/I8YMa</link>
+            <guid>http://newstapa.org/article/I8YMa</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02185039-8E13-F2C9-E3B1-P5Z0E0KNG2KAWQ635NNJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조승환, 공직 퇴직 후 로펌서 '공짜 사무실' 받고 '거짓 해명' 논란 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/tv9b-</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박진, 외대 석좌교수 7년 재직하며 정규 강의·연구 없이 3억 받았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/25103401-B188-A8F7-7A01-98NO9DRR73I3AAG9CFQK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/MFOtp</link>
-            <guid>http://newstapa.org/article/MFOtp</guid>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/29095351-DD5D-78F5-7BB2-2NYY1WET8NOYA6GN3KW6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조승환, 공직 퇴직 후 로펌서 '공짜 사무실' 받고 '거짓 해명' 논란 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/04004306-EDDA-7040-DD52-QR6IGWADU9AQOFYI2E9O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/I8YMa</link>
+            <guid>http://newstapa.org/article/I8YMa</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02185039-8E13-F2C9-E3B1-P5Z0E0KNG2KAWQ635NNJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SBS비즈, 이번엔 새 프로그램 만들어 협찬 영업 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/Lstmi</link>
             <guid>http://newstapa.org/article/Lstmi</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이재용·홍라희 모자 40억 기부금 추적기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/14162227-42C0-A444-2C0E-XPRHW9PAQEIIS1IN3EWS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/CV3ag</link>
-            <guid>http://newstapa.org/article/CV3ag</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 내각 검증 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2925,6 +2925,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[당신을 속이는 기사형 광고...포털에 의심사례 수천 건 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94649024</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94649024</guid>
+            <pubDate>Tue, 03 May 2022 06:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94649024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TNwN2/btrA9iq0rbg/uN9kaEPr2RO0BaJcT2vKp1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">당신을 속이는 기사형 광고...포털에 의심사례 수천 건</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[조승환, 공직 퇴직 후 로펌서 '공짜 사무실' 받고 '거짓 해명' 논란 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94647475</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94647475</guid>
@@ -2958,13 +2965,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94617368</guid>
             <pubDate>Mon, 02 May 2022 00:43:24 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94617368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bBRQrO/btrA3sGoXtz/2V5CqlfSJx9gzaiQYqjhKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94617274</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94617274</guid>
-            <pubDate>Mon, 02 May 2022 00:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94617274"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpwoIm/btrAVsuM5sX/CFpcPrJfHMKYoJ8jR92OyK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열, 고액후원자 공개...서울대 동기부터 잔고증명위조범·화랑대표까지 51명</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
