@@ -4,16 +4,24 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 00:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 02:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['윤핵관' 사촌과 특혜 의혹]]></title>
+            <link>http://newstapa.org/article/qJ8ge</link>
+            <guid>http://newstapa.org/article/qJ8ge</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤핵관' 사촌과 특혜 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02144933-1DDE-57F8-9959-B0TCDIHKVPMHJ71QO1ME.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></title>
             <link>http://newstapa.org/article/lajst</link>
             <guid>http://newstapa.org/article/lajst</guid>
             <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02180523-7404-7166-B84E-HR6MXDB4FRF92D01J0RS.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/03111437-6AEF-80E5-51FD-33TBXEB1OU8WEFEKTLLT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/22151746-34CD-FBBA-EA76-03TW4C8BG93J0JCSI3TW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다”]]></title>
-            <link>http://newstapa.org/article/Konst</link>
-            <guid>http://newstapa.org/article/Konst</guid>
-            <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/22135639-E145-E9B6-1A57-G10JEUFFK82TOH0YQUQQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

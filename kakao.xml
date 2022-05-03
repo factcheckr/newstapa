@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-03T00:42:30.797Z</updated>
+    <updated>2022-05-03T02:59:01.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘윤핵관’ 사촌과 특혜 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94640814</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94640814"/>
+        <updated>2022-05-03T02:59:01.170Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94640814"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bIT6qU/btrA54GzpGs/JgbQOvbFMJeQzDbhANEuDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤핵관’ 사촌과 특혜 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94633251</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94569506"/>
         <updated>2022-04-29T08:13:32.974Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94569506"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bronKZ/btrAKTM5uHN/fklKbNOWJkmRJPKjJBckHk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 그 후③ 윤석열이 몰랐던 안양 롤러 사망 사건의 전말 </span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민, '친일재산귀속법'이 위헌이라는 위헌법률심판제청 신청 참여]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94566214</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94566214"/>
-        <updated>2022-04-29T06:14:22.713Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94566214"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cZh53J/btrAOBLinzT/tkNE60Rstjkd1VUrxluGu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민, '친일재산귀속법'이 위헌이라는 위헌법률심판제청 신청 참여</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
