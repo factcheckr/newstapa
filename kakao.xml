@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-04T00:43:07.881Z</updated>
+    <updated>2022-05-04T03:00:03.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['판도라페이퍼스' 한국인 367명 공개...제보 페이지 오픈]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94662442</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94662442"/>
+        <updated>2022-05-04T03:00:02.510Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94662442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qg0wN/btrBaRHLeRn/iTNkBqauzK01kmJpaMLmtk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'판도라페이퍼스' 한국인 367명 공개...제보 페이지 오픈</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신을 속이는 기사형 광고...포털에 의심사례 수천 건]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94649024</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94633251"/>
         <updated>2022-05-02T10:12:55.185Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94633251"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qzUb6/btrA5aGmXEf/HPYh7nMYAo9syUSaYHIqPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">추경호와 하나금융... 장모의 수상한 10억 증여</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94617368</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94617368"/>
-        <updated>2022-05-02T00:43:24.767Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94617368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bBRQrO/btrA3sGoXtz/2V5CqlfSJx9gzaiQYqjhKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
