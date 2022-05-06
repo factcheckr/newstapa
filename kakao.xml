@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-06T07:11:24.818Z</updated>
+    <updated>2022-05-06T08:13:55.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94699940</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94699940"/>
+        <updated>2022-05-06T08:13:54.562Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94699940"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cDBhp7/btrBq79UJPp/3VPCGyLPQPqSGpOlBOVu01/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[업체 겸직... 시의원의 이중 생활]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94698922</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94647475"/>
         <updated>2022-05-03T05:16:07.348Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94647475"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/etXrsL/btrA68WFELf/WkeNREMRay7lLiEBrEPYmK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">조승환, 공직 퇴직 후 로펌서 '공짜 사무실' 받고 '거짓 해명' 논란</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94645033</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94645033"/>
-        <updated>2022-05-03T03:50:05.574Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94645033"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uwd57/btrA6x2XMEF/WzYwGyvj9UHFdgs7JbWbT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
