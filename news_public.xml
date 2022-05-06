@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 09:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 10:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한동훈 장녀, 타인 자료 무단 베낀 '표절 전자책' 출판]]></title>
+            <link>http://newstapa.org/article/Imo40</link>
+            <guid>http://newstapa.org/article/Imo40</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈 장녀, 타인 자료 무단 베낀 '표절 전자책' 출판]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06182208-3BB9-D64C-3072-AHM13HPDHXEOW5D801OD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[업체 겸직... 시의원의 이중 생활]]></title>
             <link>http://newstapa.org/article/iXOtV</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["보내 주신 와인의 향기"...장충기 문자에 등장하는 윤석열 정부 인사들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/22151746-34CD-FBBA-EA76-03TW4C8BG93J0JCSI3TW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경북 봉화군의 수상한 건설사들]]></title>
-            <link>http://newstapa.org/article/R7_IP</link>
-            <guid>http://newstapa.org/article/R7_IP</guid>
-            <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경북 봉화군의 수상한 건설사들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/21151417-C4D5-ADE4-821F-V5BM1C1KYY8UNUU9HNJ7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
