@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-07T12:16:26.882Z</updated>
+    <updated>2022-05-07T13:21:44.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 장녀가 발표한 '국제 학술대회' 논문도 표절 확인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94713875</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94713875"/>
+        <updated>2022-05-07T13:21:43.597Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94713875"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc02oi/btrBu55Epe0/QK7Bi5e2JTKnvjueyviDw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장녀가 발표한 '국제 학술대회' 논문도 표절 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 장녀, 타인 자료 무단 베낀 '표절 전자책' 출판]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94703286</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94662442"/>
         <updated>2022-05-04T03:00:02.510Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94662442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qg0wN/btrBaRHLeRn/iTNkBqauzK01kmJpaMLmtk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'판도라페이퍼스' 한국인 367명 공개...제보 페이지 오픈</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신을 속이는 기사형 광고...포털에 의심사례 수천 건]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94649024</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94649024"/>
-        <updated>2022-05-03T06:13:48.974Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94649024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TNwN2/btrA9iq0rbg/uN9kaEPr2RO0BaJcT2vKp1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">당신을 속이는 기사형 광고...포털에 의심사례 수천 건</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
