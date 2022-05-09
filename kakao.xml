@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-09T05:16:56.254Z</updated>
+    <updated>2022-05-09T06:14:42.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 새 정부 인사들의 사외이사 이력과 월수입]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94731178</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94731178"/>
+        <updated>2022-05-09T06:14:41.796Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94731178"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6JJEH/btrBDneCdFW/snkzqtOtUC1dJSFpcaOvDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 새 정부 인사들의 사외이사 이력과 월수입</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94725017</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94699940"/>
         <updated>2022-05-06T08:13:54.562Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94699940"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cDBhp7/btrBq79UJPp/3VPCGyLPQPqSGpOlBOVu01/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업체 겸직... 시의원의 이중 생활]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94698922</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94698922"/>
-        <updated>2022-05-06T07:11:24.161Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94698922"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wdHcv/btrBquqQNF7/yyAD0Dfzn1dEdJrxUskJF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">업체 겸직... 시의원의 이중 생활</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

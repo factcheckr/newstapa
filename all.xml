@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 05:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 06:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2480,6 +2480,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기초의원 징계 추적 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/n2202/</link>
+            <guid>https://pages.newstapa.org/n2202/</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/09141859-70D8-017C-343E-I1JIHCBCPLNOJXKH4MJ1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판도라 페이퍼스 시민 참여 프로젝트 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/n2205/</link>
+            <guid>https://pages.newstapa.org/n2205/</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/09143333-E590-2CA5-A048-BUVVJL7B9KOI1QRGIUNR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[더초이스 2022] 인터뷰 원문 공개 (뉴스타파 ─ 데이터)]]></title>
             <link>https://pages.newstapa.org/n2201</link>
             <guid>https://pages.newstapa.org/n2201</guid>
@@ -2925,6 +2939,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 새 정부 인사들의 사외이사 이력과 월수입 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94731178</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94731178</guid>
+            <pubDate>Mon, 09 May 2022 06:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94731178"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6JJEH/btrBDneCdFW/snkzqtOtUC1dJSFpcaOvDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 새 정부 인사들의 사외이사 이력과 월수입</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94725017</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94725017</guid>
@@ -2958,13 +2979,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94699940</guid>
             <pubDate>Fri, 06 May 2022 08:13:54 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94699940"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cDBhp7/btrBq79UJPp/3VPCGyLPQPqSGpOlBOVu01/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[업체 겸직... 시의원의 이중 생활 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94698922</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94698922</guid>
-            <pubDate>Fri, 06 May 2022 07:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94698922"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wdHcv/btrBquqQNF7/yyAD0Dfzn1dEdJrxUskJF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">업체 겸직... 시의원의 이중 생활</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
