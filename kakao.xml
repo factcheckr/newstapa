@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-09T00:44:09.730Z</updated>
+    <updated>2022-05-09T02:56:08.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94725017</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94725017"/>
+        <updated>2022-05-09T02:56:07.475Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94725017"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/crRYVs/btrBEdPzcGa/j3Y8eavMwNM03Nec1ijd5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기초의원 징계 추적① 비리로 징계받은 79명, 지방선거에 또 출마]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94724913</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94724913"/>
+        <updated>2022-05-09T02:56:07.476Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94724913"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc5D56/btrBvX2iqnL/EBmtLlCkVEhRArunW3gdwk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적① 비리로 징계받은 79명, 지방선거에 또 출마</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 장녀가 발표한 '국제 학술대회' 논문도 표절 확인]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94713875</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94698922"/>
         <updated>2022-05-06T07:11:24.161Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94698922"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wdHcv/btrBquqQNF7/yyAD0Dfzn1dEdJrxUskJF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">업체 겸직... 시의원의 이중 생활</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 장녀, 돈만 내면 실어주는 '약탈적 학술지'에 논문 다수 게재]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94687551</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94687551"/>
-        <updated>2022-05-05T12:18:46.711Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94687551"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bS2LsP/btrBlLe2LtF/RQjveV93KK6VhDU56vnjF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장녀, 돈만 내면 실어주는 '약탈적 학술지'에 논문 다수 게재</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['판도라페이퍼스' 한국인 367명 공개...제보 페이지 오픈]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94662442</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94662442"/>
-        <updated>2022-05-04T03:00:02.510Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94662442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qg0wN/btrBaRHLeRn/iTNkBqauzK01kmJpaMLmtk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'판도라페이퍼스' 한국인 367명 공개...제보 페이지 오픈</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
