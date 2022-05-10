@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 00:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김성회 종교다문화비서관 내정자, 동성애 혐오·'위안부' 피해자 비하 발언]]></title>
+            <link>http://newstapa.org/article/IJ0e9</link>
+            <guid>http://newstapa.org/article/IJ0e9</guid>
+            <pubDate>Tue, 10 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김성회 종교다문화비서관 내정자, 동성애 혐오·'위안부' 피해자 비하 발언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/09181854-0CC6-6643-3284-APUSS89Y6P5FVCTE683T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 장녀, '약탈적 학술지에 표절논문 투고' 또 확인... 외조카도 같은 패턴]]></title>
             <link>http://newstapa.org/article/fP5qN</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이상민, '친일재산귀속법'이 위헌이라는 위헌법률심판제청 신청 참여]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/29130235-EDD3-01F5-5182-NCU1ZCTODEQQ6HM2F4P4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김인철, 외대 총장 때 석좌교수 'MB·박근혜 정권 출신' 다수]]></title>
-            <link>http://newstapa.org/article/4qodk</link>
-            <guid>http://newstapa.org/article/4qodk</guid>
-            <pubDate>Wed, 27 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김인철, 외대 총장 때 석좌교수 'MB·박근혜 정권 출신' 다수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/27104614-A3F2-A9C3-55D1-N8JRG2Z0BZ8U415N5KBS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
