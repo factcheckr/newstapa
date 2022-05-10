@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-10T08:14:31.143Z</updated>
+    <updated>2022-05-10T09:12:06.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(팩트체크) 한동훈 "장녀 전자책 원저자 동의... 저작권 침해 없었다?"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94755013</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94755013"/>
+        <updated>2022-05-10T09:12:05.989Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94755013"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bzBNdY/btrBMGdicMW/WjKLk9kMC9St31LvqvJMy0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">(팩트체크) 한동훈 "장녀 전자책 원저자 동의... 저작권 침해 없었다?"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성회 종교다문화비서관 내정자, 동성애 혐오·'위안부' 피해자 비하 발언]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94745249</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94724913"/>
         <updated>2022-05-09T02:56:07.476Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94724913"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc5D56/btrBvX2iqnL/EBmtLlCkVEhRArunW3gdwk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적① 비리로 징계받은 79명, 지방선거에 또 출마</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 장녀가 발표한 '국제 학술대회' 논문도 표절 확인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94713875</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94713875"/>
-        <updated>2022-05-07T13:21:43.597Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94713875"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc02oi/btrBu55Epe0/QK7Bi5e2JTKnvjueyviDw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장녀가 발표한 '국제 학술대회' 논문도 표절 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
