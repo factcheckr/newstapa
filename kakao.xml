@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-11T06:15:30.417Z</updated>
+    <updated>2022-05-11T07:12:54.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94770054</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94770054"/>
+        <updated>2022-05-11T07:12:53.463Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94770054"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/clfacN/btrBSkH4w5I/pt6efKG3HDLA21VwMopaik/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령을 위한 4대강 A to Z</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김성회 종교다문화비서관, 시민단체 대표 때 공금 횡령으로 벌금형 선고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94768012</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94731178"/>
         <updated>2022-05-09T06:14:41.796Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94731178"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6JJEH/btrBDneCdFW/snkzqtOtUC1dJSFpcaOvDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 새 정부 인사들의 사외이사 이력과 월수입</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94725017</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94725017"/>
-        <updated>2022-05-09T02:56:07.475Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94725017"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/crRYVs/btrBEdPzcGa/j3Y8eavMwNM03Nec1ijd5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

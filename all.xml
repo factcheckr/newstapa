@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 06:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 07:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령을 위한 4대강 A to Z (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/K5GWe</link>
+            <guid>http://newstapa.org/article/K5GWe</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/11144931-A3CE-BE05-E481-EJDY2EDEHZ8AHQHAJ5JM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김성회 종교다문화비서관, 시민단체 대표 때 공금 횡령으로 벌금형 선고 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/yxxq9</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조승환, 공직 퇴직 후 로펌서 '공짜 사무실' 받고 '거짓 해명' 논란]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/03105153-352E-851B-FFF9-920KU7L54E190ZFLQJRA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/mBmIG</link>
-            <guid>http://newstapa.org/article/mBmIG</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02213751-7863-AAD3-198F-S1YUNFAZALJSQON6H1A0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김성회 종교다문화비서관, 시민단체 대표 때 공금 횡령으로 벌금형 선고 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/10/a0d7564565e1ce65e6f7cad3d61f2718dab532b2821b299751f3ffbe9d0ba9ceb73897875e14b65a26a3118cf12e19c28b522ad23aa7ee228622bc70e3d0f93c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 대통령을 위한 4대강 A to Z (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/K5GWe</link>
+            <guid>http://newstapa.org/article/K5GWe</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/11144931-A3CE-BE05-E481-EJDY2EDEHZ8AHQHAJ5JM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/nOJV-</link>
             <guid>http://newstapa.org/article/nOJV-</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[예산 낭비 우려되는 스마트 그린도시 사업]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/30180211-BEBA-435E-1797-SB6JCQR6UUHR3XDJDCL4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4대강 10년의 기록, 예고된 죽음 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/_Dqxu</link>
-            <guid>http://newstapa.org/article/_Dqxu</guid>
-            <pubDate>Mon, 25 Jan 2021 00:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[4대강 10년의 기록, 예고된 죽음]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/25130000-982B-6ADE-100F-SJ2P4ZT52DUKKME8VB5V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/09151108-E13F-69B8-084E-7NVU4IIXP4IT2HDAYEN0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 대통령을 위한 4대강 A to Z (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/K5GWe</link>
+            <guid>http://newstapa.org/article/K5GWe</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/11144931-A3CE-BE05-E481-EJDY2EDEHZ8AHQHAJ5JM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/H10U7</link>
             <guid>http://newstapa.org/article/H10U7</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 13 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[책 재벌의 민낯 ③ 영풍제련소 노동자, 치아 녹아 내린다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/12151056-596F-D7FB-4A39-8OFIWFYYLML4RD47UB93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 재벌의 민낯 ② 영풍 환경오염 책임자, 옥살이 중에도 임원 재직 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/BG1Bp</link>
-            <guid>http://newstapa.org/article/BG1Bp</guid>
-            <pubDate>Fri, 08 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[책 재벌의 민낯 ② 영풍 환경오염 책임자, 옥살이 중에도 임원 재직]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/08145224-8FCA-FC16-3433-2HZ1OS7TWQHLN7ILL8OT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2939,6 +2939,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 대통령을 위한 4대강 A to Z (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94770054</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94770054</guid>
+            <pubDate>Wed, 11 May 2022 07:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94770054"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/clfacN/btrBSkH4w5I/pt6efKG3HDLA21VwMopaik/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령을 위한 4대강 A to Z</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[김성회 종교다문화비서관, 시민단체 대표 때 공금 횡령으로 벌금형 선고 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94768012</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94768012</guid>
@@ -2972,13 +2979,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94731178</guid>
             <pubDate>Mon, 09 May 2022 06:14:41 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94731178"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6JJEH/btrBDneCdFW/snkzqtOtUC1dJSFpcaOvDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 새 정부 인사들의 사외이사 이력과 월수입</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94725017</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94725017</guid>
-            <pubDate>Mon, 09 May 2022 02:56:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94725017"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/crRYVs/btrBEdPzcGa/j3Y8eavMwNM03Nec1ijd5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

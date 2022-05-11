@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 06:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 07:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></title>
+            <link>http://newstapa.org/article/K5GWe</link>
+            <guid>http://newstapa.org/article/K5GWe</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/11144931-A3CE-BE05-E481-EJDY2EDEHZ8AHQHAJ5JM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></title>
             <link>http://newstapa.org/article/H10U7</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[책 재벌의 민낯 ③ 영풍제련소 노동자, 치아 녹아 내린다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/12151056-596F-D7FB-4A39-8OFIWFYYLML4RD47UB93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 재벌의 민낯 ② 영풍 환경오염 책임자, 옥살이 중에도 임원 재직]]></title>
-            <link>http://newstapa.org/article/BG1Bp</link>
-            <guid>http://newstapa.org/article/BG1Bp</guid>
-            <pubDate>Fri, 08 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[책 재벌의 민낯 ② 영풍 환경오염 책임자, 옥살이 중에도 임원 재직]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/08145224-8FCA-FC16-3433-2HZ1OS7TWQHLN7ILL8OT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
