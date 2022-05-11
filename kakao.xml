@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-11T05:23:01.760Z</updated>
+    <updated>2022-05-11T06:15:30.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성회 종교다문화비서관, 시민단체 대표 때 공금 횡령으로 벌금형 선고]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94768012</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94768012"/>
+        <updated>2022-05-11T06:15:29.774Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94768012"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ppTxY/btrBNcSkdkC/AupRTiVjwa6nbp0TN4FERK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김성회 종교다문화비서관, 시민단체 대표 때 공금 횡령으로 벌금형 선고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(팩트체크) 한동훈 "장녀 전자책 원저자 동의... 저작권 침해 없었다?"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94755013</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94725017"/>
         <updated>2022-05-09T02:56:07.475Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94725017"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/crRYVs/btrBEdPzcGa/j3Y8eavMwNM03Nec1ijd5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적② 고무줄 징계 기준, 기초의회 원님 재판</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기초의원 징계 추적① 비리로 징계받은 79명, 지방선거에 또 출마]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94724913</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94724913"/>
-        <updated>2022-05-09T02:56:07.476Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94724913"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc5D56/btrBvX2iqnL/EBmtLlCkVEhRArunW3gdwk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적① 비리로 징계받은 79명, 지방선거에 또 출마</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
