@@ -4,11 +4,11 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 04:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[윤석열 내각 검증]]></title>
+            <title><![CDATA[윤석열 정부 인사 검증]]></title>
             <link>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EA%B0%81%20%EA%B2%80%EC%A6%9D</link>
             <guid>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EA%B0%81%20%EA%B2%80%EC%A6%9D</guid>
             <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
