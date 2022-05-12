@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 10:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 11:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 퇴행과 불통, '윤석열 시대'의 전조들]]></title>
+            <link>http://newstapa.org/article/yD2WV</link>
+            <guid>http://newstapa.org/article/yD2WV</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 퇴행과 불통, '윤석열 시대'의 전조들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12151747-13BE-9C31-30FA-AKS2E4YSDWOIZLXJ726U.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[보수 언론에 당근, 비판 언론엔 채찍]]></title>
+            <link>http://newstapa.org/article/a7f1A</link>
+            <guid>http://newstapa.org/article/a7f1A</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[보수 언론에 당근, 비판 언론엔 채찍]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12153527-6AFC-EFA2-AFD2-7K3UG0LVEIGZ5AENN7TO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령 취임식, 문 앞의 외딴 섬]]></title>
+            <link>http://newstapa.org/article/hRekj</link>
+            <guid>http://newstapa.org/article/hRekj</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 취임식, 문 앞의 외딴 섬]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12164435-EBE8-2BDB-ECB5-D4R0IUSFT6KMRUF70KX5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김성회, '위안부' 비하 ·횡령 범죄에 이어 시민단체 공금 사적 사용 또 확인]]></title>
             <link>http://newstapa.org/article/o82hz</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업체 겸직... 시의원의 이중 생활]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06153702-200F-4110-0BB1-2OBBDS9MENFN92169EWQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 장녀, 돈만 내면 실어주는 '약탈적 학술지'에 논문 다수 게재]]></title>
-            <link>http://newstapa.org/article/Hspln</link>
-            <guid>http://newstapa.org/article/Hspln</guid>
-            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 장녀, 돈만 내면 실어주는 '약탈적 학술지'에 논문 다수 게재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06095712-68E8-AA82-E2B1-YKFDJLLHSTMS7GMN9VNS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['판도라페이퍼스' 한국인 367명 공개...제보 페이지 오픈]]></title>
-            <link>http://newstapa.org/article/IsUvr</link>
-            <guid>http://newstapa.org/article/IsUvr</guid>
-            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['판도라페이퍼스' 한국인 367명 공개...제보 페이지 오픈]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/04093408-B620-E9B9-6720-3O3A57FQ5HZX4PYV6GKI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해]]></title>
-            <link>http://newstapa.org/article/I8YMa</link>
-            <guid>http://newstapa.org/article/I8YMa</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02185039-8E13-F2C9-E3B1-P5Z0E0KNG2KAWQ635NNJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

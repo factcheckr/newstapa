@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 10:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 11:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 퇴행과 불통, '윤석열 시대'의 전조들]]></title>
+            <link>http://newstapa.org/article/yD2WV</link>
+            <guid>http://newstapa.org/article/yD2WV</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 퇴행과 불통, '윤석열 시대'의 전조들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12151747-13BE-9C31-30FA-AKS2E4YSDWOIZLXJ726U.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령 취임식, 문 앞의 외딴 섬]]></title>
+            <link>http://newstapa.org/article/hRekj</link>
+            <guid>http://newstapa.org/article/hRekj</guid>
+            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령 취임식, 문 앞의 외딴 섬]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12164435-EBE8-2BDB-ECB5-D4R0IUSFT6KMRUF70KX5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김성회, '위안부' 비하 ·횡령 범죄에 이어 시민단체 공금 사적 사용 또 확인]]></title>
             <link>http://newstapa.org/article/o82hz</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤핵관' 사촌과 특혜 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02144933-1DDE-57F8-9959-B0TCDIHKVPMHJ71QO1ME.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></title>
-            <link>http://newstapa.org/article/lajst</link>
-            <guid>http://newstapa.org/article/lajst</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[추경호와 하나금융... 장모의 수상한 10억 증여]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/03111437-6AEF-80E5-51FD-33TBXEB1OU8WEFEKTLLT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></title>
-            <link>http://newstapa.org/article/s47Sl</link>
-            <guid>http://newstapa.org/article/s47Sl</guid>
-            <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[잔고위조범 김씨, 비마이카 조씨의 윤석열 후원회 고액후원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/01212134-9979-6BCE-BCCA-CUEK2F2016M68PET80KD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
