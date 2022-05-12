@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-12T08:13:07.804Z</updated>
+    <updated>2022-05-12T09:15:40.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성회, '위안부' 비하 ·횡령 범죄에 이어 시민단체 공금 사적 사용 또 확인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94791789</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94791789"/>
+        <updated>2022-05-12T09:15:39.421Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94791789"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cdleff/btrBZ2z0KOp/7abruSznbo7gwkY1cpxJj0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김성회, '위안부' 비하 ·횡령 범죄에 이어 시민단체 공금 사적 사용 또 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94770054</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94739062"/>
         <updated>2022-05-09T13:33:51.932Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94739062"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cKwfEo/btrBHVnSuIs/rHAE03Ez2D4m6CaJcq4BvK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장녀, '약탈적 학술지에 표절논문 투고' 또 확인... 외사촌과 동일 패턴</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 새 정부 인사들의 사외이사 이력과 월수입]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94731178</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94731178"/>
-        <updated>2022-05-09T06:14:41.796Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94731178"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6JJEH/btrBDneCdFW/snkzqtOtUC1dJSFpcaOvDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 새 정부 인사들의 사외이사 이력과 월수입</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
