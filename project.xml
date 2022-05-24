@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파-GIJN 탐사보도 노하우 공개 프로젝트]]></title>
+            <link>https://newstapa.org/projects/UusdU</link>
+            <guid>https://newstapa.org/projects/UusdU</guid>
+            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/13160444-2518-2BB0-78CD-B7U8MIWIEBYE9KUD7CXK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 인사 검증]]></title>
             <link>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%82%B4%EA%B0%81%20%EA%B2%80%EC%A6%9D</link>

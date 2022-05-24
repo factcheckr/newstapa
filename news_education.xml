@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 02:07:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전]]></title>
+            <link>http://newstapa.org/article/izcdK</link>
+            <guid>http://newstapa.org/article/izcdK</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/23210243-9FD0-D61E-25DF-2KFXH7J0OOBTFT584NWE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권성연 교육비서관, 찬성 여론 조작 등 '박근혜 역사교과서 국정화' 실무 주도]]></title>
+            <link>http://newstapa.org/article/rQ3_G</link>
+            <guid>http://newstapa.org/article/rQ3_G</guid>
+            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성연 교육비서관, 찬성 여론 조작 등 '박근혜 역사교과서 국정화' 실무 주도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/15075459-7D86-AA71-001C-CFIV8SSGA1WKUDVNEHQ4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임]]></title>
             <link>http://newstapa.org/article/op4gx</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 01 Jan 2021 00:07:00 GMT</pubDate>
             <content:encoded><![CDATA[논문공장의 영업비밀② 표절, 조작, 부실 논문도 '패스'...KCI등재지의 민낯]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/02095445-E477-204A-A57E-44I419N7HBUMPMS4E8I5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논문공장의 영업비밀① 어느 학술단체의 '가짜 심사'와 '도둑 논문']]></title>
-            <link>http://newstapa.org/article/2rnrQ</link>
-            <guid>http://newstapa.org/article/2rnrQ</guid>
-            <pubDate>Sat, 23 Jan 2021 00:06:00 GMT</pubDate>
-            <content:encoded><![CDATA[논문공장의 영업비밀① 어느 학술단체의 '가짜 심사'와 '도둑 논문']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/23185256-D8F0-7AD7-2BC4-1OJW7V7C9Q41QT69H94C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["네가 신고한 걸 알고 있다"성대 입시 비리 신고자의 비극]]></title>
-            <link>http://newstapa.org/article/1cG4a</link>
-            <guid>http://newstapa.org/article/1cG4a</guid>
-            <pubDate>Fri, 24 Jan 2020 00:12:00 GMT</pubDate>
-            <content:encoded><![CDATA["네가 신고한 걸 알고 있다"성대 입시 비리 신고자의 비극]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/23153111-8C88-634B-3860-BY7ICZZ023COX0Q08KWU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
