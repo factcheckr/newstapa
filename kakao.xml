@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-24T08:15:52.804Z</updated>
+    <updated>2022-05-24T09:12:24.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민건강 위협하는 4대강 반지성주의]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94966057</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94966057"/>
+        <updated>2022-05-24T09:12:23.922Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94966057"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iV7jw/btrC2wU61Om/DuXPzceXUYKKu8g5rGebN1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민건강 위협하는 4대강 반지성주의</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94961257</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94899337"/>
         <updated>2022-05-24T02:07:32.060Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94899337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dpG9QV/btrCB0CGtkt/noiqkEBGWnuxID8iWFK0tk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">재판기록으로 본 공직의 자격② 오직 박근혜 위해 '세월호 컨트롤 타워 지침' 불법 수정</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기초의원 징계 추적③불법 수의계약, 음주운전, 공무원 폭행 징계에도 무투표 당선]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94878577</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94878577"/>
-        <updated>2022-05-24T02:07:32.061Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94878577"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mdaAs/btrCvZ4Cjhw/d3QNNvbalwfGi25VbKKzj0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적③불법 수의계약, 음주운전, 공무원 폭행 징계에도 무투표 당선</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

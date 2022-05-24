@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민건강 위협하는 4대강 반지성주의 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/O6ULv</link>
+            <guid>http://newstapa.org/article/O6ULv</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민건강 위협하는 4대강 반지성주의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/24175207-796C-7F0F-1A8B-MN8V2WOBBO6PY1B4DNUP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/4kccS</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 감사원, 기부금 비리 공기업에 '주의' 통보...예산 사유화 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12161245-6636-4FB9-FC60-5HQYRPFFPEL8QAX1M26L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 퇴행과 불통, '윤석열 시대'의 전조들 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/yD2WV</link>
-            <guid>http://newstapa.org/article/yD2WV</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 퇴행과 불통, '윤석열 시대'의 전조들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12200828-CDB7-FCE7-F93C-MWRZE3LXTFBI7C3163I8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/10/a0d7564565e1ce65e6f7cad3d61f2718dab532b2821b299751f3ffbe9d0ba9ceb73897875e14b65a26a3118cf12e19c28b522ad23aa7ee228622bc70e3d0f93c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국민건강 위협하는 4대강 반지성주의 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/O6ULv</link>
+            <guid>http://newstapa.org/article/O6ULv</guid>
+            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민건강 위협하는 4대강 반지성주의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/24175207-796C-7F0F-1A8B-MN8V2WOBBO6PY1B4DNUP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 대통령을 위한 4대강 A to Z (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/K5GWe</link>
             <guid>http://newstapa.org/article/K5GWe</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 06 Jan 2021 00:09:00 GMT</pubDate>
             <content:encoded><![CDATA[책 재벌의 민낯 ① 영풍이 오염시킨 땅에 혈세 쓰인다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/06144426-7B15-25CC-9270-B9FHN6QWTHBL9AHR035K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예산 낭비 우려되는 스마트 그린도시 사업 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/8zPOB</link>
-            <guid>http://newstapa.org/article/8zPOB</guid>
-            <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[예산 낭비 우려되는 스마트 그린도시 사업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/30180211-BEBA-435E-1797-SB6JCQR6UUHR3XDJDCL4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령 취임식, 문 앞의 외딴 섬 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -2946,6 +2946,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국민건강 위협하는 4대강 반지성주의 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/94966057</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/94966057</guid>
+            <pubDate>Tue, 24 May 2022 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94966057"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iV7jw/btrC2wU61Om/DuXPzceXUYKKu8g5rGebN1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민건강 위협하는 4대강 반지성주의</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/94961257</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/94961257</guid>
@@ -2979,13 +2986,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94899337</guid>
             <pubDate>Tue, 24 May 2022 02:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94899337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dpG9QV/btrCB0CGtkt/noiqkEBGWnuxID8iWFK0tk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">재판기록으로 본 공직의 자격② 오직 박근혜 위해 '세월호 컨트롤 타워 지침' 불법 수정</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기초의원 징계 추적③불법 수의계약, 음주운전, 공무원 폭행 징계에도 무투표 당선 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94878577</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94878577</guid>
-            <pubDate>Tue, 24 May 2022 02:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94878577"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mdaAs/btrCvZ4Cjhw/d3QNNvbalwfGi25VbKKzj0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기초의원 징계 추적③불법 수의계약, 음주운전, 공무원 폭행 징계에도 무투표 당선</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
