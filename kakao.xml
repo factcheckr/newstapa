@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-25T06:14:55.753Z</updated>
+    <updated>2022-05-25T07:12:56.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세월호 참사 팩트체킹 시스템 <세월호, 사실과 기록>, '이달의 좋은 보도상' 수상]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94981092</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94981092"/>
+        <updated>2022-05-25T07:12:55.404Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94981092"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/mJf99/btrC7K6sk5S/ZdfeNjtLtXJx2Oykd1BdO1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">세월호 참사 팩트체킹 시스템 &lt;세월호, 사실과 기록&gt;, '이달의 좋은 보도상' 수상</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['국정교과서 실무 책임자' 권성연 교육비서관 임명 철회 요구 잇따라]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94975002</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94954784"/>
         <updated>2022-05-24T02:07:32.056Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94954784"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wAg8s/btrCWNw0wIk/zwboiQuWyfcd9KYkwu5egk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈주간 뉴스타파〉 대통령 참모의 자격을 묻다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94899345</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94899345"/>
-        <updated>2022-05-24T02:07:32.058Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94899345"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/WK7qZ/btrCCgSOoMJ/yUy7eg5RqzWKJfukQvdaRk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈주간 뉴스타파〉 대통령 참모의 자격을 묻다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
