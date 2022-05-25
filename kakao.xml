@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-25T07:12:56.217Z</updated>
+    <updated>2022-05-25T08:14:49.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스쿨] 변상욱 “시민 참여로 언론생태계 바꿔야”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94982415</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94982415"/>
+        <updated>2022-05-25T08:14:49.035Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94982415"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSKtmt/btrC4h52FdL/vfvwa1zOA6dBzwfEHYDLsK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] 변상욱 “시민 참여로 언론생태계 바꿔야”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세월호 참사 팩트체킹 시스템 <세월호, 사실과 기록>, '이달의 좋은 보도상' 수상]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94981092</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94961257"/>
         <updated>2022-05-24T06:15:17.113Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94961257"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/S4LIj/btrC0N35ZpC/zkwZ9c1mhhHrpaXVEfjOUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94954784</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94954784"/>
-        <updated>2022-05-24T02:07:32.056Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94954784"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wAg8s/btrCWNw0wIk/zwboiQuWyfcd9KYkwu5egk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
