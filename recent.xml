@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 00:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 02:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지방의회 의원들의 비리가 근절되지 않는 이유]]></title>
+            <link>http://newstapa.org/article/7bqi8</link>
+            <guid>http://newstapa.org/article/7bqi8</guid>
+            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지방의회 의원들의 비리가 근절되지 않는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/24175703-99D4-A9FC-CE91-X8QDZ7Z6DHXOB4ONVLGT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민건강 위협하는 4대강 반지성주의]]></title>
             <link>http://newstapa.org/article/O6ULv</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[울진 산불 구호물품 박스째 방치..."옷 처음 봤다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12183448-1ACE-F7A5-F581-Q2HK2KRDK446YZYONRJC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 감사원, 기부금 비리 공기업에 '주의' 통보...예산 사유화 확인]]></title>
-            <link>http://newstapa.org/article/mWhxo</link>
-            <guid>http://newstapa.org/article/mWhxo</guid>
-            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 감사원, 기부금 비리 공기업에 '주의' 통보...예산 사유화 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12161245-6636-4FB9-FC60-5HQYRPFFPEL8QAX1M26L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

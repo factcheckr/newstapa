@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-25T00:46:37.965Z</updated>
+    <updated>2022-05-25T02:55:39.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국정교과서 실무 책임자' 권성연 교육비서관 임명 철회 요구 잇따라]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94975002</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94975002"/>
+        <updated>2022-05-25T02:55:38.748Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94975002"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/rezhz/btrC2ZbYmsH/llsKAHkgKY72SP9kzMKx71/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">'국정교과서 실무 책임자' 권성연 교육비서관 임명 철회 요구 잇따라</span></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지방의회 의원들의 비리가 근절되지 않는 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94972921</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94972921"/>
+        <updated>2022-05-25T02:55:38.749Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94972921"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/k1JfA/btrC2whwfJf/PvpJafKanMQVI0SCvg7at0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">지방의회 의원들의 비리가 근절되지 않는 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민건강 위협하는 4대강 반지성주의]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94966057</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94899345"/>
         <updated>2022-05-24T02:07:32.058Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94899345"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/WK7qZ/btrCCgSOoMJ/yUy7eg5RqzWKJfukQvdaRk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈주간 뉴스타파〉 대통령 참모의 자격을 묻다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재판기록으로 본 공직의 자격① '국가안보 악영향' 유죄 피고인을 국가안보실 1차장 임명]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94899344</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94899344"/>
-        <updated>2022-05-24T02:07:32.059Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94899344"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/blqXJK/btrCBpCXDpq/sko2m6Ao1ySlQKWWR4CbzK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">재판기록으로 본 공직의 자격① '국가안보 악영향' 유죄 피고인을 국가안보실 1차장 임명</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재판기록으로 본 공직의 자격② 오직 박근혜 위해 '세월호 컨트롤 타워 지침' 불법 수정]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94899337</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94899337"/>
-        <updated>2022-05-24T02:07:32.060Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94899337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dpG9QV/btrCB0CGtkt/noiqkEBGWnuxID8iWFK0tk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">재판기록으로 본 공직의 자격② 오직 박근혜 위해 '세월호 컨트롤 타워 지침' 불법 수정</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
