@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-25T10:14:06.006Z</updated>
+    <updated>2022-05-25T11:11:16.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['윤핵관' 사촌 특혜 의혹② 강릉시장 후보와 경포 공원]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94985572</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94985572"/>
+        <updated>2022-05-25T11:11:15.651Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94985572"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bfd26e/btrC8SQYzr8/8Vn5llArqHz32crcQqcAEK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤핵관' 사촌 특혜 의혹② 강릉시장 후보와 경포 공원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스쿨] 변상욱 “시민 참여로 언론생태계 바꿔야”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94982415</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94966057"/>
         <updated>2022-05-24T09:12:23.922Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94966057"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iV7jw/btrC2wU61Om/DuXPzceXUYKKu8g5rGebN1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민건강 위협하는 4대강 반지성주의</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94961257</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94961257"/>
-        <updated>2022-05-24T06:15:17.113Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94961257"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/S4LIj/btrC0N35ZpC/zkwZ9c1mhhHrpaXVEfjOUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
