@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 00:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 03:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></title>
+            <link>http://newstapa.org/article/anIAt</link>
+            <guid>http://newstapa.org/article/anIAt</guid>
+            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/25181953-00B5-2EB3-A21F-JBZK70FUKAHVOO4D1DNF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설]]></title>
             <link>http://newstapa.org/article/mBmIG</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 22 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상임감사들의 일탈...회장 단체와 모교에 '셀프 기부']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/21172301-65F3-9207-57FB-X0RYT9W4OMDQVRLMI3EB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['공익 감사'로 발본색원... 환수도 될까]]></title>
-            <link>http://newstapa.org/article/kPpCc</link>
-            <guid>http://newstapa.org/article/kPpCc</guid>
-            <pubDate>Tue, 06 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['공익 감사'로 발본색원... 환수도 될까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/05152320-A7A2-07F5-0671-HESBJRIDWXG4AHQBJ2BI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

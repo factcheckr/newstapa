@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-26T00:45:17.939Z</updated>
+    <updated>2022-05-26T03:00:49.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/94990486</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/94990486"/>
+        <updated>2022-05-26T03:00:48.938Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94990486"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c0rdCL/btrC7I3nKXd/5wRsf9YJp2GXsIiUiX2Vqk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['윤핵관' 사촌 특혜 의혹② 강릉시장 후보와 경포 공원]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94985572</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94972921"/>
         <updated>2022-05-25T02:55:38.749Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94972921"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/k1JfA/btrC2whwfJf/PvpJafKanMQVI0SCvg7at0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">지방의회 의원들의 비리가 근절되지 않는 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민건강 위협하는 4대강 반지성주의]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94966057</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94966057"/>
-        <updated>2022-05-24T09:12:23.922Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94966057"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iV7jw/btrC2wU61Om/DuXPzceXUYKKu8g5rGebN1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민건강 위협하는 4대강 반지성주의</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
