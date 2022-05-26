@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-26T10:12:11.874Z</updated>
+    <updated>2022-05-26T11:11:45.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈주간 뉴스타파〉 한동훈 장인 진형구, 과거 주가조작 연루 정황]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95004541</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95004541"/>
+        <updated>2022-05-26T11:11:44.764Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95004541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PimPD/btrDcrtEhlz/7UBsyWxKzf7iRsU0p1Lxq1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈주간 뉴스타파〉 한동훈 장인 진형구, 과거 주가조작 연루 정황 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95000922</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94981092"/>
         <updated>2022-05-25T07:12:55.404Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94981092"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/mJf99/btrC7K6sk5S/ZdfeNjtLtXJx2Oykd1BdO1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">세월호 참사 팩트체킹 시스템 &lt;세월호, 사실과 기록&gt;, '이달의 좋은 보도상' 수상</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국정교과서 실무 책임자' 권성연 교육비서관 임명 철회 요구 잇따라]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94975002</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94975002"/>
-        <updated>2022-05-25T02:55:38.748Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94975002"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/rezhz/btrC2ZbYmsH/llsKAHkgKY72SP9kzMKx71/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">'국정교과서 실무 책임자' 권성연 교육비서관 임명 철회 요구 잇따라</span></span></a>]]></content>
     </entry>
 </feed>
