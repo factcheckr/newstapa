@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-26T07:11:54.375Z</updated>
+    <updated>2022-05-26T08:14:38.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95000922</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95000922"/>
+        <updated>2022-05-26T08:14:37.432Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95000922"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUAtx5/btrDapbBcS2/pR2LIYIwpVoN6WWvuS72gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/94990486</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/94975002"/>
         <updated>2022-05-25T02:55:38.748Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94975002"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/rezhz/btrC2ZbYmsH/llsKAHkgKY72SP9kzMKx71/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">'국정교과서 실무 책임자' 권성연 교육비서관 임명 철회 요구 잇따라</span></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방의회 의원들의 비리가 근절되지 않는 이유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94972921</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94972921"/>
-        <updated>2022-05-25T02:55:38.749Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94972921"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/k1JfA/btrC2whwfJf/PvpJafKanMQVI0SCvg7at0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">지방의회 의원들의 비리가 근절되지 않는 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

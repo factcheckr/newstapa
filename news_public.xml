@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인]]></title>
+            <link>http://newstapa.org/article/r4zzo</link>
+            <guid>http://newstapa.org/article/r4zzo</guid>
+            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/26153003-7BF6-E3A6-73A4-NP9X8L0VOOWI6L033HLN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></title>
             <link>http://newstapa.org/article/anIAt</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대통령 취임식, 문 앞의 외딴 섬]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12164435-EBE8-2BDB-ECB5-D4R0IUSFT6KMRUF70KX5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성회, '위안부' 비하 ·횡령 범죄에 이어 시민단체 공금 사적 사용 또 확인]]></title>
-            <link>http://newstapa.org/article/o82hz</link>
-            <guid>http://newstapa.org/article/o82hz</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김성회, '위안부' 비하 ·횡령 범죄에 이어 시민단체 공금 사적 사용 또 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12163555-B422-5DF2-ACB6-MAII38IBAOCKQTL39LNY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
