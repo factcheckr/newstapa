@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 06:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’]]></title>
+            <link>http://newstapa.org/article/5pz29</link>
+            <guid>http://newstapa.org/article/5pz29</guid>
+            <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/30142403-4A66-0551-F2B3-W15CAZ4ECQO45CY5XGI3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 현직 기초의원 2022년 정기 재산변동 사항 공개]]></title>
             <link>http://newstapa.org/article/2Fn9U</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[러시아-우크라이나 전쟁 관련 텔레그램 메시지 영구 저장하는 법]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18150907-CE08-92CF-F68F-3O6VIOXVODW01DQFLY9H.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰으로 이미지를 간편하게 검증하는 4가지 방법]]></title>
-            <link>http://newstapa.org/article/vcN9l</link>
-            <guid>http://newstapa.org/article/vcN9l</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰으로 이미지를 간편하게 검증하는 4가지 방법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18150808-384B-7868-F18F-ZHLJV86AW03MZI5S66RZ.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 06:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5pz29</link>
+            <guid>http://newstapa.org/article/5pz29</guid>
+            <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/30142403-4A66-0551-F2B3-W15CAZ4ECQO45CY5XGI3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 현직 기초의원 2022년 정기 재산변동 사항 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/2Fn9U</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[러시아-우크라이나 전쟁 관련 텔레그램 메시지 영구 저장하는 법]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18150907-CE08-92CF-F68F-3O6VIOXVODW01DQFLY9H.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[스마트폰으로 이미지를 간편하게 검증하는 4가지 방법 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/vcN9l</link>
-            <guid>http://newstapa.org/article/vcN9l</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스마트폰으로 이미지를 간편하게 검증하는 4가지 방법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18150808-384B-7868-F18F-ZHLJV86AW03MZI5S66RZ.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, 현직 기초의원 2022년 정기 재산변동 사항 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’ (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/5pz29</link>
+            <guid>http://newstapa.org/article/5pz29</guid>
+            <pubDate>Mon, 30 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/30142403-4A66-0551-F2B3-W15CAZ4ECQO45CY5XGI3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[울진 산불 구호물품 박스째 방치..."옷 처음 봤다" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/os0hN</link>
             <guid>http://newstapa.org/article/os0hN</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]환경부 장관, "조류경보제 개선하겠다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05172839-26BA-D1B1-A2A8-BKM1V2EIS06194LNNN4W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 재벌의 민낯 ④ 이철우 경북도지사의 '영풍 구하기' 소송 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/CTQ1C</link>
-            <guid>http://newstapa.org/article/CTQ1C</guid>
-            <pubDate>Fri, 15 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[책 재벌의 민낯 ④ 이철우 경북도지사의 '영풍 구하기' 소송]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/14223811-37AE-0041-E2BA-P4D627FPC7TUBI4XLZZP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2946,6 +2946,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’ (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95051175</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95051175</guid>
+            <pubDate>Mon, 30 May 2022 06:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95051175"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yv5Mc/btrDrP2gjmO/ezYkyk5iJOaOib2Fy4rWXK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, 현직 기초의원 2022년 정기 재산변동 사항 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95016859</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95016859</guid>
@@ -2979,13 +2986,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/94990486</guid>
             <pubDate>Thu, 26 May 2022 03:00:48 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94990486"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c0rdCL/btrC7I3nKXd/5wRsf9YJp2GXsIiUiX2Vqk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['윤핵관' 사촌 특혜 의혹② 강릉시장 후보와 경포 공원 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/94985572</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/94985572</guid>
-            <pubDate>Wed, 25 May 2022 11:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/94985572"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bfd26e/btrC8SQYzr8/8Vn5llArqHz32crcQqcAEK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤핵관' 사촌 특혜 의혹② 강릉시장 후보와 경포 공원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
