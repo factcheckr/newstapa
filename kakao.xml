@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-31T09:11:45.094Z</updated>
+    <updated>2022-05-31T10:13:37.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울진 산불, 재난은 또 다른 차별을 낳는다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95076629</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95076629"/>
+        <updated>2022-05-31T10:13:36.669Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95076629"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cCAaFl/btrDGcHVUdt/kcADUIANSdQvVphMfRi8kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">울진 산불, 재난은 또 다른 차별을 낳는다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95067029</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95009692"/>
         <updated>2022-05-27T02:59:41.237Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95009692"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/t17VX/btrDghC6EaG/4mdZthBaLPqKkOpne7zfJk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">300억대 수의계약 누구 주머니로 갔나</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈주간 뉴스타파〉 한동훈 장인 진형구, 과거 주가조작 연루 정황]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95004541</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95004541"/>
-        <updated>2022-05-26T11:11:44.764Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95004541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PimPD/btrDcrtEhlz/7UBsyWxKzf7iRsU0p1Lxq1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈주간 뉴스타파〉 한동훈 장인 진형구, 과거 주가조작 연루 정황 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
