@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-31T03:49:44.070Z</updated>
+    <updated>2022-05-31T04:26:35.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95067029</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95067029"/>
+        <updated>2022-05-31T04:26:35.178Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95067029"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c17Om5/btrDAQMyUTw/gDcHJtTsfG6Cnwe0hvcqT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95061946</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95004541"/>
         <updated>2022-05-26T11:11:44.764Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95004541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PimPD/btrDcrtEhlz/7UBsyWxKzf7iRsU0p1Lxq1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈주간 뉴스타파〉 한동훈 장인 진형구, 과거 주가조작 연루 정황 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95000922</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95000922"/>
-        <updated>2022-05-26T08:14:37.432Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95000922"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUAtx5/btrDapbBcS2/pR2LIYIwpVoN6WWvuS72gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

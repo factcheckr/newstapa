@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/4LSuw</link>
+            <guid>http://newstapa.org/article/4LSuw</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31124222-E6F1-8533-8D44-Z3828JJ07SIUO5YJBGWD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/IhiPy</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재판기록으로 본 공직의 자격① '국가안보 악영향' 유죄 피고인을 국가안보실 1차장 임명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/19113451-26C6-386E-DD59-QWVJ9UOYEFBB40CC6Y10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재판기록으로 본 공직의 자격② 오직 박근혜 위해 '세월호 컨트롤 타워 지침' 불법 수정 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/UsViu</link>
-            <guid>http://newstapa.org/article/UsViu</guid>
-            <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[재판기록으로 본 공직의 자격② 오직 박근혜 위해 '세월호 컨트롤 타워 지침' 불법 수정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/19171540-D27B-96E7-5480-2F5BHRAYVGTOPAYFH2X7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, 현직 기초의원 2022년 정기 재산변동 사항 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/06010937-24C9-7DDF-2416-OMRPWGYE32R59E3O0JJ9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/4LSuw</link>
+            <guid>http://newstapa.org/article/4LSuw</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31124222-E6F1-8533-8D44-Z3828JJ07SIUO5YJBGWD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보수 언론에 당근, 비판 언론엔 채찍 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/a7f1A</link>
             <guid>http://newstapa.org/article/a7f1A</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/04124927-090D-25AA-B12D-Q5QTKMUZFQDF85R5405B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가? (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/ULW9Q</link>
-            <guid>http://newstapa.org/article/ULW9Q</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25160721-B562-1225-A4DC-21EG76E6PG3TZMVEVC0I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파-GIJN 탐사보도 노하우 공개 프로젝트 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2946,6 +2946,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95067029</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95067029</guid>
+            <pubDate>Tue, 31 May 2022 04:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95067029"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c17Om5/btrDAQMyUTw/gDcHJtTsfG6Cnwe0hvcqT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95061946</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95061946</guid>
@@ -2979,13 +2986,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95004541</guid>
             <pubDate>Thu, 26 May 2022 11:11:44 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95004541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PimPD/btrDcrtEhlz/7UBsyWxKzf7iRsU0p1Lxq1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈주간 뉴스타파〉 한동훈 장인 진형구, 과거 주가조작 연루 정황 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95000922</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95000922</guid>
-            <pubDate>Thu, 26 May 2022 08:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95000922"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUAtx5/btrDapbBcS2/pR2LIYIwpVoN6WWvuS72gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

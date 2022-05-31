@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></title>
+            <link>http://newstapa.org/article/4LSuw</link>
+            <guid>http://newstapa.org/article/4LSuw</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31124222-E6F1-8533-8D44-Z3828JJ07SIUO5YJBGWD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보수 언론에 당근, 비판 언론엔 채찍]]></title>
             <link>http://newstapa.org/article/a7f1A</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[석탄재 폐기물과 기자, 그리고 공무원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/04124927-090D-25AA-B12D-Q5QTKMUZFQDF85R5405B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></title>
-            <link>http://newstapa.org/article/ULW9Q</link>
-            <guid>http://newstapa.org/article/ULW9Q</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[SBS부터 JTBC까지 '사기 전기차' 홍보...언론은 공범인가? 주범인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25160721-B562-1225-A4DC-21EG76E6PG3TZMVEVC0I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
