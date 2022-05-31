@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-05-31T00:43:26.496Z</updated>
+    <updated>2022-05-31T02:57:59.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95061946</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95061946"/>
+        <updated>2022-05-31T02:57:58.145Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95061946"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AJeCi/btrDyFkwDrl/N6yBhtKlrwffyzx9Mv8Uc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95051175</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95000922"/>
         <updated>2022-05-26T08:14:37.432Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95000922"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUAtx5/btrDapbBcS2/pR2LIYIwpVoN6WWvuS72gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/94990486</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/94990486"/>
-        <updated>2022-05-26T03:00:48.938Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/94990486"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c0rdCL/btrC7I3nKXd/5wRsf9YJp2GXsIiUiX2Vqk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
