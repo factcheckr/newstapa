@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-02T00:50:36.210Z</updated>
+    <updated>2022-06-02T03:10:06.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 ‘소통비서관’의 말,말,말...뉴라이트 사관·소수자 혐오·기업에 금전요구]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95094166</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95094166"/>
+        <updated>2022-06-02T03:10:05.586Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95094166"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eoZxnv/btrDOxZbWao/KAWpeERTZK3H4FdD2WEyy1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 ‘소통비서관’의 말,말,말...뉴라이트 사관·소수자 혐오·기업에 금전요구</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울진 산불, 재난은 또 다른 차별을 낳는다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95076629</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95016859"/>
         <updated>2022-05-27T07:11:30.200Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95016859"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cYLvBr/btrDhf0nReF/ByzlLaNapraE9k5THFQF21/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 현직 기초의원 2022년 정기 재산변동 사항 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[300억대 수의계약 누구 주머니로 갔나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95009692</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95009692"/>
-        <updated>2022-05-27T02:59:41.237Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95009692"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/t17VX/btrDghC6EaG/4mdZthBaLPqKkOpne7zfJk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">300억대 수의계약 누구 주머니로 갔나</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
