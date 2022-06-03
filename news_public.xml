@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 00:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 02:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답]]></title>
+            <link>http://newstapa.org/article/ep27U</link>
+            <guid>http://newstapa.org/article/ep27U</guid>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/02104235-7C49-CDF5-9E1A-L0B9I3L5SIZRM90YH8UQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 ‘소통비서관’의 말,말,말...뉴라이트 사관·소수자 혐오·기업에 금전요구]]></title>
             <link>http://newstapa.org/article/IR4Xh</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기초의원 징계 추적③불법 수의계약, 음주운전, 공무원 폭행 징계에도 무투표 당선]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18151402-0C2F-33A7-1D02-RAH81D9ITW0KYL43CE6J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 초대 내각, 부모-자녀간 '스펙·교육·재력의 세습' 지도]]></title>
-            <link>http://newstapa.org/article/SUuiF</link>
-            <guid>http://newstapa.org/article/SUuiF</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 초대 내각, 부모-자녀간 '스펙·교육·재력의 세습' 지도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/13152230-60C6-0D72-A3AB-SR9BLT906UBM5RKBNG84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-03T00:38:13.767Z</updated>
+    <updated>2022-06-03T02:47:47.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95116835</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95116835"/>
+        <updated>2022-06-03T02:47:46.506Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95116835"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c7ItmE/btrDQefzgw1/f6QFWOR4oVa2fOlboKnwg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김소영, 국회 정책연구보고서 무단 베껴 논문 투고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘한동훈 처가 연루’ 주가조작범, 검찰로부터 특혜 정황 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95111701</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95061946"/>
         <updated>2022-05-31T02:57:58.145Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95061946"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AJeCi/btrDyFkwDrl/N6yBhtKlrwffyzx9Mv8Uc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95051175</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95051175"/>
-        <updated>2022-05-30T06:16:33.000Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95051175"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yv5Mc/btrDrP2gjmO/ezYkyk5iJOaOib2Fy4rWXK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 퇴출과 잔존의 기로에 선 ‘세월호 잠수함 충돌 음모론’</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
