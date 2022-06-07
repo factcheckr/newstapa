@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-07T09:16:59.896Z</updated>
+    <updated>2022-06-07T10:12:24.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95172734</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95172734"/>
+        <updated>2022-06-07T10:12:23.842Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95172734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/xMziF/btrEc2L3mSd/5kg5tRkH1D8RZqU1kIiGTK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95116835</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95067029"/>
         <updated>2022-05-31T04:26:35.178Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95067029"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c17Om5/btrDAQMyUTw/gDcHJtTsfG6Cnwe0hvcqT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95061946</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95061946"/>
-        <updated>2022-05-31T02:57:58.145Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95061946"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AJeCi/btrDyFkwDrl/N6yBhtKlrwffyzx9Mv8Uc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
