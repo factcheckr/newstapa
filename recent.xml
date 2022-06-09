@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 10:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 윤석열 시대의 노동... 계속 사람이 죽어간다]]></title>
+            <link>http://newstapa.org/article/GbINM</link>
+            <guid>http://newstapa.org/article/GbINM</guid>
+            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열 시대의 노동... 계속 사람이 죽어간다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/09160903-B4F4-D438-619A-4C5YR8P5J1VHCSBWXFZO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀']]></title>
+            <link>http://newstapa.org/article/7Mx_Q</link>
+            <guid>http://newstapa.org/article/7Mx_Q</guid>
+            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/09175848-5BE5-B1D4-E70F-KMYXE9B4AR5DB2GE1GHK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기]]></title>
             <link>http://newstapa.org/article/PQtNj</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김영선 창원의창 국민의힘 후보, 과거 KT에 '부정채용 청탁' 정황 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/26153003-7BF6-E3A6-73A4-NP9X8L0VOOWI6L033HLN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></title>
-            <link>http://newstapa.org/article/anIAt</link>
-            <guid>http://newstapa.org/article/anIAt</guid>
-            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/25181953-00B5-2EB3-A21F-JBZK70FUKAHVOO4D1DNF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤핵관' 사촌 특혜 의혹② 강릉시장 후보와 경포 공원]]></title>
-            <link>http://newstapa.org/article/kfFUs</link>
-            <guid>http://newstapa.org/article/kfFUs</guid>
-            <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['윤핵관' 사촌 특혜 의혹② 강릉시장 후보와 경포 공원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/25174158-BC04-233E-E139-XG06HG4GK5L5FGUHEUXM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

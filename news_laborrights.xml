@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 10:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 윤석열 시대의 노동... 계속 사람이 죽어간다]]></title>
+            <link>http://newstapa.org/article/GbINM</link>
+            <guid>http://newstapa.org/article/GbINM</guid>
+            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열 시대의 노동... 계속 사람이 죽어간다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/09160903-B4F4-D438-619A-4C5YR8P5J1VHCSBWXFZO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀']]></title>
+            <link>http://newstapa.org/article/7Mx_Q</link>
+            <guid>http://newstapa.org/article/7Mx_Q</guid>
+            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/09175848-5BE5-B1D4-E70F-KMYXE9B4AR5DB2GE1GHK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령 취임식, 문 앞의 외딴 섬]]></title>
             <link>http://newstapa.org/article/hRekj</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31130015-A33D-FC0C-F5E5-HPDS7NLL015H7BNWCFST.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비정규직이 불법에 맞선 '죄', 징역 5년]]></title>
-            <link>http://newstapa.org/article/QZyhQ</link>
-            <guid>http://newstapa.org/article/QZyhQ</guid>
-            <pubDate>Fri, 24 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비정규직이 불법에 맞선 '죄', 징역 5년]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/24190008-4563-F936-BC6B-5BIR6OMDH4T36C5BYTS4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></title>
-            <link>http://newstapa.org/article/a8uRJ</link>
-            <guid>http://newstapa.org/article/a8uRJ</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

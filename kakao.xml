@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-09T10:15:17.682Z</updated>
+    <updated>2022-06-09T11:12:02.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 시대의 노동... 계속 사람이 죽어간다 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95224125</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95224125"/>
+        <updated>2022-06-09T11:12:01.468Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95224125"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/SKOoC/btrEnCmE8n6/KqFADlSxXLClbmszUKEp81/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 시대의 노동... 계속 사람이 죽어간다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95224082</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95224082"/>
+        <updated>2022-06-09T11:12:01.468Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95224082"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MsTw3/btrElbQ4Yo1/LVV32BewUHEAXa1ZtxnKzk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 뉴스타파 독립 다큐 공모]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95219213</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95111701"/>
         <updated>2022-06-02T11:11:11.679Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95111701"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/CtLXO/btrDRi2baVu/Am7PkE6RrkoCC0MyIlrJKk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘한동훈 처가 연루’ 주가조작범, 검찰로부터 특혜 정황 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 ‘소통비서관’의 말,말,말...뉴라이트 사관·소수자 혐오·기업에 금전요구]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95094166</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95094166"/>
-        <updated>2022-06-02T03:10:05.586Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95094166"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eoZxnv/btrDOxZbWao/KAWpeERTZK3H4FdD2WEyy1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 ‘소통비서관’의 말,말,말...뉴라이트 사관·소수자 혐오·기업에 금전요구</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울진 산불, 재난은 또 다른 차별을 낳는다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95076629</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95076629"/>
-        <updated>2022-05-31T10:13:36.669Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95076629"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cCAaFl/btrDGcHVUdt/kcADUIANSdQvVphMfRi8kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">울진 산불, 재난은 또 다른 차별을 낳는다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
