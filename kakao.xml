@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-09T05:11:50.398Z</updated>
+    <updated>2022-06-09T07:11:47.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 뉴스타파 독립 다큐 공모]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95219213</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95219213"/>
+        <updated>2022-06-09T07:11:46.719Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95219213"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GVUPz/btrEmQyd7RU/f8SsfcQ5KmDJcpk5HiGqxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2022년 뉴스타파 독립 다큐 공모</span><em class="emph_g">withnewstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95172734</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95076629"/>
         <updated>2022-05-31T10:13:36.669Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95076629"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cCAaFl/btrDGcHVUdt/kcADUIANSdQvVphMfRi8kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">울진 산불, 재난은 또 다른 차별을 낳는다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95067029</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95067029"/>
-        <updated>2022-05-31T04:26:35.178Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95067029"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c17Om5/btrDAQMyUTw/gDcHJtTsfG6Cnwe0hvcqT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
