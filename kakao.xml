@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-10T09:11:16.022Z</updated>
+    <updated>2022-06-10T10:12:59.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95242511</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95242511"/>
+        <updated>2022-06-10T10:12:58.684Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95242511"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uF41T/btrEtIG0mqR/yFKmSjXCpfkraTji21Fs90/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 의혹 기각하고도 “기각” 말 못한 ‘홍길동 사참위’의 마지막 책무]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95237416</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95172734"/>
         <updated>2022-06-07T10:12:23.842Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95172734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/xMziF/btrEc2L3mSd/5kg5tRkH1D8RZqU1kIiGTK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95116835</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95116835"/>
-        <updated>2022-06-03T02:47:46.506Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95116835"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c7ItmE/btrDQefzgw1/f6QFWOR4oVa2fOlboKnwg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김소영, 국회 정책연구보고서 무단 베껴 논문 투고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

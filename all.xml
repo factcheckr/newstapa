@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 09:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 10:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/PCYqL</link>
+            <guid>http://newstapa.org/article/PCYqL</guid>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/10150225-C72D-E743-C473-ZFJ792TPH9WVY2ULZARO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 의혹 기각하고도 “기각” 말 못한 ‘홍길동 사참위’의 마지막 책무 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/VFsxB</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[광역단체장 후보 검증] 회계 부정, 막말, 전과자...'반지성' 후보 수두룩]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/26222453-2CF4-2F29-1377-RDTAP808S0VTQ711GBOB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 한동훈 장인 진형구, 과거 주가조작 사건 연루 정황 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gMgwO</link>
-            <guid>http://newstapa.org/article/gMgwO</guid>
-            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 한동훈 장인 진형구, 과거 주가조작 사건 연루 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/26173926-083A-A62B-E6AC-W4LTK2X4L6LCRR0WA5ZX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18151402-0C2F-33A7-1D02-RAH81D9ITW0KYL43CE6J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/PCYqL</link>
+            <guid>http://newstapa.org/article/PCYqL</guid>
+            <pubDate>Fri, 10 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/10150225-C72D-E743-C473-ZFJ792TPH9WVY2ULZARO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<주간 뉴스타파>'한동훈 처가 연루' 주가조작범, 검찰로부터 특혜 정황 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/zihTa</link>
             <guid>http://newstapa.org/article/zihTa</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 검찰, '윤우진 뇌물사건' 부실수사 인정...과거 자체 수사결과 뒤집어]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31172702-FA8E-C4C3-960B-6VA5Z6EY80D6O5DEAIU0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<특집 다큐> 문재인정부 검찰개혁 잔혹사 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/t34ie</link>
-            <guid>http://newstapa.org/article/t34ie</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;특집 다큐&gt; 문재인정부 검찰개혁 잔혹사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/30194016-639F-901D-907B-8I5FT4CPSZDW258L7V7B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -2946,6 +2946,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95242511</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95242511</guid>
+            <pubDate>Fri, 10 Jun 2022 10:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95242511"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uF41T/btrEtIG0mqR/yFKmSjXCpfkraTji21Fs90/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 의혹 기각하고도 “기각” 말 못한 ‘홍길동 사참위’의 마지막 책무 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95237416</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95237416</guid>
@@ -2979,13 +2986,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95172734</guid>
             <pubDate>Tue, 07 Jun 2022 10:12:23 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95172734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/xMziF/btrEc2L3mSd/5kg5tRkH1D8RZqU1kIiGTK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95116835</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95116835</guid>
-            <pubDate>Fri, 03 Jun 2022 02:47:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95116835"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c7ItmE/btrDQefzgw1/f6QFWOR4oVa2fOlboKnwg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김소영, 국회 정책연구보고서 무단 베껴 논문 투고</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
