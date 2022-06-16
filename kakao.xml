@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-16T11:10:24.236Z</updated>
+    <updated>2022-06-16T12:18:33.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 문재인의 원전 대전(大戰)  〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95341642</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95341642"/>
+        <updated>2022-06-16T12:18:32.952Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341642"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/i084i/btrEXkTOFkF/yD7o8K6ybivVWg1leKuTVk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 문재인의 원전 대전(大戰)  〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부 5년, 탈원전은 없었다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95341632</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95242511"/>
         <updated>2022-06-10T10:12:58.684Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95242511"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uF41T/btrEtIG0mqR/yFKmSjXCpfkraTji21Fs90/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 의혹 기각하고도 “기각” 말 못한 ‘홍길동 사참위’의 마지막 책무]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95237416</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95237416"/>
-        <updated>2022-06-10T06:18:57.978Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95237416"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iQa5L/btrEreGm4m9/ZwotgOMdtlZwEeClGW2470/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 의혹 기각하고도 “기각” 말 못한 ‘홍길동 사참위’의 마지막 책무</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
