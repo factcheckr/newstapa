@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 10:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 11:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 윤석열과 문재인의 원전 대전(大戰)]]></title>
+            <link>http://newstapa.org/article/IA20y</link>
+            <guid>http://newstapa.org/article/IA20y</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열과 문재인의 원전 대전(大戰)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16144118-A2E4-A79B-443D-EUMSLX3JXUDC1BAH3IZR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부 5년, 탈원전은 없었다]]></title>
+            <link>http://newstapa.org/article/5Vo42</link>
+            <guid>http://newstapa.org/article/5Vo42</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부 5년, 탈원전은 없었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16141936-0BE5-A5D6-0605-PGY3VFP8VZG0U0CZU1U6.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[번지수 틀린 윤석열 정부 에너지 정책]]></title>
+            <link>http://newstapa.org/article/Tcuia</link>
+            <guid>http://newstapa.org/article/Tcuia</guid>
+            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[번지수 틀린 윤석열 정부 에너지 정책]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16183434-EAB4-5756-43E6-CZG52WDE10FBEEV57KB3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민건강 위협하는 4대강 반지성주의]]></title>
             <link>http://newstapa.org/article/O6ULv</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[책 재벌의 민낯 ④ 이철우 경북도지사의 '영풍 구하기' 소송]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/14223811-37AE-0041-E2BA-P4D627FPC7TUBI4XLZZP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경부와 국립공원공단의 '가짜 그린뉴딜']]></title>
-            <link>http://newstapa.org/article/rXffS</link>
-            <guid>http://newstapa.org/article/rXffS</guid>
-            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[환경부와 국립공원공단의 '가짜 그린뉴딜']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/14180050-0EB9-E06A-DEA9-Z2S2RPKL5DUYEL9LGJ9T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미세먼지 잡는 쿨링포그? 급조된 그린뉴딜의 한계]]></title>
-            <link>http://newstapa.org/article/RzGts</link>
-            <guid>http://newstapa.org/article/RzGts</guid>
-            <pubDate>Tue, 07 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미세먼지 잡는 쿨링포그? 급조된 그린뉴딜의 한계]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/07141945-C3E0-A358-6A59-AAYTVV2WB3PMY3NQ497V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 재벌의 민낯 ① 영풍이 오염시킨 땅에 혈세 쓰인다]]></title>
-            <link>http://newstapa.org/article/FMQct</link>
-            <guid>http://newstapa.org/article/FMQct</guid>
-            <pubDate>Mon, 06 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[책 재벌의 민낯 ① 영풍이 오염시킨 땅에 혈세 쓰인다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/06144426-7B15-25CC-9270-B9FHN6QWTHBL9AHR035K.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
