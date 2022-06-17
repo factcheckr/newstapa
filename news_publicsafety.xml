@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['윤핵관' 정진석의 거짓말과 공주보]]></title>
+            <link>http://newstapa.org/article/J3epz</link>
+            <guid>http://newstapa.org/article/J3epz</guid>
+            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤핵관' 정진석의 거짓말과 공주보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/17143757-C669-EBB0-B910-RDCIO58UL5VXFYT74D2T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 윤석열과 문재인의 원전 대전(大戰)]]></title>
             <link>http://newstapa.org/article/IA20y</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원]]></title>
-            <link>http://newstapa.org/article/rw_LZ</link>
-            <guid>http://newstapa.org/article/rw_LZ</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/30123731-F9D4-C6E7-6B31-SVYHG93A4Y2SIAL5JSX0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

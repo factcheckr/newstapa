@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['윤핵관' 정진석의 거짓말과 공주보 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/J3epz</link>
+            <guid>http://newstapa.org/article/J3epz</guid>
+            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤핵관' 정진석의 거짓말과 공주보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/17143757-C669-EBB0-B910-RDCIO58UL5VXFYT74D2T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 윤석열과 문재인의 원전 대전(大戰) (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/IA20y</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[산불 피해 이재민들은 어떤 지원을 받나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31182054-F4CF-C87E-F624-ENIHN9L8T7SHVVOE80I5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/4LSuw</link>
-            <guid>http://newstapa.org/article/4LSuw</guid>
-            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31124222-E6F1-8533-8D44-Z3828JJ07SIUO5YJBGWD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/10/f2c70d9da79b3051ee6697a57b0b1978083ab8f97a656de285495a068393cf937aad5fddf9a6d50dbed856bf961a172825ebe4bd1a96dd2be728979c9b97a4e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['윤핵관' 정진석의 거짓말과 공주보 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/J3epz</link>
+            <guid>http://newstapa.org/article/J3epz</guid>
+            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤핵관' 정진석의 거짓말과 공주보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/17143757-C669-EBB0-B910-RDCIO58UL5VXFYT74D2T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<주간 뉴스타파> 윤석열과 문재인의 원전 대전(大戰) (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/IA20y</link>
             <guid>http://newstapa.org/article/IA20y</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 30 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[환경부, '유등 축제' 구실로 수문 닫아...생태계 훼손]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/30144311-5A37-6B54-785C-0G8YVK4EFCOJSVP3XM8H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[책 재벌의 민낯 ④ 이철우 경북도지사의 '영풍 구하기' 소송 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/CTQ1C</link>
-            <guid>http://newstapa.org/article/CTQ1C</guid>
-            <pubDate>Fri, 15 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[책 재벌의 민낯 ④ 이철우 경북도지사의 '영풍 구하기' 소송]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/14223811-37AE-0041-E2BA-P4D627FPC7TUBI4XLZZP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 윤석열 시대의 노동... 계속 사람이 죽어간다 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31130015-A33D-FC0C-F5E5-HPDS7NLL015H7BNWCFST.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['윤핵관' 정진석의 거짓말과 공주보 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/J3epz</link>
+            <guid>http://newstapa.org/article/J3epz</guid>
+            <pubDate>Fri, 17 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤핵관' 정진석의 거짓말과 공주보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/17143757-C669-EBB0-B910-RDCIO58UL5VXFYT74D2T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<주간 뉴스타파> 윤석열과 문재인의 원전 대전(大戰) (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/IA20y</link>
             <guid>http://newstapa.org/article/IA20y</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노지 재배 쌀 배추 무에서 녹조 독소 첫 검출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/08095659-F067-0A0F-5341-3A6EJBNIGFNZSDR91Y39.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/rw_LZ</link>
-            <guid>http://newstapa.org/article/rw_LZ</guid>
-            <pubDate>Tue, 30 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] ‘카드뮴 불법 배출’ 영풍 석포제련소 과징금 281억원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/30123731-F9D4-C6E7-6B31-SVYHG93A4Y2SIAL5JSX0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2946,6 +2946,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['윤핵관' 정진석의 거짓말과 공주보 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95353831</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95353831</guid>
+            <pubDate>Fri, 17 Jun 2022 06:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95353831"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cFMzqU/btrE1X4WZvj/BK6pVW7ErGNGOEXSXKbKz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤핵관' 정진석의 거짓말과 공주보</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 문재인의 원전 대전(大戰)  〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95341642</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95341642</guid>
@@ -2979,13 +2986,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95331800</guid>
             <pubDate>Thu, 16 Jun 2022 02:58:58 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95331800"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jT0la/btrEToIhr1K/QxsKlIqhvnlkGcZ49jXkaK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[자산가의 조세도피처 이용법] "자녀 해외유학 용도로 페이퍼컴퍼니"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95242511</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95242511</guid>
-            <pubDate>Fri, 10 Jun 2022 10:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95242511"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uF41T/btrEtIG0mqR/yFKmSjXCpfkraTji21Fs90/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

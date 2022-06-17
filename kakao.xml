@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-17T05:14:53.584Z</updated>
+    <updated>2022-06-17T06:14:31.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['윤핵관' 정진석의 거짓말과 공주보]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95353831</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95353831"/>
+        <updated>2022-06-17T06:14:31.113Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95353831"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cFMzqU/btrE1X4WZvj/BK6pVW7ErGNGOEXSXKbKz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤핵관' 정진석의 거짓말과 공주보</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 문재인의 원전 대전(大戰)  〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95341642</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95331800"/>
         <updated>2022-06-16T02:58:58.336Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95331800"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jT0la/btrEToIhr1K/QxsKlIqhvnlkGcZ49jXkaK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[자산가의 조세도피처 이용법] "자녀 해외유학 용도로 페이퍼컴퍼니"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95242511</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95242511"/>
-        <updated>2022-06-10T10:12:58.684Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95242511"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uF41T/btrEtIG0mqR/yFKmSjXCpfkraTji21Fs90/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소</span><em class="emph_g">www.newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
