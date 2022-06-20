@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성범죄 교사 90% 가중처벌 피했다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Yj9bi</link>
+            <guid>http://newstapa.org/article/Yj9bi</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성범죄 교사 90% 가중처벌 피했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/20171652-DFFA-3422-8F97-0QGSK6JYAL4HN8FNR97T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['윤핵관' 정진석의 거짓말과 공주보 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/J3epz</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[울진 산불, 재난은 또 다른 차별을 낳는다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31182042-A225-1E4C-774B-NKS1OLUDBS1R9OVDIFJK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산불 피해 이재민들은 어떤 지원을 받나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/j8IDG</link>
-            <guid>http://newstapa.org/article/j8IDG</guid>
-            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[산불 피해 이재민들은 어떤 지원을 받나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31182054-F4CF-C87E-F624-ENIHN9L8T7SHVVOE80I5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18151402-0C2F-33A7-1D02-RAH81D9ITW0KYL43CE6J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[성범죄 교사 90% 가중처벌 피했다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/Yj9bi</link>
+            <guid>http://newstapa.org/article/Yj9bi</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성범죄 교사 90% 가중처벌 피했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/20171652-DFFA-3422-8F97-0QGSK6JYAL4HN8FNR97T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, '법조 기자단 특혜' 서울고검 상대 소송 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/PCYqL</link>
             <guid>http://newstapa.org/article/PCYqL</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/11175952-AD5B-1D3B-2577-8YLD6HH7C8BPMFXPXXJ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 검찰, '윤우진 뇌물사건' 부실수사 인정...과거 자체 수사결과 뒤집어 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/B5o0Z</link>
-            <guid>http://newstapa.org/article/B5o0Z</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 검찰, '윤우진 뇌물사건' 부실수사 인정...과거 자체 수사결과 뒤집어]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31172702-FA8E-C4C3-960B-6VA5Z6EY80D6O5DEAIU0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
