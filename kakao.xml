@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-21T07:10:57.331Z</updated>
+    <updated>2022-06-21T08:19:41.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[식량안보시대, 쌀가루는 수입밀을 대체할 수 있을까]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95402086</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95402086"/>
+        <updated>2022-06-21T08:19:41.215Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95402086"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/o2GRW/btrFnBtuEmX/Z5yzrnTYR5dkIuPKMlYVqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">식량안보시대, 쌀가루는 수입밀을 대체할 수 있을까</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95401630</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95341632"/>
         <updated>2022-06-16T11:10:23.376Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341632"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/n4ahX/btrEYGBsNPp/zwArgrfAzY3oSorWkXkUf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문재인 정부 5년, 탈원전은 없었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번지수 틀린 윤석열 정부 에너지 정책]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95341615</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95341615"/>
-        <updated>2022-06-16T11:10:23.377Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341615"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uUNad/btrEZcNC4SF/AgQR8GRl75CT7RokIFUEpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">번지수 틀린 윤석열 정부 에너지 정책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
