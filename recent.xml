@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 06:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></title>
+            <link>http://newstapa.org/article/QZQ0q</link>
+            <guid>http://newstapa.org/article/QZQ0q</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/21101718-BD21-F18F-508D-ERZX6SQRYRV96HIHN7UV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성범죄 교사 90% 가중처벌 피했다]]></title>
             <link>http://newstapa.org/article/Yj9bi</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부 ‘소통비서관’의 말,말,말...뉴라이트 사관·소수자 혐오·기업에 금전요구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31155259-A08A-CB11-D6B2-D2V8MIVR3DEZW14DVWZZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울진 산불, 재난은 또 다른 차별을 낳는다]]></title>
-            <link>http://newstapa.org/article/7FbDl</link>
-            <guid>http://newstapa.org/article/7FbDl</guid>
-            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[울진 산불, 재난은 또 다른 차별을 낳는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31182042-A225-1E4C-774B-NKS1OLUDBS1R9OVDIFJK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
