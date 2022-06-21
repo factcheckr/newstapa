@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 06:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2946,6 +2946,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95401630</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95401630</guid>
+            <pubDate>Tue, 21 Jun 2022 07:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95401630"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/crBbfk/btrFoZfMPue/uE1XNt6x5B5jr2zZhKvkf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[성범죄 교사 90% 가중처벌 피했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95390320</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95390320</guid>
@@ -2979,13 +2986,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95341615</guid>
             <pubDate>Thu, 16 Jun 2022 11:10:23 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341615"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uUNad/btrEZcNC4SF/AgQR8GRl75CT7RokIFUEpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">번지수 틀린 윤석열 정부 에너지 정책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한전 적자가 문재인 정부 탈원전 탓이라고? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95341602</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95341602</guid>
-            <pubDate>Thu, 16 Jun 2022 11:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341602"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bmIgAd/btrEYhWae0Y/poi6rbeGwvYoBcKxXk1mR0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한전 적자가 문재인 정부 탈원전 탓이라고?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

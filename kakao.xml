@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-21T06:13:25.216Z</updated>
+    <updated>2022-06-21T07:10:57.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95401630</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95401630"/>
+        <updated>2022-06-21T07:10:56.481Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95401630"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/crBbfk/btrFoZfMPue/uE1XNt6x5B5jr2zZhKvkf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성범죄 교사 90% 가중처벌 피했다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95390320</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95341615"/>
         <updated>2022-06-16T11:10:23.377Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341615"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uUNad/btrEZcNC4SF/AgQR8GRl75CT7RokIFUEpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">번지수 틀린 윤석열 정부 에너지 정책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한전 적자가 문재인 정부 탈원전 탓이라고?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95341602</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95341602"/>
-        <updated>2022-06-16T11:10:23.378Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341602"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bmIgAd/btrEYhWae0Y/poi6rbeGwvYoBcKxXk1mR0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한전 적자가 문재인 정부 탈원전 탓이라고?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
