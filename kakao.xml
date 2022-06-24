@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-24T08:15:20.111Z</updated>
+    <updated>2022-06-24T09:10:50.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95458174</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95458174"/>
+        <updated>2022-06-24T09:10:49.587Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95458174"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d2wxCm/btrFEuBAFQC/WkGqeG2XEirhkTRZsyPMu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세월호, 기각된 의혹과 확정된 사실 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95442758</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95353831"/>
         <updated>2022-06-17T06:14:31.113Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95353831"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cFMzqU/btrE1X4WZvj/BK6pVW7ErGNGOEXSXKbKz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤핵관' 정진석의 거짓말과 공주보</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 문재인의 원전 대전(大戰)  〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95341642</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95341642"/>
-        <updated>2022-06-16T12:18:32.952Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95341642"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/i084i/btrEXkTOFkF/yD7o8K6ybivVWg1leKuTVk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 문재인의 원전 대전(大戰)  〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
