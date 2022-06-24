@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 06:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 07:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세계은행 기록을 이용해 코로나19 정부 지출 추적하기]]></title>
+            <link>http://newstapa.org/article/G_9xA</link>
+            <guid>http://newstapa.org/article/G_9xA</guid>
+            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세계은행 기록을 이용해 코로나19 정부 지출 추적하기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/24152314-FC2A-856F-CC6E-SOHSZYB9XZ145ENVTG04.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹의 교훈: 코로나19와 보건·제약 분야 탐사보도]]></title>
+            <link>http://newstapa.org/article/Lglq0</link>
+            <guid>http://newstapa.org/article/Lglq0</guid>
+            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹의 교훈: 코로나19와 보건·제약 분야 탐사보도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/24152259-BE01-AAA3-A596-D0T52016ZSQBME91Z66V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금은 사라진 웹 기록 찾아주는 ‘웨이백 머신’ 활용 팁]]></title>
+            <link>http://newstapa.org/article/gZpYB</link>
+            <guid>http://newstapa.org/article/gZpYB</guid>
+            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지금은 사라진 웹 기록 찾아주는 ‘웨이백 머신’ 활용 팁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/24152229-6952-C765-8501-74XERJ223UIBD2QQ9YMI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자산가의 조세도피처 이용법] "자녀 해외유학 용도로 페이퍼컴퍼니"]]></title>
             <link>http://newstapa.org/article/nanq8</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에스엠 홍콩 자회사, 이수만 일가에 지분 몰아주다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28130348-C796-71E4-FCF4-2N7PNYTFHA5RHS8ZCDML.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수]]></title>
-            <link>http://newstapa.org/article/2_O7a</link>
-            <guid>http://newstapa.org/article/2_O7a</guid>
-            <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 이재용 스위스계좌·조세도피처 유령회사 수사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/21160824-374D-339E-ACD1-XG8ITJNJ5E5TF55XLHJ7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보]]></title>
-            <link>http://newstapa.org/article/ckJPy</link>
-            <guid>http://newstapa.org/article/ckJPy</guid>
-            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이수만·SM과 관련 없다더니...홍콩 자선재단의 수상한 행보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15080914-5824-FB30-2967-HLK9F23O2UZM2IFKLTTF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 이재용, '조세도피처 회사'는 스위스 계좌 개설 목적]]></title>
-            <link>http://newstapa.org/article/Lkz1Y</link>
-            <guid>http://newstapa.org/article/Lkz1Y</guid>
-            <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 이재용, '조세도피처 회사'는 스위스 계좌 개설 목적]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/08011458-6D3D-8A9D-DF8B-ZS2PL2A5TZHFYAIM9DZ1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
