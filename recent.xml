@@ -4,17 +4,9 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 06:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></title>
-            <link>http://newstapa.org/article/KCD5z</link>
-            <guid>http://newstapa.org/article/KCD5z</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28104625-D16B-05FF-9653-PFHLV05BRXPTD6LIQBJQ.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></title>
             <link>http://newstapa.org/article/TM5yV</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28140956-FBDD-33C7-A676-6BBXUG77MM0B9PY8G3HD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></title>
+            <link>http://newstapa.org/article/KCD5z</link>
+            <guid>http://newstapa.org/article/KCD5z</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28104625-D16B-05FF-9653-PFHLV05BRXPTD6LIQBJQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></title>
