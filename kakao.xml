@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-28T04:35:24.267Z</updated>
+    <updated>2022-06-28T05:25:01.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95499225</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95499225"/>
+        <updated>2022-06-28T05:25:00.878Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95499225"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YkeIy/btrFWyQdilw/DvOAzmWg2w9V8VD7uwbC91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95458174</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95390320"/>
         <updated>2022-06-20T15:15:47.557Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95390320"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HcU80/btrFkwLRW2C/Yy7e9qB1pfhYdIgrWQEWNk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">성범죄 교사 90% 가중처벌 피했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤핵관' 정진석의 거짓말과 공주보]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95353831</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95353831"/>
-        <updated>2022-06-17T06:14:31.113Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95353831"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cFMzqU/btrE1X4WZvj/BK6pVW7ErGNGOEXSXKbKz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤핵관' 정진석의 거짓말과 공주보</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

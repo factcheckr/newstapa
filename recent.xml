@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 04:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></title>
+            <link>http://newstapa.org/article/KCD5z</link>
+            <guid>http://newstapa.org/article/KCD5z</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28104625-D16B-05FF-9653-PFHLV05BRXPTD6LIQBJQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></title>
+            <link>http://newstapa.org/article/TM5yV</link>
+            <guid>http://newstapa.org/article/TM5yV</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28140956-FBDD-33C7-A676-6BBXUG77MM0B9PY8G3HD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></title>
             <link>http://newstapa.org/article/ZEjWL</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열 시대의 노동... 계속 사람이 죽어간다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/09160903-B4F4-D438-619A-4C5YR8P5J1VHCSBWXFZO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀']]></title>
-            <link>http://newstapa.org/article/7Mx_Q</link>
-            <guid>http://newstapa.org/article/7Mx_Q</guid>
-            <pubDate>Thu, 09 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중대재해법 그 후④ 노후 산단의 '말할 수 없는 비밀']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/09175848-5BE5-B1D4-E70F-KMYXE9B4AR5DB2GE1GHK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기]]></title>
-            <link>http://newstapa.org/article/PQtNj</link>
-            <guid>http://newstapa.org/article/PQtNj</guid>
-            <pubDate>Tue, 07 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자산가의 조세도피처 이용법] 한글라스 일가의 역외 신탁에 자산 숨기기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/07165532-2CE0-7945-F692-OLCKCR37FQAKPACVHDFM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

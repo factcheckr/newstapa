@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 보건복지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 04:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 05:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></title>
+            <link>http://newstapa.org/article/TM5yV</link>
+            <guid>http://newstapa.org/article/TM5yV</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28140956-FBDD-33C7-A676-6BBXUG77MM0B9PY8G3HD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 국민성금 노린 재향군인회의 불법계약]]></title>
             <link>http://newstapa.org/article/6rM7L</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 06 Jan 2020 00:11:00 GMT</pubDate>
             <content:encoded><![CDATA["이중서류 익숙"...한스바이오메드, '허가와 달리 24종 생산' 문건 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/06105227-BF8C-8BF5-417E-JRUH2CSQBNVEKIGZZJAJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한스바이오메드, 불법 제조 의료기기 또 있다...식약처 리콜 조치]]></title>
-            <link>http://newstapa.org/article/sOg-U</link>
-            <guid>http://newstapa.org/article/sOg-U</guid>
-            <pubDate>Sun, 05 Jan 2020 00:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[한스바이오메드, 불법 제조 의료기기 또 있다...식약처 리콜 조치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/05175217-D2CD-4EAD-0425-LEC3328T5NLGAOUJL7NJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
