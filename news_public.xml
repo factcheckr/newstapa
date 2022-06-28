@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 07:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 08:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태]]></title>
+            <link>http://newstapa.org/article/gDt04</link>
+            <guid>http://newstapa.org/article/gDt04</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28164629-E58D-0386-E905-VME0NFC6MBHNRARZ6368.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답]]></title>
             <link>http://newstapa.org/article/ep27U</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 19 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재판기록으로 본 공직의 자격② 오직 박근혜 위해 '세월호 컨트롤 타워 지침' 불법 수정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/19171540-D27B-96E7-5480-2F5BHRAYVGTOPAYFH2X7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기초의원 징계 추적③불법 수의계약, 음주운전, 공무원 폭행 징계에도 무투표 당선]]></title>
-            <link>http://newstapa.org/article/HlmDW</link>
-            <guid>http://newstapa.org/article/HlmDW</guid>
-            <pubDate>Wed, 18 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기초의원 징계 추적③불법 수의계약, 음주운전, 공무원 폭행 징계에도 무투표 당선]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/18151402-0C2F-33A7-1D02-RAH81D9ITW0KYL43CE6J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
