@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-29T09:11:38.651Z</updated>
+    <updated>2022-06-29T10:11:58.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95524376</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95524376"/>
+        <updated>2022-06-29T10:11:57.397Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95524376"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4eqBP/btrF4wq4xDL/NXadd0VDWi0bXgVKYHXL40/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95517344</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95458174"/>
         <updated>2022-06-24T09:10:49.587Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95458174"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d2wxCm/btrFEuBAFQC/WkGqeG2XEirhkTRZsyPMu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세월호, 기각된 의혹과 확정된 사실 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95442758</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95442758"/>
-        <updated>2022-06-23T11:10:22.809Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95442758"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/RUzFr/btrFBIY6pmr/lEnB5Opry9FhsMABKxIhj0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세월호, 기각된 의혹과 확정된 사실 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
