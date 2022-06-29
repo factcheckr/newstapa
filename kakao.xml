@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-06-29T04:39:19.611Z</updated>
+    <updated>2022-06-29T05:22:55.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95517344</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95517344"/>
+        <updated>2022-06-29T05:22:54.893Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95517344"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4oxKc/btrF0ZAJBNm/3ApJEOudnaQz4RzhswpWYk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95504012</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95442758"/>
         <updated>2022-06-23T11:10:22.809Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95442758"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/RUzFr/btrFBIY6pmr/lEnB5Opry9FhsMABKxIhj0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세월호, 기각된 의혹과 확정된 사실 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식량안보시대, 쌀가루는 수입밀을 대체할 수 있을까]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95402086</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95402086"/>
-        <updated>2022-06-21T08:19:41.215Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95402086"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/o2GRW/btrFnBtuEmX/Z5yzrnTYR5dkIuPKMlYVqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">식량안보시대, 쌀가루는 수입밀을 대체할 수 있을까</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
