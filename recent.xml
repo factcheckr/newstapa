@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 10:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 한동훈 처가와 '산호세 허위스펙 네트워크']]></title>
+            <link>http://newstapa.org/article/kANwK</link>
+            <guid>http://newstapa.org/article/kANwK</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 한동훈 처가와 '산호세 허위스펙 네트워크']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30174705-6CC9-4ECD-12E8-RNOMF4954U6JKL0XYERV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 처가 4명 연루 '허위 스펙 네트워크' 분석]]></title>
+            <link>http://newstapa.org/article/n5XnJ</link>
+            <guid>http://newstapa.org/article/n5XnJ</guid>
+            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈 처가 4명 연루 '허위 스펙 네트워크' 분석]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30160453-2EC7-1308-6581-JSGV50KFN02N1EAWIYPE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’]]></title>
             <link>http://newstapa.org/article/BFWvk</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[번지수 틀린 윤석열 정부 에너지 정책]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16183434-EAB4-5756-43E6-CZG52WDE10FBEEV57KB3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한전 적자가 문재인 정부 탈원전 탓이라고?]]></title>
-            <link>http://newstapa.org/article/cT0NN</link>
-            <guid>http://newstapa.org/article/cT0NN</guid>
-            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한전 적자가 문재인 정부 탈원전 탓이라고?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16182211-C362-11F1-DB42-16PXVJ78VNL5EYAI1GHE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자산가의 조세도피처 이용법] "자녀 해외유학 용도로 페이퍼컴퍼니"]]></title>
-            <link>http://newstapa.org/article/nanq8</link>
-            <guid>http://newstapa.org/article/nanq8</guid>
-            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자산가의 조세도피처 이용법] "자녀 해외유학 용도로 페이퍼컴퍼니"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16105110-F717-4B73-B4F5-VVSKIYS3UBGGSOOAVOEX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
