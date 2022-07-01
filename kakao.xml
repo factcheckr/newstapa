@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-01T10:12:11.258Z</updated>
+    <updated>2022-07-01T11:10:10.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스쿨] 정준희 “언론 판갈이 필요, ‘뉴스쿨’이 돌파구”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95566750</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95566750"/>
+        <updated>2022-07-01T11:10:09.903Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95566750"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nlI6e/btrGhVDiuvz/RktKANyTk80hUtCKcKuUh0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] 정준희 “언론 판갈이 필요, ‘뉴스쿨’이 돌파구”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 처가와 '산호세 허위스펙 네트워크' 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95543672</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95504012"/>
         <updated>2022-06-28T08:15:42.740Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95504012"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/z40pK/btrFXXQn2aU/9XekDo1yoF5uPVfyxez3Uk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95500875</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95500875"/>
-        <updated>2022-06-28T06:14:00.927Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95500875"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bHBKY1/btrFXXJjM3J/P9NIWARaJi3KRqd9cOBWS0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
