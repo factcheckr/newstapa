@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타벅스의 ‘불편한 노동’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/uK5zp</link>
+            <guid>http://newstapa.org/article/uK5zp</guid>
+            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스의 ‘불편한 노동’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/01160948-2A9F-BBF1-497D-HIVFGS2UWCQN8KMX39MG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한동훈 처가와 '산호세 허위스펙 네트워크' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/kANwK</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[문재인 정부 5년, 탈원전은 없었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/17153720-66AA-8FDF-33B3-BNMRRLLDHOBGKRWF9M3G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번지수 틀린 윤석열 정부 에너지 정책 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Tcuia</link>
-            <guid>http://newstapa.org/article/Tcuia</guid>
-            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[번지수 틀린 윤석열 정부 에너지 정책]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16183434-EAB4-5756-43E6-CZG52WDE10FBEEV57KB3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한동훈 처가와 '산호세 허위스펙 네트워크' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05172839-26BA-D1B1-A2A8-BKM1V2EIS06194LNNN4W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타벅스의 ‘불편한 노동’ (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/uK5zp</link>
+            <guid>http://newstapa.org/article/uK5zp</guid>
+            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스의 ‘불편한 노동’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/01160948-2A9F-BBF1-497D-HIVFGS2UWCQN8KMX39MG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<주간 뉴스타파> 윤석열 시대의 노동... 계속 사람이 죽어간다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/GbINM</link>
             <guid>http://newstapa.org/article/GbINM</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/07153614-991A-6BEB-8206-KM1CPV7SXB82VV43D0YN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/3KFkb</link>
-            <guid>http://newstapa.org/article/3KFkb</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31130015-A33D-FC0C-F5E5-HPDS7NLL015H7BNWCFST.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 사참위 '세월호 조사' 종료...기각된 의혹들과 확립된 사실들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -2946,6 +2946,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스타벅스의 ‘불편한 노동’ (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95598929</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95598929</guid>
+            <pubDate>Mon, 04 Jul 2022 08:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95598929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bj9Xu1/btrGuor7FIR/Lewo3KVIOkCk3Opkx1r2gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스타벅스의 ‘불편한 노동’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뉴스쿨] 정준희 “언론 판갈이 필요, ‘뉴스쿨’이 돌파구” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95566750</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95566750</guid>
@@ -2979,13 +2986,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95517344</guid>
             <pubDate>Wed, 29 Jun 2022 05:22:54 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95517344"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4oxKc/btrF0ZAJBNm/3ApJEOudnaQz4RzhswpWYk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95504012</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95504012</guid>
-            <pubDate>Tue, 28 Jun 2022 08:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95504012"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/z40pK/btrFXXQn2aU/9XekDo1yoF5uPVfyxez3Uk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

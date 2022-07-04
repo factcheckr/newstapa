@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-04T07:13:57.306Z</updated>
+    <updated>2022-07-04T08:14:17.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타벅스의 ‘불편한 노동’]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95598929</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95598929"/>
+        <updated>2022-07-04T08:14:17.254Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95598929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bj9Xu1/btrGuor7FIR/Lewo3KVIOkCk3Opkx1r2gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스타벅스의 ‘불편한 노동’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스쿨] 정준희 “언론 판갈이 필요, ‘뉴스쿨’이 돌파구”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95566750</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95517344"/>
         <updated>2022-06-29T05:22:54.893Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95517344"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4oxKc/btrF0ZAJBNm/3ApJEOudnaQz4RzhswpWYk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95504012</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95504012"/>
-        <updated>2022-06-28T08:15:42.740Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95504012"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/z40pK/btrFXXQn2aU/9XekDo1yoF5uPVfyxez3Uk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

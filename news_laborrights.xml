@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타벅스의 ‘불편한 노동’]]></title>
+            <link>http://newstapa.org/article/uK5zp</link>
+            <guid>http://newstapa.org/article/uK5zp</guid>
+            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스의 ‘불편한 노동’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/01160948-2A9F-BBF1-497D-HIVFGS2UWCQN8KMX39MG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 윤석열 시대의 노동... 계속 사람이 죽어간다]]></title>
             <link>http://newstapa.org/article/GbINM</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“내 번호 차단하지마”…‘성폭행 시도’ 사장의 2차 가해]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/07153614-991A-6BEB-8206-KM1CPV7SXB82VV43D0YN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유]]></title>
-            <link>http://newstapa.org/article/3KFkb</link>
-            <guid>http://newstapa.org/article/3KFkb</guid>
-            <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“누구도 죽지 않길”…차별금지법을 외치는 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/31130015-A33D-FC0C-F5E5-HPDS7NLL015H7BNWCFST.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
