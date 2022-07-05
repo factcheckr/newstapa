@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-05T04:31:09.758Z</updated>
+    <updated>2022-07-05T05:16:53.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타벅스의 '노동 탄압' 취업규칙]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95612089</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95612089"/>
+        <updated>2022-07-05T05:16:53.068Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95612089"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wNx7t/btrGzcZoutr/OP3f2mpwd8gkyd29UTn5H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스타벅스의 '노동 탄압' 취업규칙</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스의 ‘불편한 노동’]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95598929</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95524376"/>
         <updated>2022-06-29T10:11:57.397Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95524376"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c4eqBP/btrF4wq4xDL/NXadd0VDWi0bXgVKYHXL40/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95517344</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95517344"/>
-        <updated>2022-06-29T05:22:54.893Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95517344"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4oxKc/btrF0ZAJBNm/3ApJEOudnaQz4RzhswpWYk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
