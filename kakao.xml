@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-06T00:51:02.379Z</updated>
+    <updated>2022-07-06T03:18:11.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스타파 X PD수첩] 대한민국 마약 : 최정옥 케이스]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95624291</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95624291"/>
+        <updated>2022-07-06T03:18:10.862Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95624291"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c5jEb5/btrGBi6GiaB/TS0uDxTmikFffqPqsnk1zK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X PD수첩] 대한민국 마약 : 최정옥 케이스</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파 회계 담당자 채용 공고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95617431</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95566750"/>
         <updated>2022-07-01T11:10:09.903Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95566750"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nlI6e/btrGhVDiuvz/RktKANyTk80hUtCKcKuUh0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] 정준희 “언론 판갈이 필요, ‘뉴스쿨’이 돌파구”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 처가와 '산호세 허위스펙 네트워크' 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95543672</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95543672"/>
-        <updated>2022-06-30T11:10:49.644Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95543672"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eogNyS/btrGapSMape/ZdkqbaKdvXzuak9TRxksT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 처가와 '산호세 허위스펙 네트워크' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
