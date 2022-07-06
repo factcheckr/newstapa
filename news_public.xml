@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 08:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 09:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대통령 나토 출장 수행' 이원모 비서관 부인 일가, 윤석열에 2천만 원 후원]]></title>
+            <link>http://newstapa.org/article/pxcr6</link>
+            <guid>http://newstapa.org/article/pxcr6</guid>
+            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대통령 나토 출장 수행' 이원모 비서관 부인 일가, 윤석열에 2천만 원 후원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/06173808-459C-90B8-0352-DKRH44KG58VVQDL9FA5W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 처조카 논문 데이터 위조... 촛불집회에 다인종 참여?]]></title>
             <link>http://newstapa.org/article/DWQ-x</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[지방의회 의원들의 비리가 근절되지 않는 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/24175703-99D4-A9FC-CE91-X8QDZ7Z6DHXOB4ONVLGT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가?]]></title>
-            <link>http://newstapa.org/article/4kccS</link>
-            <guid>http://newstapa.org/article/4kccS</guid>
-            <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국정원장 후보자의 기억 : 거짓말인가? 판단 무능인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/24101855-4F82-3818-1F86-USWVRFALF9VWTIU7ZJU6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
