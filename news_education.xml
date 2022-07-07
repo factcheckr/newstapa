@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 10:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 11:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조]]></title>
+            <link>http://newstapa.org/article/MBd_O</link>
+            <guid>http://newstapa.org/article/MBd_O</guid>
+            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/07195752-F2FE-F1FB-A3F2-9B8Q2HYEEIPZFRYWZURD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작]]></title>
+            <link>http://newstapa.org/article/3rZeH</link>
+            <guid>http://newstapa.org/article/3rZeH</guid>
+            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/07160341-C8B0-DF44-0EA5-BMN1D5VECZC6O5F8DPPT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 처조카 논문 데이터 위조... 촛불집회에 다인종 참여?]]></title>
             <link>http://newstapa.org/article/DWQ-x</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 01 Jan 2021 00:10:00 GMT</pubDate>
             <content:encoded><![CDATA[총장님의 폭행을 신고했더니 생긴 일]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/01184332-BA46-CE3A-04B3-SSZ3R7SLSIBDX18Z2BQ8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[협성대 총장님의 ‘보이지 않는 손’]]></title>
-            <link>http://newstapa.org/article/BB2mQ</link>
-            <guid>http://newstapa.org/article/BB2mQ</guid>
-            <pubDate>Wed, 27 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[협성대 총장님의 ‘보이지 않는 손’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/27142404-3E76-0801-9FA1-D6RX99BYTP6LLZWGI1JS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파 '논문공장' 보도 학회, 등재지 자격 박탈]]></title>
-            <link>http://newstapa.org/article/fHT_n</link>
-            <guid>http://newstapa.org/article/fHT_n</guid>
-            <pubDate>Sat, 09 Jan 2021 00:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 뉴스타파 '논문공장' 보도 학회, 등재지 자격 박탈]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/09164517-5746-8BDD-F969-3RF4GDIZLYJXL6A05YHC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
