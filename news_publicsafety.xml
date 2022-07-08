@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 05:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용]]></title>
+            <link>http://newstapa.org/article/FGQWe</link>
+            <guid>http://newstapa.org/article/FGQWe</guid>
+            <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/08132440-6025-A2C2-92AE-QB1YLNKNZ2CC5QJ9SADO.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 사참위 '세월호 조사' 종료...기각된 의혹들과 확립된 사실들]]></title>
             <link>http://newstapa.org/article/ACMqw</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/22100433-3051-D576-B4A5-CY33C5SIF3MAL4FNU8M3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대를 이은 환경부 기만 정책, 조류경보제]]></title>
-            <link>http://newstapa.org/article/97jQT</link>
-            <guid>http://newstapa.org/article/97jQT</guid>
-            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대를 이은 환경부 기만 정책, 조류경보제]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/14151024-D191-1B6F-FD10-G7MJNGGP54OUNVLL7NE3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
