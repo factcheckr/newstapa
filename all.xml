@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용 (뉴스타파 ─ 뉴스)]]></title>
+            <title><![CDATA[[팩트체크] 소형원자로 시장이 460조? 새 정부 에너지 정책에 엉터리 수치 인용 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/FGQWe</link>
             <guid>http://newstapa.org/article/FGQWe</guid>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용]]></content:encoded>
+            <content:encoded><![CDATA[[팩트체크] 소형원자로 시장이 460조? 새 정부 에너지 정책에 엉터리 수치 인용]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/08132440-6025-A2C2-92AE-QB1YLNKNZ2CC5QJ9SADO.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -1160,11 +1160,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14165551-AB0F-186B-2C8C-4UY0W9EKQSYTALF65FH9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <title><![CDATA[[팩트체크] 소형원자로 시장이 460조? 새 정부 에너지 정책에 엉터리 수치 인용 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/FGQWe</link>
             <guid>http://newstapa.org/article/FGQWe</guid>
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용]]></content:encoded>
+            <content:encoded><![CDATA[[팩트체크] 소형원자로 시장이 460조? 새 정부 에너지 정책에 엉터리 수치 인용]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/08132440-6025-A2C2-92AE-QB1YLNKNZ2CC5QJ9SADO.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -2054,6 +2054,14 @@
             <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/10173640-71ED-65E5-C7BD-OI3U94FTUXY1FCAUROQV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허위 스펙 네트워크 추적 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/%ED%97%88%EC%9C%84%EC%8A%A4%ED%8E%99</link>
+            <guid>https://newstapa.org/tags/%ED%97%88%EC%9C%84%EC%8A%A4%ED%8E%99</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[논문 표절, 약탈적 학술지 게재 등 편법으로 스펙을 쌓고 일류 대학에 진학하는 특권층 자녀들의 실태. 이대로 괜찮을까요? 한동훈 장관 장녀 논란으로 드러난 특권층 자녀들의 '허위 스펙 네트워크'를 추적했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/08151144-3472-9986-5B40-YVI5KMQLNFU010FE65ET.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파-GIJN 탐사보도 노하우 공개 프로젝트 (뉴스타파 ─ 프로젝트)]]></title>
