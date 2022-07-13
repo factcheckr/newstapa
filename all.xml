@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/V60lw</link>
+            <guid>http://newstapa.org/article/V60lw</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/13142309-F854-FE74-CEA7-SR9JNWV9C1QUWBN7QKO7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/TPMYi</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28140956-FBDD-33C7-A676-6BBXUG77MM0B9PY8G3HD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/KCD5z</link>
-            <guid>http://newstapa.org/article/KCD5z</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28104625-D16B-05FF-9653-PFHLV05BRXPTD6LIQBJQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/V60lw</link>
+            <guid>http://newstapa.org/article/V60lw</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/13142309-F854-FE74-CEA7-SR9JNWV9C1QUWBN7QKO7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[광역단체장 후보 검증] 회계 부정, 막말, 전과자...'반지성' 후보 수두룩]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/26222453-2CF4-2F29-1377-RDTAP808S0VTQ711GBOB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 한동훈 장인 진형구, 과거 주가조작 사건 연루 정황 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/gMgwO</link>
-            <guid>http://newstapa.org/article/gMgwO</guid>
-            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 한동훈 장인 진형구, 과거 주가조작 사건 연루 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/26173926-083A-A62B-E6AC-W4LTK2X4L6LCRR0WA5ZX.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[성범죄 교사 90% 가중처벌 피했다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/22100433-3051-D576-B4A5-CY33C5SIF3MAL4FNU8M3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는? (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/V60lw</link>
+            <guid>http://newstapa.org/article/V60lw</guid>
+            <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/13142309-F854-FE74-CEA7-SR9JNWV9C1QUWBN7QKO7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/MBd_O</link>
             <guid>http://newstapa.org/article/MBd_O</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서]"총장님, 사랑합니다"...'직원 폭행' 협성대 총장 응원 시위의 전말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/21094953-E998-3715-CC24-RFW07E8OVFHSB1KE9O46.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총장님의 폭행을 신고했더니 생긴 일 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/9HgqF</link>
-            <guid>http://newstapa.org/article/9HgqF</guid>
-            <pubDate>Fri, 01 Jan 2021 00:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[총장님의 폭행을 신고했더니 생긴 일]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/01184332-BA46-CE3A-04B3-SSZ3R7SLSIBDX18Z2BQ8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95745670</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95745670</guid>
+            <pubDate>Wed, 13 Jul 2022 06:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95745670"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sN7u5/btrHaX9sYMf/QIm6SuCbfm9pS1ckkVYK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95706058</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95706058</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95657482</guid>
             <pubDate>Thu, 07 Jul 2022 11:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657482"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ble7Eo/btrGKcyY4xo/6YWh1763rEWzil0JavLKnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['대통령 나토 출장 수행' 이원모 비서관 부인 일가, 윤석열에 2천만 원 후원 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95635693</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95635693</guid>
-            <pubDate>Wed, 06 Jul 2022 09:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95635693"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/boZXCb/btrGFKBJn2X/CbAePI2cEAT8Tw4KQfMKfK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'대통령 나토 출장 수행' 이원모 비서관 부인 일가, 윤석열에 2천만 원 후원</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
