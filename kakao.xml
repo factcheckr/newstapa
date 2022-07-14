@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-14T10:13:08.755Z</updated>
+    <updated>2022-07-14T11:10:36.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95772063</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95772063"/>
+        <updated>2022-07-14T11:10:36.395Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95772063"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cs9HHK/btrHhcMU45W/kOdDMD3oEKdJuaV92Dw7w0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95745670</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95657498"/>
         <updated>2022-07-07T11:11:13.694Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657498"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dCjnPt/btrGJFhoC29/9QO6YeJFdIvLmtXl0E3sdK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95657482</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95657482"/>
-        <updated>2022-07-07T11:11:13.699Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657482"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ble7Eo/btrGKcyY4xo/6YWh1763rEWzil0JavLKnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
