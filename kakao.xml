@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-15T07:11:37.836Z</updated>
+    <updated>2022-07-15T08:14:26.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95787650</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95787650"/>
+        <updated>2022-07-15T08:14:25.374Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95787650"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dufJFn/btrHn1Krb7P/JKIDofxez6ePnw8WwLKLf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문재인 정부가 청산하지 못한 적폐의 반격</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95772063</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95657509"/>
         <updated>2022-07-07T11:11:13.691Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657509"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cXAIOE/btrGJFVYK3e/Bndnqj0PkMNHMrf23kRbW1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95657498</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95657498"/>
-        <updated>2022-07-07T11:11:13.694Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657498"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dCjnPt/btrGJFhoC29/9QO6YeJFdIvLmtXl0E3sdK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

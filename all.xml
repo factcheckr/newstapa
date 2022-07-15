@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/diVlC</link>
+            <guid>http://newstapa.org/article/diVlC</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/15102915-963F-AB08-C874-B4PNNKPIKMJOFNC8XYMT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/iWyFT</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/29121146-AA59-19A2-CF61-2H6YUB6MXT9MKIE7KKH9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gDt04</link>
-            <guid>http://newstapa.org/article/gDt04</guid>
-            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28164629-E58D-0386-E905-VME0NFC6MBHNRARZ6368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/21094953-E998-3715-CC24-RFW07E8OVFHSB1KE9O46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/diVlC</link>
+            <guid>http://newstapa.org/article/diVlC</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/15102915-963F-AB08-C874-B4PNNKPIKMJOFNC8XYMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/ZEjWL</link>
             <guid>http://newstapa.org/article/ZEjWL</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 21 Jan 2021 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[[영화 '족벌' 플러스] 박종만 최후진술 "이 땅에 언론은 없습니다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/21172852-9E2D-BD62-D0A6-J9CZFCA8W0ZC2MQFBARP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 '족벌' 플러스] 최후진술 정연주 "역사의 심판대에 증언하겠다" (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/yOKFv</link>
-            <guid>http://newstapa.org/article/yOKFv</guid>
-            <pubDate>Sun, 31 Jan 2021 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[[영화 '족벌' 플러스] 최후진술 정연주 "역사의 심판대에 증언하겠다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/31130722-3098-2803-E701-PQ2YIYZWLVE6NNVM9YWN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95787650</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95787650</guid>
+            <pubDate>Fri, 15 Jul 2022 08:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95787650"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dufJFn/btrHn1Krb7P/JKIDofxez6ePnw8WwLKLf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문재인 정부가 청산하지 못한 적폐의 반격</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95772063</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95772063</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95657509</guid>
             <pubDate>Thu, 07 Jul 2022 11:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657509"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cXAIOE/btrGJFVYK3e/Bndnqj0PkMNHMrf23kRbW1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95657498</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95657498</guid>
-            <pubDate>Thu, 07 Jul 2022 11:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657498"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dCjnPt/btrGJFhoC29/9QO6YeJFdIvLmtXl0E3sdK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

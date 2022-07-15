@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></title>
+            <link>http://newstapa.org/article/diVlC</link>
+            <guid>http://newstapa.org/article/diVlC</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/15102915-963F-AB08-C874-B4PNNKPIKMJOFNC8XYMT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></title>
             <link>http://newstapa.org/article/ZEjWL</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Jan 2021 00:04:00 GMT</pubDate>
             <content:encoded><![CDATA[[영화 '족벌' 플러스] 박종만 최후진술 "이 땅에 언론은 없습니다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/21172852-9E2D-BD62-D0A6-J9CZFCA8W0ZC2MQFBARP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영화 '족벌' 플러스] 최후진술 정연주 "역사의 심판대에 증언하겠다"]]></title>
-            <link>http://newstapa.org/article/yOKFv</link>
-            <guid>http://newstapa.org/article/yOKFv</guid>
-            <pubDate>Sun, 31 Jan 2021 00:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[[영화 '족벌' 플러스] 최후진술 정연주 "역사의 심판대에 증언하겠다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/31130722-3098-2803-E701-PQ2YIYZWLVE6NNVM9YWN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
