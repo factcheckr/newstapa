@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거짓으로 재산 신고해도 당선된 지방의원 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/HFkHA</link>
+            <guid>http://newstapa.org/article/HFkHA</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[거짓으로 재산 신고해도 당선된 지방의원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/18170946-39F6-7536-BEA9-M65B1I8LZ9IG7CHPYX7R.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/diVlC</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/29190014-930C-BD7D-106C-107QJHY1X0CICVZ0HCGE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/NS4I6</link>
-            <guid>http://newstapa.org/article/NS4I6</guid>
-            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[IEEE, 한동훈 장관 장녀의 '국제 학술대회 표절 논문' 조사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/29121146-AA59-19A2-CF61-2H6YUB6MXT9MKIE7KKH9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[거짓으로 재산 신고해도 당선된 지방의원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/HFkHA</link>
+            <guid>http://newstapa.org/article/HFkHA</guid>
+            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[거짓으로 재산 신고해도 당선된 지방의원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/18170946-39F6-7536-BEA9-M65B1I8LZ9IG7CHPYX7R.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[300억대 수의계약 누구 주머니로 갔나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/27093908-1277-2008-29F0-D0D5IMF5AQSHHVZDQE4K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광역단체장 후보 검증] 회계 부정, 막말, 전과자...'반지성' 후보 수두룩 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/cwmue</link>
-            <guid>http://newstapa.org/article/cwmue</guid>
-            <pubDate>Fri, 27 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[광역단체장 후보 검증] 회계 부정, 막말, 전과자...'반지성' 후보 수두룩]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/26222453-2CF4-2F29-1377-RDTAP808S0VTQ711GBOB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성범죄 교사 90% 가중처벌 피했다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
