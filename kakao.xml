@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-21T10:12:14.343Z</updated>
+    <updated>2022-07-21T11:10:36.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95880490</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95880490"/>
+        <updated>2022-07-21T11:10:35.918Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95880490"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/I5R4h/btrHSzNVatf/vDIuu5SLu5wLJhwB8vUv81/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 면죄부 준 조선일보 사돈의 리조트 장사 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95787650</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95670624"/>
         <updated>2022-07-08T05:20:12.088Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95670624"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ElIPN/btrGNBZGOW7/h1GiJDBgBYXYf9nOqwkCL1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬' 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95657509</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95657509"/>
-        <updated>2022-07-07T11:11:13.691Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95657509"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cXAIOE/btrGJFVYK3e/Bndnqj0PkMNHMrf23kRbW1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
