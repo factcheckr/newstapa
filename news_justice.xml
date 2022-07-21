@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 12:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사]]></title>
+            <link>http://newstapa.org/article/12rhs</link>
+            <guid>http://newstapa.org/article/12rhs</guid>
+            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21134648-5D1D-4D13-48CB-QAG00PEPH3805E5X9ASQ.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[성범죄 교사 90% 가중처벌 피했다]]></title>
             <link>http://newstapa.org/article/Yj9bi</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기상천외한 검찰의 '신종' 제식구 감싸기 기술]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/14160015-E0DC-28CC-6A6F-JJ6LVV1ZHC34BOE54T37.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹]]></title>
-            <link>http://newstapa.org/article/2AlqA</link>
-            <guid>http://newstapa.org/article/2AlqA</guid>
-            <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희와 잔고증명서위조범의 ‘삼각거래’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/11175952-AD5B-1D3B-2577-8YLD6HH7C8BPMFXPXXJ0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
