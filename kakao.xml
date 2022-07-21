@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-21T12:18:46.942Z</updated>
+    <updated>2022-07-21T13:36:14.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[등록금과 총장님의 리조트... 검찰의 면죄부]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95881264</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95881264"/>
+        <updated>2022-07-21T13:36:13.807Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95881264"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/006KW/btrHROEIu0g/ODOhYlgVqBEQoeKQ6laBx1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">등록금과 총장님의 리조트... 검찰의 면죄부</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95880490</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95706058"/>
         <updated>2022-07-11T06:14:35.682Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95706058"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dctLvh/btrGWzIvsy6/ImxK7FLkqRIZqpVN0Lv8I1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95670624</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95670624"/>
-        <updated>2022-07-08T05:20:12.088Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95670624"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ElIPN/btrGNBZGOW7/h1GiJDBgBYXYf9nOqwkCL1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[팩트체크] SMR 시장이 3500억 불? 새 정부 에너지 정책에 엉터리 수치 인용</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,16 +4,24 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 12:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 13:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[등록금과 총장님의 리조트...검찰의 면죄부]]></title>
+            <link>http://newstapa.org/article/uNyQX</link>
+            <guid>http://newstapa.org/article/uNyQX</guid>
+            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[등록금과 총장님의 리조트...검찰의 면죄부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21183853-6E1B-189F-6CAE-JTDZVLJABM0HAI2SCNHF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사]]></title>
             <link>http://newstapa.org/article/12rhs</link>
             <guid>http://newstapa.org/article/12rhs</guid>
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21134648-5D1D-4D13-48CB-QAG00PEPH3805E5X9ASQ.png" length="0" type="image/png"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21220959-49A4-11CB-B960-4AAOGZ57QJBKY7JZW2NF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 법원 "권익위의 카이스트 제보자 신분보장 요구 각하는 위법"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/16150118-3D62-45CD-0AEF-RKQO6WIA3SJFVFT0T9AA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제]]></title>
-            <link>http://newstapa.org/article/LG398</link>
-            <guid>http://newstapa.org/article/LG398</guid>
-            <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]'직원 폭행' 협성대 총장, 넉 달 만에 직위 해제]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/25170707-3C7B-EA82-5A85-ML8FPS8J1QH0Z73F129U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
