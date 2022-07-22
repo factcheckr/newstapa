@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-22T09:11:50.293Z</updated>
+    <updated>2022-07-22T10:12:24.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95896550</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95896550"/>
+        <updated>2022-07-22T10:12:24.136Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95896550"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ci1GF3/btrHY6ZqcR3/o1KKveUJ9ikrr5u2kOhLEk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">파나마페이퍼스 내부고발자 6년만에 입 열다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[등록금과 총장님의 리조트... 검찰의 면죄부]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95881264</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95745670"/>
         <updated>2022-07-13T06:15:10.816Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95745670"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sN7u5/btrHaX9sYMf/QIm6SuCbfm9pS1ckkVYK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95706058</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95706058"/>
-        <updated>2022-07-11T06:14:35.682Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95706058"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dctLvh/btrGWzIvsy6/ImxK7FLkqRIZqpVN0Lv8I1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

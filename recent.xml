@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 09:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 10:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></title>
+            <link>http://newstapa.org/article/A5irp</link>
+            <guid>http://newstapa.org/article/A5irp</guid>
+            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/22182049-E961-3BB3-A0A3-O0P5QO5A07X48OC0ECB4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[등록금과 총장님의 리조트...검찰의 면죄부]]></title>
             <link>http://newstapa.org/article/uNyQX</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스타벅스의 '노동 탄압' 취업규칙]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/05133648-8980-5D75-0F63-HLT924NTOGVFUHK9BKMZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스타벅스의 ‘불편한 노동’]]></title>
-            <link>http://newstapa.org/article/uK5zp</link>
-            <guid>http://newstapa.org/article/uK5zp</guid>
-            <pubDate>Mon, 04 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스타벅스의 ‘불편한 노동’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/01160948-2A9F-BBF1-497D-HIVFGS2UWCQN8KMX39MG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
