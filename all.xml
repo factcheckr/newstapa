@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 23:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 00:49:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1800,20 +1800,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/28150549-B3DD-3644-5E23-4C83ER6LNA4NZAIWWBI5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[피지에 '왕국' 세운 이단교회]① 은혜로교회, 신도 폭행·착취 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/RiQgK</link>
-            <guid>http://newstapa.org/article/RiQgK</guid>
-            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]① 은혜로교회, 신도 폭행·착취]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175118-6171-EDB4-63AF-BN3CPUPSEIY5UXB44AGE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/bkeAq</link>
             <guid>http://newstapa.org/article/bkeAq</guid>
             <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175705-7963-50C8-0AA6-KQPBLY54B7LHZQSUX2FY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피지에 '왕국' 세운 이단교회]① 은혜로교회, 신도 폭행·착취 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/RiQgK</link>
+            <guid>http://newstapa.org/article/RiQgK</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]① 은혜로교회, 신도 폭행·착취]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175118-6171-EDB4-63AF-BN3CPUPSEIY5UXB44AGE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -2954,6 +2954,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95928383</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95928383</guid>
+            <pubDate>Tue, 26 Jul 2022 00:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928383"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/KHWCk/btrIdazMLiS/ij7uP1zKboZ37d0QQeOZN0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피지에 '왕국' 세운 이단교회 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/95928368</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/95928368</guid>
+            <pubDate>Tue, 26 Jul 2022 00:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DkLGm/btrIcIcqvBS/X2hkltk7jexLw4OZQmkkAK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피지에 '왕국' 세운 이단교회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/95896550</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/95896550</guid>
@@ -2980,20 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95787650</guid>
             <pubDate>Fri, 15 Jul 2022 08:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95787650"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dufJFn/btrHn1Krb7P/JKIDofxez6ePnw8WwLKLf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문재인 정부가 청산하지 못한 적폐의 반격</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95772063</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95772063</guid>
-            <pubDate>Thu, 14 Jul 2022 11:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95772063"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cs9HHK/btrHhcMU45W/kOdDMD3oEKdJuaV92Dw7w0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는? (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95745670</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95745670</guid>
-            <pubDate>Wed, 13 Jul 2022 06:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95745670"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sN7u5/btrHaX9sYMf/QIm6SuCbfm9pS1ckkVYK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

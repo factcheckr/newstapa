@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-07-25T23:11:21.578Z</updated>
+    <updated>2022-07-26T00:49:45.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95928383</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95928383"/>
+        <updated>2022-07-26T00:49:44.621Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928383"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/KHWCk/btrIdazMLiS/ij7uP1zKboZ37d0QQeOZN0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피지에 '왕국' 세운 이단교회]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/95928368</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/95928368"/>
+        <updated>2022-07-26T00:49:44.624Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DkLGm/btrIcIcqvBS/X2hkltk7jexLw4OZQmkkAK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피지에 '왕국' 세운 이단교회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95896550</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95787650"/>
         <updated>2022-07-15T08:14:25.374Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95787650"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dufJFn/btrHn1Krb7P/JKIDofxez6ePnw8WwLKLf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문재인 정부가 청산하지 못한 적폐의 반격</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95772063</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95772063"/>
-        <updated>2022-07-14T11:10:36.395Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95772063"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cs9HHK/btrHhcMU45W/kOdDMD3oEKdJuaV92Dw7w0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">삼성 ‘노조 파괴범’들 잘 먹고 잘 산다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95745670</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95745670"/>
-        <updated>2022-07-13T06:15:10.816Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95745670"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sN7u5/btrHaX9sYMf/QIm6SuCbfm9pS1ckkVYK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
