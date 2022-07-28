@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 11:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 12:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라]]></title>
+            <link>http://newstapa.org/article/5EhyZ</link>
+            <guid>http://newstapa.org/article/5EhyZ</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28185956-0835-E084-89CD-4BE9JJ6L19HR7QFCCW5R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대통령실 집회 금지' 경찰의 3대 황당 주장]]></title>
+            <link>http://newstapa.org/article/hfyc-</link>
+            <guid>http://newstapa.org/article/hfyc-</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대통령실 집회 금지' 경찰의 3대 황당 주장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28140615-14B5-DC5C-D1FE-BVPZLOJ5NO2QXXJEA2KQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 삼성 ‘노조 파괴범’들 잘 먹고 잘 산다]]></title>
             <link>http://newstapa.org/article/iWyFT</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02111820-12C9-7DD1-4A0E-D9XI06HK89X97JHS1YPY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최저임금 인상분을 정부가 지원해야 한다?]]></title>
-            <link>http://newstapa.org/article/QuDmI</link>
-            <guid>http://newstapa.org/article/QuDmI</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[최저임금 인상분을 정부가 지원해야 한다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/09184054-3B10-E4F8-1E76-HX9ADKZPWK24Z2H6VXC3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불법에 맞선 비정규직 시위, 모두 유죄]]></title>
-            <link>http://newstapa.org/article/JmsaF</link>
-            <guid>http://newstapa.org/article/JmsaF</guid>
-            <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[불법에 맞선 비정규직 시위, 모두 유죄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/09175501-863C-CA56-E506-P8WCPJMPWCDBOKWB3QDR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
