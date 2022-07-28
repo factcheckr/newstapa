@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 10:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 11:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라]]></title>
+            <link>http://newstapa.org/article/5EhyZ</link>
+            <guid>http://newstapa.org/article/5EhyZ</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28185956-0835-E084-89CD-4BE9JJ6L19HR7QFCCW5R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대통령실 집회 금지' 경찰의 3대 황당 주장]]></title>
+            <link>http://newstapa.org/article/hfyc-</link>
+            <guid>http://newstapa.org/article/hfyc-</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대통령실 집회 금지' 경찰의 3대 황당 주장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28140615-14B5-DC5C-D1FE-BVPZLOJ5NO2QXXJEA2KQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[피지에 '왕국' 세운 이단교회]① 은혜로교회, 신도 폭행·착취]]></title>
             <link>http://newstapa.org/article/RiQgK</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/07195752-F2FE-F1FB-A3F2-9B8Q2HYEEIPZFRYWZURD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작]]></title>
-            <link>http://newstapa.org/article/3rZeH</link>
-            <guid>http://newstapa.org/article/3rZeH</guid>
-            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/08110847-E4F4-911D-B973-YVXPX5KJAQ7QW257J0W2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대통령 나토 출장 수행' 이원모 비서관 부인 일가, 윤석열에 2천만 원 후원]]></title>
-            <link>http://newstapa.org/article/pxcr6</link>
-            <guid>http://newstapa.org/article/pxcr6</guid>
-            <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['대통령 나토 출장 수행' 이원모 비서관 부인 일가, 윤석열에 2천만 원 후원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/06173808-459C-90B8-0352-DKRH44KG58VVQDL9FA5W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
