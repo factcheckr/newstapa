@@ -4,17 +4,9 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></title>
-            <link>http://newstapa.org/article/bkeAq</link>
-            <guid>http://newstapa.org/article/bkeAq</guid>
-            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175705-7963-50C8-0AA6-KQPBLY54B7LHZQSUX2FY.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[피지에 '왕국' 세운 이단교회]① 은혜로교회, 신도 폭행·착취]]></title>
             <link>http://newstapa.org/article/RiQgK</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]① 은혜로교회, 신도 폭행·착취]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175118-6171-EDB4-63AF-BN3CPUPSEIY5UXB44AGE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></title>
+            <link>http://newstapa.org/article/bkeAq</link>
+            <guid>http://newstapa.org/article/bkeAq</guid>
+            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175705-7963-50C8-0AA6-KQPBLY54B7LHZQSUX2FY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></title>
