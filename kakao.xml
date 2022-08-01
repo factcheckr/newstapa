@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-01T07:17:40.855Z</updated>
+    <updated>2022-08-01T08:14:28.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96017374</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96017374"/>
+        <updated>2022-08-01T08:14:28.006Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96017374"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpe1Ss/btrII1PgZNs/KzK6ngJ8U47yIj9TCVIok1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피지 야권, '은혜로교회-피지정부 유착' 조사 촉구]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/95987161</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95928368"/>
         <updated>2022-07-26T00:49:44.624Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DkLGm/btrIcIcqvBS/X2hkltk7jexLw4OZQmkkAK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피지에 '왕국' 세운 이단교회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95896550</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95896550"/>
-        <updated>2022-07-22T10:12:24.136Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95896550"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ci1GF3/btrHY6ZqcR3/o1KKveUJ9ikrr5u2kOhLEk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">파나마페이퍼스 내부고발자 6년만에 입 열다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

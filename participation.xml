@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 참여</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 08:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’]]></title>
+            <link>https://www.newstapa.org/article/BFWvk</link>
+            <guid>https://www.newstapa.org/article/BFWvk</guid>
+            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/29190014-930C-BD7D-106C-107QJHY1X0CICVZ0HCGE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유]]></title>
+            <link>https://www.newstapa.org/article/TM5yV</link>
+            <guid>https://www.newstapa.org/article/TM5yV</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28140956-FBDD-33C7-A676-6BBXUG77MM0B9PY8G3HD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성범죄 교사 90% 가중처벌 피했다]]></title>
+            <link>https://www.newstapa.org/article/Yj9bi</link>
+            <guid>https://www.newstapa.org/article/Yj9bi</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/20171652-DFFA-3422-8F97-0QGSK6JYAL4HN8FNR97T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남겨진 사람들 ③회복은 남겨진 사람들의 권리]]></title>
             <link>https://www.newstapa.org/article/RYp9e</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 04 Aug 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2020.08.04]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 한복판 이건희 일가의 '영지'를 추적하다]]></title>
-            <link>https://www.newstapa.org/article/Fa5NE</link>
-            <guid>https://www.newstapa.org/article/Fa5NE</guid>
-            <pubDate>Wed, 24 Jun 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.06.24]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/24103747-52DD-D6C7-B1C8-T8UQ3ZHWJRH9618VWT2A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학생탐사공모] 알고리즘: 우리가 낸 기숙사비는 다 어디로 갔나]]></title>
-            <link>https://www.newstapa.org/article/mYK1U</link>
-            <guid>https://www.newstapa.org/article/mYK1U</guid>
-            <pubDate>Thu, 18 Jun 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.06.18]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18122640-6FE5-138A-283D-2GU7O2LDXTHDG783973K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학생탐사공모]①서울 기숙사, 진짜 얼마나 비쌀까?]]></title>
-            <link>https://www.newstapa.org/article/pBfpJ</link>
-            <guid>https://www.newstapa.org/article/pBfpJ</guid>
-            <pubDate>Thu, 18 Jun 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.06.18]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

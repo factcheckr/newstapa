@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 08:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/f7m_u</link>
+            <guid>http://newstapa.org/article/f7m_u</guid>
+            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/01102329-1456-95E6-4B90-9HGR30K1EJDTRHBNFNI0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피지 야권, '은혜로교회-피지정부 유착' 조사 촉구 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Sk3E-</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 08 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[팩트체크] 소형원자로 시장이 460조? 새 정부 에너지 정책에 엉터리 수치 인용]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/11100459-B32F-9E0C-7C8F-JU4X7V9W00W2IHFE6KQ8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/-89jD</link>
-            <guid>http://newstapa.org/article/-89jD</guid>
-            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/07195855-3990-2530-0357-HT509UOQ66ENCPKPKH7R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/326e5971009b2f261075bcc7b68f8c988893d6c8a5029d466f7580bae13e9741077829d58ca57f3b331958295240c9defa10346d40905e97ec7b6c1cb022649b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나? (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/f7m_u</link>
+            <guid>http://newstapa.org/article/f7m_u</guid>
+            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/01102329-1456-95E6-4B90-9HGR30K1EJDTRHBNFNI0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[식량안보시대, 쌀가루는 수입밀을 대체할 수 있을까 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/Z7iS6</link>
             <guid>http://newstapa.org/article/Z7iS6</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 15 Jan 2021 00:02:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 무차별적 보험사기 몰이 제동...김현순 씨 1심 무죄]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/15181003-DEC6-3755-227C-5ABUOZSFZWA0TG12WH6R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파 보도 3년만에 미래에셋 박현주 일감 몰아주기 제재 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/SxTjB</link>
-            <guid>http://newstapa.org/article/SxTjB</guid>
-            <pubDate>Tue, 28 Jan 2020 00:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 뉴스타파 보도 3년만에 미래에셋 박현주 일감 몰아주기 제재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/05/28154341-B7A0-E4A4-9CD1-KQ4XVVHAN2HBQ1BUX9JJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부의 공주보 담수, 한 뼘 가뭄도 해소 못하다 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -2826,6 +2826,30 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/09164517-5746-8BDD-F969-3RF4GDIZLYJXL6A05YHC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/BFWvk</link>
+            <guid>https://www.newstapa.org/article/BFWvk</guid>
+            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/29190014-930C-BD7D-106C-107QJHY1X0CICVZ0HCGE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 청년 수급자입니다① 그들이 ‘몰래바이트'하는 이유 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/TM5yV</link>
+            <guid>https://www.newstapa.org/article/TM5yV</guid>
+            <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28140956-FBDD-33C7-A676-6BBXUG77MM0B9PY8G3HD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성범죄 교사 90% 가중처벌 피했다 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/Yj9bi</link>
+            <guid>https://www.newstapa.org/article/Yj9bi</guid>
+            <pubDate>Mon, 20 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/20171652-DFFA-3422-8F97-0QGSK6JYAL4HN8FNR97T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[남겨진 사람들 ③회복은 남겨진 사람들의 권리 (뉴스타파 ─ 참여)]]></title>
             <link>https://www.newstapa.org/article/RYp9e</link>
             <guid>https://www.newstapa.org/article/RYp9e</guid>
@@ -2930,28 +2954,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울 한복판 이건희 일가의 '영지'를 추적하다 (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/Fa5NE</link>
-            <guid>https://www.newstapa.org/article/Fa5NE</guid>
-            <pubDate>Wed, 24 Jun 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.06.24]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/24103747-52DD-D6C7-B1C8-T8UQ3ZHWJRH9618VWT2A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학생탐사공모] 알고리즘: 우리가 낸 기숙사비는 다 어디로 갔나 (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/mYK1U</link>
-            <guid>https://www.newstapa.org/article/mYK1U</guid>
-            <pubDate>Thu, 18 Jun 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.06.18]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18122640-6FE5-138A-283D-2GU7O2LDXTHDG783973K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학생탐사공모]①서울 기숙사, 진짜 얼마나 비쌀까? (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/pBfpJ</link>
-            <guid>https://www.newstapa.org/article/pBfpJ</guid>
-            <pubDate>Thu, 18 Jun 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.06.18]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/06/18112355-6D16-26DB-79F6-8WS39IM8SOE659SXU480.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/96017374</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/96017374</guid>
+            <pubDate>Mon, 01 Aug 2022 08:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96017374"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpe1Ss/btrII1PgZNs/KzK6ngJ8U47yIj9TCVIok1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피지 야권, '은혜로교회-피지정부 유착' 조사 촉구 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95928368</guid>
             <pubDate>Tue, 26 Jul 2022 00:49:44 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DkLGm/btrIcIcqvBS/X2hkltk7jexLw4OZQmkkAK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피지에 '왕국' 세운 이단교회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95896550</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95896550</guid>
-            <pubDate>Fri, 22 Jul 2022 10:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95896550"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ci1GF3/btrHY6ZqcR3/o1KKveUJ9ikrr5u2kOhLEk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">파나마페이퍼스 내부고발자 6년만에 입 열다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
