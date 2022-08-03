@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"]]></title>
+            <link>http://newstapa.org/article/InAUP</link>
+            <guid>http://newstapa.org/article/InAUP</guid>
+            <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/03105701-81BD-660B-317A-YLEAPOK28QF3S98KYZKS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 소형원자로 시장이 460조? 새 정부 에너지 정책에 엉터리 수치 인용]]></title>
             <link>http://newstapa.org/article/FGQWe</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132240-F4D7-D515-2007-VTTPJ40YGT9COGQ4GJ0C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성]]></title>
-            <link>http://newstapa.org/article/j1V3-</link>
-            <guid>http://newstapa.org/article/j1V3-</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 당선자는 '4대강 보 수호'...낙동강 쌀에선 녹조 독성]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/22100433-3051-D576-B4A5-CY33C5SIF3MAL4FNU8M3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
