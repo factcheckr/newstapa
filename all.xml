@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 07:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 08:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/96048240</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/96048240</guid>
+            <pubDate>Wed, 03 Aug 2022 08:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96048240"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9C3z6/btrIOvDrNIy/GG7HVarMNtCHuntTIvbqMk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/96017374</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/96017374</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/95928383</guid>
             <pubDate>Tue, 26 Jul 2022 00:49:44 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928383"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/KHWCk/btrIdazMLiS/ij7uP1zKboZ37d0QQeOZN0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피지에 '왕국' 세운 이단교회 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/95928368</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/95928368</guid>
-            <pubDate>Tue, 26 Jul 2022 00:49:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/95928368"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DkLGm/btrIcIcqvBS/X2hkltk7jexLw4OZQmkkAK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피지에 '왕국' 세운 이단교회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
