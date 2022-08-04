@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-04T10:12:17.902Z</updated>
+    <updated>2022-08-04T11:10:30.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털 성폭력 : 사라진 휴대폰, 사라진 정의 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96067198</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96067198"/>
+        <updated>2022-08-04T11:10:29.827Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96067198"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bHduDD/btrIXxUQeOz/stdBakIFmK9DXT7Bu0W1bK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">디지털 성폭력 : 사라진 휴대폰, 사라진 정의 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96060772</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95973638"/>
         <updated>2022-07-28T11:11:00.621Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95973638"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/7t2ec/btrInJCG1By/oZqEHrh5enrsdhwaR80Ka1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령실 앞 집회를 허하라 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대통령실 집회 금지' 경찰의 3대 황당 주장]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95973615</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95973615"/>
-        <updated>2022-07-28T11:11:00.622Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95973615"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bFJE2U/btrItuqu6Mc/IWJvbXr6tcDVgDHcH6qHhK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'대통령실 집회 금지' 경찰의 3대 황당 주장</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
