@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제]]></title>
+            <link>http://newstapa.org/article/YS_p5</link>
+            <guid>http://newstapa.org/article/YS_p5</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/04091801-C672-85E9-E9AC-14V58A0ZK8NXL3Z64J7I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라]]></title>
             <link>http://newstapa.org/article/5EhyZ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌]]></title>
-            <link>http://newstapa.org/article/dVHAi</link>
-            <guid>http://newstapa.org/article/dVHAi</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 택배 기사 김봉석과 이수헌]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02111820-12C9-7DD1-4A0E-D9XI06HK89X97JHS1YPY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
