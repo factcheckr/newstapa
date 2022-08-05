@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-05T00:56:01.818Z</updated>
+    <updated>2022-08-05T03:11:51.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96073071</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96073071"/>
+        <updated>2022-08-05T03:11:50.716Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96073071"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9Bnnw/btrIXP2thXe/C4VBmbFMvkql0WMLijNdbK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 성폭력 : 사라진 휴대폰, 사라진 정의 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96067198</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/95987161"/>
         <updated>2022-07-29T08:14:22.618Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95987161"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6zZvN/btrIt5kW2bq/RfzhVrQoBDy0PFq0yfJFAk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피지 야권, '은혜로교회-피지정부 유착' 조사 촉구</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실 앞 집회를 허하라 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95973638</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95973638"/>
-        <updated>2022-07-28T11:11:00.621Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95973638"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/7t2ec/btrInJCG1By/oZqEHrh5enrsdhwaR80Ka1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령실 앞 집회를 허하라 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
