@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/YfENi</link>
+            <guid>http://newstapa.org/article/YfENi</guid>
+            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05173155-64D6-D59D-6315-ZBRMI88VWVZWAF83TDHC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/fdX23</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[거짓으로 재산 신고해도 당선된 지방의원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21132944-CEA6-67F9-6FC8-8JPXD97POIK90P6MB5JM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/diVlC</link>
-            <guid>http://newstapa.org/article/diVlC</guid>
-            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/15102915-963F-AB08-C874-B4PNNKPIKMJOFNC8XYMT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/19104718-F4AD-6E8B-67F7-GXOCOP5UYE29277DF65J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/YfENi</link>
+            <guid>http://newstapa.org/article/YfENi</guid>
+            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05173155-64D6-D59D-6315-ZBRMI88VWVZWAF83TDHC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/YS_p5</link>
             <guid>http://newstapa.org/article/YS_p5</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중대재해법 그 후① 아직, 김용균의 죽음은 되풀이된다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/29095433-EF34-6A06-5616-12Q3AGEXEP9K6QOXMNSB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/jT3Ww</link>
-            <guid>http://newstapa.org/article/jT3Ww</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
