@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-05T09:11:24.483Z</updated>
+    <updated>2022-08-05T10:12:38.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96081488</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96081488"/>
+        <updated>2022-08-05T10:12:37.521Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96081488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bKfa2d/btrI1WAnpmp/4MyTzQ7oMFbyH2o36vKpZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96073071</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96017374"/>
         <updated>2022-08-01T08:14:28.006Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96017374"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpe1Ss/btrII1PgZNs/KzK6ngJ8U47yIj9TCVIok1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피지 야권, '은혜로교회-피지정부 유착' 조사 촉구]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/95987161</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/95987161"/>
-        <updated>2022-07-29T08:14:22.618Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/95987161"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6zZvN/btrIt5kW2bq/RfzhVrQoBDy0PFq0yfJFAk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">피지 야권, '은혜로교회-피지정부 유착' 조사 촉구</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
