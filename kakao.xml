@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-08T00:42:59.081Z</updated>
+    <updated>2022-08-08T03:06:13.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96101184</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96101184"/>
+        <updated>2022-08-08T03:06:12.366Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96101184"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zLh4d/btrI2Zrp34U/34TkQIe1d5AsMbw2qeHD91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96081488</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96048240"/>
         <updated>2022-08-03T08:14:26.182Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96048240"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9C3z6/btrIOvDrNIy/GG7HVarMNtCHuntTIvbqMk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96017374</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96017374"/>
-        <updated>2022-08-01T08:14:28.006Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96017374"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bpe1Ss/btrII1PgZNs/KzK6ngJ8U47yIj9TCVIok1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
