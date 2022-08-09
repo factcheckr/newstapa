@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업']]></title>
+            <link>http://newstapa.org/article/412rV</link>
+            <guid>http://newstapa.org/article/412rV</guid>
+            <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/09172215-C7CC-9FEF-8CCF-VZ8JLKG1W9B42O2IN23O.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한전 적자가 문재인 정부 탈원전 탓이라고?]]></title>
             <link>http://newstapa.org/article/cT0NN</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12154158-9876-CDDA-DE0F-L6NTQW6K1YCEBP2PNQAO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈]]></title>
-            <link>http://newstapa.org/article/GbHde</link>
-            <guid>http://newstapa.org/article/GbHde</guid>
-            <pubDate>Thu, 11 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[석탄재 사업에 뛰어든 기자...토호세력과 검은 돈]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/10173640-71ED-65E5-C7BD-OI3U94FTUXY1FCAUROQV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

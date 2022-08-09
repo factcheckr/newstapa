@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:14:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업']]></title>
+            <link>http://newstapa.org/article/412rV</link>
+            <guid>http://newstapa.org/article/412rV</guid>
+            <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/09172215-C7CC-9FEF-8CCF-VZ8JLKG1W9B42O2IN23O.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"]]></title>
             <link>http://newstapa.org/article/InAUP</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 환경부 “녹조 농작물 실험하겠다”, 환경단체 “민관공동으로 하라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['녹조 라떼'로 키운 채소에서 발암물질 독소 검출]]></title>
-            <link>http://newstapa.org/article/62leg</link>
-            <guid>http://newstapa.org/article/62leg</guid>
-            <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['녹조 라떼'로 키운 채소에서 발암물질 독소 검출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/19104718-F4AD-6E8B-67F7-GXOCOP5UYE29277DF65J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
