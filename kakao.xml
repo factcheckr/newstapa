@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-12T08:13:32.306Z</updated>
+    <updated>2022-08-12T09:11:34.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96174391</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96174391"/>
+        <updated>2022-08-12T09:11:33.931Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96174391"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bexRVg/btrJABix0O8/djzAkrG8IWRbnF2KmDvYSK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96101184</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96060772"/>
         <updated>2022-08-04T05:26:32.990Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96060772"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcVpT7/btrIVhdlYEF/nZddet0MQkrVWm7r1t5NAK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96048240</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96048240"/>
-        <updated>2022-08-03T08:14:26.182Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96048240"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9C3z6/btrIOvDrNIy/GG7HVarMNtCHuntTIvbqMk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
