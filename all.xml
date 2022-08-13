@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 12:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 13:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://newstapa.org/article/fxrg3</guid>
             <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12173811-33E3-6F3B-C333-V9OJR9XMTDTD8P9WSEAT.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12152040-A743-C460-C179-EYEMFIA3QN9Q0Y1BTBWC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들 (뉴스타파 ─ 뉴스)]]></title>
@@ -1421,7 +1421,7 @@
             <guid>http://newstapa.org/article/fxrg3</guid>
             <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12173811-33E3-6F3B-C333-V9OJR9XMTDTD8P9WSEAT.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12152040-A743-C460-C179-EYEMFIA3QN9Q0Y1BTBWC.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
