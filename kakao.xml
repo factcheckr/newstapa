@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-14T03:07:47.838Z</updated>
+    <updated>2022-08-14T04:23:23.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 일본군 '위안부' 피해자 기림의 날]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96174888</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96174888"/>
+        <updated>2022-08-14T04:23:22.362Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96174888"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cEeiSR/btrJA3ThkuF/vjM2Puqm2JhO591KBgFgw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세계 일본군 '위안부' 피해자 기림의 날</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96174391</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96067198"/>
         <updated>2022-08-04T11:10:29.827Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96067198"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bHduDD/btrIXxUQeOz/stdBakIFmK9DXT7Bu0W1bK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">디지털 성폭력 : 사라진 휴대폰, 사라진 정의 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96060772</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96060772"/>
-        <updated>2022-08-04T05:26:32.990Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96060772"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcVpT7/btrIVhdlYEF/nZddet0MQkrVWm7r1t5NAK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
