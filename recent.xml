@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 00:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></title>
+            <link>http://newstapa.org/article/5ATn5</link>
+            <guid>http://newstapa.org/article/5ATn5</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12164224-4743-B4B0-C0F5-QINR88W002PBB68UFP63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></title>
             <link>http://newstapa.org/article/fxrg3</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175705-7963-50C8-0AA6-KQPBLY54B7LHZQSUX2FY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></title>
-            <link>http://newstapa.org/article/A5irp</link>
-            <guid>http://newstapa.org/article/A5irp</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/22182049-E961-3BB3-A0A3-O0P5QO5A07X48OC0ECB4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

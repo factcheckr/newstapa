@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 00:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5ATn5</link>
+            <guid>http://newstapa.org/article/5ATn5</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12164224-4743-B4B0-C0F5-QINR88W002PBB68UFP63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/fxrg3</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175705-7963-50C8-0AA6-KQPBLY54B7LHZQSUX2FY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/A5irp</link>
-            <guid>http://newstapa.org/article/A5irp</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/22182049-E961-3BB3-A0A3-O0P5QO5A07X48OC0ECB4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/5ATn5</link>
+            <guid>http://newstapa.org/article/5ATn5</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12164224-4743-B4B0-C0F5-QINR88W002PBB68UFP63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28164629-E58D-0386-E905-VME0NFC6MBHNRARZ6368.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/ep27U</link>
-            <guid>http://newstapa.org/article/ep27U</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/02104235-7C49-CDF5-9E1A-L0B9I3L5SIZRM90YH8UQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/5ATn5</link>
+            <guid>http://newstapa.org/article/5ATn5</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12164224-4743-B4B0-C0F5-QINR88W002PBB68UFP63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 디지털 성폭력 : 사라진 휴대폰, 사라진 정의 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25161232-EC87-C0D9-DC7B-ZVMHAMIHXSOVVLE96XF6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열의 마지막 결재① 한밤의 교통사고 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/DyVMX</link>
-            <guid>http://newstapa.org/article/DyVMX</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열의 마지막 결재① 한밤의 교통사고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/10110206-CFA2-9AF7-4C0A-9WH0OV3WLBG3ZRGYNE37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘윤석열 특수활동비’ 재판 열린다...법원, 검찰의 연기신청 불허(不許) (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -2698,6 +2698,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/YS_p5</link>
+            <guid>https://www.newstapa.org/article/YS_p5</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.04]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/04091801-C672-85E9-E9AC-14V58A0ZK8NXL3Z64J7I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/QZQ0q</link>
             <guid>https://www.newstapa.org/article/QZQ0q</guid>
@@ -2816,14 +2824,6 @@
             <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.09.14]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/14152757-80DD-EF58-6BD6-OJB2ITFYZHUKIB7Z2I6X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파 '논문공장' 보도 학회, 등재지 자격 박탈 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/fHT_n</link>
-            <guid>https://www.newstapa.org/article/fHT_n</guid>
-            <pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.09]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/09164517-5746-8BDD-F969-3RF4GDIZLYJXL6A05YHC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 참여)]]></title>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 00:55:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></title>
+            <link>http://newstapa.org/article/5ATn5</link>
+            <guid>http://newstapa.org/article/5ATn5</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12164224-4743-B4B0-C0F5-QINR88W002PBB68UFP63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출]]></title>
             <link>http://newstapa.org/article/zJRjt</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['두 정부간 차이는 없었다'...윤석열-문재인 초대 내각 병역 이행 실태]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/28164629-E58D-0386-E905-VME0NFC6MBHNRARZ6368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답]]></title>
-            <link>http://newstapa.org/article/ep27U</link>
-            <guid>http://newstapa.org/article/ep27U</guid>
-            <pubDate>Fri, 03 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김소영, 국회 정책연구보고서 무단 베껴 논문 투고... 연구부정·저작권법 위반 지적에 묵묵부답]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/02104235-7C49-CDF5-9E1A-L0B9I3L5SIZRM90YH8UQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
