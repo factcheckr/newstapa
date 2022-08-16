@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-16T03:15:40.248Z</updated>
+    <updated>2022-08-16T04:35:07.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96203594</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96203594"/>
+        <updated>2022-08-16T04:35:06.792Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96203594"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bfE0eK/btrJMAcnE6I/DD59aJ8qfeS8kKzwF5Cua1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 일본군 '위안부' 피해자 기림의 날]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96174888</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96073071"/>
         <updated>2022-08-05T03:11:50.716Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96073071"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9Bnnw/btrIXP2thXe/C4VBmbFMvkql0WMLijNdbK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 성폭력 : 사라진 휴대폰, 사라진 정의 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96067198</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96067198"/>
-        <updated>2022-08-04T11:10:29.827Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96067198"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bHduDD/btrIXxUQeOz/stdBakIFmK9DXT7Bu0W1bK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">디지털 성폭력 : 사라진 휴대폰, 사라진 정의 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
