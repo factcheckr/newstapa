@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-18T10:13:42.022Z</updated>
+    <updated>2022-08-18T11:11:21.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 100일과 여사님의 '비밀 일정' 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96242829</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96242829"/>
+        <updated>2022-08-18T11:11:20.780Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96242829"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/36oO1/btrJ1IhpLZP/slPPRjUZI3B4AMkKWUI9gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 100일과 여사님의 '비밀 일정' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96242807</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96242807"/>
+        <updated>2022-08-18T11:11:20.781Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96242807"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MEyc6/btrJ2oibzMI/2xrYloBcvLgjdxG6k31etk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96237843</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96174888"/>
         <updated>2022-08-14T04:23:22.362Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96174888"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cEeiSR/btrJA3ThkuF/vjM2Puqm2JhO591KBgFgw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세계 일본군 '위안부' 피해자 기림의 날</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96174391</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96174391"/>
-        <updated>2022-08-12T09:11:33.931Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96174391"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bexRVg/btrJABix0O8/djzAkrG8IWRbnF2KmDvYSK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96101184</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96101184"/>
-        <updated>2022-08-08T03:06:12.366Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96101184"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zLh4d/btrI2Zrp34U/34TkQIe1d5AsMbw2qeHD91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
