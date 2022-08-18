@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/96237843</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/96237843</guid>
+            <pubDate>Thu, 18 Aug 2022 07:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96237843"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cS3IVi/btrJ2nXdeGY/261h7JVOSkKnqIP4lecWi1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">권력의 최정점, 대통령비서실이 쓴 세금을 공개하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[더하고 빼고... 지방의원들의 묻지마 재산 신고 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/96205764</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/96205764</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/96101184</guid>
             <pubDate>Mon, 08 Aug 2022 03:06:12 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96101184"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zLh4d/btrI2Zrp34U/34TkQIe1d5AsMbw2qeHD91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/96081488</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/96081488</guid>
-            <pubDate>Fri, 05 Aug 2022 10:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96081488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bKfa2d/btrI1WAnpmp/4MyTzQ7oMFbyH2o36vKpZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
