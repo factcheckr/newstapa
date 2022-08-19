@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-19T11:10:42.206Z</updated>
+    <updated>2022-08-19T12:20:03.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스쿨] '독립언론 100개 만들기' 꿈만은 아니다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96259435</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96259435"/>
+        <updated>2022-08-19T12:20:02.868Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96259435"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3Lqze/btrJ8mKYEDG/LkElmIE1CWStAmgmJEICrK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] '독립언론 100개 만들기' 꿈만은 아니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부 100일과 여사님의 '비밀 일정' 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96242829</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96203594"/>
         <updated>2022-08-16T04:35:06.792Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96203594"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bfE0eK/btrJMAcnE6I/DD59aJ8qfeS8kKzwF5Cua1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 일본군 '위안부' 피해자 기림의 날]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96174888</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96174888"/>
-        <updated>2022-08-14T04:23:22.362Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96174888"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cEeiSR/btrJA3ThkuF/vjM2Puqm2JhO591KBgFgw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세계 일본군 '위안부' 피해자 기림의 날</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

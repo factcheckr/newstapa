@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 11:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 12:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스쿨] '독립언론 100개 만들기' 꿈만은 아니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/96259435</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/96259435</guid>
+            <pubDate>Fri, 19 Aug 2022 12:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96259435"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3Lqze/btrJ8mKYEDG/LkElmIE1CWStAmgmJEICrK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] '독립언론 100개 만들기' 꿈만은 아니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부 100일과 여사님의 '비밀 일정' 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/96242829</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/96242829</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/96203594</guid>
             <pubDate>Tue, 16 Aug 2022 04:35:06 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96203594"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bfE0eK/btrJMAcnE6I/DD59aJ8qfeS8kKzwF5Cua1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세계 일본군 '위안부' 피해자 기림의 날 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/96174888</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/96174888</guid>
-            <pubDate>Sun, 14 Aug 2022 04:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96174888"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cEeiSR/btrJA3ThkuF/vjM2Puqm2JhO591KBgFgw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세계 일본군 '위안부' 피해자 기림의 날</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
