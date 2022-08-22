@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></title>
+            <link>http://newstapa.org/article/NAIeu</link>
+            <guid>http://newstapa.org/article/NAIeu</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/22175926-0E64-DA9C-E5A6-6RKJ49DWF3B2PYV77K7N.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 정부 100일과 여사님의 '비밀 일정']]></title>
             <link>http://newstapa.org/article/jI6r4</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 06 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['대통령 나토 출장 수행' 이원모 비서관 부인 일가, 윤석열에 2천만 원 후원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/06173808-459C-90B8-0352-DKRH44KG58VVQDL9FA5W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 처조카 논문 데이터 위조... 촛불집회에 다인종 참여?]]></title>
-            <link>http://newstapa.org/article/DWQ-x</link>
-            <guid>http://newstapa.org/article/DWQ-x</guid>
-            <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 처조카 논문 데이터 위조... 촛불집회에 다인종 참여?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/05155739-8343-A388-3868-CAA94DPSQQ0EJJ999EMI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

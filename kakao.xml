@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-22T08:14:50.922Z</updated>
+    <updated>2022-08-22T09:11:49.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96286270</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96286270"/>
+        <updated>2022-08-22T09:11:49.170Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96286270"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cBv2yv/btrKlpACZa2/RaVbvWEkaseuBxLpflzekk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스쿨] '독립언론 100개 만들기' 꿈만은 아니다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96259435</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96205764"/>
         <updated>2022-08-16T06:12:36.539Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96205764"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ccr13a/btrJRDFZNJ8/HmnVkyszhhreYtcKcXP6l0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">더하고 빼고... 지방의원들의 묻지마 재산 신고</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96203594</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96203594"/>
-        <updated>2022-08-16T04:35:06.792Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96203594"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bfE0eK/btrJMAcnE6I/DD59aJ8qfeS8kKzwF5Cua1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

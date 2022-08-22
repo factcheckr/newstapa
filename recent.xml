@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></title>
+            <link>http://newstapa.org/article/NAIeu</link>
+            <guid>http://newstapa.org/article/NAIeu</guid>
+            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/22175926-0E64-DA9C-E5A6-6RKJ49DWF3B2PYV77K7N.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 강제 식사와 강압 서명...대학이 지운 학생들의 목소리]]></title>
             <link>http://newstapa.org/article/xRrbE</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 03 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여당 의원들의 친원전 이율배반 "탈원전 안돼, 우리 지역 폐기물 시설도 안돼"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/03105701-81BD-660B-317A-YLEAPOK28QF3S98KYZKS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?]]></title>
-            <link>http://newstapa.org/article/f7m_u</link>
-            <guid>http://newstapa.org/article/f7m_u</guid>
-            <pubDate>Mon, 01 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/01102329-1456-95E6-4B90-9HGR30K1EJDTRHBNFNI0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
