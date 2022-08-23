@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-23T08:15:09.556Z</updated>
+    <updated>2022-08-23T09:12:16.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96301799</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96301799"/>
+        <updated>2022-08-23T09:12:15.724Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96301799"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byfwvT/btrKl3sAZYf/KQPLch5DqKOBvsgPzmFp20/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96286270</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96237843"/>
         <updated>2022-08-18T07:11:52.180Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96237843"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cS3IVi/btrJ2nXdeGY/261h7JVOSkKnqIP4lecWi1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">권력의 최정점, 대통령비서실이 쓴 세금을 공개하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더하고 빼고... 지방의원들의 묻지마 재산 신고]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96205764</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96205764"/>
-        <updated>2022-08-16T06:12:36.539Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96205764"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ccr13a/btrJRDFZNJ8/HmnVkyszhhreYtcKcXP6l0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">더하고 빼고... 지방의원들의 묻지마 재산 신고</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

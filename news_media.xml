@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹]]></title>
+            <link>http://newstapa.org/article/n8nmt</link>
+            <guid>http://newstapa.org/article/n8nmt</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/23162412-CEF1-EFE6-D2A7-JJZMP7LGXW99IG3ZDXZ3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업']]></title>
             <link>http://newstapa.org/article/412rV</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[석탄재 폐기물 이권에 뛰어든 또 다른 언론인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/18103112-8B0B-A316-0656-B8JLKQK9BW2VQN16A8IY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></title>
-            <link>http://newstapa.org/article/6Re-x</link>
-            <guid>http://newstapa.org/article/6Re-x</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12154158-9876-CDDA-DE0F-L6NTQW6K1YCEBP2PNQAO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
