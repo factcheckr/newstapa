@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-25T03:31:50.174Z</updated>
+    <updated>2022-08-25T05:16:08.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96328887</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96328887"/>
+        <updated>2022-08-25T05:16:08.023Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96328887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ewdfU0/btrKuSjQxvE/iQFBe86TDHLE38buhCMKm0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96301799</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96242807"/>
         <updated>2022-08-18T11:11:20.781Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96242807"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MEyc6/btrJ2oibzMI/2xrYloBcvLgjdxG6k31etk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96237843</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96237843"/>
-        <updated>2022-08-18T07:11:52.180Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96237843"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cS3IVi/btrJ2nXdeGY/261h7JVOSkKnqIP4lecWi1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">권력의 최정점, 대통령비서실이 쓴 세금을 공개하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
