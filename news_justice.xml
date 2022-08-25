@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 10:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 11:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></title>
+            <link>http://newstapa.org/article/r_pJG</link>
+            <guid>http://newstapa.org/article/r_pJG</guid>
+            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183218-517E-521C-72AC-XNOJM971K99T2Y0B7YK1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></title>
+            <link>http://newstapa.org/article/G9Swb</link>
+            <guid>http://newstapa.org/article/G9Swb</guid>
+            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183229-E88E-9F4F-D923-I2J74ZYE9DC9X8FFNF90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] '대통령실 앞 집회' 막는 경찰의 '이례적' 행태]]></title>
             <link>http://newstapa.org/article/5ATn5</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/11171503-886A-8890-0D15-MZB0VZ9AGHWOD754F6ID.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></title>
-            <link>http://newstapa.org/article/DEA7Q</link>
-            <guid>http://newstapa.org/article/DEA7Q</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희, 우회상장 '대박' 직전 비상장회사에 3억 원 투자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/02104742-CD19-E89A-FECC-RCO3QFY5GRNAYRNCLG9Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공]]></title>
-            <link>http://newstapa.org/article/yy4j0</link>
-            <guid>http://newstapa.org/article/yy4j0</guid>
-            <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열, ‘차떼기 수사’ 때 주범 한나라당 의원 측에 사적 편의 제공]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/25161232-EC87-C0D9-DC7B-ZVMHAMIHXSOVVLE96XF6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

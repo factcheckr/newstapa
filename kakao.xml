@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-25T10:12:46.195Z</updated>
+    <updated>2022-08-25T11:11:29.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96337162</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96337162"/>
+        <updated>2022-08-25T11:11:28.538Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96337162"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UzXRS/btrKALcI0pz/SivlckRfNln8iW5hafKBeK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96337135</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96337135"/>
+        <updated>2022-08-25T11:11:28.539Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96337135"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ldS9i/btrKBr57nH3/Ormd02LQEmPkru5vYXzwQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96328887</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96259435"/>
         <updated>2022-08-19T12:20:02.868Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96259435"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3Lqze/btrJ8mKYEDG/LkElmIE1CWStAmgmJEICrK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스쿨] '독립언론 100개 만들기' 꿈만은 아니다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 100일과 여사님의 '비밀 일정' 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96242829</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96242829"/>
-        <updated>2022-08-18T11:11:20.780Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96242829"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/36oO1/btrJ1IhpLZP/slPPRjUZI3B4AMkKWUI9gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 100일과 여사님의 '비밀 일정' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96242807</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96242807"/>
-        <updated>2022-08-18T11:11:20.781Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96242807"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MEyc6/btrJ2oibzMI/2xrYloBcvLgjdxG6k31etk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 10:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 11:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></title>
+            <link>http://newstapa.org/article/6Mp8O</link>
+            <guid>http://newstapa.org/article/6Mp8O</guid>
+            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25154836-3A6E-0CA0-C2B7-9A8F434LO8923HP1EWBR.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></title>
+            <link>http://newstapa.org/article/r_pJG</link>
+            <guid>http://newstapa.org/article/r_pJG</guid>
+            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183218-517E-521C-72AC-XNOJM971K99T2Y0B7YK1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></title>
+            <link>http://newstapa.org/article/G9Swb</link>
+            <guid>http://newstapa.org/article/G9Swb</guid>
+            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183229-E88E-9F4F-D923-I2J74ZYE9DC9X8FFNF90.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라]]></title>
             <link>http://newstapa.org/article/AIyDV</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05135138-A573-E0C7-EBA4-M1Z6CAOL6UQ2C6EA6LNC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></title>
-            <link>http://newstapa.org/article/YfENi</link>
-            <guid>http://newstapa.org/article/YfENi</guid>
-            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05173155-64D6-D59D-6315-ZBRMI88VWVZWAF83TDHC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져]]></title>
-            <link>http://newstapa.org/article/fdX23</link>
-            <guid>http://newstapa.org/article/fdX23</guid>
-            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05105050-AF6D-803E-089C-TS92YB5EEFU3AIH2OU9V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 디지털 성폭력 : 사라진 휴대폰, 사라진 정의]]></title>
-            <link>http://newstapa.org/article/bV9Vv</link>
-            <guid>http://newstapa.org/article/bV9Vv</guid>
-            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 디지털 성폭력 : 사라진 휴대폰, 사라진 정의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/04174726-F403-7CA1-1CC8-8PRJ5QJXSF0MLQDUO1ZQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
