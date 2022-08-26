@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 08:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 09:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%]]></title>
+            <link>http://newstapa.org/article/bJ03f</link>
+            <guid>http://newstapa.org/article/bJ03f</guid>
+            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/26173152-141D-0CDD-B3D3-RM7ZUR1L8CCMSJ8FW572.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></title>
             <link>http://newstapa.org/article/6Mp8O</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/09172215-C7CC-9FEF-8CCF-VZ8JLKG1W9B42O2IN23O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출]]></title>
-            <link>http://newstapa.org/article/zJRjt</link>
-            <guid>http://newstapa.org/article/zJRjt</guid>
-            <pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강용석, 가족회사 · 가세연에 선거 후원금 12억 원 지출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05135138-A573-E0C7-EBA4-M1Z6CAOL6UQ2C6EA6LNC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
