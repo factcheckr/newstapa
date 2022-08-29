@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-08-29T03:34:01.195Z</updated>
+    <updated>2022-08-29T05:24:28.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96375771</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96375771"/>
+        <updated>2022-08-29T05:24:28.182Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96375771"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cTsO4r/btrKQjtRQEQ/5RJsKX9iAkwkCOwXYATnnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">실적 뺏고, 부당해고… '산피아' 판치는 국립수목원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96352661</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96328887"/>
         <updated>2022-08-25T05:16:08.023Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96328887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ewdfU0/btrKuSjQxvE/iQFBe86TDHLE38buhCMKm0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96301799</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96301799"/>
-        <updated>2022-08-23T09:12:15.724Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96301799"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byfwvT/btrKl3sAZYf/KQPLch5DqKOBvsgPzmFp20/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

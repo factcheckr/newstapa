@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 03:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 05:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NhaRP</link>
+            <guid>http://newstapa.org/article/NhaRP</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29110825-6413-F331-3E49-IC1DI6IPOOUPL2B547VJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70% (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/bJ03f</link>
@@ -21,7 +29,7 @@
             <guid>http://newstapa.org/article/6Mp8O</guid>
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25154836-3A6E-0CA0-C2B7-9A8F434LO8923HP1EWBR.png" length="0" type="image/png"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29140604-A074-48BD-0EBC-CMB6Z4BAFUP9Q1LLFF9G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ① (뉴스타파 ─ 뉴스)]]></title>
@@ -45,7 +53,7 @@
             <guid>http://newstapa.org/article/AIyDV</guid>
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25131031-4500-61F4-7524-7WMLW0TW3CJA89ELBAG8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29140615-B9FD-0C9E-2538-28J5ZZRGV16WPYZOJ1HK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹 (뉴스타파 ─ 뉴스)]]></title>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12095416-1701-26EC-309A-I9D5HO3CJD5HUDIXIQVQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/412rV</link>
-            <guid>http://newstapa.org/article/412rV</guid>
-            <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/09172215-C7CC-9FEF-8CCF-VZ8JLKG1W9B42O2IN23O.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/NhaRP</link>
+            <guid>http://newstapa.org/article/NhaRP</guid>
+            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29110825-6413-F331-3E49-IC1DI6IPOOUPL2B547VJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70% (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/07195752-F2FE-F1FB-A3F2-9B8Q2HYEEIPZFRYWZURD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/3rZeH</link>
-            <guid>http://newstapa.org/article/3rZeH</guid>
-            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[통계 뒤죽박죽 베낀 엉터리 논문 수두룩... 한동훈 처조카 데이터 조작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/08110847-E4F4-911D-B973-YVXPX5KJAQ7QW257J0W2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -909,7 +909,7 @@
             <guid>http://newstapa.org/article/AIyDV</guid>
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25131031-4500-61F4-7524-7WMLW0TW3CJA89ELBAG8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29140615-B9FD-0C9E-2538-28J5ZZRGV16WPYZOJ1HK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 언론과 에너지 공공기관의 '돈 룩 업' (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -1549,7 +1549,7 @@
             <guid>http://newstapa.org/article/6Mp8O</guid>
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25154836-3A6E-0CA0-C2B7-9A8F434LO8923HP1EWBR.png" length="0" type="image/png"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29140604-A074-48BD-0EBC-CMB6Z4BAFUP9Q1LLFF9G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ① (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/96375771</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/96375771</guid>
+            <pubDate>Mon, 29 Aug 2022 05:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96375771"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cTsO4r/btrKQjtRQEQ/5RJsKX9iAkwkCOwXYATnnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">실적 뺏고, 부당해고… '산피아' 판치는 국립수목원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70% (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/96352661</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/96352661</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/96328887</guid>
             <pubDate>Thu, 25 Aug 2022 12:20:12 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96328887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ewdfU0/btrKuSjQxvE/iQFBe86TDHLE38buhCMKm0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2022 낙동강 녹조 대란의 교훈 - 정부는 녹조 건강 영향을 조사하라</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/96301799</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/96301799</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96301799"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byfwvT/btrKl3sAZYf/KQPLch5DqKOBvsgPzmFp20/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
