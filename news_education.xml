@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 08:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 09:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></title>
+            <link>http://newstapa.org/article/NKDRk</link>
+            <guid>http://newstapa.org/article/NKDRk</guid>
+            <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/30164533-10E5-3A4F-CE44-R2NB815ARN7KWKTGM74I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 강제 식사와 강압 서명...대학이 지운 학생들의 목소리]]></title>
             <link>http://newstapa.org/article/xRrbE</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[같은 날, 같은 장소, 같은 금액...김인철 후보자의 외대와 대교협 '수상한 업무추진비']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/26205045-A28B-7763-023C-UF9WDH51OMDXDUJINT5B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></title>
-            <link>http://newstapa.org/article/jT3Ww</link>
-            <guid>http://newstapa.org/article/jT3Ww</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 폭력 총장이 복귀했습니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/31102813-1C49-B658-D768-5OGNHQA47I3AE2L1F1D0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
