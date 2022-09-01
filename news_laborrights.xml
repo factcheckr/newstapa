@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 10:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 11:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 파업이 끝나고 난 뒤... '불공정'의 역습]]></title>
+            <link>http://newstapa.org/article/KunR7</link>
+            <guid>http://newstapa.org/article/KunR7</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 파업이 끝나고 난 뒤... '불공정'의 역습]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01183947-E612-99C7-F6DB-A0N02UHQABRPY4DJK2N3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행']]></title>
+            <link>http://newstapa.org/article/IApYT</link>
+            <guid>http://newstapa.org/article/IApYT</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01151048-9087-9C62-C1C3-U9AZYNRB7YQS6BMSW9FA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></title>
             <link>http://newstapa.org/article/YfENi</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 25 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중대재해법 그 후② 현대중공업 '호스 잔혹사' 13년]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/29095351-DD5D-78F5-7BB2-2NYY1WET8NOYA6GN3KW6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그럼에도 출근]]></title>
-            <link>http://newstapa.org/article/jBovs</link>
-            <guid>http://newstapa.org/article/jBovs</guid>
-            <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[그럼에도 출근]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/20092007-937C-929F-0963-PJVU62Z7H4U20WF6Y5M6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중대재해법 그 후① 아직, 김용균의 죽음은 되풀이된다]]></title>
-            <link>http://newstapa.org/article/B0lw-</link>
-            <guid>http://newstapa.org/article/B0lw-</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중대재해법 그 후① 아직, 김용균의 죽음은 되풀이된다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/29095433-EF34-6A06-5616-12Q3AGEXEP9K6QOXMNSB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

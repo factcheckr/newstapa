@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-01T10:12:53.340Z</updated>
+    <updated>2022-09-01T11:11:54.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파업이 끝나고 난 뒤, 불공정의 역습]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96442092</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96442092"/>
+        <updated>2022-09-01T11:11:53.378Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96442092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bn9Emo/btrLaVTsAAt/ozppNX6kX3XYEwXqFLgBCK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">파업이 끝나고 난 뒤, 불공정의 역습</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96442063</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96442063"/>
+        <updated>2022-09-01T11:11:53.380Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96442063"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kWi4i/btrLavU08xg/AGb17IRGWGq5f4sGbKzZsk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96430128</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96352661"/>
         <updated>2022-08-26T09:12:02.948Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96352661"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bK98D7/btrKFvBZWCD/ErncvZgG1ITwMUNJ78in70/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의료사고 7년... 법의 이름으로 퇴원을 명받다 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96337184</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96337184"/>
-        <updated>2022-08-25T12:20:12.126Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96337184"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lIzuY/btrKzfy62Le/5RgEK57cG2GrxqdnYjKTZk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">의료사고 7년... 법의 이름으로 퇴원을 명받다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96337162</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96337162"/>
-        <updated>2022-08-25T11:11:28.538Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96337162"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UzXRS/btrKALcI0pz/SivlckRfNln8iW5hafKBeK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
