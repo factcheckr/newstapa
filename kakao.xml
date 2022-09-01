@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-01T03:30:52.134Z</updated>
+    <updated>2022-09-01T05:11:20.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96430128</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96430128"/>
+        <updated>2022-09-01T05:11:20.183Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96430128"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b24M8t/btrK5w7JlI7/miRtnNzrye5RhzHCXkojqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96399024</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96337162"/>
         <updated>2022-08-25T11:11:28.538Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96337162"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UzXRS/btrKALcI0pz/SivlckRfNln8iW5hafKBeK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96337135</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96337135"/>
-        <updated>2022-08-25T11:11:28.539Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96337135"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ldS9i/btrKBr57nH3/Ormd02LQEmPkru5vYXzwQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
