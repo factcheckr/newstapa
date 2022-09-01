@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 경제소비자</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 00:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 03:30:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책]]></title>
+            <link>http://newstapa.org/article/sOJVW</link>
+            <guid>http://newstapa.org/article/sOJVW</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/31184825-FD51-8345-C372-56S7O0DX12UENGD20R2M.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['RE100 인증' 녹색 프리미엄, 기업 그린워싱 부추기나?]]></title>
             <link>http://newstapa.org/article/f7m_u</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Jan 2021 00:03:00 GMT</pubDate>
             <content:encoded><![CDATA['엘시티 리스트' 실체 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/18195125-E737-389C-ADE5-29JY4Z6XRZCBK2Z02IS7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 무차별적 보험사기 몰이 제동...김현순 씨 1심 무죄]]></title>
-            <link>http://newstapa.org/article/XLJHc</link>
-            <guid>http://newstapa.org/article/XLJHc</guid>
-            <pubDate>Fri, 15 Jan 2021 00:02:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 무차별적 보험사기 몰이 제동...김현순 씨 1심 무죄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/15181003-DEC6-3755-227C-5ABUOZSFZWA0TG12WH6R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
