@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-02T00:49:11.544Z</updated>
+    <updated>2022-09-02T03:36:30.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96447585</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96447585"/>
+        <updated>2022-09-02T03:36:29.727Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96447585"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bAqNNC/btrLbxysIEY/K4ou3hHuFk7CKrqq9fDE60/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파업이 끝나고 난 뒤, 불공정의 역습]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96442092</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96375771"/>
         <updated>2022-08-29T05:24:28.182Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96375771"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cTsO4r/btrKQjtRQEQ/5RJsKX9iAkwkCOwXYATnnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">실적 뺏고, 부당해고… '산피아' 판치는 국립수목원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96352661</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96352661"/>
-        <updated>2022-08-26T09:12:02.948Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96352661"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bK98D7/btrKFvBZWCD/ErncvZgG1ITwMUNJ78in70/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
