@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 00:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 03:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></title>
+            <link>http://newstapa.org/article/BjBhG</link>
+            <guid>http://newstapa.org/article/BjBhG</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/02163500-4084-062D-3D5C-KHPZPBSS6DRTMFCIJZ7S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다]]></title>
             <link>http://newstapa.org/article/K2EL4</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 정부 100일과 여사님의 '비밀 일정']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/18191004-771F-C2D4-B7B7-AO8ZUQAMMHQKBZHB5OX9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인]]></title>
-            <link>http://newstapa.org/article/0KZpn</link>
-            <guid>http://newstapa.org/article/0KZpn</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/18190940-1C73-09F1-09D9-65CH461BH8DPHF9LA0OQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 00:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 03:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/BjBhG</link>
+            <guid>http://newstapa.org/article/BjBhG</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/02163500-4084-062D-3D5C-KHPZPBSS6DRTMFCIJZ7S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/K2EL4</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/18191004-771F-C2D4-B7B7-AO8ZUQAMMHQKBZHB5OX9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/0KZpn</link>
-            <guid>http://newstapa.org/article/0KZpn</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 비공개 일정 20건 더 있었다... 경찰 기록 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/18190940-1C73-09F1-09D9-65CH461BH8DPHF9LA0OQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/BjBhG</link>
+            <guid>http://newstapa.org/article/BjBhG</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/02163500-4084-062D-3D5C-KHPZPBSS6DRTMFCIJZ7S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/11113917-94B8-C1BA-B3F1-ULG5BAWEKN9QJSUM5P8O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/-89jD</link>
-            <guid>http://newstapa.org/article/-89jD</guid>
-            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 조작으로 쌓아올린 한동훈 처가의 '아이비 캐슬']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/07195855-3990-2530-0357-HT509UOQ66ENCPKPKH7R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
