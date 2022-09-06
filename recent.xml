@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 10:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 11:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['웹하드 카르텔' 사건 선고 결과 주목...직원들은 "양진호가 시켰다"]]></title>
+            <link>http://newstapa.org/article/PEG62</link>
+            <guid>http://newstapa.org/article/PEG62</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['웹하드 카르텔' 사건 선고 결과 주목...직원들은 "양진호가 시켰다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/06192614-3679-8301-229B-AWOVBMFPVAOJ1BSXSIT8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></title>
             <link>http://newstapa.org/article/BjBhG</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 강제 식사와 강압 서명...대학이 지운 학생들의 목소리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/19152359-BBE6-5EFD-2592-K5MQ5RXENL84IDQD4GNO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 정부 100일과 여사님의 '비밀 일정']]></title>
-            <link>http://newstapa.org/article/jI6r4</link>
-            <guid>http://newstapa.org/article/jI6r4</guid>
-            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 정부 100일과 여사님의 '비밀 일정']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/18191004-771F-C2D4-B7B7-AO8ZUQAMMHQKBZHB5OX9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
