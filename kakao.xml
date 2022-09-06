@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-06T00:53:43.780Z</updated>
+    <updated>2022-09-06T03:44:23.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96501501</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96501501"/>
+        <updated>2022-09-06T03:44:22.680Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96501501"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hyhdR/btrLu9RtSTL/ITkLVJq9sRYizBcaOvOjXk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령 선거법 위반 수사 가능하다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96447585</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96399024"/>
         <updated>2022-08-30T09:12:26.176Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96399024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ZIxWO/btrKZoBFHrB/2lLAQ8E0IljvKmEEW0wFK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96375771</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96375771"/>
-        <updated>2022-08-29T05:24:28.182Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96375771"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cTsO4r/btrKQjtRQEQ/5RJsKX9iAkwkCOwXYATnnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">실적 뺏고, 부당해고… '산피아' 판치는 국립수목원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
