@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-07T07:38:01.058Z</updated>
+    <updated>2022-09-07T08:18:07.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“쓰러질 준비가 되어 있던 세월호, 그리고 국가의 부재”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96527194</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96527194"/>
+        <updated>2022-09-07T08:18:07.132Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96527194"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UhEDL/btrLE1LLobd/soSazkdeG9VPC19n3GrlSk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“쓰러질 준비가 되어 있던 세월호, 그리고 국가의 부재”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96526823</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96526823"/>
+        <updated>2022-09-07T08:18:07.133Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96526823"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bExdGS/btrLBfkUnfW/HtVYl4vsF1gRJQaAMo1Ud0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96522498</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96442092"/>
         <updated>2022-09-01T11:11:53.378Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96442092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bn9Emo/btrLaVTsAAt/ozppNX6kX3XYEwXqFLgBCK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">파업이 끝나고 난 뒤, 불공정의 역습</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96442063</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96442063"/>
-        <updated>2022-09-01T11:11:53.380Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96442063"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kWi4i/btrLavU08xg/AGb17IRGWGq5f4sGbKzZsk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96430128</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96430128"/>
-        <updated>2022-09-01T05:11:20.183Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96430128"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b24M8t/btrK5w7JlI7/miRtnNzrye5RhzHCXkojqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
