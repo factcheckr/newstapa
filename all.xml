@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 00:55:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 03:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/11113917-94B8-C1BA-B3F1-ULG5BAWEKN9QJSUM5P8O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['웹하드 카르텔' 사건 선고 결과 주목...직원들은 "양진호가 시켰다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/PEG62</link>
+            <guid>http://newstapa.org/article/PEG62</guid>
+            <pubDate>Tue, 06 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['웹하드 카르텔' 사건 선고 결과 주목...직원들은 "양진호가 시켰다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/06192614-3679-8301-229B-AWOVBMFPVAOJ1BSXSIT8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/r_pJG</link>
             <guid>http://newstapa.org/article/r_pJG</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/24094031-C06C-89CA-A075-X7BD2N8JFUZEZ90K2OIA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/-y3Vk</link>
-            <guid>http://newstapa.org/article/-y3Vk</guid>
-            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/11171503-886A-8890-0D15-MZB0VZ9AGHWOD754F6ID.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
