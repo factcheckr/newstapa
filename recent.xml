@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 05:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 06:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기]]></title>
+            <link>http://newstapa.org/article/tADF8</link>
+            <guid>http://newstapa.org/article/tADF8</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/07134251-E8B0-10A1-D372-9TB1PAISFP1GTU13XNC6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라]]></title>
             <link>http://newstapa.org/article/icTtQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/23162412-CEF1-EFE6-D2A7-JJZMP7LGXW99IG3ZDXZ3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></title>
-            <link>http://newstapa.org/article/NAIeu</link>
-            <guid>http://newstapa.org/article/NAIeu</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/22175926-0E64-DA9C-E5A6-6RKJ49DWF3B2PYV77K7N.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

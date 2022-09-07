@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 05:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 06:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/tADF8</link>
+            <guid>http://newstapa.org/article/tADF8</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/07134251-E8B0-10A1-D372-9TB1PAISFP1GTU13XNC6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/icTtQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동아·조선일보, '이단' 은혜로교회 100억 대 광고 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/23162412-CEF1-EFE6-D2A7-JJZMP7LGXW99IG3ZDXZ3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/NAIeu</link>
-            <guid>http://newstapa.org/article/NAIeu</guid>
-            <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/22175926-0E64-DA9C-E5A6-6RKJ49DWF3B2PYV77K7N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/11113917-94B8-C1BA-B3F1-ULG5BAWEKN9QJSUM5P8O.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/tADF8</link>
+            <guid>http://newstapa.org/article/tADF8</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/07134251-E8B0-10A1-D372-9TB1PAISFP1GTU13XNC6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/icTtQ</link>
             <guid>http://newstapa.org/article/icTtQ</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132240-F4D7-D515-2007-VTTPJ40YGT9COGQ4GJ0C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/TkSaT</link>
-            <guid>http://newstapa.org/article/TkSaT</guid>
-            <pubDate>Tue, 12 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“공수처 윤석열 불기소는 정치적 결정” 임은정 재정신청]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/12131615-08D5-1FE2-0659-RPC6NB5HRL6LZTY07VI2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
