@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-07T03:42:38.539Z</updated>
+    <updated>2022-09-07T05:29:32.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96522498</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96522498"/>
+        <updated>2022-09-07T05:29:31.912Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96522498"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YHb0P/btrLx02IKzQ/J3pKiQISLwFUtKUWk3HU10/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96501501</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96430128"/>
         <updated>2022-09-01T05:11:20.183Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96430128"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b24M8t/btrK5w7JlI7/miRtnNzrye5RhzHCXkojqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">밀 직불금 높인다더니 제자리...헛다리 짚는 식량안보 정책</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96399024</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96399024"/>
-        <updated>2022-08-30T09:12:26.176Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96399024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ZIxWO/btrKZoBFHrB/2lLAQ8E0IljvKmEEW0wFK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

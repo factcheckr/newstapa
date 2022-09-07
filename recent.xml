@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 03:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 05:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라]]></title>
+            <link>http://newstapa.org/article/icTtQ</link>
+            <guid>http://newstapa.org/article/icTtQ</guid>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/07104609-E13F-7EBE-5F76-WL9DA5JOLPNQ5CLNVCGJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['웹하드 카르텔' 사건 선고 결과 주목...직원들은 "양진호가 시켰다"]]></title>
             <link>http://newstapa.org/article/PEG62</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[경찰, '박정희 독재' 끌어들여 '대통령실 앞 집회 금지' 주장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/22175926-0E64-DA9C-E5A6-6RKJ49DWF3B2PYV77K7N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 강제 식사와 강압 서명...대학이 지운 학생들의 목소리]]></title>
-            <link>http://newstapa.org/article/xRrbE</link>
-            <guid>http://newstapa.org/article/xRrbE</guid>
-            <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 강제 식사와 강압 서명...대학이 지운 학생들의 목소리]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/19152359-BBE6-5EFD-2592-K5MQ5RXENL84IDQD4GNO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
