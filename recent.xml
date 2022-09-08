@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 11:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></title>
+            <link>http://newstapa.org/article/5IEW6</link>
+            <guid>http://newstapa.org/article/5IEW6</guid>
+            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/08142110-3ED5-538E-1F82-YULU6KEI503PLFR0B491.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희 도이치모터스 전화주문 중 '이상거래' 비율 60%]]></title>
             <link>http://newstapa.org/article/bjz3e</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183218-517E-521C-72AC-XNOJM971K99T2Y0B7YK1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></title>
-            <link>http://newstapa.org/article/G9Swb</link>
-            <guid>http://newstapa.org/article/G9Swb</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183229-E88E-9F4F-D923-I2J74ZYE9DC9X8FFNF90.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

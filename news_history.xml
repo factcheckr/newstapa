@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 11:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></title>
+            <link>http://newstapa.org/article/5IEW6</link>
+            <guid>http://newstapa.org/article/5IEW6</guid>
+            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/08142110-3ED5-538E-1F82-YULU6KEI503PLFR0B491.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></title>
             <link>http://newstapa.org/article/NKDRk</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파 4K 다큐, '당신이 보지 못한 한국전쟁' 3부작 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/23174951-65E4-6B20-5EF7-ICZ29MEZ2V83BNVVKN19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 X PD수첩 '각하의 빚 970억 원, 전두환 일가 세습의 비밀']]></title>
-            <link>http://newstapa.org/article/YT4mB</link>
-            <guid>http://newstapa.org/article/YT4mB</guid>
-            <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 X PD수첩 '각하의 빚 970억 원, 전두환 일가 세습의 비밀']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/23095603-5F28-CEFA-0C3C-AR0OTTCHM2TDWATPY1O2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

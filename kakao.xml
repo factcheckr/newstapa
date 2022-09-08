@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-08T10:13:16.980Z</updated>
+    <updated>2022-09-08T11:11:22.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96548988</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96548988"/>
+        <updated>2022-09-08T11:11:21.424Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96548988"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Rsmnw/btrLKwTEbwG/bKe33448GW2mBkgIlEKZy0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">못 다 쓴 에필로그 : 42년 만의 '민주훈장'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 도이치모터스 전화주문 중 '이상거래' 비율 60%]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96541373</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96501501"/>
         <updated>2022-09-06T03:44:22.680Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96501501"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hyhdR/btrLu9RtSTL/ITkLVJq9sRYizBcaOvOjXk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령 선거법 위반 수사 가능하다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96447585</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96447585"/>
-        <updated>2022-09-02T03:36:29.727Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96447585"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bAqNNC/btrLbxysIEY/K4ou3hHuFk7CKrqq9fDE60/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 도이치모터스 녹취록 공개... 대통령 거짓말 드러났다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

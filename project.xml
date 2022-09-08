@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 10:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 11:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,8 +320,8 @@
         </item>
         <item>
             <title><![CDATA[훈장과 권력]]></title>
-            <link>https://newstapa.org/medal2016-prologue</link>
-            <guid>https://newstapa.org/medal2016-prologue</guid>
+            <link>https://pages.newstapa.org/medal2016/index.html</link>
+            <guid>https://pages.newstapa.org/medal2016/index.html</guid>
             <pubDate>Mon, 25 Jul 2016 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파는 해방 71년 특별기획으로 ‘훈장과 권력’ 4부작 다큐멘터리 제작해 2016년 7월 28일부터 8월 18일까지 4주 연속 방송했습니다. 훈장과 권력 특별페이지로 [바로가기]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/10/3d7adc5f803765ec21d08c80c514a44a6e92decc17e8c466989062e91e916f1f5e40fdecc4d93549599cca73981fec382ae4f184e8ba39b83778290c504cfcc6.png" length="0" type="image/png"/>
