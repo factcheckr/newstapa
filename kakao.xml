@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-14T03:37:45.894Z</updated>
+    <updated>2022-09-14T05:21:57.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만만한 대한민국 소비자] 2. "미국식 안 된다"는 기업들 미국서 소송]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96592788</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96592788"/>
+        <updated>2022-09-14T05:21:57.160Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96592788"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bhHIH5/btrL4bPJwjP/m1GyvGSTuZ8J0y9adSr8h0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[만만한 대한민국 소비자] 2. "미국식 안 된다"는 기업들 미국서 소송</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96548988</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96522498"/>
         <updated>2022-09-07T05:29:31.912Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96522498"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YHb0P/btrLx02IKzQ/J3pKiQISLwFUtKUWk3HU10/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령 선거법 위반 수사 가능하다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96501501</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96501501"/>
-        <updated>2022-09-06T03:44:22.680Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96501501"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hyhdR/btrLu9RtSTL/ITkLVJq9sRYizBcaOvOjXk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령 선거법 위반 수사 가능하다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

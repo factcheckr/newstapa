@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 03:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 05:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[만만한 대한민국 소비자] 2. "미국식 안 된다"는 기업들 미국서 소송]]></title>
+            <link>http://newstapa.org/article/RjNFu</link>
+            <guid>http://newstapa.org/article/RjNFu</guid>
+            <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[만만한 대한민국 소비자] 2. "미국식 안 된다"는 기업들 미국서 소송]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/14140243-161C-7749-9147-UIILJ5H33WEIQ8NMP191.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기]]></title>
             <link>http://newstapa.org/article/tADF8</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열의 마지막 결재② 사라진 공중전화]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18143553-43E5-27DD-D406-0A64719CLIAO4ZH1MRNG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></title>
-            <link>http://newstapa.org/article/TjrSB</link>
-            <guid>http://newstapa.org/article/TjrSB</guid>
-            <pubDate>Wed, 13 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 대한민국 마약 - 최정옥 케이스 ①]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/13132240-F4D7-D515-2007-VTTPJ40YGT9COGQ4GJ0C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
