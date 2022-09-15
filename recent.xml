@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 10:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 11:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 도이치 2차 작전 사무실서 '김건희 파일' 나왔다]]></title>
+            <link>http://newstapa.org/article/XKzfv</link>
+            <guid>http://newstapa.org/article/XKzfv</guid>
+            <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 도이치 2차 작전 사무실서 '김건희 파일' 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/15150141-9C90-DE58-7C2A-J0Q2UKBJNBFXQ8L2FKWN.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[만만한 대한민국 소비자] 2. "미국식 안 된다"는 기업들 미국서 소송]]></title>
             <link>http://newstapa.org/article/RjNFu</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/26173152-141D-0CDD-B3D3-RM7ZUR1L8CCMSJ8FW572.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></title>
-            <link>http://newstapa.org/article/6Mp8O</link>
-            <guid>http://newstapa.org/article/6Mp8O</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29140604-A074-48BD-0EBC-CMB6Z4BAFUP9Q1LLFF9G.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

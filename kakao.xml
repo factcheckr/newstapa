@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-15T10:13:42.412Z</updated>
+    <updated>2022-09-15T11:14:09.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도이치 2차 작전 사무실서 '김건희 파일' 나왔다 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96615798</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96615798"/>
+        <updated>2022-09-15T11:14:09.090Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96615798"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uqFi0/btrMcPlvljb/7J5My2p3uuquBdlzc98NEk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도이치 2차 작전 사무실서 '김건희 파일' 나왔다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만만한 대한민국 소비자] 2. "미국식 안 된다"는 기업들 미국서 소송]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96592788</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96526823"/>
         <updated>2022-09-07T08:18:07.133Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96526823"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bExdGS/btrLBfkUnfW/HtVYl4vsF1gRJQaAMo1Ud0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96522498</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96522498"/>
-        <updated>2022-09-07T05:29:31.912Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96522498"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YHb0P/btrLx02IKzQ/J3pKiQISLwFUtKUWk3HU10/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[만만한 대한민국 소비자] 1. 집단소송을 허용하지 않는 나라</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
