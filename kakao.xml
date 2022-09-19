@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-09-19T08:20:33.257Z</updated>
+    <updated>2022-09-19T09:18:33.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/96659438</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/96659438"/>
+        <updated>2022-09-19T09:18:32.299Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96659438"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/by4Y1J/btrMrSPN3xx/oDDpLO1lklCsCtJt7uDsk0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">법원 ‘인국공 기부후원처 모두 공개하라’</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도이치 2차 작전 사무실서 '김건희 파일' 나왔다 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/96615798</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/96527194"/>
         <updated>2022-09-07T08:18:07.132Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96527194"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UhEDL/btrLE1LLobd/soSazkdeG9VPC19n3GrlSk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“쓰러질 준비가 되어 있던 세월호, 그리고 국가의 부재”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/96526823</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/96526823"/>
-        <updated>2022-09-07T08:18:07.133Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/96526823"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bExdGS/btrLBfkUnfW/HtVYl4vsF1gRJQaAMo1Ud0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

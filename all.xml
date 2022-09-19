@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 08:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/pMclc</link>
+            <guid>http://newstapa.org/article/pMclc</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/19172950-2882-7574-0101-VGNY3HHY63LFIG8FK6D2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 도이치 2차 작전 사무실서 '김건희 파일' 나왔다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/XKzfv</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29110825-6413-F331-3E49-IC1DI6IPOOUPL2B547VJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70% (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/bJ03f</link>
-            <guid>http://newstapa.org/article/bJ03f</guid>
-            <pubDate>Fri, 26 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 첫 재산공개... '건물' 중 강남3구 및 용산이 70%]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/26173152-141D-0CDD-B3D3-RM7ZUR1L8CCMSJ8FW572.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/pMclc</link>
+            <guid>http://newstapa.org/article/pMclc</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/19172950-2882-7574-0101-VGNY3HHY63LFIG8FK6D2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 도이치 2차 작전 사무실서 '김건희 파일' 나왔다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/19041126-989C-2477-EEC3-GAUDL9LTY74EIETYCF6F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[거짓으로 재산 신고해도 당선된 지방의원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/HFkHA</link>
-            <guid>http://newstapa.org/article/HFkHA</guid>
-            <pubDate>Mon, 18 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[거짓으로 재산 신고해도 당선된 지방의원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21132944-CEA6-67F9-6FC8-8JPXD97POIK90P6MB5JM.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/pMclc</link>
+            <guid>http://newstapa.org/article/pMclc</guid>
+            <pubDate>Mon, 19 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/19172950-2882-7574-0101-VGNY3HHY63LFIG8FK6D2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[만만한 대한민국 소비자] 2. "미국식 안 된다"는 기업들 미국서 소송 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 22 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검사 임은정 “검찰 수사가 이 지경일 줄은 몰랐다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/22135639-E145-E9B6-1A57-G10JEUFFK82TOH0YQUQQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열의 마지막 결재② 사라진 공중전화 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/ABmX8</link>
-            <guid>http://newstapa.org/article/ABmX8</guid>
-            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열의 마지막 결재② 사라진 공중전화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18143553-43E5-27DD-D406-0A64719CLIAO4ZH1MRNG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’ (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/96659438</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/96659438</guid>
+            <pubDate>Mon, 19 Sep 2022 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96659438"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/by4Y1J/btrMrSPN3xx/oDDpLO1lklCsCtJt7uDsk0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">법원 ‘인국공 기부후원처 모두 공개하라’</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[도이치 2차 작전 사무실서 '김건희 파일' 나왔다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/96615798</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/96615798</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/96527194</guid>
             <pubDate>Wed, 07 Sep 2022 08:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96527194"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UhEDL/btrLE1LLobd/soSazkdeG9VPC19n3GrlSk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“쓰러질 준비가 되어 있던 세월호, 그리고 국가의 부재”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/96526823</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/96526823</guid>
-            <pubDate>Wed, 07 Sep 2022 08:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96526823"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bExdGS/btrLBfkUnfW/HtVYl4vsF1gRJQaAMo1Ud0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">양진호 '웹하드 카르텔' 사건 재판, 선고 하루 앞두고 일정 연기</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
