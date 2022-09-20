@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 08:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 09:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울진 산불① 산불에 국가 원자력재난시스템 8시간 마비 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/a1Pe0</link>
+            <guid>http://newstapa.org/article/a1Pe0</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[울진 산불① 산불에 국가 원자력재난시스템 8시간 마비]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/20103137-DD05-9C42-7161-RPKMC1XSU0UAYPREV0S0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’ (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/pMclc</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/30164533-10E5-3A4F-CE44-R2NB815ARN7KWKTGM74I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/NhaRP</link>
-            <guid>http://newstapa.org/article/NhaRP</guid>
-            <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실적 뺏고, 부당해고… '산피아' 판치는 국립수목원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29110825-6413-F331-3E49-IC1DI6IPOOUPL2B547VJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/29095351-DD5D-78F5-7BB2-2NYY1WET8NOYA6GN3KW6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[울진 산불① 산불에 국가 원자력재난시스템 8시간 마비 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/a1Pe0</link>
+            <guid>http://newstapa.org/article/a1Pe0</guid>
+            <pubDate>Tue, 20 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[울진 산불① 산불에 국가 원자력재난시스템 8시간 마비]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/20103137-DD05-9C42-7161-RPKMC1XSU0UAYPREV0S0.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[“쓰러질 준비가 되어 있던 세월호, 그리고 국가의 부재” (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/oXbJC</link>
             <guid>http://newstapa.org/article/oXbJC</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/11144931-A3CE-BE05-E481-EJDY2EDEHZ8AHQHAJ5JM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/H10U7</link>
-            <guid>http://newstapa.org/article/H10U7</guid>
-            <pubDate>Fri, 15 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, '세월호 참사 팩트체킹 시스템' 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14214832-0D8A-4425-1159-ZS1OMQG3R9OC9H52XW46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2954,6 +2954,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[울진 산불① 산불에 국가 원자력재난시스템 8시간 마비 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/96675569</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/96675569</guid>
+            <pubDate>Tue, 20 Sep 2022 09:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96675569"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uFDUY/btrMDn9fE3C/HeIyMkN1quAnclgimJS0dK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">울진 산불① 산불에 국가 원자력재난시스템 8시간 마비</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[법원 ‘인국공 기부후원처 모두 공개하라’ (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/96659438</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/96659438</guid>
@@ -2987,13 +2994,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/96541373</guid>
             <pubDate>Thu, 08 Sep 2022 06:41:19 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96541373"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bv5zhc/btrLJp65EIS/yNVzXsSPDwxU7gcCXmP910/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 도이치모터스 전화주문 중 '이상거래' 비율 60%</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“쓰러질 준비가 되어 있던 세월호, 그리고 국가의 부재” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/96527194</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/96527194</guid>
-            <pubDate>Wed, 07 Sep 2022 08:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/96527194"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UhEDL/btrLE1LLobd/soSazkdeG9VPC19n3GrlSk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“쓰러질 준비가 되어 있던 세월호, 그리고 국가의 부재”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
