@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.newstapa.org/tags/%EB%B3%80%ED%99%94</id>
-    <title>뉴스타파 ─ 변화</title>
-    <updated>2022-11-16T16:19:14.367Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.newstapa.org/tags/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 변화</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져]]></title>
+            <link>https://www.newstapa.org/article/fdX23</link>
+            <guid>https://www.newstapa.org/article/fdX23</guid>
+            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.05]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05105050-AF6D-803E-089C-TS92YB5EEFU3AIH2OU9V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제]]></title>
+            <link>https://www.newstapa.org/article/YS_p5</link>
+            <guid>https://www.newstapa.org/article/YS_p5</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.04]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/04091801-C672-85E9-E9AC-14V58A0ZK8NXL3Z64J7I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></title>
+            <link>https://www.newstapa.org/article/QZQ0q</link>
+            <guid>https://www.newstapa.org/article/QZQ0q</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.21]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/21101718-BD21-F18F-508D-ERZX6SQRYRV96HIHN7UV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></title>
+            <link>https://www.newstapa.org/article/4LSuw</link>
+            <guid>https://www.newstapa.org/article/4LSuw</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31124222-E6F1-8533-8D44-Z3828JJ07SIUO5YJBGWD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 감사원, 기부금 비리 공기업에 '주의' 통보...예산 사유화 확인]]></title>
+            <link>https://www.newstapa.org/article/mWhxo</link>
+            <guid>https://www.newstapa.org/article/mWhxo</guid>
+            <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.13]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12161245-6636-4FB9-FC60-5HQYRPFFPEL8QAX1M26L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임]]></title>
+            <link>https://www.newstapa.org/article/op4gx</link>
+            <guid>https://www.newstapa.org/article/op4gx</guid>
+            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.06]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06154441-6F1A-6899-5691-GTEA2ZQ1P0HNCYUP7HQQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] "KT링커스 '모바일 서포터'는 노동자"... 대법원 부당해고 인정]]></title>
+            <link>https://www.newstapa.org/article/6E-hT</link>
+            <guid>https://www.newstapa.org/article/6E-hT</guid>
+            <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.29]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/28174714-DA9A-2F8C-ACEC-E3R1ZE00XR8FTZRL707U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] '공기업 낙하산 기부금 비리' 첫 공익감사 개시]]></title>
+            <link>https://www.newstapa.org/article/H9at7</link>
+            <guid>https://www.newstapa.org/article/H9at7</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.16]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/17094457-DFCB-788A-561B-S2D0YKCFS97IV856N2JW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 김형준-박수종 뇌물 혐의 기소... 공수처 1호 기소 사건]]></title>
+            <link>https://www.newstapa.org/article/-y3Vk</link>
+            <guid>https://www.newstapa.org/article/-y3Vk</guid>
+            <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.11]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/11171503-886A-8890-0D15-MZB0VZ9AGHWOD754F6ID.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정]]></title>
+            <link>https://www.newstapa.org/article/_N8q-</link>
+            <guid>https://www.newstapa.org/article/_N8q-</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.27]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/03102130-50AE-FE2C-8D1F-E61LQ7A7KOFR00L67J47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 윤우진 구속...'윤석열 관련 뇌물수수 의혹'은 계속 수사중]]></title>
+            <link>https://www.newstapa.org/article/yxj5l</link>
+            <guid>https://www.newstapa.org/article/yxj5l</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/07233833-4D16-8051-D128-0ODD3H9FXK6D79BU820D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></title>
+            <link>https://www.newstapa.org/article/6Re-x</link>
+            <guid>https://www.newstapa.org/article/6Re-x</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12154158-9876-CDDA-DE0F-L6NTQW6K1YCEBP2PNQAO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완"]]></title>
+            <link>https://www.newstapa.org/article/pYWQj</link>
+            <guid>https://www.newstapa.org/article/pYWQj</guid>
+            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/09170307-0689-91DE-DA73-J3C7GN7RULS71AYW6AUP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 환경부 “녹조 농작물 실험하겠다”, 환경단체 “민관공동으로 하라”]]></title>
+            <link>https://www.newstapa.org/article/L_DVR</link>
+            <guid>https://www.newstapa.org/article/L_DVR</guid>
+            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 대법원, 영풍 석포제련소 '조업정지 10일' 결정]]></title>
+            <link>https://www.newstapa.org/article/fJNdi</link>
+            <guid>https://www.newstapa.org/article/fJNdi</guid>
+            <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15174538-66A0-2E84-EFB6-PMZRZCYU6C7D4E0T0ORJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소]]></title>
+            <link>https://www.newstapa.org/article/CV3ag</link>
+            <guid>https://www.newstapa.org/article/CV3ag</guid>
+            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

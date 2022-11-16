@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EC%82%AC%EB%B2%95%EC%A0%95%EC%9D%98</id>
-    <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
-    <updated>2022-11-16T16:19:14.355Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남욱이 자필로 종이에 적은 천화동인 1호의 '실체']]></title>
+            <link>http://newstapa.org/article/Sh4Iv</link>
+            <guid>http://newstapa.org/article/Sh4Iv</guid>
+            <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남욱이 자필로 종이에 적은 천화동인 1호의 '실체']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16132532-8429-4434-8BAC-6GN7HBOXZ8MQGN425GZV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천화동인 282억 수익 숨긴 대장동 자금책, 검찰은 또 봐줬다]]></title>
+            <link>http://newstapa.org/article/YWEBZ</link>
+            <guid>http://newstapa.org/article/YWEBZ</guid>
+            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[천화동인 282억 수익 숨긴 대장동 자금책, 검찰은 또 봐줬다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/14171613-705D-BE08-A8E0-Z1PTWTKPVGTHMZCG2KYB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는]]></title>
+            <link>http://newstapa.org/article/SllqH</link>
+            <guid>http://newstapa.org/article/SllqH</guid>
+            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10180746-4BF8-4F00-35AA-SLL1KZOWDR0GSSSPR96N.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 34쪽 정진상 압색영장 입수...‘선거자금 4억’ 결국 이재명 수사로]]></title>
+            <link>http://newstapa.org/article/R1eXV</link>
+            <guid>http://newstapa.org/article/R1eXV</guid>
+            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 34쪽 정진상 압색영장 입수...‘선거자금 4억’ 결국 이재명 수사로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10102657-016C-CA99-E110-71SA1R0NCQ0PU36MD5LJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민변 “이태원 참사 일부 유족들 고립감 호소해...지원책 시급”]]></title>
+            <link>http://newstapa.org/article/X2bxS</link>
+            <guid>http://newstapa.org/article/X2bxS</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민변 “이태원 참사 일부 유족들 고립감 호소해...지원책 시급”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09102422-3DFD-F65A-C1B4-ZVC6YOF92066Z2TPOREO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 론스타 '스모킹 건' 발견... 그들은 알고 있었다]]></title>
+            <link>http://newstapa.org/article/4eW0X</link>
+            <guid>http://newstapa.org/article/4eW0X</guid>
+            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 론스타 '스모킹 건' 발견... 그들은 알고 있었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27162939-AAC4-3743-D405-0U5BFIDPBVGUIDHGGCVI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<론스타, 기록과 증언> ③ ‘론스타 기록’ 속, 두 개의 재경부 문서]]></title>
+            <link>http://newstapa.org/article/dNgWs</link>
+            <guid>http://newstapa.org/article/dNgWs</guid>
+            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ③ ‘론스타 기록’ 속, 두 개의 재경부 문서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27152736-335E-A130-B8D8-DB5JS32JHTHPX2448B2D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["허위 세금 돌려줘"...'분식회계' 대우조선 국가 상대 무차별 소송]]></title>
+            <link>http://newstapa.org/article/7AAnC</link>
+            <guid>http://newstapa.org/article/7AAnC</guid>
+            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["허위 세금 돌려줘"...'분식회계' 대우조선 국가 상대 무차별 소송]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/26140937-917C-A283-2AA1-30C9GJBY4ECG1P8RV7QL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 장관은 왜 권한쟁의에 나섰나]]></title>
+            <link>http://newstapa.org/article/wOVWI</link>
+            <guid>http://newstapa.org/article/wOVWI</guid>
+            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈 장관은 왜 권한쟁의에 나섰나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25135607-F4C3-BCA6-4335-1BZNFR35DZJ1VIJHUT5B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<론스타, 기록과 증언> ① '론스타는 산업자본'...2003년 금융당국은 정말 몰랐나]]></title>
+            <link>http://newstapa.org/article/DTApp</link>
+            <guid>http://newstapa.org/article/DTApp</guid>
+            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ① '론스타는 산업자본'...2003년 금융당국은 정말 몰랐나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/19113200-9416-51EA-AB65-4HEJ304EFOMSIK207TBP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죄수와 검사 - 외전 ② 검찰, 조직보호 위해 공무원 뇌물 덮었나]]></title>
+            <link>http://newstapa.org/article/jO7yt</link>
+            <guid>http://newstapa.org/article/jO7yt</guid>
+            <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[죄수와 검사 - 외전 ② 검찰, 조직보호 위해 공무원 뇌물 덮었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17143330-2CBF-6C41-22B6-8UGLIBA15LMM48LWF9RI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죄수와 검사 - 외전 ① "공무원에 뇌물 줬다" 자백, 검찰은 덮었다]]></title>
+            <link>http://newstapa.org/article/zLoS6</link>
+            <guid>http://newstapa.org/article/zLoS6</guid>
+            <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[죄수와 검사 - 외전 ① "공무원에 뇌물 줬다" 자백, 검찰은 덮었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17141332-9DD1-55C3-7012-QC1U15CZDG5EP8MB9JL2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만만한 대한민국 소비자] 5. '클래스 액션' 석사논문 윤석열 대통령 선택은?]]></title>
+            <link>http://newstapa.org/article/cBxaQ</link>
+            <guid>http://newstapa.org/article/cBxaQ</guid>
+            <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[만만한 대한민국 소비자] 5. '클래스 액션' 석사논문 윤석열 대통령 선택은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/04170508-6E23-4AD6-0804-56GKYRJUM0CK9X0XL0XR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만만한 대한민국 소비자] 4. 독일 정부, 폭스바겐에 맞서 소송제도 바꿔]]></title>
+            <link>http://newstapa.org/article/92lVJ</link>
+            <guid>http://newstapa.org/article/92lVJ</guid>
+            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[만만한 대한민국 소비자] 4. 독일 정부, 폭스바겐에 맞서 소송제도 바꿔]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/28132553-4BAE-9536-003D-97X8IE16Q89X63QRPWPD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] '이재명 저격수'로 투입된 그 검사의 위험한 과거]]></title>
+            <link>http://newstapa.org/article/1alY3</link>
+            <guid>http://newstapa.org/article/1alY3</guid>
+            <pubDate>Tue, 27 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] '이재명 저격수'로 투입된 그 검사의 위험한 과거]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/27142639-8A8D-A62D-3E66-H229M8TMNCDMNNYG8CR7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[만만한 대한민국 소비자] 3. 삼성전자 '갤럭시 게이트' 한국에선 여유만만]]></title>
+            <link>http://newstapa.org/article/a4JQT</link>
+            <guid>http://newstapa.org/article/a4JQT</guid>
+            <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[만만한 대한민국 소비자] 3. 삼성전자 '갤럭시 게이트' 한국에선 여유만만]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/20200958-9535-EF43-AC20-NFDEUJ4N493P2ASTVTVN.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

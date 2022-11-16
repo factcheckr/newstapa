@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EC%97%AD%EC%82%AC</id>
-    <title>뉴스타파 ─ 뉴스 ─ 역사</title>
-    <updated>2022-11-16T16:19:14.397Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 역사</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노병의 외출]]></title>
+            <link>http://newstapa.org/article/DYvbS</link>
+            <guid>http://newstapa.org/article/DYvbS</guid>
+            <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[노병의 외출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04192701-A92A-BAC1-C1DF-GPZIWJQQUM3CCTGLNMJ4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></title>
+            <link>http://newstapa.org/article/5IEW6</link>
+            <guid>http://newstapa.org/article/5IEW6</guid>
+            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/08142110-3ED5-538E-1F82-YULU6KEI503PLFR0B491.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></title>
+            <link>http://newstapa.org/article/NKDRk</link>
+            <guid>http://newstapa.org/article/NKDRk</guid>
+            <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/30164533-10E5-3A4F-CE44-R2NB815ARN7KWKTGM74I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></title>
+            <link>http://newstapa.org/article/fxrg3</link>
+            <guid>http://newstapa.org/article/fxrg3</guid>
+            <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/16122734-AED6-E7A1-6D0E-SXYOAEVZYNWDMYA9V11M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들]]></title>
+            <link>http://newstapa.org/article/eXjjO</link>
+            <guid>http://newstapa.org/article/eXjjO</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12095416-1701-26EC-309A-I9D5HO3CJD5HUDIXIQVQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></title>
+            <link>http://newstapa.org/article/diVlC</link>
+            <guid>http://newstapa.org/article/diVlC</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/15102915-963F-AB08-C874-B4PNNKPIKMJOFNC8XYMT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></title>
+            <link>http://newstapa.org/article/ZEjWL</link>
+            <guid>http://newstapa.org/article/ZEjWL</guid>
+            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/27104921-3F92-820A-8E9C-TAIZLVB7REUDZM6NV45B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></title>
+            <link>http://newstapa.org/article/EaoOR</link>
+            <guid>http://newstapa.org/article/EaoOR</guid>
+            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28182504-C5E7-7746-5D98-07ZDW260QSC7Q9G5CJX7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></title>
+            <link>http://newstapa.org/article/lNKu_</link>
+            <guid>http://newstapa.org/article/lNKu_</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27151337-80C2-8CB1-DA5B-FX8ZOB9B6ZWQ221UNVZS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개]]></title>
+            <link>http://newstapa.org/article/JzU5c</link>
+            <guid>http://newstapa.org/article/JzU5c</guid>
+            <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/11153645-D5C6-ACDF-03A2-PQ3ZYXAIEUKCE3SMB7WK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></title>
+            <link>http://newstapa.org/article/miFA_</link>
+            <guid>http://newstapa.org/article/miFA_</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/02173909-F9C2-423A-B377-9ERKM7EE7OLYVOO3XM1J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전두환 사망, 죽음은 면죄부가 아니다]]></title>
+            <link>http://newstapa.org/article/B-N14</link>
+            <guid>http://newstapa.org/article/B-N14</guid>
+            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 사망, 죽음은 면죄부가 아니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/26143610-FECC-2041-6407-OHCYXLSGQRY50ZZCC4SZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는?]]></title>
+            <link>http://newstapa.org/article/WSbFe</link>
+            <guid>http://newstapa.org/article/WSbFe</guid>
+            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/25183236-C69C-4342-788D-PCHRXQMIBU12J2I7TB2C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[당신이 보지 못한 한국전쟁]③판문점...전쟁과 평화]]></title>
+            <link>http://newstapa.org/article/Ketva</link>
+            <guid>http://newstapa.org/article/Ketva</guid>
+            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[당신이 보지 못한 한국전쟁]③판문점...전쟁과 평화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27152806-F790-A67F-5747-3HLS3AJLF38MTA58J8FK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[당신이 보지 못한 한국전쟁]②심리전...증오의 유산]]></title>
+            <link>http://newstapa.org/article/44Ata</link>
+            <guid>http://newstapa.org/article/44Ata</guid>
+            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[당신이 보지 못한 한국전쟁]②심리전...증오의 유산]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27142612-F2E6-48FA-412A-4AIAAQUH36MHD23L3HN6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[당신이 보지 못한 한국전쟁]①초토화폭격..트라우마]]></title>
+            <link>http://newstapa.org/article/MvDiB</link>
+            <guid>http://newstapa.org/article/MvDiB</guid>
+            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[당신이 보지 못한 한국전쟁]①초토화폭격..트라우마]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27132120-6160-662A-5D46-C1G6RMTF236ICQXAQ2D8.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

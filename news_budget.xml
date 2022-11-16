@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EC%98%88%EC%82%B0%EA%B0%90%EC%8B%9C</id>
-    <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
-    <updated>2022-11-16T16:19:14.356Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></title>
+            <link>http://newstapa.org/article/qtNVC</link>
+            <guid>http://newstapa.org/article/qtNVC</guid>
+            <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/14174306-98A7-A6EF-86A2-VZ3FU95V81HIPZA8K29N.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></title>
+            <link>http://newstapa.org/article/g0EII</link>
+            <guid>http://newstapa.org/article/g0EII</guid>
+            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/26145125-495A-8072-FCEF-Y6N6XG5V5EK9V3P0XUPK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바비큐 야유회인가, 정책 개발 워크숍인가]]></title>
+            <link>http://newstapa.org/article/iT8Wt</link>
+            <guid>http://newstapa.org/article/iT8Wt</guid>
+            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바비큐 야유회인가, 정책 개발 워크숍인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25083607-E78C-6550-10C6-I7WO93YBC5ZB462PFCLY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김진태, 낙선 후 세금으로 먹고 사는 법]]></title>
+            <link>http://newstapa.org/article/Tsyv1</link>
+            <guid>http://newstapa.org/article/Tsyv1</guid>
+            <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김진태, 낙선 후 세금으로 먹고 사는 법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/06180507-DF47-9B40-4B52-W2WE4KTZ1PZMI4QQR9QY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권성동 등 세금으로 책 수백권 구입 '선물'로 돌려]]></title>
+            <link>http://newstapa.org/article/RoJyf</link>
+            <guid>http://newstapa.org/article/RoJyf</guid>
+            <pubDate>Thu, 06 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권성동 등 세금으로 책 수백권 구입 '선물'로 돌려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/06192926-649C-7077-6B31-3KCOOXQGOIS0GZGRIXVX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“초유의 국회의원 집단 예산 사기”... 국민의힘 의원 14명 고발]]></title>
+            <link>http://newstapa.org/article/Hfmxe</link>
+            <guid>http://newstapa.org/article/Hfmxe</guid>
+            <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“초유의 국회의원 집단 예산 사기”... 국민의힘 의원 14명 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/04153331-4B8E-91E4-BCD1-IJFT9T51FZPWZ0C9M1CZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 부산 의원 14명... 조직적 세금 유용 의혹]]></title>
+            <link>http://newstapa.org/article/cFwc3</link>
+            <guid>http://newstapa.org/article/cFwc3</guid>
+            <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 부산 의원 14명... 조직적 세금 유용 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/29180054-9530-2787-9DEA-M29QHCLMRW0Z7WMECFZ5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국힘 3선 윤영석, 허위 용역으로 고액 후원단체 세금 지원]]></title>
+            <link>http://newstapa.org/article/Zq3wz</link>
+            <guid>http://newstapa.org/article/Zq3wz</guid>
+            <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국힘 3선 윤영석, 허위 용역으로 고액 후원단체 세금 지원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/29180035-FDE0-300A-6171-AE0M2P5YEOWIMLNQC7YD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라]]></title>
+            <link>http://newstapa.org/article/qyqy1</link>
+            <guid>http://newstapa.org/article/qyqy1</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[권력의 최정점, 대통령비서실이 쓴 세금을 공개하라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/18145449-D5FF-58C2-0FF1-36519EL4HVE1A6BJX780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘윤석열 특수활동비’ 재판 열린다...법원, 검찰의 연기신청 불허(不許)]]></title>
+            <link>http://newstapa.org/article/UxMWP</link>
+            <guid>http://newstapa.org/article/UxMWP</guid>
+            <pubDate>Tue, 19 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 특수활동비’ 재판 열린다...법원, 검찰의 연기신청 불허(不許)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/19041126-989C-2477-EEC3-GAUDL9LTY74EIETYCF6F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼]]></title>
+            <link>http://newstapa.org/article/TPMYi</link>
+            <guid>http://newstapa.org/article/TPMYi</guid>
+            <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/11113917-94B8-C1BA-B3F1-ULG5BAWEKN9QJSUM5P8O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></title>
+            <link>http://newstapa.org/article/QZQ0q</link>
+            <guid>http://newstapa.org/article/QZQ0q</guid>
+            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/21101718-BD21-F18F-508D-ERZX6SQRYRV96HIHN7UV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라]]></title>
+            <link>http://newstapa.org/article/IhiPy</link>
+            <guid>http://newstapa.org/article/IhiPy</guid>
+            <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/30151957-6C62-B028-AF72-D514VD4MCZ9NBCO55962.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></title>
+            <link>http://newstapa.org/article/anIAt</link>
+            <guid>http://newstapa.org/article/anIAt</guid>
+            <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열이 '검찰 특수활동비 금고지기'를 대통령실로 데려간 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/25181953-00B5-2EB3-A21F-JBZK70FUKAHVOO4D1DNF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설]]></title>
+            <link>http://newstapa.org/article/mBmIG</link>
+            <guid>http://newstapa.org/article/mBmIG</guid>
+            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02213751-7863-AAD3-198F-S1YUNFAZALJSQON6H1A0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></title>
+            <link>http://newstapa.org/article/bMinp</link>
+            <guid>http://newstapa.org/article/bMinp</guid>
+            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06100200-6A91-9214-02F9-TRFSG1PSB8CUII56K598.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

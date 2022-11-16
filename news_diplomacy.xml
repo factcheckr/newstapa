@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EC%99%B8%EA%B5%90%EC%95%88%EB%B3%B4</id>
-    <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
-    <updated>2022-11-16T16:19:14.396Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사드 공사에 '방위비분담금' 1800만 달러 지출 확인]]></title>
+            <link>http://newstapa.org/article/VawWx</link>
+            <guid>http://newstapa.org/article/VawWx</guid>
+            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[사드 공사에 '방위비분담금' 1800만 달러 지출 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/19112140-6CE0-A9F3-0D86-QZ5U77TFW5LNHK2LAG8M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></title>
+            <link>http://newstapa.org/article/YIvo-</link>
+            <guid>http://newstapa.org/article/YIvo-</guid>
+            <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18095554-5B50-0CB8-819D-WOUQ10WGFXE4Q29FLH3D.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></title>
+            <link>http://newstapa.org/article/nOJV-</link>
+            <guid>http://newstapa.org/article/nOJV-</guid>
+            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재]]></title>
+            <link>http://newstapa.org/article/BOxFL</link>
+            <guid>http://newstapa.org/article/BOxFL</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[문재인 정부 외교 평가]③미중 갈등 대응...전략적 모호성 vs 일관성 부재]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/21172021-60E3-1EE8-C883-GHKK0GNJ69ITKBGXV69S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></title>
+            <link>http://newstapa.org/article/0QiTu</link>
+            <guid>http://newstapa.org/article/0QiTu</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/16123757-FF64-4E9A-83C6-8JD3ZEXFCVKLT5CLFEYM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급]]></title>
+            <link>http://newstapa.org/article/KLMh7</link>
+            <guid>http://newstapa.org/article/KLMh7</guid>
+            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/16114339-3530-AD63-98CD-PJUPU2BKJRJS3MFC16HS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></title>
+            <link>http://newstapa.org/article/tOiX0</link>
+            <guid>http://newstapa.org/article/tOiX0</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북한, 박근혜 때보다 문재인 때 미사일 6배 쐈나?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/17150310-E7BA-878E-ECA3-9RY194H4KGPO4DNLE63I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[의도된 '재탕'?…미 싱크탱크 CSIS와 '북한 뉴스']]></title>
+            <link>http://newstapa.org/article/zI4Yy</link>
+            <guid>http://newstapa.org/article/zI4Yy</guid>
+            <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[의도된 '재탕'?…미 싱크탱크 CSIS와 '북한 뉴스']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/02144912-B3C5-573A-7407-77995NCSIXYDFUTXX7YJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국언론, 美 극우인사를 '한반도 전문가'로 둔갑]]></title>
+            <link>http://newstapa.org/article/m7svl</link>
+            <guid>http://newstapa.org/article/m7svl</guid>
+            <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국언론, 美 극우인사를 '한반도 전문가'로 둔갑]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/31135826-8B1F-A0CA-7E0F-O7LH9EL9M0L7LIIPXKKE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미 국무부'가 최다...美 선전매체 인용 기사 데이터 공개]]></title>
+            <link>http://newstapa.org/article/WAmV_</link>
+            <guid>http://newstapa.org/article/WAmV_</guid>
+            <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['미 국무부'가 최다...美 선전매체 인용 기사 데이터 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/29140336-DF85-1A1F-AF6C-56FO9VGFSQ8PG7FQXA0R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></title>
+            <link>http://newstapa.org/article/p0Y-i</link>
+            <guid>http://newstapa.org/article/p0Y-i</guid>
+            <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/26160020-A04F-F84B-7E95-ZBI605R9U38YWQI459ZK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개]]></title>
+            <link>http://newstapa.org/article/aBBIY</link>
+            <guid>http://newstapa.org/article/aBBIY</guid>
+            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/12114944-26B2-D231-FE3E-F7J9VV3SVMEPL0FZXEIF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['곤도 다이스케'와 '한국 언론', 익명 소스의 공생자들]]></title>
+            <link>http://newstapa.org/article/iQxS0</link>
+            <guid>http://newstapa.org/article/iQxS0</guid>
+            <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['곤도 다이스케'와 '한국 언론', 익명 소스의 공생자들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/07155837-2F36-0305-DE11-431XP93L3NO9M13M76FP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 뉴스 '익명 소스' 종류만 수백 개...'아무말 대잔치']]></title>
+            <link>http://newstapa.org/article/Br9S8</link>
+            <guid>http://newstapa.org/article/Br9S8</guid>
+            <pubDate>Mon, 05 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[북한 뉴스 '익명 소스' 종류만 수백 개...'아무말 대잔치']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/02175255-2ED6-1D7F-181A-A61QH726HHLWBW4KWR5Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, 북한 관련 기사 8만 건 분석...'소스' 해부]]></title>
+            <link>http://newstapa.org/article/-iZt8</link>
+            <guid>http://newstapa.org/article/-iZt8</guid>
+            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 북한 관련 기사 8만 건 분석...'소스' 해부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/02095528-2FFE-912A-4B22-O92RR2ZEK9120DCNMSA2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경의선, 멈춰진 한반도 시계]]></title>
+            <link>http://newstapa.org/article/S_A0W</link>
+            <guid>http://newstapa.org/article/S_A0W</guid>
+            <pubDate>Tue, 15 Jun 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경의선, 멈춰진 한반도 시계]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/14153912-59C3-8C8D-E59B-SXOOREY77OB3T4ZN0I32.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

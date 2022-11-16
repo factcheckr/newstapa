@@ -1,8 +1,253 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/projects/data</id>
-    <title>뉴스타파 ─ 데이터</title>
-    <updated>2022-11-16T16:19:14.368Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/projects/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 데이터</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 데이터포털]]></title>
+            <link>https://data.newstapa.org/</link>
+            <guid>https://data.newstapa.org/</guid>
+            <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01140138-C2F9-7E43-E1CD-YJNB2C8X98C0CRLWUPVA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고위공직자 재산 공개]]></title>
+            <link>https://jaesan.newstapa.org/</link>
+            <guid>https://jaesan.newstapa.org/</guid>
+            <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기관 별로 산발적으로 공개되던 고위공직자들의 재산 내역을 한데 모아 후원회원님들이 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 고위공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135941-20F7-34EC-F3F8-21MC86C6GNX8LVSAA022.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언론개혁 대시보드]]></title>
+            <link>https://pages.newstapa.org/n1907/#/</link>
+            <guid>https://pages.newstapa.org/n1907/#/</guid>
+            <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 언론개혁을 위해 추적하고 수집한 정보를 대시보드 형태로 게재합니다. 독자를 속이는 '기사형 광고', 언론사의 신종 돈벌이 수단인 포럼과 컨퍼런스 정보 등을 한 눈에 볼 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01140050-3898-8423-EB12-Y5IGDN792AZG860V5ZY3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머니트레일]]></title>
+            <link>https://moneytrail.newstapa.org/</link>
+            <guid>https://moneytrail.newstapa.org/</guid>
+            <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[론스타 사건, 기록과 증언]]></title>
+            <link>https://pages.newstapa.org/n2203/</link>
+            <guid>https://pages.newstapa.org/n2203/</guid>
+            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/19161937-32AE-3FE9-9314-Z1FN9IOEFTSNRPPS83HY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기초의원 징계 추적]]></title>
+            <link>https://pages.newstapa.org/n2202/</link>
+            <guid>https://pages.newstapa.org/n2202/</guid>
+            <pubDate>Mon, 09 May 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/09141859-70D8-017C-343E-I1JIHCBCPLNOJXKH4MJ1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판도라 페이퍼스 시민 참여 프로젝트]]></title>
+            <link>https://pages.newstapa.org/n2205/</link>
+            <guid>https://pages.newstapa.org/n2205/</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/09143333-E590-2CA5-A048-BUVVJL7B9KOI1QRGIUNR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[더초이스 2022] 인터뷰 원문 공개]]></title>
+            <link>https://pages.newstapa.org/n2201</link>
+            <guid>https://pages.newstapa.org/n2201</guid>
+            <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24141849-E7E7-AB97-6D1F-HBYKD6W5YL12ZPSOR5XF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 공공 아카이브]]></title>
+            <link>https://publicarchive.newstapa.org/</link>
+            <guid>https://publicarchive.newstapa.org/</guid>
+            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/21142509-BA2B-1F69-347A-OTENKMSR90OCJJ5VUO6H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사전투표일 vs 선거일 투표 경향]]></title>
+            <link>https://pages.newstapa.org/k-value/</link>
+            <guid>https://pages.newstapa.org/k-value/</guid>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/13162948-7833-792C-82B0-RRVD7XVGGLXF4XQK88HZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독재와 족벌언론]]></title>
+            <link>https://pages.newstapa.org/n2106/</link>
+            <guid>https://pages.newstapa.org/n2106/</guid>
+            <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/15181415-6E27-6079-975D-GW15RY6249GN6DPD1XHI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조선일보 서중회(序中會)를 아시나요?]]></title>
+            <link>https://pages.newstapa.org/n2103</link>
+            <guid>https://pages.newstapa.org/n2103</guid>
+            <pubDate>Tue, 13 Apr 2021 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/13163915-0948-2847-1CC3-0TNOS8U3M3RAWI1TVAMO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온실가스 배출권, 이렇게 퍼줘도 되겠니?]]></title>
+            <link>https://pages.newstapa.org/greenhousegas/</link>
+            <guid>https://pages.newstapa.org/greenhousegas/</guid>
+            <pubDate>Sat, 20 Mar 2021 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/20232915-8ADE-EF9C-B939-DCT0WW4A5H3SEPPCC1G8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엉터리상 '스티비 어워즈'에 세금 허비한 공공기관 명단]]></title>
+            <link>https://pages.newstapa.org/n2102/</link>
+            <guid>https://pages.newstapa.org/n2102/</guid>
+            <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/25185431-005B-C4E9-8D57-EP64D88UCIFWVME6VHA7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20대 국회의원 정치후원금]]></title>
+            <link>https://pages.newstapa.org/n2002/</link>
+            <guid>https://pages.newstapa.org/n2002/</guid>
+            <pubDate>Tue, 07 Apr 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/04/07131424-A8C2-1A60-062D-2FZP5DIZR2FTDA4RNEVO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국회개혁 법안 어디까지 갔을까?]]></title>
+            <link>https://pages.newstapa.org/n2001</link>
+            <guid>https://pages.newstapa.org/n2001</guid>
+            <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/02/07182000-8345-4C3F-269F-X50KHHEWQCD8TZP9Q2DP.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대한민국 교육계 친일인사 87명]]></title>
+            <link>https://pages.newstapa.org/n1905</link>
+            <guid>https://pages.newstapa.org/n1905</guid>
+            <pubDate>Thu, 25 Jul 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/07/573064a990c10f6010cf003bc53b06af76e90bfec989e7b4a7c8169fe0aa60cb665e2cf576235b37920ac44b8d9c22d72e63464cfb3b9f614e78fb2415319c23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노무현 대통령 친필 메모 공개]]></title>
+            <link>https://pages.newstapa.org/n1904</link>
+            <guid>https://pages.newstapa.org/n1904</guid>
+            <pubDate>Tue, 21 May 2019 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/05/e81c319c5abc78e076cbe04f7f546f711370c77486f5911e907f35886cd76d6f2db15d8db340c8535310ac69c93084933ae9f40a30d4d846b2e8193f3d543d22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국회의원 영수증 이중제출 내역]]></title>
+            <link>https://pages.newstapa.org/double/</link>
+            <guid>https://pages.newstapa.org/double/</guid>
+            <pubDate>Fri, 14 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/12/2fd5e6c62d3ffd8704a62af48f9ccd0a6bbd24b713d6dd226fe106bce4e9856b92ab808aa6c34a6d909dab023dff734328524c4e5aa8c843cec2ca2fb443c49a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국회 정책자료발간비 내역 공개]]></title>
+            <link>https://pages.newstapa.org/moneytrail/</link>
+            <guid>https://pages.newstapa.org/moneytrail/</guid>
+            <pubDate>Thu, 15 Nov 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/11/e96aee028b4de33287432eaa98f98a980a891941ed1341d3871333e7b93b06ec70b0a27685df3a7ff5c77b22bd310ec2d3ec8316bfc33ea29f66112f428d6d9c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법원 가계도 공개]]></title>
+            <link>https://pages.newstapa.org/lawyerfamily/</link>
+            <guid>https://pages.newstapa.org/lawyerfamily/</guid>
+            <pubDate>Fri, 24 Aug 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135751-0679-26F1-4563-P5J05E1EUF41UI86J1F6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[긴급조치위반 사건별 판사와 판결]]></title>
+            <link>https://pages.newstapa.org/judgement-list/</link>
+            <guid>https://pages.newstapa.org/judgement-list/</guid>
+            <pubDate>Wed, 08 Aug 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/08/54520465c94f9a288e550239f5e0abd968fe2b14e8c9b4fc1775ea4ca026e4b46c73bcf2289287589ae76618ebcbcf6463011e459e8e225cbf39825f0c3a0220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월호 AIS 데이터 교차검증]]></title>
+            <link>https://pages.newstapa.org/sewolais/</link>
+            <guid>https://pages.newstapa.org/sewolais/</guid>
+            <pubDate>Fri, 13 Jul 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/07/413b87c94606dc8898ac3028dcff37847f3329b296e191cf3329efece67e158c9b549b8d613db2a6a5d7c651efff0a58e6a4f18e0c8aecf7914037c7cbfdb532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금호아시아나 일가의 화려한 혼맥]]></title>
+            <link>https://pages.newstapa.org/kumho-network/</link>
+            <guid>https://pages.newstapa.org/kumho-network/</guid>
+            <pubDate>Wed, 11 Jul 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/07/dbe7eab5c24997167d8207d36c5d41da954d9d6f11a0a13f40917983d4fd1e23b7228b43812cf165a580b83bc19dc7b34141060cc5ab88c155f7d0fc0b8092ee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한진그룹 총수일가의 화려한 혼맥]]></title>
+            <link>https://pages.newstapa.org/hanjin-network/</link>
+            <guid>https://pages.newstapa.org/hanjin-network/</guid>
+            <pubDate>Wed, 04 Jul 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/07/c6e6bd25092d7ae90ed1d24b52f525fdd03bb98f5437f7cd2219406a5276b5c4fd19c2517e668d183defb6cfb7ed679778198892f9ef148024d5eea974559cdd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차량결함포털]]></title>
+            <link>https://checkyourcar.newstapa.org/</link>
+            <guid>https://checkyourcar.newstapa.org/</guid>
+            <pubDate>Thu, 24 May 2018 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2018/05/78e4fd6059614104f840c4cc74f77c2898038c39507a9511f8a3585c5f16500449ffbf5a03d6f36fcc18cba03fe79f9d7c44efeb5c17ea4d560376206bb44613.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박근혜-최순실 게이트 이대로 끝낼 순 없다]]></title>
+            <link>http://apps.newstapa.org/liar/</link>
+            <guid>http://apps.newstapa.org/liar/</guid>
+            <pubDate>Fri, 20 Jan 2017 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/01/c0d018a614464667a984dc48d591b1b815551c40e119840b5bfc2ec061b808e6c98c3872174918ebf11aeab1ccfc4249a115c5287e803cdbebaee18ff7d35a6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박근혜 최순실 체제의 부역자들]]></title>
+            <link>http://traitors.newstapa.org/</link>
+            <guid>http://traitors.newstapa.org/</guid>
+            <pubDate>Sat, 12 Nov 2016 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2016/11/4b9d20f393275271775dda972b7ca23e97b85618593a779ecdaa9942510d75c3b09a4cd29f2d748b9f842510ac81072a2a291d3baea0bbd3a4be43dffa400cc4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국정원과 해킹팀 데이터]]></title>
+            <link>https://newstapa.org/page/hackingteam-data</link>
+            <guid>https://newstapa.org/page/hackingteam-data</guid>
+            <pubDate>Thu, 09 Jul 2015 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2015/07/1942a31a45fea5bf123867628356cddc44d3b0094c8f1671cb683f99bced79cf2af9b1b6510cc25b43ef3b1f83a295cd4e2a585c7e70491db2693093e0e99a4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공약 점검 프로젝트 약속 2015]]></title>
+            <link>https://apps.newstapa.org/promise/</link>
+            <guid>https://apps.newstapa.org/promise/</guid>
+            <pubDate>Tue, 24 Feb 2015 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2015/02/cf5da95d03670add7b518a33445f58522e22fe88cf330dd9dafa42fc24d69d06be7e264b4bdfc11b3be88a8d48c5306a12f777baebfc099b6f1ae8ff92537eb5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월호 참사, 진실과 기록]]></title>
+            <link>http://apps.newstapa.org/sewol/index.php</link>
+            <guid>http://apps.newstapa.org/sewol/index.php</guid>
+            <pubDate>Tue, 05 Aug 2014 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2014/08/d287c62896614538e91b83a93d154faff96757d60360a1376479e8baeb40b251b41d5fed8058d3da8e5b9661908d4e224be934829c3116ba559dbc8399603227.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4대강 살리기 사업 현황도]]></title>
+            <link>https://apps.newstapa.org/4gang/index.php?/map</link>
+            <guid>https://apps.newstapa.org/4gang/index.php?/map</guid>
+            <pubDate>Tue, 03 Dec 2013 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/dd837b5275bea6b1ca935de5c217c327ab5f23803770b378568569dfb1cc44f25c7b772a2379c77f04d4a5c3ac7a7defc8dbc346703b32d3302c06794ced3793.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박근혜 정부 초대 내각]]></title>
+            <link>https://newstapa-apps.appspot.com/parks-first-minister-candidates/index.html</link>
+            <guid>https://newstapa-apps.appspot.com/parks-first-minister-candidates/index.html</guid>
+            <pubDate>Mon, 25 Nov 2013 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/aa901a0a472b1d4ef37817ab0b52456de31b6d91ca27e86a499a1528bfaf3923e6f1fda63b640e11b736e5b8e0799a7d3820b9ec80aa3097f168ed2bdc19d513.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박근혜 정부 초대 장관 재산 현황]]></title>
+            <link>https://public.tableausoftware.com/shared/W8WPX36ND</link>
+            <guid>https://public.tableausoftware.com/shared/W8WPX36ND</guid>
+            <pubDate>Wed, 20 Nov 2013 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

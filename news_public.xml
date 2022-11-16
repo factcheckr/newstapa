@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EA%B3%B5%EC%A7%81%EA%B0%90%EC%8B%9C</id>
-    <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
-    <updated>2022-11-16T16:19:14.348Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말']]></title>
+            <link>http://newstapa.org/article/G8OIl</link>
+            <guid>http://newstapa.org/article/G8OIl</guid>
+            <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16105651-AFF1-5857-61DA-DBRDZQWTBPA3S7VDIIW9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></title>
+            <link>http://newstapa.org/article/qtNVC</link>
+            <guid>http://newstapa.org/article/qtNVC</guid>
+            <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/14174306-98A7-A6EF-86A2-VZ3FU95V81HIPZA8K29N.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["불법 전단지, 노점상 단속"... 용산구청 '핼러윈데이 대책 문건' 입수]]></title>
+            <link>http://newstapa.org/article/QWMVU</link>
+            <guid>http://newstapa.org/article/QWMVU</guid>
+            <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["불법 전단지, 노점상 단속"... 용산구청 '핼러윈데이 대책 문건' 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09145722-72D6-033A-CDBB-8I8S5GH4311HGFWNSSUV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이태원 참사' 혼란 키운 윤석열 정부의 '근조 없는 검은 리본' 지시]]></title>
+            <link>http://newstapa.org/article/evRMG</link>
+            <guid>http://newstapa.org/article/evRMG</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이태원 참사' 혼란 키운 윤석열 정부의 '근조 없는 검은 리본' 지시]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08144633-1A85-35C3-92B2-STFRXS6MGL2KXDILAXYN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이태원 참사 책임없다' 박희영 용산구청장, 구의원 때 가족 건물 앞 정비 요구]]></title>
+            <link>http://newstapa.org/article/SUCt9</link>
+            <guid>http://newstapa.org/article/SUCt9</guid>
+            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이태원 참사 책임없다' 박희영 용산구청장, 구의원 때 가족 건물 앞 정비 요구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04144248-D125-E8F5-6947-NLH7Z1MHO1QV36WEQQHU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산구청... 참사 그날, 핼러윈 무질서 이용해 구정 홍보 준비했다]]></title>
+            <link>http://newstapa.org/article/MVKPA</link>
+            <guid>http://newstapa.org/article/MVKPA</guid>
+            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[용산구청... 참사 그날, 핼러윈 무질서 이용해 구정 홍보 준비했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04151312-FED1-24B7-8F47-G6NC4R0M1JJ1800DQ57U.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사...경찰청, 어떤 행사든 책임진다는 용역 7년간 무시]]></title>
+            <link>http://newstapa.org/article/1wyML</link>
+            <guid>http://newstapa.org/article/1wyML</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사...경찰청, 어떤 행사든 책임진다는 용역 7년간 무시]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/03183755-C139-F3A3-AFBC-KJ7W2A72X74B41DMGHEW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사... 이상민 장관과 대통령실의 '대국민 거짓말']]></title>
+            <link>http://newstapa.org/article/J0Dh-</link>
+            <guid>http://newstapa.org/article/J0Dh-</guid>
+            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사... 이상민 장관과 대통령실의 '대국민 거짓말']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/01222447-C1EA-E83F-186D-CZTAL2Q69UM8MLF36V6W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<론스타, 기록과 증언> ④ ‘론스타 사건 키맨’ 김석동 검찰 진술 조서 공개]]></title>
+            <link>http://newstapa.org/article/IwdCa</link>
+            <guid>http://newstapa.org/article/IwdCa</guid>
+            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ④ ‘론스타 사건 키맨’ 김석동 검찰 진술 조서 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27152459-FC8B-2E8D-3682-LTZPVD1BBOJF5TXT2SCY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></title>
+            <link>http://newstapa.org/article/g0EII</link>
+            <guid>http://newstapa.org/article/g0EII</guid>
+            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/26145125-495A-8072-FCEF-Y6N6XG5V5EK9V3P0XUPK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바비큐 야유회인가, 정책 개발 워크숍인가]]></title>
+            <link>http://newstapa.org/article/iT8Wt</link>
+            <guid>http://newstapa.org/article/iT8Wt</guid>
+            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[바비큐 야유회인가, 정책 개발 워크숍인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25083607-E78C-6550-10C6-I7WO93YBC5ZB462PFCLY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대우조선해양 박두선 사장의 국정감사 '거짓말']]></title>
+            <link>http://newstapa.org/article/PguKM</link>
+            <guid>http://newstapa.org/article/PguKM</guid>
+            <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대우조선해양 박두선 사장의 국정감사 '거짓말']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/21152701-4261-7160-7BA3-ZG8OZZK28HRWZFDQKVCH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<론스타, 기록과 증언> ② '윤석열의 론스타 수사'가 부실 수사인 이유]]></title>
+            <link>http://newstapa.org/article/8KE1I</link>
+            <guid>http://newstapa.org/article/8KE1I</guid>
+            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ② '윤석열의 론스타 수사'가 부실 수사인 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/20200736-F5B1-5077-AF51-2YMH4Q0TKFCG3XJXJ5W2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죄수와 검사 - 외전 ② 검찰, 조직보호 위해 공무원 뇌물 덮었나]]></title>
+            <link>http://newstapa.org/article/jO7yt</link>
+            <guid>http://newstapa.org/article/jO7yt</guid>
+            <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[죄수와 검사 - 외전 ② 검찰, 조직보호 위해 공무원 뇌물 덮었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17143330-2CBF-6C41-22B6-8UGLIBA15LMM48LWF9RI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죄수와 검사 - 외전 ① "공무원에 뇌물 줬다" 자백, 검찰은 덮었다]]></title>
+            <link>http://newstapa.org/article/zLoS6</link>
+            <guid>http://newstapa.org/article/zLoS6</guid>
+            <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[죄수와 검사 - 외전 ① "공무원에 뇌물 줬다" 자백, 검찰은 덮었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17141332-9DD1-55C3-7012-QC1U15CZDG5EP8MB9JL2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 김건희 도이치모터스 수익 분석... 17억 2회전 시켜 10.5억 벌었다.]]></title>
+            <link>http://newstapa.org/article/zKMJV</link>
+            <guid>http://newstapa.org/article/zKMJV</guid>
+            <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 도이치모터스 수익 분석... 17억 2회전 시켜 10.5억 벌었다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/13191258-BBD9-CF4A-E08C-YVU89LUPYHUM5GB7SATF.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

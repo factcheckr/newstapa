@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EB%85%B8%EB%8F%99%EC%9D%B8%EA%B6%8C</id>
-    <title>뉴스타파 ─ 뉴스 ─ </title>
-    <updated>2022-11-16T16:19:14.362Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ </title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:31:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["허위 세금 돌려줘"...'분식회계' 대우조선 국가 상대 무차별 소송]]></title>
+            <link>http://newstapa.org/article/7AAnC</link>
+            <guid>http://newstapa.org/article/7AAnC</guid>
+            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["허위 세금 돌려줘"...'분식회계' 대우조선 국가 상대 무차별 소송]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/26140937-917C-A283-2AA1-30C9GJBY4ECG1P8RV7QL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대우조선해양 박두선 사장의 국정감사 '거짓말']]></title>
+            <link>http://newstapa.org/article/PguKM</link>
+            <guid>http://newstapa.org/article/PguKM</guid>
+            <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대우조선해양 박두선 사장의 국정감사 '거짓말']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/21152701-4261-7160-7BA3-ZG8OZZK28HRWZFDQKVCH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대우조선, 하청 대금 멋대로 주면서 ‘소송 불가’ 합의 요구]]></title>
+            <link>http://newstapa.org/article/0jhBO</link>
+            <guid>http://newstapa.org/article/0jhBO</guid>
+            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대우조선, 하청 대금 멋대로 주면서 ‘소송 불가’ 합의 요구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/12172355-D58B-FD48-EA8A-CJK81UFWKDN8MMJLO7GE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공적자금 4조 원 쏟아부을 때, 대우조선 직원은 8천만 원 뒷돈 수수]]></title>
+            <link>http://newstapa.org/article/gyrLJ</link>
+            <guid>http://newstapa.org/article/gyrLJ</guid>
+            <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공적자금 4조 원 쏟아부을 때, 대우조선 직원은 8천만 원 뒷돈 수수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/12112441-24CB-D227-2110-QQR2PYY536V94E21BAQF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['임원이 멋대로 하도급 대금 삭감'...대우조선 대외비 문건 무더기 입수]]></title>
+            <link>http://newstapa.org/article/7mmjn</link>
+            <guid>http://newstapa.org/article/7mmjn</guid>
+            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['임원이 멋대로 하도급 대금 삭감'...대우조선 대외비 문건 무더기 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/11174805-CBDC-9C00-FA83-KFYHAPWQTL52WSF8IT6F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대우조선, '법적 검토 없이' 하청노조에 470억 원 손해배상 소송]]></title>
+            <link>http://newstapa.org/article/poGJj</link>
+            <guid>http://newstapa.org/article/poGJj</guid>
+            <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대우조선, '법적 검토 없이' 하청노조에 470억 원 손해배상 소송]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161657-0C32-69D0-A281-KG3HKEJZZ5B3P822HI40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하청노조 임금인상 투쟁이 '공갈'이라는 대우조선해양]]></title>
+            <link>http://newstapa.org/article/sn0zS</link>
+            <guid>http://newstapa.org/article/sn0zS</guid>
+            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[하청노조 임금인상 투쟁이 '공갈'이라는 대우조선해양]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161719-4241-1524-C2D7-NK9EZYYRA0PW7SZW7GLG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대우조선해양 '파업 방해' 의혹 영상 30여 개 공개]]></title>
+            <link>http://newstapa.org/article/OXqZ1</link>
+            <guid>http://newstapa.org/article/OXqZ1</guid>
+            <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대우조선해양 '파업 방해' 의혹 영상 30여 개 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161745-A20D-2271-840C-R9VTGD97OFEU08WBDKER.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 파업이 끝나고 난 뒤... '불공정'의 역습]]></title>
+            <link>http://newstapa.org/article/KunR7</link>
+            <guid>http://newstapa.org/article/KunR7</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 파업이 끝나고 난 뒤... '불공정'의 역습]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01183947-E612-99C7-F6DB-A0N02UHQABRPY4DJK2N3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행']]></title>
+            <link>http://newstapa.org/article/IApYT</link>
+            <guid>http://newstapa.org/article/IApYT</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[200만 원 노동자에 470억 손배소...'대우조선 사태 주범은 산업은행']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161801-13AD-9090-D583-7MGJMTB2GSVQOD94Y0Y5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></title>
+            <link>http://newstapa.org/article/YfENi</link>
+            <guid>http://newstapa.org/article/YfENi</guid>
+            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 정부가 앞장서는 전경련 숙원사업, 근로시간 유연화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05173155-64D6-D59D-6315-ZBRMI88VWVZWAF83TDHC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제]]></title>
+            <link>http://newstapa.org/article/YS_p5</link>
+            <guid>http://newstapa.org/article/YS_p5</guid>
+            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/04091801-C672-85E9-E9AC-14V58A0ZK8NXL3Z64J7I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라]]></title>
+            <link>http://newstapa.org/article/5EhyZ</link>
+            <guid>http://newstapa.org/article/5EhyZ</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 대통령실 앞 집회를 허하라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28185956-0835-E084-89CD-4BE9JJ6L19HR7QFCCW5R.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대통령실 집회 금지' 경찰의 3대 황당 주장]]></title>
+            <link>http://newstapa.org/article/hfyc-</link>
+            <guid>http://newstapa.org/article/hfyc-</guid>
+            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['대통령실 집회 금지' 경찰의 3대 황당 주장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28140615-14B5-DC5C-D1FE-BVPZLOJ5NO2QXXJEA2KQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 삼성 ‘노조 파괴범’들 잘 먹고 잘 산다]]></title>
+            <link>http://newstapa.org/article/iWyFT</link>
+            <guid>http://newstapa.org/article/iWyFT</guid>
+            <pubDate>Thu, 14 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 삼성 ‘노조 파괴범’들 잘 먹고 잘 산다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/14142952-09BD-C216-1F92-QP8CEMP5IKEP75FCHYM4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스타벅스의 '노동 탄압' 취업규칙]]></title>
+            <link>http://newstapa.org/article/5pPrQ</link>
+            <guid>http://newstapa.org/article/5pPrQ</guid>
+            <pubDate>Tue, 05 Jul 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스타벅스의 '노동 탄압' 취업규칙]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/05133648-8980-5D75-0F63-HLT924NTOGVFUHK9BKMZ.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
