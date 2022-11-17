@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 10:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 11:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사, 막을 수 있었던 7번의 순간들]]></title>
+            <link>http://newstapa.org/article/5hr-1</link>
+            <guid>http://newstapa.org/article/5hr-1</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 막을 수 있었던 7번의 순간들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17161113-8C61-AEEB-D1DD-ZD85Q8Z8KBG9ADAVQY6L.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['세금 유용 카르텔' 국회의원 14명... 정치자금법 위반 혐의로 공수처 고발]]></title>
             <link>http://newstapa.org/article/IexMG</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이태원 참사' 119 녹취록 전문 공개... 87건의 신고, 놓쳐버린 골든타임]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08174352-F10A-4096-4D63-BQUC0Y0U6JZZI7S4UB6H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['현장 대응 실패'... 119 상황실 신고 녹취록을 통해 본 이태원 참사]]></title>
-            <link>http://newstapa.org/article/N_XRX</link>
-            <guid>http://newstapa.org/article/N_XRX</guid>
-            <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['현장 대응 실패'... 119 상황실 신고 녹취록을 통해 본 이태원 참사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/07231808-7C02-1EFC-F719-8W3GSXK5RSPJLFI4H879.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
