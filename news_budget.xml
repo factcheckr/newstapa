@@ -4,16 +4,24 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 07:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['세금 유용 카르텔' 국회의원 14명... 정치자금법 위반 혐의로 공수처 고발]]></title>
+            <link>http://newstapa.org/article/IexMG</link>
+            <guid>http://newstapa.org/article/IexMG</guid>
+            <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['세금 유용 카르텔' 국회의원 14명... 정치자금법 위반 혐의로 공수처 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17132854-C46A-7B28-11E9-1IEGMH92LSL6P7RARNX3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></title>
             <link>http://newstapa.org/article/qtNVC</link>
             <guid>http://newstapa.org/article/qtNVC</guid>
             <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/14174306-98A7-A6EF-86A2-VZ3FU95V81HIPZA8K29N.png" length="0" type="image/png"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17140352-5077-3B82-738C-E7O2EZ7IW45YMCU7EMNR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[20대 대선 선거비용 분석: 윤석열은 인터넷광고, 이재명은 방송연설]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02213751-7863-AAD3-198F-S1YUNFAZALJSQON6H1A0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></title>
-            <link>http://newstapa.org/article/bMinp</link>
-            <guid>http://newstapa.org/article/bMinp</guid>
-            <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['윤석열 특수활동비' 항소심 본격 개시]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/06100200-6A91-9214-02F9-TRFSG1PSB8CUII56K598.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
