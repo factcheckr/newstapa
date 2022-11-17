@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 11:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 12:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></title>
+            <link>http://newstapa.org/article/uiPft</link>
+            <guid>http://newstapa.org/article/uiPft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17183201-AC19-67DA-87AC-MB39R3FJIIB4U9ZRUM07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></title>
+            <link>http://newstapa.org/article/LKOft</link>
+            <guid>http://newstapa.org/article/LKOft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17151403-29AB-1AE5-8766-5GARDE19O9Y6IOAQ1O33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사, 막을 수 있었던 7번의 순간들]]></title>
             <link>http://newstapa.org/article/5hr-1</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[민변 “이태원 참사 일부 유족들 고립감 호소해...지원책 시급”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09102422-3DFD-F65A-C1B4-ZVC6YOF92066Z2TPOREO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 혼란 키운 윤석열 정부의 '근조 없는 검은 리본' 지시]]></title>
-            <link>http://newstapa.org/article/evRMG</link>
-            <guid>http://newstapa.org/article/evRMG</guid>
-            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 참사' 혼란 키운 윤석열 정부의 '근조 없는 검은 리본' 지시]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08144633-1A85-35C3-92B2-STFRXS6MGL2KXDILAXYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 119 녹취록 전문 공개... 87건의 신고, 놓쳐버린 골든타임]]></title>
-            <link>http://newstapa.org/article/58HiO</link>
-            <guid>http://newstapa.org/article/58HiO</guid>
-            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 참사' 119 녹취록 전문 공개... 87건의 신고, 놓쳐버린 골든타임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08174352-F10A-4096-4D63-BQUC0Y0U6JZZI7S4UB6H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

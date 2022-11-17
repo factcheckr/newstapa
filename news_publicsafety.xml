@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 11:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 12:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></title>
+            <link>http://newstapa.org/article/uiPft</link>
+            <guid>http://newstapa.org/article/uiPft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17183201-AC19-67DA-87AC-MB39R3FJIIB4U9ZRUM07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></title>
+            <link>http://newstapa.org/article/LKOft</link>
+            <guid>http://newstapa.org/article/LKOft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17151403-29AB-1AE5-8766-5GARDE19O9Y6IOAQ1O33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사, 막을 수 있었던 7번의 순간들]]></title>
             <link>http://newstapa.org/article/5hr-1</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용산구청... 참사 그날, 핼러윈 무질서 이용해 구정 홍보 준비했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04151312-FED1-24B7-8F47-G6NC4R0M1JJ1800DQ57U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '이태원 참사'를 대하는 윤석열 정부의 자세]]></title>
-            <link>http://newstapa.org/article/0SgUQ</link>
-            <guid>http://newstapa.org/article/0SgUQ</guid>
-            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '이태원 참사'를 대하는 윤석열 정부의 자세]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/03183641-8550-DB71-2990-K36RS5N24L3XDK2F0OS7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사는 사고로, 희생자는 사망자로...'이태원 참사'에 대처하는 윤석열 정부의 자세]]></title>
-            <link>http://newstapa.org/article/GGDOA</link>
-            <guid>http://newstapa.org/article/GGDOA</guid>
-            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사는 사고로, 희생자는 사망자로...'이태원 참사'에 대처하는 윤석열 정부의 자세]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/03183726-6CEC-7181-D22F-KIXGDLMX5Q6I4BAYB9XC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 11:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 12:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/uiPft</link>
+            <guid>http://newstapa.org/article/uiPft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17183201-AC19-67DA-87AC-MB39R3FJIIB4U9ZRUM07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/LKOft</link>
+            <guid>http://newstapa.org/article/LKOft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17151403-29AB-1AE5-8766-5GARDE19O9Y6IOAQ1O33.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사, 막을 수 있었던 7번의 순간들 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5hr-1</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09102422-3DFD-F65A-C1B4-ZVC6YOF92066Z2TPOREO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['이태원 참사' 혼란 키운 윤석열 정부의 '근조 없는 검은 리본' 지시 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/evRMG</link>
-            <guid>http://newstapa.org/article/evRMG</guid>
-            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 참사' 혼란 키운 윤석열 정부의 '근조 없는 검은 리본' 지시]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08144633-1A85-35C3-92B2-STFRXS6MGL2KXDILAXYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 119 녹취록 전문 공개... 87건의 신고, 놓쳐버린 골든타임 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/58HiO</link>
-            <guid>http://newstapa.org/article/58HiO</guid>
-            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 참사' 119 녹취록 전문 공개... 87건의 신고, 놓쳐버린 골든타임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08174352-F10A-4096-4D63-BQUC0Y0U6JZZI7S4UB6H.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/uiPft</link>
+            <guid>http://newstapa.org/article/uiPft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17183201-AC19-67DA-87AC-MB39R3FJIIB4U9ZRUM07.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[죄수와 검사 - 외전 ① "공무원에 뇌물 줬다" 자백, 검찰은 덮었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17141332-9DD1-55C3-7012-QC1U15CZDG5EP8MB9JL2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김건희 도이치모터스 수익 분석... 17억 2회전 시켜 10.5억 벌었다. (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/zKMJV</link>
-            <guid>http://newstapa.org/article/zKMJV</guid>
-            <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 도이치모터스 수익 분석... 17억 2회전 시켜 10.5억 벌었다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/13191258-BBD9-CF4A-E08C-YVU89LUPYHUM5GB7SATF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세금 유용 카르텔' 국회의원 14명... 정치자금법 위반 혐의로 공수처 고발 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1160,6 +1160,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/05133648-8980-5D75-0F63-HLT924NTOGVFUHK9BKMZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/uiPft</link>
+            <guid>http://newstapa.org/article/uiPft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17183201-AC19-67DA-87AC-MB39R3FJIIB4U9ZRUM07.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/LKOft</link>
+            <guid>http://newstapa.org/article/LKOft</guid>
+            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17151403-29AB-1AE5-8766-5GARDE19O9Y6IOAQ1O33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사, 막을 수 있었던 7번의 순간들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/5hr-1</link>
             <guid>http://newstapa.org/article/5hr-1</guid>
@@ -1270,22 +1286,6 @@
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[용산구청... 참사 그날, 핼러윈 무질서 이용해 구정 홍보 준비했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04151312-FED1-24B7-8F47-G6NC4R0M1JJ1800DQ57U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '이태원 참사'를 대하는 윤석열 정부의 자세 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/0SgUQ</link>
-            <guid>http://newstapa.org/article/0SgUQ</guid>
-            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '이태원 참사'를 대하는 윤석열 정부의 자세]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/03183641-8550-DB71-2990-K36RS5N24L3XDK2F0OS7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사는 사고로, 희생자는 사망자로...'이태원 참사'에 대처하는 윤석열 정부의 자세 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/GGDOA</link>
-            <guid>http://newstapa.org/article/GGDOA</guid>
-            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사는 사고로, 희생자는 사망자로...'이태원 참사'에 대처하는 윤석열 정부의 자세]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/03183726-6CEC-7181-D22F-KIXGDLMX5Q6I4BAYB9XC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
