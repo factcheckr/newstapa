@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 22:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 00:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09145722-72D6-033A-CDBB-8I8S5GH4311HGFWNSSUV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[정정 및 반론보도] <실적 뺏고, 부당해고... '산피아' 판치는 국립수목원> 관련 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/zNJU4</link>
+            <guid>http://newstapa.org/article/zNJU4</guid>
+            <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[정정 및 반론보도] &lt;실적 뺏고, 부당해고... '산피아' 판치는 국립수목원&gt; 관련]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16163159-93DD-B784-8E92-D4XMHP33COB26E8Z0FU9.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/uiPft</link>
             <guid>http://newstapa.org/article/uiPft</guid>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[죄수와 검사 - 외전 ② 검찰, 조직보호 위해 공무원 뇌물 덮었나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17143330-2CBF-6C41-22B6-8UGLIBA15LMM48LWF9RI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죄수와 검사 - 외전 ① "공무원에 뇌물 줬다" 자백, 검찰은 덮었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/zLoS6</link>
-            <guid>http://newstapa.org/article/zLoS6</guid>
-            <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[죄수와 검사 - 외전 ① "공무원에 뇌물 줬다" 자백, 검찰은 덮었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17141332-9DD1-55C3-7012-QC1U15CZDG5EP8MB9JL2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세금 유용 카르텔' 국회의원 14명... 정치자금법 위반 혐의로 공수처 고발 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
