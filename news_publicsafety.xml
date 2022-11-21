@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이태원 참사, 부재의 시간' 타임라인 공개]]></title>
+            <link>http://newstapa.org/article/b9S8Q</link>
+            <guid>http://newstapa.org/article/b9S8Q</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['이태원 참사, 부재의 시간' 타임라인 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/21160403-C198-FBB0-1933-8XTWSGW88Z8G955A4ZCN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태원 참사, 기록을 미래로 보내자]]></title>
             <link>http://newstapa.org/article/azBKK</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘예견된 참사’라는 언론, 참사 전에는 핼러윈 상품 홍보와 마약에 집중]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04180033-8A39-2E9C-9D97-YWZIWKLVF4XTKA3MJV7I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현장 영상, 112신고, 트윗으로 본 이태원 골든타임]]></title>
-            <link>http://newstapa.org/article/qskFG</link>
-            <guid>http://newstapa.org/article/qskFG</guid>
-            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[현장 영상, 112신고, 트윗으로 본 이태원 골든타임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04190327-D7FC-BB95-1730-AVX5QGHIVMVMFZ6U6LD6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
