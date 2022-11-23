@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 10:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 11:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잘못 꿴 단추...1조 원 짜리 '무용지물' 재난안전통신망]]></title>
+            <link>http://newstapa.org/article/EqOHy</link>
+            <guid>http://newstapa.org/article/EqOHy</guid>
+            <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[잘못 꿴 단추...1조 원 짜리 '무용지물' 재난안전통신망]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23193541-F925-C50D-72E6-3E4XYZKAOYZY8GTTMBPZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["우리가 반정부 세력입니까?" 이태원 참사 유족의 절규]]></title>
             <link>http://newstapa.org/article/IgEwC</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10180746-4BF8-4F00-35AA-SLL1KZOWDR0GSSSPR96N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] "이태원 참사 경찰 부실 대응, 이유는 대통령실 이전"]]></title>
-            <link>http://newstapa.org/article/tkhT4</link>
-            <guid>http://newstapa.org/article/tkhT4</guid>
-            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] "이태원 참사 경찰 부실 대응, 이유는 대통령실 이전"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10164957-76D9-78D0-B428-QRGI6YLASK195AQNSLX0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
