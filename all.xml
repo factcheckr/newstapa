@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 05:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 06:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["우리가 반정부 세력입니까?" 이태원 참사 유족의 절규 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/IgEwC</link>
+            <guid>http://newstapa.org/article/IgEwC</guid>
+            <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["우리가 반정부 세력입니까?" 이태원 참사 유족의 절규]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23134830-2C78-5CC6-2A3C-OPCLZTM6YLC1JNJTFI8C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정영학 자필 메모 입수...천화동인 숨은 지분 428억 어떻게 나왔나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/sF-T_</link>
+            <guid>http://newstapa.org/article/sF-T_</guid>
+            <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정영학 자필 메모 입수...천화동인 숨은 지분 428억 어떻게 나왔나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23141038-879C-72DF-A13B-HSFDUCQA3NJ2I20UO7LE.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정진상 구속영장 입수... 대장동 검찰 수사 정밀 분석 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/yZMOX</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] "이태원 참사 경찰 부실 대응, 이유는 대통령실 이전"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10164957-76D9-78D0-B428-QRGI6YLASK195AQNSLX0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 그 날의 경찰, 이태원보다 대통령실이 중요했던 이유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/sPgeI</link>
-            <guid>http://newstapa.org/article/sPgeI</guid>
-            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사 그 날의 경찰, 이태원보다 대통령실이 중요했던 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10162312-AD5B-AA2B-14D3-PX31DWE0IBZJ1GWUBPKZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장 영상]이태원역 1번 출구, ‘포스트잇’에 새겨진 말들 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/fnrcN</link>
-            <guid>http://newstapa.org/article/fnrcN</guid>
-            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장 영상]이태원역 1번 출구, ‘포스트잇’에 새겨진 말들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10161545-BA74-1A68-E323-DM32312P8LYTS63USUHT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17141332-9DD1-55C3-7012-QC1U15CZDG5EP8MB9JL2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정영학 자필 메모 입수...천화동인 숨은 지분 428억 어떻게 나왔나 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/sF-T_</link>
+            <guid>http://newstapa.org/article/sF-T_</guid>
+            <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정영학 자필 메모 입수...천화동인 숨은 지분 428억 어떻게 나왔나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23141038-879C-72DF-A13B-HSFDUCQA3NJ2I20UO7LE.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[정진상 구속영장 입수... 대장동 검찰 수사 정밀 분석 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/yZMOX</link>
             <guid>http://newstapa.org/article/yZMOX</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 05 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[만만한 대한민국 소비자] 5. '클래스 액션' 석사논문 윤석열 대통령 선택은?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/04170508-6E23-4AD6-0804-56GKYRJUM0CK9X0XL0XR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[만만한 대한민국 소비자] 4. 독일 정부, 폭스바겐에 맞서 소송제도 바꿔 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/92lVJ</link>
-            <guid>http://newstapa.org/article/92lVJ</guid>
-            <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[만만한 대한민국 소비자] 4. 독일 정부, 폭스바겐에 맞서 소송제도 바꿔]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/28132553-4BAE-9536-003D-97X8IE16Q89X63QRPWPD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['세금 유용 카르텔' 국회의원 14명... 정치자금법 위반 혐의로 공수처 고발 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/05133648-8980-5D75-0F63-HLT924NTOGVFUHK9BKMZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["우리가 반정부 세력입니까?" 이태원 참사 유족의 절규 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/IgEwC</link>
+            <guid>http://newstapa.org/article/IgEwC</guid>
+            <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["우리가 반정부 세력입니까?" 이태원 참사 유족의 절규]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23134830-2C78-5CC6-2A3C-OPCLZTM6YLC1JNJTFI8C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['이태원 참사, 부재의 시간' 타임라인 공개 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/b9S8Q</link>
             <guid>http://newstapa.org/article/b9S8Q</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[골목길 인파 첫 과학 검증 "800명부터 압사 위험"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/07175713-AEBE-43EE-9273-8CPZQWV7MACB7HKZ0U6M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘예견된 참사’라는 언론, 참사 전에는 핼러윈 상품 홍보와 마약에 집중 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/gmcBD</link>
-            <guid>http://newstapa.org/article/gmcBD</guid>
-            <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘예견된 참사’라는 언론, 참사 전에는 핼러윈 상품 홍보와 마약에 집중]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04180033-8A39-2E9C-9D97-YWZIWKLVF4XTKA3MJV7I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
