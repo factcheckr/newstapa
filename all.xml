@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 03:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>http://newstapa.org/article/sF-T_</guid>
             <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정영학 자필 메모 입수...천화동인 숨은 지분 428억 어떻게 나왔나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23141038-879C-72DF-A13B-HSFDUCQA3NJ2I20UO7LE.png" length="0" type="image/png"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24105609-6784-239B-C555-QA9AZ28CQM1THKMDQ8VH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정진상 구속영장 입수... 대장동 검찰 수사 정밀 분석 (뉴스타파 ─ 뉴스)]]></title>
@@ -269,7 +269,7 @@
             <guid>http://newstapa.org/article/sF-T_</guid>
             <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정영학 자필 메모 입수...천화동인 숨은 지분 428억 어떻게 나왔나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23141038-879C-72DF-A13B-HSFDUCQA3NJ2I20UO7LE.png" length="0" type="image/png"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24105609-6784-239B-C555-QA9AZ28CQM1THKMDQ8VH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정진상 구속영장 입수... 대장동 검찰 수사 정밀 분석 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -2056,6 +2056,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/18103112-8B0B-A316-0656-B8JLKQK9BW2VQN16A8IY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이태원 참사 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/%EC%9D%B4%ED%83%9C%EC%9B%90%EC%B0%B8%EC%82%AC</link>
+            <guid>https://newstapa.org/tags/%EC%9D%B4%ED%83%9C%EC%9B%90%EC%B0%B8%EC%82%AC</guid>
+            <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 10월 29일 이태원에서 일어난 참사로 158명이 목숨을 잃었습니다. 다시는 같은 참사가 되풀이되지 않도록 참사의 원인과 재발 방지 대책을 살펴봤습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24104444-841E-FFBA-AF41-EOVFV3A2EZ24PXAK78MG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[론스타 사건, 기록과 증언 (뉴스타파 ─ 프로젝트)]]></title>
             <link>https://newstapa.org/projects/lonestar</link>
             <guid>https://newstapa.org/projects/lonestar</guid>
@@ -2517,6 +2525,27 @@
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사, 부재의 시간 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/n2211_timeline/</link>
+            <guid>https://pages.newstapa.org/n2211_timeline/</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/21160403-C198-FBB0-1933-8XTWSGW88Z8G955A4ZCN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[87건의 신고, 놓쳐버린 골든타임 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/n221108/</link>
+            <guid>https://pages.newstapa.org/n221108/</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08174352-F10A-4096-4D63-BQUC0Y0U6JZZI7S4UB6H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[217분의 시간, 11번의 신고, 0번의 구조 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/n221102/</link>
+            <guid>https://pages.newstapa.org/n221102/</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/03140813-0465-27B1-C6AF-12TQ8K4BU6RK9CU06ZOR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[론스타 사건, 기록과 증언 (뉴스타파 ─ 데이터)]]></title>

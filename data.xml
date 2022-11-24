@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 03:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,27 @@
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사, 부재의 시간]]></title>
+            <link>https://pages.newstapa.org/n2211_timeline/</link>
+            <guid>https://pages.newstapa.org/n2211_timeline/</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/21160403-C198-FBB0-1933-8XTWSGW88Z8G955A4ZCN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[87건의 신고, 놓쳐버린 골든타임]]></title>
+            <link>https://pages.newstapa.org/n221108/</link>
+            <guid>https://pages.newstapa.org/n221108/</guid>
+            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08174352-F10A-4096-4D63-BQUC0Y0U6JZZI7S4UB6H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[217분의 시간, 11번의 신고, 0번의 구조]]></title>
+            <link>https://pages.newstapa.org/n221102/</link>
+            <guid>https://pages.newstapa.org/n221102/</guid>
+            <pubDate>Thu, 03 Nov 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/03140813-0465-27B1-C6AF-12TQ8K4BU6RK9CU06ZOR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[론스타 사건, 기록과 증언]]></title>
