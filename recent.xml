@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 12:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></title>
+            <link>http://newstapa.org/article/ZiySX</link>
+            <guid>http://newstapa.org/article/ZiySX</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161706-4DD5-69DB-2CE7-28MTYK55LVSGAYGJ3MKI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방치, 방해, 거짓말... '이태원 참사' 유족이 말하는 '윤석열 정부의 잘못']]></title>
+            <link>http://newstapa.org/article/YL3LI</link>
+            <guid>http://newstapa.org/article/YL3LI</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[방치, 방해, 거짓말... '이태원 참사' 유족이 말하는 '윤석열 정부의 잘못']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24201128-C339-5090-37E6-0K0ZD04AGPXHK5YRQFFZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></title>
+            <link>http://newstapa.org/article/1NopC</link>
+            <guid>http://newstapa.org/article/1NopC</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161740-573B-4253-B368-3MNFUDD9INHD4P5J0NPN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘못 꿴 단추...1조 원 짜리 '무용지물' 재난안전통신망]]></title>
             <link>http://newstapa.org/article/EqOHy</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17140352-5077-3B82-738C-E7O2EZ7IW45YMCU7EMNR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천화동인 282억 수익 숨긴 대장동 자금책, 검찰은 또 봐줬다]]></title>
-            <link>http://newstapa.org/article/YWEBZ</link>
-            <guid>http://newstapa.org/article/YWEBZ</guid>
-            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[천화동인 282억 수익 숨긴 대장동 자금책, 검찰은 또 봐줬다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/14171613-705D-BE08-A8E0-Z1PTWTKPVGTHMZCG2KYB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치]]></title>
-            <link>http://newstapa.org/article/s_4nw</link>
-            <guid>http://newstapa.org/article/s_4nw</guid>
-            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/11145704-1CFB-EADA-493C-AJLBMPINW5LSMKO0KZYS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는]]></title>
-            <link>http://newstapa.org/article/SllqH</link>
-            <guid>http://newstapa.org/article/SllqH</guid>
-            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10180746-4BF8-4F00-35AA-SLL1KZOWDR0GSSSPR96N.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

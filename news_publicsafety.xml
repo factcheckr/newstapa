@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 10:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 12:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></title>
+            <link>http://newstapa.org/article/ZiySX</link>
+            <guid>http://newstapa.org/article/ZiySX</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161706-4DD5-69DB-2CE7-28MTYK55LVSGAYGJ3MKI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></title>
+            <link>http://newstapa.org/article/1NopC</link>
+            <guid>http://newstapa.org/article/1NopC</guid>
+            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161740-573B-4253-B368-3MNFUDD9INHD4P5J0NPN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘못 꿴 단추...1조 원 짜리 '무용지물' 재난안전통신망]]></title>
             <link>http://newstapa.org/article/EqOHy</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이태원 참사' 혼란 키운 윤석열 정부의 '근조 없는 검은 리본' 지시]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08144633-1A85-35C3-92B2-STFRXS6MGL2KXDILAXYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 119 녹취록 전문 공개... 87건의 신고, 놓쳐버린 골든타임]]></title>
-            <link>http://newstapa.org/article/58HiO</link>
-            <guid>http://newstapa.org/article/58HiO</guid>
-            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 참사' 119 녹취록 전문 공개... 87건의 신고, 놓쳐버린 골든타임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08174352-F10A-4096-4D63-BQUC0Y0U6JZZI7S4UB6H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['현장 대응 실패'... 119 상황실 신고 녹취록을 통해 본 이태원 참사]]></title>
-            <link>http://newstapa.org/article/N_XRX</link>
-            <guid>http://newstapa.org/article/N_XRX</guid>
-            <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['현장 대응 실패'... 119 상황실 신고 녹취록을 통해 본 이태원 참사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/07231808-7C02-1EFC-F719-8W3GSXK5RSPJLFI4H879.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
