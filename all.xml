@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민들레 청춘 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/vQqzI</link>
+            <guid>http://newstapa.org/article/vQqzI</guid>
+            <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민들레 청춘]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/25131928-8012-0B49-E710-NISQZMVZX81J3FMP6VEG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ZiySX</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16105651-AFF1-5857-61DA-DBRDZQWTBPA3S7VDIIW9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/qtNVC</link>
-            <guid>http://newstapa.org/article/qtNVC</guid>
-            <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17140352-5077-3B82-738C-E7O2EZ7IW45YMCU7EMNR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/24175915-BD69-77F6-3A96-EJ7T9WGULNQ7H8YDT5DZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[민들레 청춘 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/vQqzI</link>
+            <guid>http://newstapa.org/article/vQqzI</guid>
+            <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민들레 청춘]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/25131928-8012-0B49-E710-NISQZMVZX81J3FMP6VEG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사드 공사에 '방위비분담금' 1800만 달러 지출 확인 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/VawWx</link>
             <guid>http://newstapa.org/article/VawWx</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 북한 관련 기사 8만 건 분석...'소스' 해부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/02095528-2FFE-912A-4B22-O92RR2ZEK9120DCNMSA2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경의선, 멈춰진 한반도 시계 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/S_A0W</link>
-            <guid>http://newstapa.org/article/S_A0W</guid>
-            <pubDate>Tue, 15 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경의선, 멈춰진 한반도 시계]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/14153912-59C3-8C8D-E59B-SXOOREY77OB3T4ZN0I32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호주 '39번샵'과 계속되는 성착취 인신매매 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3014,6 +3014,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[민들레 청춘 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/97573804</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/97573804</guid>
+            <pubDate>Fri, 25 Nov 2022 08:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97573804"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bqgx39/btrR85Vkg9N/RRgmZpmahYOvb6fL1IbR7K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">민들레 청춘</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이태원 참사, 산 자의 눈물과 국가의 의무 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97561769</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97561769</guid>
@@ -3047,13 +3054,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97373788</guid>
             <pubDate>Wed, 16 Nov 2022 17:31:36 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97373788"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bCvprX/btrQVr0b8yP/WmvX85cx96JkkjZTY5FbN1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["이태원 참사 경찰 부실 대응, 이유는 대통령실 이전" 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97368011</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97368011</guid>
-            <pubDate>Wed, 16 Nov 2022 17:31:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97368011"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dyNHl6/btrQSEzMzYe/AaZSdQw9gqnngLZb2c8kkK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"이태원 참사 경찰 부실 대응, 이유는 대통령실 이전" 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

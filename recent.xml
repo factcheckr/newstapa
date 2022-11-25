@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민들레 청춘]]></title>
+            <link>http://newstapa.org/article/vQqzI</link>
+            <guid>http://newstapa.org/article/vQqzI</guid>
+            <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민들레 청춘]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/25131928-8012-0B49-E710-NISQZMVZX81J3FMP6VEG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></title>
             <link>http://newstapa.org/article/ZiySX</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16105651-AFF1-5857-61DA-DBRDZQWTBPA3S7VDIIW9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></title>
-            <link>http://newstapa.org/article/qtNVC</link>
-            <guid>http://newstapa.org/article/qtNVC</guid>
-            <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17140352-5077-3B82-738C-E7O2EZ7IW45YMCU7EMNR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

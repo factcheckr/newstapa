@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민들레 청춘]]></title>
+            <link>http://newstapa.org/article/vQqzI</link>
+            <guid>http://newstapa.org/article/vQqzI</guid>
+            <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[민들레 청춘]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/25131928-8012-0B49-E710-NISQZMVZX81J3FMP6VEG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사드 공사에 '방위비분담금' 1800만 달러 지출 확인]]></title>
             <link>http://newstapa.org/article/VawWx</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 북한 관련 기사 8만 건 분석...'소스' 해부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/02095528-2FFE-912A-4B22-O92RR2ZEK9120DCNMSA2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경의선, 멈춰진 한반도 시계]]></title>
-            <link>http://newstapa.org/article/S_A0W</link>
-            <guid>http://newstapa.org/article/S_A0W</guid>
-            <pubDate>Tue, 15 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경의선, 멈춰진 한반도 시계]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/14153912-59C3-8C8D-E59B-SXOOREY77OB3T4ZN0I32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
