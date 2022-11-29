@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-11-29T09:21:19.718Z</updated>
+    <updated>2022-11-29T10:15:46.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정진상 범죄 증언한 대장동 자금책 '조우형'...1년 전엔 “정진상 몰라”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97624467</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97624467"/>
+        <updated>2022-11-29T10:15:45.858Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97624467"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bp6LnW/btrSqXQZo58/olWjCtSgYUF6jAyFvy0v2k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정진상 범죄 증언한 대장동 자금책 '조우형'...1년 전엔 “정진상 몰라”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민들레 청춘]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97573804</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97379734"/>
         <updated>2022-11-16T17:31:36.427Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97379734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vJug5/btrQY1GWbTJ/Z1ruuafOlKlqEUDO29PQLk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97373788</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97373788"/>
-        <updated>2022-11-16T17:31:36.428Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97373788"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bCvprX/btrQVr0b8yP/WmvX85cx96JkkjZTY5FbN1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
