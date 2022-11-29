@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-11-29T10:15:46.561Z</updated>
+    <updated>2022-11-29T14:15:43.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한달 만에 공개된 경찰 무전망... 참사 1시간 전 경찰 "인파를 인도로 밀어 올려" 지시]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97625230</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97625230"/>
+        <updated>2022-11-29T14:15:43.063Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97625230"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/VzcBa/btrSr4WwiEC/y4S1lL8wYxMt27MhXpRoX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한달 만에 공개된 경찰 무전망... 참사 1시간 전 경찰 "인파를 인도로 밀어 올려" 지시</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상민 장관, 대통령 지시 묵살하고 '중대본 설치' 도 지연]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97625171</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97625171"/>
+        <updated>2022-11-29T14:15:43.064Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97625171"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bIRABa/btrSqlyddck/fqpmkjJ1csHkDFiI7inGJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민 장관, 대통령 지시 묵살하고 '중대본 설치' 도 지연</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정진상 범죄 증언한 대장동 자금책 '조우형'...1년 전엔 “정진상 몰라”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97624467</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97561757"/>
         <updated>2022-11-24T12:19:27.114Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97561757"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bae94f/btrR3DkY3DB/yGI9ICWeHCvuusUkk3iDnk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">방치, 방해, 거짓말... 유족이 말하는 '윤석열 정부의 잘못'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97561740</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97561740"/>
-        <updated>2022-11-24T12:19:27.116Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97561740"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cETzeU/btrR2EZe86z/0uYY4erEQiIoRSq5piznO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원, 세 개의 길, 그리고 밤 10시 13분</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97379734</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97379734"/>
-        <updated>2022-11-16T17:31:36.427Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97379734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vJug5/btrQY1GWbTJ/Z1ruuafOlKlqEUDO29PQLk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
