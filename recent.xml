@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 00:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 조선일보 기자의 기사 작성법]]></title>
+            <link>http://newstapa.org/article/PR7YM</link>
+            <guid>http://newstapa.org/article/PR7YM</guid>
+            <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한 조선일보 기자의 기사 작성법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/30105509-6AAE-F0AD-FEF1-FQRE56AB4342M42QVV4Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이단' 은혜로교회가 100억 대 신문광고를 내는 이유]]></title>
             <link>http://newstapa.org/article/lL2zA</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[타임라인으로 본 '이태원 참사'의 결정적 순간들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/18174505-4A67-0B25-58C8-BW7NMV3IL8SMTHCO9M1T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></title>
-            <link>http://newstapa.org/article/LKOft</link>
-            <guid>http://newstapa.org/article/LKOft</guid>
-            <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 미국인 유족 "삶이 산산조각 나버렸다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/18174536-3443-541B-BB96-3QX00MXX1WJ1E559YKGF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

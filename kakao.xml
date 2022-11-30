@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-11-30T00:44:07.346Z</updated>
+    <updated>2022-11-30T02:23:02.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 조선일보 기자의 기사 작성법]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97631894</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97631894"/>
+        <updated>2022-11-30T02:23:01.841Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97631894"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YFOcg/btrStzhObyq/UtqIyxqY1S30S1teBBNokk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한 조선일보 기자의 기사 작성법</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이단' 은혜로교회가 100억 대 신문광고를 내는 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97630389</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97630389"/>
+        <updated>2022-11-30T02:23:01.842Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97630389"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uH1fq/btrSqlyzpkO/rqOKkyAiMebU4r1C11xws0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이단' 은혜로교회가 100억 대 신문광고를 내는 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한달 만에 공개된 경찰 무전망... 참사 1시간 전 경찰 "인파를 인도로 밀어 올려" 지시]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97625230</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97573804"/>
         <updated>2022-11-25T08:18:01.137Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97573804"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bqgx39/btrR85Vkg9N/RRgmZpmahYOvb6fL1IbR7K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">민들레 청춘</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사, 산 자의 눈물과 국가의 의무 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97561769</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97561769"/>
-        <updated>2022-11-24T12:19:27.111Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97561769"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/v8Jbz/btrR4wFFse1/VJGanKtGl2HkA5mkvwbZk0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사, 산 자의 눈물과 국가의 의무 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방치, 방해, 거짓말... 유족이 말하는 '윤석열 정부의 잘못']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97561757</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97561757"/>
-        <updated>2022-11-24T12:19:27.114Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97561757"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bae94f/btrR3DkY3DB/yGI9ICWeHCvuusUkk3iDnk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">방치, 방해, 거짓말... 유족이 말하는 '윤석열 정부의 잘못'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
