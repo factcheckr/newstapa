@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-05T04:12:54.445Z</updated>
+    <updated>2022-12-05T05:15:06.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97708308</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97708308"/>
+        <updated>2022-12-05T05:15:05.710Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97708308"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bLmzSD/btrSUILVMGT/n75AsA30TB8jkIpd3aqJmK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 이명박 정부도 추진한 안전운임제가 명분없는 요구일까?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97684855</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97665737"/>
         <updated>2022-12-01T11:14:24.310Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665737"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bRKYKo/btrSCvfU5qt/tkrPXt7vLzXF878Ot1qKok/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">매뉴얼 있는데 또 만든다…참사 한 달 ‘경찰 대혁신 TF’가 하는 일</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 조선일보 기자의 기사 작성법]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97631894</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97631894"/>
-        <updated>2022-11-30T02:23:01.841Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97631894"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YFOcg/btrStzhObyq/UtqIyxqY1S30S1teBBNokk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한 조선일보 기자의 기사 작성법</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
