@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-06T08:14:10.532Z</updated>
+    <updated>2022-12-06T10:11:53.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97731593</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97731593"/>
+        <updated>2022-12-06T10:11:52.429Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97731593"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ctdmhX/btrSZSPoQKr/ztkETBbV7FfZ6ztoY5fyA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97708308</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97665743"/>
         <updated>2022-12-01T11:14:24.309Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665743"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcwBFL/btrSDLbgjEJ/gXjgGkES9eKZJt4jMpDz80/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령의 '가이드라인'에 헛도는 참사 대책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매뉴얼 있는데 또 만든다…참사 한 달 ‘경찰 대혁신 TF’가 하는 일]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97665737</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97665737"/>
-        <updated>2022-12-01T11:14:24.310Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665737"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bRKYKo/btrSCvfU5qt/tkrPXt7vLzXF878Ot1qKok/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">매뉴얼 있는데 또 만든다…참사 한 달 ‘경찰 대혁신 TF’가 하는 일</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

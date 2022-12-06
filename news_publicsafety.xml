@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 08:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 10:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></title>
+            <link>http://newstapa.org/article/9v-QN</link>
+            <guid>http://newstapa.org/article/9v-QN</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/06175213-45A1-5FD4-F31B-XGNDMBQGYFQ37RHUV25J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심']]></title>
             <link>http://newstapa.org/article/QLdwr</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16105651-AFF1-5857-61DA-DBRDZQWTBPA3S7VDIIW9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치]]></title>
-            <link>http://newstapa.org/article/s_4nw</link>
-            <guid>http://newstapa.org/article/s_4nw</guid>
-            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/11145704-1CFB-EADA-493C-AJLBMPINW5LSMKO0KZYS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

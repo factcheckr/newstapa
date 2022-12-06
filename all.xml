@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 08:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 10:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/9v-QN</link>
+            <guid>http://newstapa.org/article/9v-QN</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/06175213-45A1-5FD4-F31B-XGNDMBQGYFQ37RHUV25J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법으로 본 이태원 참사 책임자들 ② 김광호, 경찰대 출신 청장 '패싱'... '마약수사'에만 집중 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/q_-G-</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[방치, 방해, 거짓말... '이태원 참사' 유족이 말하는 '윤석열 정부의 잘못']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24201128-C339-5090-37E6-0K0ZD04AGPXHK5YRQFFZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/1NopC</link>
-            <guid>http://newstapa.org/article/1NopC</guid>
-            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161740-573B-4253-B368-3MNFUDD9INHD4P5J0NPN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법으로 본 이태원 참사 책임자들 ② 김광호, 경찰대 출신 청장 '패싱'... '마약수사'에만 집중 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28185956-0835-E084-89CD-4BE9JJ6L19HR7QFCCW5R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/9v-QN</link>
+            <guid>http://newstapa.org/article/9v-QN</guid>
+            <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/06175213-45A1-5FD4-F31B-XGNDMBQGYFQ37RHUV25J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심' (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/QLdwr</link>
             <guid>http://newstapa.org/article/QLdwr</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16105651-AFF1-5857-61DA-DBRDZQWTBPA3S7VDIIW9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/s_4nw</link>
-            <guid>http://newstapa.org/article/s_4nw</guid>
-            <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사 당일 경찰기동대... 이태원은 '0명', 대구 동성로는 '20명' 사전 배치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/11145704-1CFB-EADA-493C-AJLBMPINW5LSMKO0KZYS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3014,6 +3014,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/97731593</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/97731593</guid>
+            <pubDate>Tue, 06 Dec 2022 10:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97731593"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ctdmhX/btrSZSPoQKr/ztkETBbV7FfZ6ztoY5fyA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97708308</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97708308</guid>
@@ -3047,13 +3054,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97665743</guid>
             <pubDate>Thu, 01 Dec 2022 11:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665743"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcwBFL/btrSDLbgjEJ/gXjgGkES9eKZJt4jMpDz80/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령의 '가이드라인'에 헛도는 참사 대책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[매뉴얼 있는데 또 만든다…참사 한 달 ‘경찰 대혁신 TF’가 하는 일 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97665737</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97665737</guid>
-            <pubDate>Thu, 01 Dec 2022 11:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665737"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bRKYKo/btrSCvfU5qt/tkrPXt7vLzXF878Ot1qKok/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">매뉴얼 있는데 또 만든다…참사 한 달 ‘경찰 대혁신 TF’가 하는 일</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
