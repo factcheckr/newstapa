@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/It8m0</link>
+            <guid>http://newstapa.org/article/It8m0</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/07111813-0CC5-3221-1B00-D731MHQJXASYL7KMP2AI.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ① (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/8m7br</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[민들레 청춘]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/25131928-8012-0B49-E710-NISQZMVZX81J3FMP6VEG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ZiySX</link>
-            <guid>http://newstapa.org/article/ZiySX</guid>
-            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161706-4DD5-69DB-2CE7-28MTYK55LVSGAYGJ3MKI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법으로 본 이태원 참사 책임자들 ② 김광호, 경찰대 출신 청장 '패싱'... '마약수사'에만 집중 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/28185956-0835-E084-89CD-4BE9JJ6L19HR7QFCCW5R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/It8m0</link>
+            <guid>http://newstapa.org/article/It8m0</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/07111813-0CC5-3221-1B00-D731MHQJXASYL7KMP2AI.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/9v-QN</link>
             <guid>http://newstapa.org/article/9v-QN</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 막을 수 있었던 7번의 순간들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17161113-8C61-AEEB-D1DD-ZD85Q8Z8KBG9ADAVQY6L.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말' (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/G8OIl</link>
-            <guid>http://newstapa.org/article/G8OIl</guid>
-            <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이상민 장관에 이어 차관까지... 행정안전부의 '대국민 거짓말']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/16105651-AFF1-5857-61DA-DBRDZQWTBPA3S7VDIIW9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3014,6 +3014,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/97748843</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/97748843</guid>
+            <pubDate>Wed, 07 Dec 2022 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97748843"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dmYwCu/btrS5zPtQtU/hWwVxFlxcXI3f4PA8TvhsK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ① (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97743082</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97743082</guid>
@@ -3047,13 +3054,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97665775</guid>
             <pubDate>Thu, 01 Dec 2022 11:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665775"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/u4Dhj/btrSy80nn3r/a7MzDWrDesXGStuFDDytZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["사랑하는 우리 딸, 널 위해 싸울게"... 이태원 참사 희생자 아버지의 마지막 소원 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97665757</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97665757</guid>
-            <pubDate>Thu, 01 Dec 2022 11:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665757"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/prsZc/btrSDJq0Am9/iHeecfb0XpjRMkmwNhiW9K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"사랑하는 우리 딸, 널 위해 싸울게"... 이태원 참사 희생자 아버지의 마지막 소원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요"]]></title>
+            <link>http://newstapa.org/article/It8m0</link>
+            <guid>http://newstapa.org/article/It8m0</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/07111813-0CC5-3221-1B00-D731MHQJXASYL7KMP2AI.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①]]></title>
             <link>http://newstapa.org/article/8m7br</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[민들레 청춘]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/25131928-8012-0B49-E710-NISQZMVZX81J3FMP6VEG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></title>
-            <link>http://newstapa.org/article/ZiySX</link>
-            <guid>http://newstapa.org/article/ZiySX</guid>
-            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161706-4DD5-69DB-2CE7-28MTYK55LVSGAYGJ3MKI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
