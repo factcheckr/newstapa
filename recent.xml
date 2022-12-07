@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①]]></title>
+            <link>http://newstapa.org/article/8m7br</link>
+            <guid>http://newstapa.org/article/8m7br</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/07132016-3834-371A-04C9-C1N2LEUNCLX1Z3NCYJQH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></title>
             <link>http://newstapa.org/article/9v-QN</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161706-4DD5-69DB-2CE7-28MTYK55LVSGAYGJ3MKI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방치, 방해, 거짓말... '이태원 참사' 유족이 말하는 '윤석열 정부의 잘못']]></title>
-            <link>http://newstapa.org/article/YL3LI</link>
-            <guid>http://newstapa.org/article/YL3LI</guid>
-            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[방치, 방해, 거짓말... '이태원 참사' 유족이 말하는 '윤석열 정부의 잘못']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24201128-C339-5090-37E6-0K0ZD04AGPXHK5YRQFFZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

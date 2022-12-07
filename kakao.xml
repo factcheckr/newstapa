@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-07T02:30:31.343Z</updated>
+    <updated>2022-12-07T06:17:50.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97743082</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97743082"/>
+        <updated>2022-12-07T06:17:50.258Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97743082"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ckdTF2/btrS0hI9aba/I164SvoT6sPUQdkcTlOWxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97731593</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97665757"/>
         <updated>2022-12-01T11:14:24.308Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665757"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/prsZc/btrSDJq0Am9/iHeecfb0XpjRMkmwNhiW9K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"사랑하는 우리 딸, 널 위해 싸울게"... 이태원 참사 희생자 아버지의 마지막 소원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령의 '가이드라인'에 헛도는 참사 대책]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97665743</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97665743"/>
-        <updated>2022-12-01T11:14:24.309Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665743"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcwBFL/btrSDLbgjEJ/gXjgGkES9eKZJt4jMpDz80/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령의 '가이드라인'에 헛도는 참사 대책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

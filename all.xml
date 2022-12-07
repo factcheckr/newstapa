@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ① (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/8m7br</link>
+            <guid>http://newstapa.org/article/8m7br</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/07132016-3834-371A-04C9-C1N2LEUNCLX1Z3NCYJQH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/9v-QN</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161706-4DD5-69DB-2CE7-28MTYK55LVSGAYGJ3MKI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방치, 방해, 거짓말... '이태원 참사' 유족이 말하는 '윤석열 정부의 잘못' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/YL3LI</link>
-            <guid>http://newstapa.org/article/YL3LI</guid>
-            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[방치, 방해, 거짓말... '이태원 참사' 유족이 말하는 '윤석열 정부의 잘못']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24201128-C339-5090-37E6-0K0ZD04AGPXHK5YRQFFZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법으로 본 이태원 참사 책임자들 ② 김광호, 경찰대 출신 청장 '패싱'... '마약수사'에만 집중 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25083607-E78C-6550-10C6-I7WO93YBC5ZB462PFCLY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/8m7br</link>
+            <guid>http://newstapa.org/article/8m7br</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/07132016-3834-371A-04C9-C1N2LEUNCLX1Z3NCYJQH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<법으로 본 '이태원 참사' 책임자들>① 이상민 장관, 대통령 지시 묵살하고 '중대본 설치' 도 지연 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/Yhgku</link>
             <guid>http://newstapa.org/article/Yhgku</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ① '론스타는 산업자본'...2003년 금융당국은 정말 몰랐나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/19113200-9416-51EA-AB65-4HEJ304EFOMSIK207TBP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죄수와 검사 - 외전 ② 검찰, 조직보호 위해 공무원 뇌물 덮었나 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/jO7yt</link>
-            <guid>http://newstapa.org/article/jO7yt</guid>
-            <pubDate>Tue, 18 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[죄수와 검사 - 외전 ② 검찰, 조직보호 위해 공무원 뇌물 덮었나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/17143330-2CBF-6C41-22B6-8UGLIBA15LMM48LWF9RI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3014,6 +3014,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ① (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/97743082</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/97743082</guid>
+            <pubDate>Wed, 07 Dec 2022 06:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97743082"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ckdTF2/btrS0hI9aba/I164SvoT6sPUQdkcTlOWxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97731593</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97731593</guid>
@@ -3047,13 +3054,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97665757</guid>
             <pubDate>Thu, 01 Dec 2022 11:14:24 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665757"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/prsZc/btrSDJq0Am9/iHeecfb0XpjRMkmwNhiW9K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"사랑하는 우리 딸, 널 위해 싸울게"... 이태원 참사 희생자 아버지의 마지막 소원</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대통령의 '가이드라인'에 헛도는 참사 대책 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97665743</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97665743</guid>
-            <pubDate>Thu, 01 Dec 2022 11:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665743"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcwBFL/btrSDLbgjEJ/gXjgGkES9eKZJt4jMpDz80/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령의 '가이드라인'에 헛도는 참사 대책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
