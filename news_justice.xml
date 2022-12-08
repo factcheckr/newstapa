@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 10:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 12:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’]]></title>
+            <link>http://newstapa.org/article/EpyMn</link>
+            <guid>http://newstapa.org/article/EpyMn</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/08192427-915E-50CD-489F-24F8N7BZUE32EY1SDSPB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①]]></title>
             <link>http://newstapa.org/article/8m7br</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한동훈 장관은 왜 권한쟁의에 나섰나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25135607-F4C3-BCA6-4335-1BZNFR35DZJ1VIJHUT5B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<론스타, 기록과 증언> ① '론스타는 산업자본'...2003년 금융당국은 정말 몰랐나]]></title>
-            <link>http://newstapa.org/article/DTApp</link>
-            <guid>http://newstapa.org/article/DTApp</guid>
-            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ① '론스타는 산업자본'...2003년 금융당국은 정말 몰랐나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/19113200-9416-51EA-AB65-4HEJ304EFOMSIK207TBP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

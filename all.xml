@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 10:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 12:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/EpyMn</link>
+            <guid>http://newstapa.org/article/EpyMn</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/08192427-915E-50CD-489F-24F8N7BZUE32EY1SDSPB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/It8m0</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정진상 범죄 증언한 대장동 자금책 '조우형'...1년 전엔 “정진상 몰라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/29182713-3A01-369D-1222-UZ4AWJDSCFXOGCI18AIJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민들레 청춘 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/vQqzI</link>
-            <guid>http://newstapa.org/article/vQqzI</guid>
-            <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민들레 청춘]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/25131928-8012-0B49-E710-NISQZMVZX81J3FMP6VEG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법으로 본 이태원 참사 책임자들 ② 김광호, 경찰대 출신 청장 '패싱'... '마약수사'에만 집중 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25083607-E78C-6550-10C6-I7WO93YBC5ZB462PFCLY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/EpyMn</link>
+            <guid>http://newstapa.org/article/EpyMn</guid>
+            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/08192427-915E-50CD-489F-24F8N7BZUE32EY1SDSPB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/8m7br</link>
             <guid>http://newstapa.org/article/8m7br</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한동훈 장관은 왜 권한쟁의에 나섰나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25135607-F4C3-BCA6-4335-1BZNFR35DZJ1VIJHUT5B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<론스타, 기록과 증언> ① '론스타는 산업자본'...2003년 금융당국은 정말 몰랐나 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/DTApp</link>
-            <guid>http://newstapa.org/article/DTApp</guid>
-            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ① '론스타는 산업자본'...2003년 금융당국은 정말 몰랐나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/19113200-9416-51EA-AB65-4HEJ304EFOMSIK207TBP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3014,6 +3014,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’ 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/97768068</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/97768068</guid>
+            <pubDate>Thu, 08 Dec 2022 12:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97768068"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/o5Cks/btrTa6sTJqZ/hlAbCI20U4frBIewBsz3AK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’ 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97748843</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97748843</guid>
@@ -3047,13 +3054,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97684855</guid>
             <pubDate>Fri, 02 Dec 2022 10:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97684855"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bK9Dg2/btrSHNgSlLr/NIj1XoKMqXofvUiv4CiGAk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 이명박 정부도 추진한 안전운임제가 명분없는 요구일까?</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심' 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97665775</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97665775</guid>
-            <pubDate>Thu, 01 Dec 2022 11:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97665775"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/u4Dhj/btrSy80nn3r/a7MzDWrDesXGStuFDDytZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
