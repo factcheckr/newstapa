@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-09T09:10:57.738Z</updated>
+    <updated>2022-12-09T11:10:35.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["일하다 감전돼 죽었다"... 대우조선 '미규명' 사망 산재]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97785162</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97785162"/>
+        <updated>2022-12-09T11:10:34.963Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97785162"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/JIBEF/btrTf68kO3n/sKYHRrGqjNVSod3jG5gnT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"일하다 감전돼 죽었다"... 대우조선 '미규명' 사망 산재</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘중대재해율 0%’ 대우조선해양의 참혹한 ‘원하청 산재 차별’]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97784011</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97743082"/>
         <updated>2022-12-07T06:17:50.258Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97743082"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ckdTF2/btrS0hI9aba/I164SvoT6sPUQdkcTlOWxK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ①</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97731593</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97731593"/>
-        <updated>2022-12-06T10:11:52.429Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97731593"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ctdmhX/btrSZSPoQKr/ztkETBbV7FfZ6ztoY5fyA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
