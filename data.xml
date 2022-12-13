@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 00:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 02:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,13 @@
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검은 산 : 2022년 울진 산불]]></title>
+            <link>https://pages.newstapa.org/n2211_blackmountain</link>
+            <guid>https://pages.newstapa.org/n2211_blackmountain</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/09162102-E1D5-CA57-508C-QNOA8THHDRTAUOT868MC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이태원 참사, 부재의 시간]]></title>
