@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 13:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박]]></title>
+            <link>http://newstapa.org/article/w5jJB</link>
+            <guid>http://newstapa.org/article/w5jJB</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/15185922-E9FE-E04C-DECD-8LOFCMSO01ZTMW1S225T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3년 소송으로 알아낸 ‘윤석열 검찰 특수활동비’의 비밀]]></title>
+            <link>http://newstapa.org/article/LHWbJ</link>
+            <guid>http://newstapa.org/article/LHWbJ</guid>
+            <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[3년 소송으로 알아낸 ‘윤석열 검찰 특수활동비’의 비밀]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/15185622-C410-0F99-3042-YTTL4JQTHH4G1HJO9RHA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법으로 본 이태원 참사 책임자들 ② 김광호, 경찰대 출신 청장 '패싱'... '마약수사'에만 집중]]></title>
             <link>http://newstapa.org/article/q_-G-</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ④ ‘론스타 사건 키맨’ 김석동 검찰 진술 조서 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27152459-FC8B-2E8D-3682-LTZPVD1BBOJF5TXT2SCY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></title>
-            <link>http://newstapa.org/article/g0EII</link>
-            <guid>http://newstapa.org/article/g0EII</guid>
-            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/26145125-495A-8072-FCEF-Y6N6XG5V5EK9V3P0XUPK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바비큐 야유회인가, 정책 개발 워크숍인가]]></title>
-            <link>http://newstapa.org/article/iT8Wt</link>
-            <guid>http://newstapa.org/article/iT8Wt</guid>
-            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[바비큐 야유회인가, 정책 개발 워크숍인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25083607-E78C-6550-10C6-I7WO93YBC5ZB462PFCLY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

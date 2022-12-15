@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-15T08:18:26.170Z</updated>
+    <updated>2022-12-15T13:28:43.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97866297</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97866297"/>
+        <updated>2022-12-15T13:28:42.700Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97866297"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d9Ceci/btrTKsJkJSr/RW6R2uyCIcKxLVd4zimyrk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3년 소송으로 알아낸 ‘윤석열 검찰 특수활동비’의 비밀]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97866269</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97866269"/>
+        <updated>2022-12-15T13:28:42.702Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97866269"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tO9e7/btrTKtVIwOh/OziBXbaCwXzNPejj1kn8fK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">3년 소송으로 알아낸 ‘윤석열 검찰 특수활동비’의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ②]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97841369</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97785162"/>
         <updated>2022-12-14T06:14:06.905Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97785162"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/JIBEF/btrTf68kO3n/sKYHRrGqjNVSod3jG5gnT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"일하다 감전돼 죽었다"... 대우조선 '미규명' 사망 산재</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘중대재해율 0%’ 대우조선해양의 참혹한 ‘원하청 산재 차별’]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97784011</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97784011"/>
-        <updated>2022-12-14T06:14:06.906Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97784011"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wfRr8/btrThfiBp6s/ewfiId7lzF6Sbk4IRF9KF0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘중대재해율 0%’ 대우조선해양의 참혹한 ‘원하청 산재 차별’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검은 산 : 2022년 울진 산불]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97783920</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97783920"/>
-        <updated>2022-12-14T06:14:06.908Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97783920"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c5wi3m/btrTf7FTm00/6guTVZ1STgrFZJIm7Kzo60/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검은 산 : 2022년 울진 산불</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
