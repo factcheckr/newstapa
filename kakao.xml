@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-18T05:14:44.859Z</updated>
+    <updated>2022-12-18T06:17:54.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97893705</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97893705"/>
+        <updated>2022-12-18T06:17:53.558Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97893705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yK6sp/btrTTqqNwWV/6FKrjzezsLPQt1rczNN8E1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"기억은 힘이 세다" 이태원참사 첫 시민추모제 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["저는 이태원 참사 유가족이자 생존자, 그리고 목격자입니다”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97877247</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97830986"/>
         <updated>2022-12-14T06:14:06.903Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97830986"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lhY2y/btrTt1lXYs0/tCZ5KcUdHSrtQrO09MIor0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"치료부터 받아라"는 말에 거세지는 유족 분노</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97804099</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97804099"/>
-        <updated>2022-12-14T06:14:06.904Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97804099"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/diWZ4i/btrTmYaks3d/7W8j9ZT7g1HSY5sQtFVHl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

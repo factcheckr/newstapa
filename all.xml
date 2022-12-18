@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 05:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 06:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/7_RsP</link>
+            <guid>http://newstapa.org/article/7_RsP</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/18143120-2AF8-8A58-8B68-PDSMW80IC216HG4D3YA7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["저는 이태원 참사 유가족이자 생존자, 그리고 목격자입니다” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ME_lJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/05132633-9B74-C4F3-FC67-NESKJ0ZKMQV0QZWOJE16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 이명박 정부도 추진한 안전운임제가 명분없는 요구일까? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/8H-w1</link>
-            <guid>http://newstapa.org/article/8H-w1</guid>
-            <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 이명박 정부도 추진한 안전운임제가 명분없는 요구일까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/06101643-15F2-F7A7-0043-WO5UYC1N57FRTFA91CYT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05173155-64D6-D59D-6315-ZBRMI88VWVZWAF83TDHC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/7_RsP</link>
+            <guid>http://newstapa.org/article/7_RsP</guid>
+            <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/18143120-2AF8-8A58-8B68-PDSMW80IC216HG4D3YA7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["저는 이태원 참사 유가족이자 생존자, 그리고 목격자입니다” (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/ME_lJ</link>
             <guid>http://newstapa.org/article/ME_lJ</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 23 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["우리가 반정부 세력입니까?" 이태원 참사 유족의 절규]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/23134830-2C78-5CC6-2A3C-OPCLZTM6YLC1JNJTFI8C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사, 부재의 시간' 타임라인 공개 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/b9S8Q</link>
-            <guid>http://newstapa.org/article/b9S8Q</guid>
-            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 참사, 부재의 시간' 타임라인 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/21160403-C198-FBB0-1933-8XTWSGW88Z8G955A4ZCN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3021,6 +3021,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/97893705</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/97893705</guid>
+            <pubDate>Sun, 18 Dec 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97893705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yK6sp/btrTTqqNwWV/6FKrjzezsLPQt1rczNN8E1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"기억은 힘이 세다" 이태원참사 첫 시민추모제 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["저는 이태원 참사 유가족이자 생존자, 그리고 목격자입니다” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97877247</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97877247</guid>
@@ -3054,13 +3061,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97830986</guid>
             <pubDate>Wed, 14 Dec 2022 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97830986"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lhY2y/btrTt1lXYs0/tCZ5KcUdHSrtQrO09MIor0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"치료부터 받아라"는 말에 거세지는 유족 분노</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97804099</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97804099</guid>
-            <pubDate>Wed, 14 Dec 2022 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97804099"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/diWZ4i/btrTmYaks3d/7W8j9ZT7g1HSY5sQtFVHl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
