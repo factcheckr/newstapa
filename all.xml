@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 04:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 06:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/V7KGS</link>
+            <guid>http://newstapa.org/article/V7KGS</guid>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/19135739-E0C4-1031-A111-VI1ANFEYK99SWALH58SA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/7_RsP</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/05192638-3707-1415-CB74-CGQTXGKLSMQZN1LITAJM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/SCTzO</link>
-            <guid>http://newstapa.org/article/SCTzO</guid>
-            <pubDate>Mon, 05 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[여행가이드 따라 관광명소 다닌 1억짜리 미국 공무국외출장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/05132633-9B74-C4F3-FC67-NESKJ0ZKMQV0QZWOJE16.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/V7KGS</link>
+            <guid>http://newstapa.org/article/V7KGS</guid>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/19135739-E0C4-1031-A111-VI1ANFEYK99SWALH58SA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이태원 참사... 이상민 장관과 대통령실의 '대국민 거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/01222447-C1EA-E83F-186D-CZTAL2Q69UM8MLF36V6W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<론스타, 기록과 증언> ④ ‘론스타 사건 키맨’ 김석동 검찰 진술 조서 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/IwdCa</link>
-            <guid>http://newstapa.org/article/IwdCa</guid>
-            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ④ ‘론스타 사건 키맨’ 김석동 검찰 진술 조서 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27152459-FC8B-2E8D-3682-LTZPVD1BBOJF5TXT2SCY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ② (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/26140937-917C-A283-2AA1-30C9GJBY4ECG1P8RV7QL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/V7KGS</link>
+            <guid>http://newstapa.org/article/V7KGS</guid>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/19135739-E0C4-1031-A111-VI1ANFEYK99SWALH58SA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/w5jJB</link>
             <guid>http://newstapa.org/article/w5jJB</guid>
@@ -510,14 +518,6 @@
             <pubDate>Mon, 11 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘윤석열 특수활동비’ 항소심, 더 이상 시간끌기는 안 돼]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/11113917-94B8-C1BA-B3F1-ULG5BAWEKN9QJSUM5P8O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/QZQ0q</link>
-            <guid>http://newstapa.org/article/QZQ0q</guid>
-            <pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 법원의 가구 수의계약 위법 확인... 검찰 ‘특혜 유착’ 수사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/21101718-BD21-F18F-508D-ERZX6SQRYRV96HIHN7UV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대우조선, 하청 대금 멋대로 주면서 ‘소송 불가’ 합의 요구 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -3021,6 +3021,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/97904348</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/97904348</guid>
+            <pubDate>Mon, 19 Dec 2022 06:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97904348"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUTAed/btrT3p57wHG/nK2g3BUGoKi54SwmYhfYc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 한동훈과 이원석, 상고 말고 공개해야</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97893705</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97893705</guid>
@@ -3054,13 +3061,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97841369</guid>
             <pubDate>Wed, 14 Dec 2022 06:14:06 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97841369"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g3YtQ/btrTFbzJgwK/jjIBgvQBfWIKdHWyzxbHaK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ②</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["치료부터 받아라"는 말에 거세지는 유족 분노 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97830986</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97830986</guid>
-            <pubDate>Wed, 14 Dec 2022 06:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97830986"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lhY2y/btrTt1lXYs0/tCZ5KcUdHSrtQrO09MIor0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"치료부터 받아라"는 말에 거세지는 유족 분노</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
