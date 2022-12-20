@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-20T09:19:14.993Z</updated>
+    <updated>2022-12-20T10:15:54.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97925886</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97925886"/>
+        <updated>2022-12-20T10:15:53.510Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97925886"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbCEPd/btrT6XivTAN/8guINdlBKxUCjOV5ywOcmk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97904348</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97866269"/>
         <updated>2022-12-15T13:28:42.702Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97866269"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tO9e7/btrTKtVIwOh/OziBXbaCwXzNPejj1kn8fK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">3년 소송으로 알아낸 ‘윤석열 검찰 특수활동비’의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ②]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97841369</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97841369"/>
-        <updated>2022-12-14T06:14:06.902Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97841369"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/g3YtQ/btrTFbzJgwK/jjIBgvQBfWIKdHWyzxbHaK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ②</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
