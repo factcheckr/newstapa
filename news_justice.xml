@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 04:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 05:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③]]></title>
+            <link>http://newstapa.org/article/oQMcm</link>
+            <guid>http://newstapa.org/article/oQMcm</guid>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/21011850-F2F2-C784-B80C-BTXLTUS6BLEW3H1O28RY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로]]></title>
             <link>http://newstapa.org/article/57d0R</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 론스타 '스모킹 건' 발견... 그들은 알고 있었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27162939-AAC4-3743-D405-0U5BFIDPBVGUIDHGGCVI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<론스타, 기록과 증언> ③ ‘론스타 기록’ 속, 두 개의 재경부 문서]]></title>
-            <link>http://newstapa.org/article/dNgWs</link>
-            <guid>http://newstapa.org/article/dNgWs</guid>
-            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;론스타, 기록과 증언&gt; ③ ‘론스타 기록’ 속, 두 개의 재경부 문서]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27152736-335E-A130-B8D8-DB5JS32JHTHPX2448B2D.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
