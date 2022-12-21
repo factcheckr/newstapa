@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-21T00:41:30.325Z</updated>
+    <updated>2022-12-21T03:11:52.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97931642</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97931642"/>
+        <updated>2022-12-21T03:11:52.400Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97931642"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Ni6mQ/btrT9At2h3h/w9B6u8PiZVAKqmkYqkSej1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97925886</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97866297"/>
         <updated>2022-12-15T13:28:42.700Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97866297"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d9Ceci/btrTKsJkJSr/RW6R2uyCIcKxLVd4zimyrk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2심도 승소... ‘검사 윤석열’의 특수활동비 공개 임박 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 소송으로 알아낸 ‘윤석열 검찰 특수활동비’의 비밀]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97866269</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97866269"/>
-        <updated>2022-12-15T13:28:42.702Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97866269"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tO9e7/btrTKtVIwOh/OziBXbaCwXzNPejj1kn8fK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">3년 소송으로 알아낸 ‘윤석열 검찰 특수활동비’의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
