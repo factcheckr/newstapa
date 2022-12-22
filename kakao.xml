@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-22T00:49:47.706Z</updated>
+    <updated>2022-12-22T04:20:31.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97948381</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97948381"/>
+        <updated>2022-12-22T04:20:31.185Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97948381"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dDiE6A/btrUeJLy3Ck/DU02gkH2ryWeMb8jpiUKNk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97936145</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97893705"/>
         <updated>2022-12-18T06:17:53.558Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97893705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yK6sp/btrTTqqNwWV/6FKrjzezsLPQt1rczNN8E1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"기억은 힘이 세다" 이태원참사 첫 시민추모제 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저는 이태원 참사 유가족이자 생존자, 그리고 목격자입니다”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97877247</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97877247"/>
-        <updated>2022-12-16T07:10:47.634Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97877247"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kf7md/btrTPLIsKEx/pnQfnITvn6t2IfPhGT0ub0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"저는 이태원 참사 유가족이자 생존자, 그리고 목격자입니다”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

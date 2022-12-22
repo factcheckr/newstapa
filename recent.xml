@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 00:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 04:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<법으로 본 이태원 참사 책임자들> ③ 윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시]]></title>
+            <link>http://newstapa.org/article/jrOsy</link>
+            <guid>http://newstapa.org/article/jrOsy</guid>
+            <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;법으로 본 이태원 참사 책임자들&gt; ③ 윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/21183701-4279-D7C3-E685-D7YABPLFUEEJY20JVA5U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③]]></title>
             <link>http://newstapa.org/article/oQMcm</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/08192427-915E-50CD-489F-24F8N7BZUE32EY1SDSPB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요"]]></title>
-            <link>http://newstapa.org/article/It8m0</link>
-            <guid>http://newstapa.org/article/It8m0</guid>
-            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 한달 "동생의 체취마저 날아가 버릴까 두려워요"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/12134942-FEDD-7628-21A7-Q6XL1A9WSWDFI3KZFULI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
