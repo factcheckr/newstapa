@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-22T10:15:22.976Z</updated>
+    <updated>2022-12-22T11:09:38.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97960473</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97960473"/>
+        <updated>2022-12-22T11:09:37.951Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97960473"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/blBDCj/btrUnX167f3/4VtClfsQxiKKlY148MBmE0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97948381</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97904348"/>
         <updated>2022-12-19T06:17:46.520Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97904348"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUTAed/btrT3p57wHG/nK2g3BUGoKi54SwmYhfYc0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 한동훈과 이원석, 상고 말고 공개해야</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기억은 힘이 세다" 이태원참사 첫 시민추모제]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97893705</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97893705"/>
-        <updated>2022-12-18T06:17:53.558Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97893705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yK6sp/btrTTqqNwWV/6FKrjzezsLPQt1rczNN8E1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"기억은 힘이 세다" 이태원참사 첫 시민추모제 </span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
