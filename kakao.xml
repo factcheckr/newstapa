@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-23T07:15:02.446Z</updated>
+    <updated>2022-12-23T08:13:03.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["잊지 말아 주세요"... 세상 앞으로 나선 아빠들]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97973792</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97973792"/>
+        <updated>2022-12-23T08:13:02.855Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97973792"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bK5OSP/btrUsIxOx93/IMRyIAL4PawdPu58ivI9eK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"잊지 말아 주세요"... 세상 앞으로 나선 아빠들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['윤석열 특수활동비' 1·2심 판결문 분석… 파훼된 검찰의 변론]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97969658</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97931642"/>
         <updated>2022-12-21T03:11:52.400Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97931642"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Ni6mQ/btrT9At2h3h/w9B6u8PiZVAKqmkYqkSej1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97925886</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97925886"/>
-        <updated>2022-12-20T10:15:53.510Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97925886"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbCEPd/btrT6XivTAN/8guINdlBKxUCjOV5ywOcmk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
