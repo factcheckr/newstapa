@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-26T00:45:39.438Z</updated>
+    <updated>2022-12-26T02:14:06.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97993363</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97993363"/>
+        <updated>2022-12-26T02:14:05.804Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97993363"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vTha2/btrUuHmaXDB/JIHcmu70qWxvarlgtfwia0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파, 재난통신망 1조 5천억 행방 전수조사]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/97993275</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/97993275"/>
+        <updated>2022-12-26T02:14:05.808Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97993275"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dKel9b/btrUGqW0gn0/sjwvDcXOg60zklJqvbFqr0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 재난통신망 1조 5천억 행방 전수조사</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["잊지 말아 주세요"... 세상 앞으로 나선 아빠들]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97973792</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97948381"/>
         <updated>2022-12-22T04:20:31.185Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97948381"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dDiE6A/btrUeJLy3Ck/DU02gkH2ryWeMb8jpiUKNk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97936145</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97936145"/>
-        <updated>2022-12-21T05:14:40.019Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97936145"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/t2MJW/btrUb4gXOZ1/N2J2xDHO5mw5hVh9Onz2p1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97931642</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97931642"/>
-        <updated>2022-12-21T03:11:52.400Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97931642"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Ni6mQ/btrT9At2h3h/w9B6u8PiZVAKqmkYqkSej1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

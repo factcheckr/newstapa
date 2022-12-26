@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 00:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 02:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></title>
+            <link>http://newstapa.org/article/YlS0E</link>
+            <guid>http://newstapa.org/article/YlS0E</guid>
+            <pubDate>Mon, 26 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/23174741-560A-19C5-8D3D-NCRAVESJ7NAARYQH2ZIX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, 재난통신망 1조 5천억 행방 전수조사]]></title>
+            <link>http://newstapa.org/article/QKQz5</link>
+            <guid>http://newstapa.org/article/QKQz5</guid>
+            <pubDate>Mon, 26 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 재난통신망 1조 5천억 행방 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/23164357-7B19-7737-A855-T4H3EVY1RFEXBCYMXMQF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["잊지 말아 주세요"... 세상 앞으로 나선 아빠들]]></title>
             <link>http://newstapa.org/article/gesf-</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한 달 만에 공개된 경찰 무전망... 참사 1시간 전 경찰 "인파를 인도로 밀어 올려" 지시]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/29182322-6ADE-CC4E-64DE-QM97C8IF4AY4IEH1FWTU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></title>
-            <link>http://newstapa.org/article/ZiySX</link>
-            <guid>http://newstapa.org/article/ZiySX</guid>
-            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사, 산 자의 눈물과 국가의 의무]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161706-4DD5-69DB-2CE7-28MTYK55LVSGAYGJ3MKI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></title>
-            <link>http://newstapa.org/article/1NopC</link>
-            <guid>http://newstapa.org/article/1NopC</guid>
-            <pubDate>Thu, 24 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원, 세 개의 길, 그리고 밤 10시 13분]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/24161740-573B-4253-B368-3MNFUDD9INHD4P5J0NPN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

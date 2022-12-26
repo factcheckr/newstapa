@@ -4,15 +4,23 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 00:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 02:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA['불법하도급·담합' KT와 리노스의 화려한 부활]]></title>
+            <title><![CDATA[뉴스타파, 재난통신망 1조 5천억 행방 전수조사]]></title>
+            <link>http://newstapa.org/article/QKQz5</link>
+            <guid>http://newstapa.org/article/QKQz5</guid>
+            <pubDate>Mon, 26 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 재난통신망 1조 5천억 행방 전수조사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/23164357-7B19-7737-A855-T4H3EVY1RFEXBCYMXMQF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></title>
             <link>http://newstapa.org/article/YlS0E</link>
             <guid>http://newstapa.org/article/YlS0E</guid>
             <pubDate>Mon, 26 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['불법하도급·담합' KT와 리노스의 화려한 부활]]></content:encoded>
+            <content:encoded><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/23174741-560A-19C5-8D3D-NCRAVESJ7NAARYQH2ZIX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["치료부터 받아라"는 말에 거세지는 유족 분노]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/13171823-4D32-BE51-2759-FUELV1G6KQSVKJSUEZRD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다]]></title>
-            <link>http://newstapa.org/article/Vc39P</link>
-            <guid>http://newstapa.org/article/Vc39P</guid>
-            <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/12140407-477D-BF84-A4B6-T2H5EU9UZ7US2YSB09NW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
