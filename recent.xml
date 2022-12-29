@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 00:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 02:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></title>
+            <link>http://newstapa.org/article/mus5Z</link>
+            <guid>http://newstapa.org/article/mus5Z</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/28164652-CDFA-2812-1457-O9P3B05OX62GRZXZFGJ1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 재난통신망 1조 5천억 행방 전수조사]]></title>
             <link>http://newstapa.org/article/QKQz5</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ②]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/14015536-CCE0-5B52-5326-7B6N4O9TH98AEFHM1F0F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["치료부터 받아라"는 말에 거세지는 유족 분노]]></title>
-            <link>http://newstapa.org/article/75wum</link>
-            <guid>http://newstapa.org/article/75wum</guid>
-            <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["치료부터 받아라"는 말에 거세지는 유족 분노]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/13171823-4D32-BE51-2759-FUELV1G6KQSVKJSUEZRD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

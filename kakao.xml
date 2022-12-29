@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-29T00:48:59.450Z</updated>
+    <updated>2022-12-29T02:14:20.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98039500</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98039500"/>
+        <updated>2022-12-29T02:14:19.888Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98039500"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ROC1I/btrUQcejN3Y/KEzl0zd6Zyci3Ji3newxs1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/97993363</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/97960473"/>
         <updated>2022-12-22T11:09:37.951Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97960473"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/blBDCj/btrUnX167f3/4VtClfsQxiKKlY148MBmE0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/97948381</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/97948381"/>
-        <updated>2022-12-22T04:20:31.185Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/97948381"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dDiE6A/btrUeJLy3Ck/DU02gkH2ryWeMb8jpiUKNk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

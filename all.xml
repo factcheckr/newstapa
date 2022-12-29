@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 00:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 02:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/mus5Z</link>
+            <guid>http://newstapa.org/article/mus5Z</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/28164652-CDFA-2812-1457-O9P3B05OX62GRZXZFGJ1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 재난통신망 1조 5천억 행방 전수조사 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/QKQz5</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ②]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/14015536-CCE0-5B52-5326-7B6N4O9TH98AEFHM1F0F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["치료부터 받아라"는 말에 거세지는 유족 분노 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/75wum</link>
-            <guid>http://newstapa.org/article/75wum</guid>
-            <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["치료부터 받아라"는 말에 거세지는 유족 분노]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/13171823-4D32-BE51-2759-FUELV1G6KQSVKJSUEZRD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['윤석열 특수활동비' 1·2심 판결문 분석… 파훼된 검찰의 변론 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/08144633-1A85-35C3-92B2-STFRXS6MGL2KXDILAXYN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/mus5Z</link>
+            <guid>http://newstapa.org/article/mus5Z</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/28164652-CDFA-2812-1457-O9P3B05OX62GRZXZFGJ1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/oQMcm</link>
             <guid>http://newstapa.org/article/oQMcm</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[민변 “이태원 참사 일부 유족들 고립감 호소해...지원책 시급”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09102422-3DFD-F65A-C1B4-ZVC6YOF92066Z2TPOREO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 론스타 '스모킹 건' 발견... 그들은 알고 있었다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/4eW0X</link>
-            <guid>http://newstapa.org/article/4eW0X</guid>
-            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 론스타 '스모킹 건' 발견... 그들은 알고 있었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27162939-AAC4-3743-D405-0U5BFIDPBVGUIDHGGCVI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['윤석열 특수활동비' 1·2심 판결문 분석… 파훼된 검찰의 변론 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3021,6 +3021,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98039500</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98039500</guid>
+            <pubDate>Thu, 29 Dec 2022 02:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98039500"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ROC1I/btrUQcejN3Y/KEzl0zd6Zyci3Ji3newxs1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/97993363</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/97993363</guid>
@@ -3054,13 +3061,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97960473</guid>
             <pubDate>Thu, 22 Dec 2022 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97960473"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/blBDCj/btrUnX167f3/4VtClfsQxiKKlY148MBmE0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97948381</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97948381</guid>
-            <pubDate>Thu, 22 Dec 2022 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97948381"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dDiE6A/btrUeJLy3Ck/DU02gkH2ryWeMb8jpiUKNk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

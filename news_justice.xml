@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 00:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 02:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></title>
+            <link>http://newstapa.org/article/mus5Z</link>
+            <guid>http://newstapa.org/article/mus5Z</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/28164652-CDFA-2812-1457-O9P3B05OX62GRZXZFGJ1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③]]></title>
             <link>http://newstapa.org/article/oQMcm</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[민변 “이태원 참사 일부 유족들 고립감 호소해...지원책 시급”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09102422-3DFD-F65A-C1B4-ZVC6YOF92066Z2TPOREO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 론스타 '스모킹 건' 발견... 그들은 알고 있었다]]></title>
-            <link>http://newstapa.org/article/4eW0X</link>
-            <guid>http://newstapa.org/article/4eW0X</guid>
-            <pubDate>Thu, 27 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 론스타 '스모킹 건' 발견... 그들은 알고 있었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/27162939-AAC4-3743-D405-0U5BFIDPBVGUIDHGGCVI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
