@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 09:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 11:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> '한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월]]></title>
+            <link>http://newstapa.org/article/sTtVa</link>
+            <guid>http://newstapa.org/article/sTtVa</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; '한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29181200-575F-57BF-7499-D9Q2YUU3A9RTDPPDES22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MB 때와 판박이...윤석열표 언론 자유]]></title>
+            <link>http://newstapa.org/article/3F-Al</link>
+            <guid>http://newstapa.org/article/3F-Al</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[MB 때와 판박이...윤석열표 언론 자유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/27163157-F53E-8F81-84DA-P8B4JQJ54D5HREWUJZAC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 조선일보 기자의 기사 작성법]]></title>
             <link>http://newstapa.org/article/PR7YM</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 10 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 검찰 송치]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/10154525-968D-D111-57BC-EH9UW8HOMLINVNLA55YK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></title>
-            <link>http://newstapa.org/article/gN-Vn</link>
-            <guid>http://newstapa.org/article/gN-Vn</guid>
-            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 국힘 ‘배우자 포럼’ 만드나 안 만드나…민주당은?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/29142153-5E33-DC43-AAAD-FERKRSBV94IUISN0YB5G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명에게 20억 전달?... 박철민 폭로 검증]]></title>
-            <link>http://newstapa.org/article/Ga2Kd</link>
-            <guid>http://newstapa.org/article/Ga2Kd</guid>
-            <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명에게 20억 전달?... 박철민 폭로 검증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/24155132-0ABA-F311-722D-8LVPQZNTBN6LW0TPPPKR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
