@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 07:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 08:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3021,6 +3021,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98048284</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98048284</guid>
+            <pubDate>Thu, 29 Dec 2022 08:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98048284"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/be3dKp/btrUN2wW0Hp/UeN4DXLLyytBwd2pxrzlz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98039500</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98039500</guid>
@@ -3054,13 +3061,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/97969658</guid>
             <pubDate>Fri, 23 Dec 2022 06:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97969658"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dsy7Cq/btrUrUxB8g6/4x8Qwt5sCrdP5UUfcBNdK0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤석열 특수활동비' 1·2심 판결문 분석… 파훼된 검찰의 변론</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/97960473</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/97960473</guid>
-            <pubDate>Thu, 22 Dec 2022 11:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/97960473"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/blBDCj/btrUnX167f3/4VtClfsQxiKKlY148MBmE0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
