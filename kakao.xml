@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2022-12-30T05:14:29.216Z</updated>
+    <updated>2022-12-30T06:17:10.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98061718</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98061718"/>
+        <updated>2022-12-30T06:17:09.916Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98061718"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b0J9mA/btrUTILmXpq/RaKZtSXISpKaBwLpAaYkK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98051484</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98048284"/>
         <updated>2022-12-29T08:12:54.955Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98048284"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/be3dKp/btrUN2wW0Hp/UeN4DXLLyytBwd2pxrzlz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98039500</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98039500"/>
-        <updated>2022-12-29T02:14:19.888Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98039500"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ROC1I/btrUQcejN3Y/KEzl0zd6Zyci3Ji3newxs1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

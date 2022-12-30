@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 05:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 06:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></title>
+            <link>http://newstapa.org/article/nlevi</link>
+            <guid>http://newstapa.org/article/nlevi</guid>
+            <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/30115708-EEEF-5205-A617-KVVS5136SDXJLIQ67YGB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></title>
             <link>http://newstapa.org/article/mus5Z</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 34쪽 정진상 압색영장 입수...‘선거자금 4억’ 결국 이재명 수사로]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10102657-016C-CA99-E110-71SA1R0NCQ0PU36MD5LJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민변 “이태원 참사 일부 유족들 고립감 호소해...지원책 시급”]]></title>
-            <link>http://newstapa.org/article/X2bxS</link>
-            <guid>http://newstapa.org/article/X2bxS</guid>
-            <pubDate>Tue, 08 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민변 “이태원 참사 일부 유족들 고립감 호소해...지원책 시급”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/09102422-3DFD-F65A-C1B4-ZVC6YOF92066Z2TPOREO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

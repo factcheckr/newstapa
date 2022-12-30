@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 05:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 06:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></title>
+            <link>http://newstapa.org/article/nlevi</link>
+            <guid>http://newstapa.org/article/nlevi</guid>
+            <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/30115708-EEEF-5205-A617-KVVS5136SDXJLIQ67YGB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> '한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월]]></title>
             <link>http://newstapa.org/article/sTtVa</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/20182407-08C8-26A8-7595-Q54FFMK51HX3ACV6QYG8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야]]></title>
-            <link>http://newstapa.org/article/V7KGS</link>
-            <guid>http://newstapa.org/article/V7KGS</guid>
-            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 한동훈과 이원석, 상고 말고 공개해야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/19135739-E0C4-1031-A111-VI1ANFEYK99SWALH58SA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
