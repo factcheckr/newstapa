@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 04:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 09:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/oR1R1</link>
+            <guid>http://newstapa.org/article/oR1R1</guid>
+            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03170932-4F1F-37EF-B078-5TPMSFTC58XUOSPBNR1X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/OI3aU</link>
+            <guid>http://newstapa.org/article/OI3aU</guid>
+            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03111813-FDE5-BA99-6E95-T565UBDOOBHG3FRZHP98.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세상을 바꾸는 힘' 2022 뉴스타파 회원의 밤 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/UXj3n</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;법으로 본 이태원 참사 책임자들&gt; ③ 윤희근, ‘시위 관리’로 훈장… 다중운집 매뉴얼 무시]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/21183701-4279-D7C3-E685-D7YABPLFUEEJY20JVA5U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③ (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/oQMcm</link>
-            <guid>http://newstapa.org/article/oQMcm</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ③]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/21011850-F2F2-C784-B80C-BTXLTUS6BLEW3H1O28RY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/57d0R</link>
-            <guid>http://newstapa.org/article/57d0R</guid>
-            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정진상 공소장 분석...유동규·남욱은 봐주고, ‘이재명 4억’은 ‘수억’으로]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/20171907-8F8F-BA4F-FBDF-7UTYZHTN92TE8FPRP01P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> '한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/18174505-4A67-0B25-58C8-BW7NMV3IL8SMTHCO9M1T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/OI3aU</link>
+            <guid>http://newstapa.org/article/OI3aU</guid>
+            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03111813-FDE5-BA99-6E95-T565UBDOOBHG3FRZHP98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/nlevi</link>
             <guid>http://newstapa.org/article/nlevi</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정진상 34쪽 압색영장 속 천화동인 1호 ‘그분’ 실체는]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10180746-4BF8-4F00-35AA-SLL1KZOWDR0GSSSPR96N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 34쪽 정진상 압색영장 입수...‘선거자금 4억’ 결국 이재명 수사로 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/R1eXV</link>
-            <guid>http://newstapa.org/article/R1eXV</guid>
-            <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 34쪽 정진상 압색영장 입수...‘선거자금 4억’ 결국 이재명 수사로]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/10102657-016C-CA99-E110-71SA1R0NCQ0PU36MD5LJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['윤석열 특수활동비' 1·2심 판결문 분석… 파훼된 검찰의 변론 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01183947-E612-99C7-F6DB-A0N02UHQABRPY4DJK2N3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/oR1R1</link>
+            <guid>http://newstapa.org/article/oR1R1</guid>
+            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03170932-4F1F-37EF-B078-5TPMSFTC58XUOSPBNR1X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/7FSFa</link>
             <guid>http://newstapa.org/article/7FSFa</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대통령의 '가이드라인'에 헛도는 참사 대책]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/01190834-8B38-0864-BCA5-IC0WZEEZ2UILJ7F84KBS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매뉴얼 있는데 또 만든다…참사 한 달 ‘경찰 대혁신 TF’가 하는 일 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/NEUf6</link>
-            <guid>http://newstapa.org/article/NEUf6</guid>
-            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[매뉴얼 있는데 또 만든다…참사 한 달 ‘경찰 대혁신 TF’가 하는 일]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/01144948-23D6-A9F8-EE33-MF2RGR1S1S8X37HVFO5I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -2765,6 +2765,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/OI3aU</link>
+            <guid>https://www.newstapa.org/article/OI3aU</guid>
+            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.01.03]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03111813-FDE5-BA99-6E95-T565UBDOOBHG3FRZHP98.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/fdX23</link>
             <guid>https://www.newstapa.org/article/fdX23</guid>
@@ -2883,14 +2891,6 @@
             <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/15174538-66A0-2E84-EFB6-PMZRZCYU6C7D4E0T0ORJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] "언론사 포럼에 들어간 세금 공개하라"... 뉴스타파, 행정심판 승소 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/CV3ag</link>
-            <guid>https://www.newstapa.org/article/CV3ag</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/05103518-FB7E-10EF-A149-6K08GAZ481L3PYWAWN8L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 참여)]]></title>
@@ -3021,6 +3021,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98117948</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98117948</guid>
+            <pubDate>Tue, 03 Jan 2023 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98117948"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TyLkd/btrVh56AzqL/Euy1Xn2l7LDlxHaGIyWgn0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도를 넘는 '2차 가해'... 대책도 의지도 없는 정부</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98114430</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98114430</guid>
+            <pubDate>Tue, 03 Jan 2023 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98114430"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lntbp/btrVcMGZLct/2oz14EMPk4EWZrF0nrlUkk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98061718</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98061718</guid>
@@ -3047,20 +3061,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98051449</guid>
             <pubDate>Thu, 29 Dec 2022 11:13:48 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98051449"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bt03IX/btrUWQ2nn4S/Gd97Xwx5ojRcLQXkt2NMK0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">MB 때와 판박이...윤석열표 언론 자유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 8개월…“잘못하고도 고치지 않는다” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98051413</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98051413</guid>
-            <pubDate>Thu, 29 Dec 2022 11:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98051413"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcu4jJ/btrUWSTm5Cd/m3DBZEuNfTEZvtw41jISQK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 8개월…“잘못하고도 고치지 않는다”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98048284</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98048284</guid>
-            <pubDate>Thu, 29 Dec 2022 08:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98048284"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/be3dKp/btrUN2wW0Hp/UeN4DXLLyytBwd2pxrzlz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

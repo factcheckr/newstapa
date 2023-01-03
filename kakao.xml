@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-03T04:20:54.425Z</updated>
+    <updated>2023-01-03T09:11:04.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98117948</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98117948"/>
+        <updated>2023-01-03T09:11:03.614Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98117948"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TyLkd/btrVh56AzqL/Euy1Xn2l7LDlxHaGIyWgn0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도를 넘는 '2차 가해'... 대책도 의지도 없는 정부</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98114430</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98114430"/>
+        <updated>2023-01-03T09:11:03.615Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98114430"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lntbp/btrVcMGZLct/2oz14EMPk4EWZrF0nrlUkk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98061718</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98051449"/>
         <updated>2022-12-29T11:13:48.650Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98051449"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bt03IX/btrUWQ2nn4S/Gd97Xwx5ojRcLQXkt2NMK0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">MB 때와 판박이...윤석열표 언론 자유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 8개월…“잘못하고도 고치지 않는다”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98051413</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98051413"/>
-        <updated>2022-12-29T11:13:48.652Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98051413"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bcu4jJ/btrUWSTm5Cd/m3DBZEuNfTEZvtw41jISQK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 8개월…“잘못하고도 고치지 않는다”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98048284</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98048284"/>
-        <updated>2022-12-29T08:12:54.955Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98048284"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/be3dKp/btrUN2wW0Hp/UeN4DXLLyytBwd2pxrzlz1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
