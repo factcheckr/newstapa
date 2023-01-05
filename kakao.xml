@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-05T10:15:58.064Z</updated>
+    <updated>2023-01-05T11:14:37.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈신년기획〉 4대강 해답, 미국에서 찾다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98154140</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98154140"/>
+        <updated>2023-01-05T11:14:36.791Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98154140"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DQgwj/btrVpu0MZCH/qNGA90yVi65escHf6C1LUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈신년기획〉 4대강 해답, 미국에서 찾다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98134722</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98061718"/>
         <updated>2022-12-30T06:17:09.916Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98061718"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b0J9mA/btrUTILmXpq/RaKZtSXISpKaBwLpAaYkK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98051484</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98051484"/>
-        <updated>2022-12-29T11:13:48.640Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98051484"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cziBUc/btrURkRr276/ciAVBfBOhkbvsk4zWGgVhk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
