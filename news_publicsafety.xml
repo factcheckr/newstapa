@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 06:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 08:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄마는 투사가 됐다...“산처럼 든든했던 딸, 산하를 위해”]]></title>
+            <link>http://newstapa.org/article/24hbO</link>
+            <guid>http://newstapa.org/article/24hbO</guid>
+            <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[엄마는 투사가 됐다...“산처럼 든든했던 딸, 산하를 위해”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/05220204-369F-2BBA-9F28-7V3IQ74HQOS3HSH6TGPN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료]]></title>
             <link>http://newstapa.org/article/FnBUj</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/01190928-3378-F7D7-9982-CVAO2CXSAG569K4RECGT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["사랑하는 우리 딸, 널 위해 싸울게"... 이태원 참사 희생자 아버지의 마지막 소원]]></title>
-            <link>http://newstapa.org/article/DZewf</link>
-            <guid>http://newstapa.org/article/DZewf</guid>
-            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["사랑하는 우리 딸, 널 위해 싸울게"... 이태원 참사 희생자 아버지의 마지막 소원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/01122124-59B7-9E94-F31F-1LEYC4ZVGDFX36X9OKX4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
