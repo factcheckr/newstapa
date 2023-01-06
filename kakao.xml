@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-06T00:46:09.334Z</updated>
+    <updated>2023-01-06T02:25:04.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘50억 클럽’ 머니투데이 홍선근 회장, 두 아들 계좌로 49억 받았다가 돌려줬다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98159549</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98159549"/>
+        <updated>2023-01-06T02:25:03.684Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98159549"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/NvkVq/btrVujjyfWS/nXcttryi9VbpUyPsKp4Ulk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘50억 클럽’ 머니투데이 홍선근 회장, 두 아들 계좌로 49억 받았다가 돌려줬다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈신년기획〉 4대강 해답, 미국에서 찾다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98154140</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98114430"/>
         <updated>2023-01-03T09:11:03.615Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98114430"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lntbp/btrVcMGZLct/2oz14EMPk4EWZrF0nrlUkk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98061718</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98061718"/>
-        <updated>2022-12-30T06:17:09.916Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98061718"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b0J9mA/btrUTILmXpq/RaKZtSXISpKaBwLpAaYkK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">200억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
