@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-08T21:12:56.864Z</updated>
+    <updated>2023-01-09T00:44:25.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김만배, 법조계 로비 의혹...“판·검사들 골프 접대하고 100만원씩 용돈”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98189322</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98189322"/>
+        <updated>2023-01-09T00:44:25.275Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98189322"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bHmkey/btrVDh0aCdB/tJPr9lumEm42AuIlKc0Jyk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김만배, 법조계 로비 의혹...“판·검사들 골프 접대하고 100만원씩 용돈”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄마는 투사가 됐다...“산처럼 든든했던 딸, 산하를 위해”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98168369</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98126090"/>
         <updated>2023-01-04T03:19:51.765Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98126090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1isWD/btrVk5ZhSgT/ZnKIigCX8L4nPU5Vselx7k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김만배 240억대 비자금...‘50억 클럽’ 박영수 전 특검에 우회 흘러간 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98117948</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98117948"/>
-        <updated>2023-01-03T09:11:03.614Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98117948"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TyLkd/btrVh56AzqL/Euy1Xn2l7LDlxHaGIyWgn0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도를 넘는 '2차 가해'... 대책도 의지도 없는 정부</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
