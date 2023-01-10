@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-10T06:17:13.378Z</updated>
+    <updated>2023-01-10T07:10:25.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98213877</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98213877"/>
+        <updated>2023-01-10T07:10:24.912Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98213877"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/I6hwl/btrVPGTrySF/AL91ODPKGsBRqRMUH4LJg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김만배, 법조계 로비 의혹...“판·검사들 골프 접대하고 100만원씩 용돈”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98189322</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98134722"/>
         <updated>2023-01-04T11:14:43.457Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98134722"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP3HgC/btrVjQblzvM/0CFvVHpSfdODJQpME12cQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김만배 240억대 비자금...‘50억 클럽’ 박영수 전 특검에 우회 흘러간 정황]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98126090</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98126090"/>
-        <updated>2023-01-04T03:19:51.765Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98126090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1isWD/btrVk5ZhSgT/ZnKIigCX8L4nPU5Vselx7k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김만배 240억대 비자금...‘50억 클럽’ 박영수 전 특검에 우회 흘러간 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

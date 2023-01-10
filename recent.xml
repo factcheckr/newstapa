@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 06:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 07:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></title>
+            <link>http://newstapa.org/article/bNfGH</link>
+            <guid>http://newstapa.org/article/bNfGH</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/10153755-BA1A-1CA3-A2C3-JHICW15YA6CNYTKHMORA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐]]></title>
+            <link>http://newstapa.org/article/WkPWY</link>
+            <guid>http://newstapa.org/article/WkPWY</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/10142358-0EE9-EC29-F3B5-3ZWXZFND4HHP8DULMWXY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김만배, 성남시 공무원과 시의원도 골프 접대...“해외 나갈 땐 100만 원씩 챙겨줘”]]></title>
             <link>http://newstapa.org/article/QXTRs</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[MB 때와 판박이...윤석열표 언론 자유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/27163157-F53E-8F81-84DA-P8B4JQJ54D5HREWUJZAC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 제멋대로 '법과 원칙'...본질 외면한 노동탄압]]></title>
-            <link>http://newstapa.org/article/2CU44</link>
-            <guid>http://newstapa.org/article/2CU44</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 제멋대로 '법과 원칙'...본질 외면한 노동탄압]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29183248-4341-73DF-FB0E-UV3X4DBG30536UBRMBMW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건]]></title>
-            <link>http://newstapa.org/article/7FSFa</link>
-            <guid>http://newstapa.org/article/7FSFa</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29113711-59C7-44A6-DDC9-5USK6SSBEGBMF4VRW415.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
