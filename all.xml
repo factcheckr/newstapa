@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 07:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 09:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3021,6 +3021,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98215787</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98215787</guid>
+            <pubDate>Tue, 10 Jan 2023 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98215787"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AZ7b4/btrVO0Sk34g/chS1EG3VGjfvz8DxqhuxA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98213877</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98213877</guid>
@@ -3054,13 +3061,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98154140</guid>
             <pubDate>Thu, 05 Jan 2023 11:14:36 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98154140"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DQgwj/btrVpu0MZCH/qNGA90yVi65escHf6C1LUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈신년기획〉 4대강 해답, 미국에서 찾다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98134722</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98134722</guid>
-            <pubDate>Wed, 04 Jan 2023 11:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98134722"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP3HgC/btrVjQblzvM/0CFvVHpSfdODJQpME12cQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

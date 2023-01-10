@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-10T07:10:25.568Z</updated>
+    <updated>2023-01-10T09:15:01.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98215787</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98215787"/>
+        <updated>2023-01-10T09:15:00.603Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98215787"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AZ7b4/btrVO0Sk34g/chS1EG3VGjfvz8DxqhuxA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98213877</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98154140"/>
         <updated>2023-01-05T11:14:36.791Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98154140"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DQgwj/btrVpu0MZCH/qNGA90yVi65escHf6C1LUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈신년기획〉 4대강 해답, 미국에서 찾다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98134722</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98134722"/>
-        <updated>2023-01-04T11:14:43.457Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98134722"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP3HgC/btrVjQblzvM/0CFvVHpSfdODJQpME12cQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
