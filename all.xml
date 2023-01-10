@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 03:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 06:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/01183947-E612-99C7-F6DB-A0N02UHQABRPY4DJK2N3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/WkPWY</link>
+            <guid>http://newstapa.org/article/WkPWY</guid>
+            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/10142358-0EE9-EC29-F3B5-3ZWXZFND4HHP8DULMWXY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[엄마는 투사가 됐다...“산처럼 든든했던 딸, 산하를 위해” (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/24hbO</link>
             <guid>http://newstapa.org/article/24hbO</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[재난통신망 훈련 ‘응답률 0%’ 수두룩…행안부･서울시는 수수방관]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/06175213-45A1-5FD4-F31B-XGNDMBQGYFQ37RHUV25J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심' (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/QLdwr</link>
-            <guid>http://newstapa.org/article/QLdwr</guid>
-            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 참사 한 달... 윤석열 대통령의 '책임 묻지 않을 결심']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/01190928-3378-F7D7-9982-CVAO2CXSAG569K4RECGT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
