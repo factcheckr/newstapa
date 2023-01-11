@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 09:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 10:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마을이 갈라졌다, 한국전력의 송전탑 사업]]></title>
+            <link>http://newstapa.org/article/YlKu2</link>
+            <guid>http://newstapa.org/article/YlKu2</guid>
+            <pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[마을이 갈라졌다, 한국전력의 송전탑 사업]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/11171909-F2D4-8E98-9EA2-GH6OFMZ22GM8Q6JH51WO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국은 녹조로 사상 최대 댐 철거, 한국은 보 철거 뒤집는 중]]></title>
             <link>http://newstapa.org/article/v7tKM</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민건강 위협하는 4대강 반지성주의]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/24175207-796C-7F0F-1A8B-MN8V2WOBBO6PY1B4DNUP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></title>
-            <link>http://newstapa.org/article/K5GWe</link>
-            <guid>http://newstapa.org/article/K5GWe</guid>
-            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령을 위한 4대강 A to Z]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/11144931-A3CE-BE05-E481-EJDY2EDEHZ8AHQHAJ5JM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

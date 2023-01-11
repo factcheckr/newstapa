@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-11T09:17:05.068Z</updated>
+    <updated>2023-01-11T10:14:32.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마을이 갈라졌다, 한국전력의 송전탑 사업]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98235463</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98235463"/>
+        <updated>2023-01-11T10:14:31.534Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98235463"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jlOV2/btrV0hLO2jh/FYE5KzJ0NuuKKNzWxuSOs0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">마을이 갈라졌다, 한국전력의 송전탑 사업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98215787</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98159549"/>
         <updated>2023-01-06T02:25:03.684Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98159549"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/NvkVq/btrVujjyfWS/nXcttryi9VbpUyPsKp4Ulk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘50억 클럽’ 머니투데이 홍선근 회장, 두 아들 계좌로 49억 받았다가 돌려줬다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈신년기획〉 4대강 해답, 미국에서 찾다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98154140</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98154140"/>
-        <updated>2023-01-05T11:14:36.791Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98154140"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DQgwj/btrVpu0MZCH/qNGA90yVi65escHf6C1LUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈신년기획〉 4대강 해답, 미국에서 찾다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
