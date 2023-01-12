@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-12T10:14:11.557Z</updated>
+    <updated>2023-01-12T11:17:06.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98254279</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98254279"/>
+        <updated>2023-01-12T11:17:05.832Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98254279"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Nph3c/btrV2OqEAnm/zPT1ZYnKhlgrNsD53jc3r0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마을이 갈라졌다, 한국전력의 송전탑 사업]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98235463</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98168369"/>
         <updated>2023-01-06T08:16:36.426Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98168369"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eGvwAK/btrVxrWxwQP/zTN8t5S8MZgx1lkub6vs5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">엄마는 투사가 됐다...“산처럼 든든했던 딸, 산하를 위해”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘50억 클럽’ 머니투데이 홍선근 회장, 두 아들 계좌로 49억 받았다가 돌려줬다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98159549</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98159549"/>
-        <updated>2023-01-06T02:25:03.684Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98159549"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/NvkVq/btrVujjyfWS/nXcttryi9VbpUyPsKp4Ulk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘50억 클럽’ 머니투데이 홍선근 회장, 두 아들 계좌로 49억 받았다가 돌려줬다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
