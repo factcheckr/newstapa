@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 03:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 12:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대장동 사건 검찰 수사 검증]]></title>
+            <link>https://newstapa.org/projects/F7nW-</link>
+            <guid>https://newstapa.org/projects/F7nW-</guid>
+            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정권이 바뀌자마자 대장동 사건 재수사에 나선 검찰, 검찰의 수사 내용을 크로스 체크하고 검증합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/13145204-2C21-B201-EAAA-H827AOGRABXSM379NSR6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태원 참사]]></title>
             <link>https://newstapa.org/tags/%EC%9D%B4%ED%83%9C%EC%9B%90%EC%B0%B8%EC%82%AC</link>
