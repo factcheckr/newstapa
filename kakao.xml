@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-16T04:13:28.618Z</updated>
+    <updated>2023-01-16T05:11:04.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98296656</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98296656"/>
+        <updated>2023-01-16T05:11:04.034Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98296656"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cBAnQN/btrWqPU2sIV/ETULYtJMDhTxnrou1XeAV1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98254279</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98189322"/>
         <updated>2023-01-09T00:44:25.275Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98189322"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bHmkey/btrVDh0aCdB/tJPr9lumEm42AuIlKc0Jyk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김만배, 법조계 로비 의혹...“판·검사들 골프 접대하고 100만원씩 용돈”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마는 투사가 됐다...“산처럼 든든했던 딸, 산하를 위해”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98168369</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98168369"/>
-        <updated>2023-01-06T08:16:36.426Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98168369"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eGvwAK/btrVxrWxwQP/zTN8t5S8MZgx1lkub6vs5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">엄마는 투사가 됐다...“산처럼 든든했던 딸, 산하를 위해”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
