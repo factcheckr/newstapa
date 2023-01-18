@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 04:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 05:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 감사원 상대 행정소송 제기..."업무추진비, 출장비 공개하라"]]></title>
+            <link>http://newstapa.org/article/6Ysm2</link>
+            <guid>http://newstapa.org/article/6Ysm2</guid>
+            <pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 감사원 상대 행정소송 제기..."업무추진비, 출장비 공개하라"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/18135822-3E13-A56A-3AE3-0P8EXUUZC67RJ089UPJM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다]]></title>
             <link>http://newstapa.org/article/iT12G</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['세상을 바꾸는 힘' 2022 뉴스타파 회원의 밤]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/30161942-4D51-6B81-D2DC-6QM320AM8ZIF02CRKBPZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[240억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></title>
-            <link>http://newstapa.org/article/nlevi</link>
-            <guid>http://newstapa.org/article/nlevi</guid>
-            <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[240억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/30115708-EEEF-5205-A617-KVVS5136SDXJLIQ67YGB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

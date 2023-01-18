@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-18T04:12:49.096Z</updated>
+    <updated>2023-01-18T05:11:12.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파, 감사원 상대 행정소송 제기..."업무추진비, 출장비 공개하라"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98331895</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98331895"/>
+        <updated>2023-01-18T05:11:11.654Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98331895"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c7dMV8/btrWCdosQrn/NO2cQqJdZEmKMrfrBYJtBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 감사원 상대 행정소송 제기..."업무추진비, 출장비 공개하라"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98296656</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98213877"/>
         <updated>2023-01-10T07:10:24.912Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98213877"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/I6hwl/btrVPGTrySF/AL91ODPKGsBRqRMUH4LJg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김만배, 법조계 로비 의혹...“판·검사들 골프 접대하고 100만원씩 용돈”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98189322</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98189322"/>
-        <updated>2023-01-09T00:44:25.275Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98189322"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bHmkey/btrVDh0aCdB/tJPr9lumEm42AuIlKc0Jyk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김만배, 법조계 로비 의혹...“판·검사들 골프 접대하고 100만원씩 용돈”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
