@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-19T10:15:33.721Z</updated>
+    <updated>2023-01-19T11:10:18.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[〈신년기획②〉 녹조 해답, 미국에서 찾다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98357854</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98357854"/>
+        <updated>2023-01-19T11:10:17.504Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98357854"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OOlzr/btrWIYTriJ1/hTqZFiw1S1NkQhY65Uolu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈신년기획②〉 녹조 해답, 미국에서 찾다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파, 감사원 상대 행정소송 제기..."업무추진비, 출장비 공개하라"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98331895</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98215787"/>
         <updated>2023-01-10T09:15:00.603Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98215787"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AZ7b4/btrVO0Sk34g/chS1EG3VGjfvz8DxqhuxA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98213877</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98213877"/>
-        <updated>2023-01-10T07:10:24.912Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98213877"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/I6hwl/btrVPGTrySF/AL91ODPKGsBRqRMUH4LJg1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부, 1심 패소에도 용산기지 토양 안전성 보고서 또 은폐</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
