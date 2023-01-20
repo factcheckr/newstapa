@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-20T08:17:32.495Z</updated>
+    <updated>2023-01-20T09:11:23.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간호사를 꿈꾸던 딸에게...엄마가 보내는 편지]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98374446</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98374446"/>
+        <updated>2023-01-20T09:11:22.431Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98374446"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/8peUs/btrWPnMyWw6/tqUhsbQqJ1zM9KbQoPx2aK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">간호사를 꿈꾸던 딸에게...엄마가 보내는 편지</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈신년기획②〉 녹조 해답, 미국에서 찾다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98357854</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98235463"/>
         <updated>2023-01-11T10:14:31.534Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98235463"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jlOV2/btrV0hLO2jh/FYE5KzJ0NuuKKNzWxuSOs0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">마을이 갈라졌다, 한국전력의 송전탑 사업</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98215787</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98215787"/>
-        <updated>2023-01-10T09:15:00.603Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98215787"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AZ7b4/btrVO0Sk34g/chS1EG3VGjfvz8DxqhuxA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
