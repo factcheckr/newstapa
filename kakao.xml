@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-25T06:13:36.398Z</updated>
+    <updated>2023-01-25T08:14:58.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘윤석열 특수활동비’ 대법원 재판 개시... 검찰, ‘억지’ 주장 되풀이]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98409983</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98409983"/>
+        <updated>2023-01-25T08:14:58.023Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98409983"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oOyC0/btrW6qaCwlU/TvbJyTlC0h39rOOPs4Yxf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특수활동비’ 대법원 재판 개시... 검찰, ‘억지’ 주장 되풀이</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98407220</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98331895"/>
         <updated>2023-01-18T05:11:11.654Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98331895"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c7dMV8/btrWCdosQrn/NO2cQqJdZEmKMrfrBYJtBk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 감사원 상대 행정소송 제기..."업무추진비, 출장비 공개하라"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98296656</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98296656"/>
-        <updated>2023-01-16T05:11:04.034Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98296656"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cBAnQN/btrWqPU2sIV/ETULYtJMDhTxnrou1XeAV1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
