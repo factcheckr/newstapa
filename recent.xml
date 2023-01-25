@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 02:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 05:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인]]></title>
+            <link>http://newstapa.org/article/queKi</link>
+            <guid>http://newstapa.org/article/queKi</guid>
+            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25103103-9A3A-977F-6D87-EBRQW7LOV9E0OJ2VM10T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)]]></title>
+            <link>http://newstapa.org/article/YVi3W</link>
+            <guid>http://newstapa.org/article/YVi3W</guid>
+            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25114900-CBF3-A3DD-204F-H6701AFNWFCK40W043UG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간호사를 꿈꾸던 딸에게...엄마가 보내는 편지]]></title>
             <link>http://newstapa.org/article/96Gax</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/04140523-0844-BE67-C954-E0UMCYZGVTQ1744ZONKP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김만배 240억대 비자금...‘50억 클럽’ 박영수 전 특검에 돌려서 건넨 정황]]></title>
-            <link>http://newstapa.org/article/BtwI0</link>
-            <guid>http://newstapa.org/article/BtwI0</guid>
-            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김만배 240억대 비자금...‘50억 클럽’ 박영수 전 특검에 돌려서 건넨 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/02090612-3F1B-F8AA-8000-7NFVHQNKAKCC7CCM4XYZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부]]></title>
-            <link>http://newstapa.org/article/oR1R1</link>
-            <guid>http://newstapa.org/article/oR1R1</guid>
-            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도를 넘는 '2차 가해'... 대책도 의지도 없는 정부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03170932-4F1F-37EF-B078-5TPMSFTC58XUOSPBNR1X.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
