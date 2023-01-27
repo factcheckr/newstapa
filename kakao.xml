@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-27T02:20:29.790Z</updated>
+    <updated>2023-01-27T05:10:41.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이태원 참사, 제대로 된 추모시설을 만들자]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98437586</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98437586"/>
+        <updated>2023-01-27T05:10:40.536Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98437586"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9Y8ml/btrXj1m4kHH/KeA10irxhzgX03jVzF088K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사, 제대로 된 추모시설을 만들자</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98430551</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98407109"/>
         <updated>2023-01-25T06:13:35.622Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98407109"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/C14he/btrXaZWQjUS/A4xBntm6UV2qp9yzVxvm6k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간호사를 꿈꾸던 딸에게...엄마가 보내는 편지]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98374446</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98374446"/>
-        <updated>2023-01-20T09:11:22.431Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98374446"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/8peUs/btrWPnMyWw6/tqUhsbQqJ1zM9KbQoPx2aK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">간호사를 꿈꾸던 딸에게...엄마가 보내는 편지</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
