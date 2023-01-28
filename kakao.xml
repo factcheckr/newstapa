@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-28T00:46:29.301Z</updated>
+    <updated>2023-01-28T02:16:25.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98450072</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98450072"/>
+        <updated>2023-01-28T02:16:24.938Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98450072"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mh1tY/btrXmSyc13U/D6eFKNK8bxx0jg3VE9K8H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태원 참사, 제대로 된 추모시설을 만들자]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98437586</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98407220"/>
         <updated>2023-01-25T06:13:35.620Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98407220"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bl3IUZ/btrW2tk9zrl/YTkBkM9H9KT4njlQ4r2dp1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98407109</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98407109"/>
-        <updated>2023-01-25T06:13:35.622Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98407109"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/C14he/btrXaZWQjUS/A4xBntm6UV2qp9yzVxvm6k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
