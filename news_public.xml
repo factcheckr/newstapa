@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 00:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 04:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑]]></title>
+            <link>http://newstapa.org/article/79Wqc</link>
+            <guid>http://newstapa.org/article/79Wqc</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30104901-A241-7DE3-DD34-QGN3AHMIN0PKNAA5EZ8X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의겸·안민석 세금 오남용, 대선후보 홍보방송을 ‘정책간담회’로 포장]]></title>
+            <link>http://newstapa.org/article/kV-g3</link>
+            <guid>http://newstapa.org/article/kV-g3</guid>
+            <pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김의겸·안민석 세금 오남용, 대선후보 홍보방송을 ‘정책간담회’로 포장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30104930-FB44-494F-F578-KIMZXV7ZN4TL1F24DFYK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파]김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다]]></title>
             <link>http://newstapa.org/article/VHf06</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29113711-59C7-44A6-DDC9-5USK6SSBEGBMF4VRW415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤석열 특수활동비' 1·2심 판결문 분석… 파훼된 검찰의 변론]]></title>
-            <link>http://newstapa.org/article/_3b-T</link>
-            <guid>http://newstapa.org/article/_3b-T</guid>
-            <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['윤석열 특수활동비' 1·2심 판결문 분석… 파훼된 검찰의 변론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/23140951-8694-687F-EA8C-BAHH92N2CZ2125LQYJWK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다]]></title>
-            <link>http://newstapa.org/article/ztqQE</link>
-            <guid>http://newstapa.org/article/ztqQE</guid>
-            <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 모녀, 권오수한테 직접 도이치 내부 정보 받았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/22165953-5AED-97C2-E947-VCTMNONK10KO41LMGQQ4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

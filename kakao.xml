@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-30T00:38:34.433Z</updated>
+    <updated>2023-01-30T04:16:12.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98468129</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98468129"/>
+        <updated>2023-01-30T04:16:11.600Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98468129"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cJcPxE/btrXrUB1yjk/VRJaK5o3xLJJRlmsyfCDUK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김의겸·안민석 세금 오남용, 대선후보 홍보방송을 ‘정책간담회’로 포장]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98468090</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98468090"/>
+        <updated>2023-01-30T04:16:11.600Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98468090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbswso/btrXoD1994k/PX8Utw88NIWE586S1bXyKk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김의겸·안민석 세금 오남용, 대선후보 홍보방송을 ‘정책간담회’로 포장</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98450072</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98428012"/>
         <updated>2023-01-26T08:17:57.614Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98428012"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cbAfwU/btrXhmZczOQ/y6K543xkgItBBtmvcnKcf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 시대 역행하는 거대 양당의 '집시법 개정안'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘윤석열 특수활동비’ 대법원 재판 개시... 검찰, ‘억지’ 주장 되풀이]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98409983</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98409983"/>
-        <updated>2023-01-25T08:14:58.023Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98409983"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oOyC0/btrW6qaCwlU/TvbJyTlC0h39rOOPs4Yxf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특수활동비’ 대법원 재판 개시... 검찰, ‘억지’ 주장 되풀이</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98407220</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98407220"/>
-        <updated>2023-01-25T06:13:35.620Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98407220"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bl3IUZ/btrW2tk9zrl/YTkBkM9H9KT4njlQ4r2dp1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
