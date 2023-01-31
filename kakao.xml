@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-31T00:44:29.797Z</updated>
+    <updated>2023-01-31T02:19:04.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우리기술' 작전주 아니다? 대통령실 해명 틀렸다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98484288</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98484288"/>
+        <updated>2023-01-31T02:19:03.923Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98484288"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ZwmJS/btrXBNpymmK/4LbgsnEMI79CyjkAfPPaSk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'우리기술' 작전주 아니다? 대통령실 해명 틀렸다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98468129</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98430551"/>
         <updated>2023-01-26T11:13:49.820Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98430551"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ddAC4Y/btrXi4YaudY/Ssy8y6Cpp3F5IwlxTZids0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 시대 역행하는 거대 양당의 '집시법 개정안']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98428012</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98428012"/>
-        <updated>2023-01-26T08:17:57.614Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98428012"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cbAfwU/btrXhmZczOQ/y6K543xkgItBBtmvcnKcf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 시대 역행하는 거대 양당의 '집시법 개정안'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
