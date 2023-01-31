@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 02:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 06:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까]]></title>
+            <link>http://newstapa.org/article/R3omh</link>
+            <guid>http://newstapa.org/article/R3omh</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31143337-6075-E1AD-EBD2-600DEXWZVEP7N7PEU1K4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 시대 역행하는 거대 양당의 '집시법 개정안']]></title>
             <link>http://newstapa.org/article/zcQ9I</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 28 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[하청노조 임금인상 투쟁이 '공갈'이라는 대우조선해양]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161719-4241-1524-C2D7-NK9EZYYRA0PW7SZW7GLG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대우조선해양 '파업 방해' 의혹 영상 30여 개 공개]]></title>
-            <link>http://newstapa.org/article/OXqZ1</link>
-            <guid>http://newstapa.org/article/OXqZ1</guid>
-            <pubDate>Mon, 26 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대우조선해양 '파업 방해' 의혹 영상 30여 개 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161745-A20D-2271-840C-R9VTGD97OFEU08WBDKER.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
