@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 07:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 08:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/AHNuF</link>
+            <guid>http://newstapa.org/article/AHNuF</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31165721-B78F-180A-F340-Y4AQL2TYZMEAB7R3YVIA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/R3omh</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/13170606-4953-F804-9B2F-A37KO5TV80F6IIVLM1PF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<주간 뉴스타파> 대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Afjoa</link>
-            <guid>http://newstapa.org/article/Afjoa</guid>
-            <pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/12182416-CEB0-174E-906A-MEFEUVPRQUFN9U7PHPYB.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/AHNuF</link>
+            <guid>http://newstapa.org/article/AHNuF</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31165721-B78F-180A-F340-Y4AQL2TYZMEAB7R3YVIA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['우리기술' 작전주 아니다? 대통령실 해명 틀렸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부 8개월…“잘못하고도 고치지 않는다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29143338-5D99-F54A-6067-XBDUQ7EQHMVK8M97EFM9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MB 때와 판박이...윤석열표 언론 자유 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/3F-Al</link>
-            <guid>http://newstapa.org/article/3F-Al</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[MB 때와 판박이...윤석열표 언론 자유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/27163157-F53E-8F81-84DA-P8B4JQJ54D5HREWUJZAC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161719-4241-1524-C2D7-NK9EZYYRA0PW7SZW7GLG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/AHNuF</link>
+            <guid>http://newstapa.org/article/AHNuF</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31165721-B78F-180A-F340-Y4AQL2TYZMEAB7R3YVIA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이태원 참사, 제대로 된 추모시설을 만들자 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/7DN-T</link>
             <guid>http://newstapa.org/article/7DN-T</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["치료부터 받아라"는 말에 거세지는 유족 분노]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/13171823-4D32-BE51-2759-FUELV1G6KQSVKJSUEZRD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/Vc39P</link>
-            <guid>http://newstapa.org/article/Vc39P</guid>
-            <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[참사 현장 급파 총동원령에도 1개 기동대는 끝까지 ‘아크로비스타’ 지켰다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/12140407-477D-BF84-A4B6-T2H5EU9UZ7US2YSB09NW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98493820</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98493820</guid>
+            <pubDate>Tue, 31 Jan 2023 08:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98493820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bnRSHR/btrXD7aWjFV/vhElxSBNnQJQtpBauwMF61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"사과했잖아요"... '김미나 구하기' 나선 창원 시의원들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98491592</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98491592</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98450072</guid>
             <pubDate>Sat, 28 Jan 2023 02:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98450072"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mh1tY/btrXmSyc13U/D6eFKNK8bxx0jg3VE9K8H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사, 제대로 된 추모시설을 만들자 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98437586</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98437586</guid>
-            <pubDate>Fri, 27 Jan 2023 05:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98437586"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9Y8ml/btrXj1m4kHH/KeA10irxhzgX03jVzF088K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사, 제대로 된 추모시설을 만들자</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

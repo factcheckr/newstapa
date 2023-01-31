@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-31T07:11:10.541Z</updated>
+    <updated>2023-01-31T08:14:14.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98493820</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98493820"/>
+        <updated>2023-01-31T08:14:13.374Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98493820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bnRSHR/btrXD7aWjFV/vhElxSBNnQJQtpBauwMF61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"사과했잖아요"... '김미나 구하기' 나선 창원 시의원들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98491592</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98450072"/>
         <updated>2023-01-28T02:16:24.938Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98450072"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mh1tY/btrXmSyc13U/D6eFKNK8bxx0jg3VE9K8H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사, 제대로 된 추모시설을 만들자]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98437586</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98437586"/>
-        <updated>2023-01-27T05:10:40.536Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98437586"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9Y8ml/btrXj1m4kHH/KeA10irxhzgX03jVzF088K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사, 제대로 된 추모시설을 만들자</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
