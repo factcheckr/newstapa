@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-01-31T06:14:00.572Z</updated>
+    <updated>2023-01-31T07:11:10.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98491592</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98491592"/>
+        <updated>2023-01-31T07:11:09.667Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98491592"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OqizS/btrXH8zp0Da/kmiBJF2b2GXohMG4GXZEZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우리기술' 작전주 아니다? 대통령실 해명 틀렸다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98484288</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98437586"/>
         <updated>2023-01-27T05:10:40.536Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98437586"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9Y8ml/btrXj1m4kHH/KeA10irxhzgX03jVzF088K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사, 제대로 된 추모시설을 만들자</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98430551</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98430551"/>
-        <updated>2023-01-26T11:13:49.820Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98430551"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ddAC4Y/btrXi4YaudY/Ssy8y6Cpp3F5IwlxTZids0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

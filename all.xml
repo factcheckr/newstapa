@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 06:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 07:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98491592</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98491592</guid>
+            <pubDate>Tue, 31 Jan 2023 07:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98491592"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OqizS/btrXH8zp0Da/kmiBJF2b2GXohMG4GXZEZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['우리기술' 작전주 아니다? 대통령실 해명 틀렸다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98484288</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98484288</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98437586</guid>
             <pubDate>Fri, 27 Jan 2023 05:10:40 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98437586"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9Y8ml/btrXj1m4kHH/KeA10irxhzgX03jVzF088K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사, 제대로 된 추모시설을 만들자</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98430551</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98430551</guid>
-            <pubDate>Thu, 26 Jan 2023 11:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98430551"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ddAC4Y/btrXi4YaudY/Ssy8y6Cpp3F5IwlxTZids0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
