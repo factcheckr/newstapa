@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-01T05:16:54.238Z</updated>
+    <updated>2023-02-01T08:21:55.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98509978</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98509978"/>
+        <updated>2023-02-01T08:21:54.756Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98509978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvciBc/btrXJr1c9C4/e6HmwEk4uxSB2kmTX5UBK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98493820</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98468090"/>
         <updated>2023-01-30T04:16:11.600Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98468090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbswso/btrXoD1994k/PX8Utw88NIWE586S1bXyKk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김의겸·안민석 세금 오남용, 대선후보 홍보방송을 ‘정책간담회’로 포장</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98450072</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98450072"/>
-        <updated>2023-01-28T02:16:24.938Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98450072"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mh1tY/btrXmSyc13U/D6eFKNK8bxx0jg3VE9K8H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

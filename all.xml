@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 08:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98509978</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98509978</guid>
+            <pubDate>Wed, 01 Feb 2023 08:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98509978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvciBc/btrXJr1c9C4/e6HmwEk4uxSB2kmTX5UBK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98493820</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98493820</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98468090</guid>
             <pubDate>Mon, 30 Jan 2023 04:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98468090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbswso/btrXoD1994k/PX8Utw88NIWE586S1bXyKk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김의겸·안민석 세금 오남용, 대선후보 홍보방송을 ‘정책간담회’로 포장</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98450072</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98450072</guid>
-            <pubDate>Sat, 28 Jan 2023 02:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98450072"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mh1tY/btrXmSyc13U/D6eFKNK8bxx0jg3VE9K8H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
