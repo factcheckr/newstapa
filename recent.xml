@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 04:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 05:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라']]></title>
+            <link>http://newstapa.org/article/LJALd</link>
+            <guid>http://newstapa.org/article/LJALd</guid>
+            <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/01133158-5225-C368-B9FF-KY3H9SNIXWWWEETQXK62.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></title>
             <link>http://newstapa.org/article/AHNuF</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 감사원 상대 행정소송 제기..."업무추진비, 출장비 공개하라"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/18135822-3E13-A56A-3AE3-0P8EXUUZC67RJ089UPJM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다]]></title>
-            <link>http://newstapa.org/article/iT12G</link>
-            <guid>http://newstapa.org/article/iT12G</guid>
-            <pubDate>Mon, 16 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/13170606-4953-F804-9B2F-A37KO5TV80F6IIVLM1PF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
