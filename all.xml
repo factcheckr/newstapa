@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 03:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 04:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]영화 <자백> 주인공 故 김승효 유족, 손해배상 2심도 승소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Mmhvz</link>
+            <guid>http://newstapa.org/article/Mmhvz</guid>
+            <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]영화 &lt;자백&gt; 주인공 故 김승효 유족, 손해배상 2심도 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/03130328-947E-75F2-5DF5-TSHV6FJ5ZIQ5KTKVZLCV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 이태원 참사 100일… 지지부진 진상규명, 왜? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/9N61-</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25114900-CBF3-A3DD-204F-H6701AFNWFCK40W043UG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[간호사를 꿈꾸던 딸에게...엄마가 보내는 편지 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/96Gax</link>
-            <guid>http://newstapa.org/article/96Gax</guid>
-            <pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[간호사를 꿈꾸던 딸에게...엄마가 보내는 편지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/20143200-C332-DDAE-3603-6GP81HCY3P7IE31Z6RGK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29181200-575F-57BF-7499-D9Q2YUU3A9RTDPPDES22.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화]영화 <자백> 주인공 故 김승효 유족, 손해배상 2심도 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/Mmhvz</link>
+            <guid>http://newstapa.org/article/Mmhvz</guid>
+            <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]영화 &lt;자백&gt; 주인공 故 김승효 유족, 손해배상 2심도 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/03130328-947E-75F2-5DF5-TSHV6FJ5ZIQ5KTKVZLCV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계]① “몰랐다, 기억 안 난다…” 책임 회피하는 사건 관련자들 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/Q7CMn</link>
             <guid>http://newstapa.org/article/Q7CMn</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[사법개혁 프로젝트] 헌법재판관 사건 뭉개기를 막아라 ②]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/14015536-CCE0-5B52-5326-7B6N4O9TH98AEFHM1F0F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/EpyMn</link>
-            <guid>http://newstapa.org/article/EpyMn</guid>
-            <pubDate>Thu, 08 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 뭉갠 대장동 42억 비자금, ‘박영수 측에도 갔다’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/08192427-915E-50CD-489F-24F8N7BZUE32EY1SDSPB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
