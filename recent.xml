@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 12:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 13:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 이태원 참사 100일… 지지부진 진상규명, 왜?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/02171747-6A49-5C23-CB99-96TTQNJR754HF262WWZY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특집 다큐] 정치 깡패가 된 '아스팔트 유튜버']]></title>
+            <link>http://newstapa.org/article/lJq_h</link>
+            <guid>http://newstapa.org/article/lJq_h</guid>
+            <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 다큐] 정치 깡패가 된 '아스팔트 유튜버']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/02144730-C1C1-365F-6762-PQ5PMZK4EE8FS37V1H0U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계]① “몰랐다, 기억 안 난다…” 책임 회피하는 사건 관련자들]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘윤석열 특수활동비’ 대법원 재판 개시... 검찰, ‘억지’ 주장 되풀이]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25150718-32AE-E0BE-C26C-OYIMCND7NQVQRK5HY0Q8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인]]></title>
-            <link>http://newstapa.org/article/queKi</link>
-            <guid>http://newstapa.org/article/queKi</guid>
-            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25103103-9A3A-977F-6D87-EBRQW7LOV9E0OJ2VM10T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
