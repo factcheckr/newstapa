@@ -4,15 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 07:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 12:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다" (뉴스타파 ─ 뉴스)]]></title>
+            <title><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/MRDov</link>
             <guid>http://newstapa.org/article/MRDov</guid>
             <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"]]></content:encoded>
+            <content:encoded><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06152402-4333-82B6-1DA8-AKJPTJ59REMYT8A5RBK8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -904,11 +904,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/06162009-953D-FC63-F187-TT925ZRWMBAI7XSZLC5F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다" (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <title><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/MRDov</link>
             <guid>http://newstapa.org/article/MRDov</guid>
             <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"]]></content:encoded>
+            <content:encoded><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06152402-4333-82B6-1DA8-AKJPTJ59REMYT8A5RBK8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
