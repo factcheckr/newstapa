@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-06T00:40:45.530Z</updated>
+    <updated>2023-02-06T03:11:46.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98578243</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98578243"/>
+        <updated>2023-02-06T03:11:45.772Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98578243"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc9zE7/btrX4m6wdYU/Xp8XE0B2iVwLtpYB5TuSc1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노동개혁] 연공형 임금체계가 임금 격차 문제의 근원일까]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98549482</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98493820"/>
         <updated>2023-01-31T08:14:13.374Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98493820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bnRSHR/btrXD7aWjFV/vhElxSBNnQJQtpBauwMF61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"사과했잖아요"... '김미나 구하기' 나선 창원 시의원들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98491592</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98491592"/>
-        <updated>2023-01-31T07:11:09.667Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98491592"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OqizS/btrXH8zp0Da/kmiBJF2b2GXohMG4GXZEZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[노동개혁] 노동시장 이중구조는 '노-노 착취' 때문일까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
