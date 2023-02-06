@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-06T06:14:56.748Z</updated>
+    <updated>2023-02-06T07:18:19.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98583622</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98583622"/>
+        <updated>2023-02-06T07:18:19.108Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98583622"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lSUuU/btrX7X0cpM0/xEUDNPwAkS8oZM6G0eH7t0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98578243</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98509978"/>
         <updated>2023-02-01T08:21:54.756Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98509978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvciBc/btrXJr1c9C4/e6HmwEk4uxSB2kmTX5UBK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98493820</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98493820"/>
-        <updated>2023-01-31T08:14:13.374Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98493820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bnRSHR/btrXD7aWjFV/vhElxSBNnQJQtpBauwMF61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"사과했잖아요"... '김미나 구하기' 나선 창원 시의원들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
