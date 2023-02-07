@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 00:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 02:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[참사 100일] 하루의 끝, 어머니는 매일 아들을 만난다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/gkHnW</link>
+            <guid>http://newstapa.org/article/gkHnW</guid>
+            <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[참사 100일] 하루의 끝, 어머니는 매일 아들을 만난다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06175710-6971-30EA-1117-HXCDX0B7UNHWVBV0IFZ1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/MRDov</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이태원 참사, 제대로 된 추모시설을 만들자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/27113905-4846-190E-3612-DJH9XMO088KK7S6P9KJ9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파]김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/VHf06</link>
-            <guid>http://newstapa.org/article/VHf06</guid>
-            <pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파]김건희, 도이치 작전세력이 관리한 다른 '작전주'도 거래했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/26181125-22ED-D753-8615-CC7924HYYXEJVEWAIZ6L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25161657-0C32-69D0-A281-KG3HKEJZZ5B3P822HI40.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[참사 100일] 하루의 끝, 어머니는 매일 아들을 만난다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/gkHnW</link>
+            <guid>http://newstapa.org/article/gkHnW</guid>
+            <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[참사 100일] 하루의 끝, 어머니는 매일 아들을 만난다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06175710-6971-30EA-1117-HXCDX0B7UNHWVBV0IFZ1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[참사 100일] "그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/7MwRh</link>
             <guid>http://newstapa.org/article/7MwRh</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["잊지 말아 주세요"... 세상 앞으로 나선 아빠들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/23100154-05AA-4846-6EEC-X9NWACT0AG0Q23WYU1Z5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/q7V_n</link>
-            <guid>http://newstapa.org/article/q7V_n</guid>
-            <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['증거인멸 의혹' 박희영 용산구청장, 경찰 수사상황 보고 받았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/20182407-08C8-26A8-7595-Q54FFMK51HX3ACV6QYG8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하루의 끝, 어머니는 매일 아들을 만난다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98592705</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98592705</guid>
+            <pubDate>Tue, 07 Feb 2023 02:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98592705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TBUUZ/btrYpgJTrQz/LbyDKQ9XAeydIR0gq1oTpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">하루의 끝, 어머니는 매일 아들을 만난다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98583622</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98583622</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98526186</guid>
             <pubDate>Thu, 02 Feb 2023 02:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98526186"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/urAkY/btrXPtD0jbe/q9yQv6IP6Kbd8NRatuExwK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]①</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라' (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98509978</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98509978</guid>
-            <pubDate>Wed, 01 Feb 2023 08:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98509978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvciBc/btrXJr1c9C4/e6HmwEk4uxSB2kmTX5UBK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

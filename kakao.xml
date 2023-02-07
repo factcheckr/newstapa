@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-07T00:46:28.113Z</updated>
+    <updated>2023-02-07T02:12:48.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루의 끝, 어머니는 매일 아들을 만난다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98592705</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98592705"/>
+        <updated>2023-02-07T02:12:47.564Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98592705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TBUUZ/btrYpgJTrQz/LbyDKQ9XAeydIR0gq1oTpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">하루의 끝, 어머니는 매일 아들을 만난다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98583622</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98526186"/>
         <updated>2023-02-02T02:22:36.532Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98526186"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/urAkY/btrXPtD0jbe/q9yQv6IP6Kbd8NRatuExwK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]①</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98509978</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98509978"/>
-        <updated>2023-02-01T08:21:54.756Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98509978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvciBc/btrXJr1c9C4/e6HmwEk4uxSB2kmTX5UBK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
