@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-08T05:11:11.019Z</updated>
+    <updated>2023-02-08T06:13:42.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잃어버린 ‘경찰청 매뉴얼’을 찾아서]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98615549</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98615549"/>
+        <updated>2023-02-08T06:13:41.512Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98615549"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PT419/btrYy9Evyf3/S9UcDq9p3WIxyritC1K7SK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">잃어버린 ‘경찰청 매뉴얼’을 찾아서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98603253</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98549482"/>
         <updated>2023-02-03T05:19:33.850Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98549482"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Tx5oW/btrX1zDtIRo/cmm1WKxkiIPdGezIjN1Zq0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[노동개혁] 연공형 임금체계가 임금 격차 문제의 근원일까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사 100일… 지지부진 진상규명, 왜? 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98538833</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98538833"/>
-        <updated>2023-02-02T12:22:17.027Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98538833"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b1xIUv/btrXTQNva8R/EOKM8a3ZmA09DuJSUXFI21/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사 100일… 지지부진 진상규명, 왜? 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

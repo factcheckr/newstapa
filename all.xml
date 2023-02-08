@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 05:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 06:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잃어버린 ‘경찰청 매뉴얼’을 찾아서 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/_hvN9</link>
+            <guid>http://newstapa.org/article/_hvN9</guid>
+            <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[잃어버린 ‘경찰청 매뉴얼’을 찾아서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/08125816-297C-44CD-E3A4-G98L8R85J951PCZWI61K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/eQpxZ</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30104930-FB44-494F-F578-KIMZXV7ZN4TL1F24DFYK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/XIrAd</link>
-            <guid>http://newstapa.org/article/XIrAd</guid>
-            <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30111915-88A1-643F-6F32-UZQNBF074OESVC9ZR5MJ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[잃어버린 ‘경찰청 매뉴얼’을 찾아서 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/_hvN9</link>
+            <guid>http://newstapa.org/article/_hvN9</guid>
+            <pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[잃어버린 ‘경찰청 매뉴얼’을 찾아서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/08125816-297C-44CD-E3A4-G98L8R85J951PCZWI61K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김만배, 법조계 로비 의혹...“판·검사들 골프 접대하고 100만 원씩 용돈”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/08144305-8952-BD6C-4371-ZRATQICKBOSGOAEX5VOL.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/FnBUj</link>
-            <guid>http://newstapa.org/article/FnBUj</guid>
-            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['유족 명단 없었다' 이상민 장관의 거짓말 증거 입수... 서울시 내부 자료]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/04140523-0844-BE67-C954-E0UMCYZGVTQ1744ZONKP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]영화 <자백> 주인공 故 김승효 유족, 손해배상 2심도 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잃어버린 ‘경찰청 매뉴얼’을 찾아서 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98615549</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98615549</guid>
+            <pubDate>Wed, 08 Feb 2023 06:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98615549"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PT419/btrYy9Evyf3/S9UcDq9p3WIxyritC1K7SK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">잃어버린 ‘경찰청 매뉴얼’을 찾아서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98603253</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98603253</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98549482</guid>
             <pubDate>Fri, 03 Feb 2023 05:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98549482"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Tx5oW/btrX1zDtIRo/cmm1WKxkiIPdGezIjN1Zq0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[노동개혁] 연공형 임금체계가 임금 격차 문제의 근원일까</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 100일… 지지부진 진상규명, 왜? 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98538833</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98538833</guid>
-            <pubDate>Thu, 02 Feb 2023 12:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98538833"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b1xIUv/btrXTQNva8R/EOKM8a3ZmA09DuJSUXFI21/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사 100일… 지지부진 진상규명, 왜? 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
