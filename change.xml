@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 07:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 08:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 뉴스타파 보도 3년 만에 도이치모터스 주가조작 세력 1심 유죄]]></title>
+            <link>https://www.newstapa.org/article/9OnmE</link>
+            <guid>https://www.newstapa.org/article/9OnmE</guid>
+            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.10]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10160001-885D-A0AC-A5EE-M189002K8ZBK310TNK9W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표]]></title>
             <link>https://www.newstapa.org/article/MRDov</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.09]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/09170307-0689-91DE-DA73-J3C7GN7RULS71AYW6AUP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 환경부 “녹조 농작물 실험하겠다”, 환경단체 “민관공동으로 하라”]]></title>
-            <link>https://www.newstapa.org/article/L_DVR</link>
-            <guid>https://www.newstapa.org/article/L_DVR</guid>
-            <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/20144221-8BEE-5A70-F558-SPXM0P3JQJHGD0EWKUZN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
