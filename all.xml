@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 09:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 10:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47% (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/tytbr</link>
+            <guid>http://newstapa.org/article/tytbr</guid>
+            <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/14174313-058D-3493-BC47-UAW0ZAIRFXEGLL8BYZR4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현실 '재벌집 막내 아들'이 계열사 지분 쓸어담는 법 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/R4L8D</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/01133158-5225-C368-B9FF-KY3H9SNIXWWWEETQXK62.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/AHNuF</link>
-            <guid>http://newstapa.org/article/AHNuF</guid>
-            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31165721-B78F-180A-F340-Y4AQL2TYZMEAB7R3YVIA.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47% (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/tytbr</link>
+            <guid>http://newstapa.org/article/tytbr</guid>
+            <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/14174313-058D-3493-BC47-UAW0ZAIRFXEGLL8BYZR4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 뉴스타파 보도 3년 만에 도이치모터스 주가조작 세력 1심 유죄 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/10153755-BA1A-1CA3-A2C3-JHICW15YA6CNYTKHMORA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김만배, 성남시 공무원과 시의원도 골프 접대...“해외 나갈 땐 100만 원씩 챙겨줘” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/QXTRs</link>
-            <guid>http://newstapa.org/article/QXTRs</guid>
-            <pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김만배, 성남시 공무원과 시의원도 골프 접대...“해외 나갈 땐 100만 원씩 챙겨줘”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/09140522-C8D2-82D3-1702-FM097J94X4FZKOORXRFN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]영화 <자백> 주인공 故 김승효 유족, 손해배상 2심도 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
