@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 06:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 08:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파 저널리즘스쿨 2기 모집 공고 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98699419</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98699419</guid>
+            <pubDate>Tue, 14 Feb 2023 08:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98699419"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/grId0/btrZex6u2sW/qpKcnBVxh7KHsRigQG2Nwk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 저널리즘스쿨 2기 모집 공고</span></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["이태원에 간 내 동생, '왜 갔나' 대신 '왜 못 돌아왔나' 물어주세요" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98639572</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98639572</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98583622</guid>
             <pubDate>Mon, 06 Feb 2023 07:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98583622"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lSUuU/btrX7X0cpM0/xEUDNPwAkS8oZM6G0eH7t0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98578243</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98578243</guid>
-            <pubDate>Mon, 06 Feb 2023 03:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98578243"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc9zE7/btrX4m6wdYU/Xp8XE0B2iVwLtpYB5TuSc1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

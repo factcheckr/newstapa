@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-14T06:18:22.214Z</updated>
+    <updated>2023-02-14T08:19:44.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스타파 저널리즘스쿨 2기 모집 공고]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98699419</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98699419"/>
+        <updated>2023-02-14T08:19:43.778Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98699419"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/grId0/btrZex6u2sW/qpKcnBVxh7KHsRigQG2Nwk/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 저널리즘스쿨 2기 모집 공고</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이태원에 간 내 동생, '왜 갔나' 대신 '왜 못 돌아왔나' 물어주세요"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98639572</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98583622"/>
         <updated>2023-02-06T07:18:19.108Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98583622"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lSUuU/btrX7X0cpM0/xEUDNPwAkS8oZM6G0eH7t0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98578243</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98578243"/>
-        <updated>2023-02-06T03:11:45.772Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98578243"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bc9zE7/btrX4m6wdYU/Xp8XE0B2iVwLtpYB5TuSc1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
