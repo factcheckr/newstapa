@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-15T04:13:10.987Z</updated>
+    <updated>2023-02-15T05:19:52.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98712763</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98712763"/>
+        <updated>2023-02-15T05:19:51.770Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98712763"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c9tzlL/btrZkS3XpXx/7gLoLHMfFzjikTnsiGCxG1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">누가 이태원 참사 159번째 희생자를 만들었나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스타파 저널리즘스쿨 2기 모집 공고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98699419</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98592705"/>
         <updated>2023-02-07T02:12:47.564Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98592705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TBUUZ/btrYpgJTrQz/LbyDKQ9XAeydIR0gq1oTpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">하루의 끝, 어머니는 매일 아들을 만난다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98583622</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98583622"/>
-        <updated>2023-02-06T07:18:19.108Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98583622"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lSUuU/btrX7X0cpM0/xEUDNPwAkS8oZM6G0eH7t0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 고집 꺾은 환경부, "녹조 독소 관리 개선하겠다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
