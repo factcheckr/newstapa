@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/cY_0S</link>
+            <guid>http://newstapa.org/article/cY_0S</guid>
+            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15161246-C5C1-61AC-B91C-3TY2EEAOGBKGMVM8A0NG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ce0wj</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 이태원 참사 100일… 지지부진 진상규명, 왜?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/02171747-6A49-5C23-CB99-96TTQNJR754HF262WWZY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]① “몰랐다, 기억 안 난다…” 책임 회피하는 사건 관련자들 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Q7CMn</link>
-            <guid>http://newstapa.org/article/Q7CMn</guid>
-            <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]① “몰랐다, 기억 안 난다…” 책임 회피하는 사건 관련자들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/01163642-99DD-B921-E3DA-OMJFZUOO6LPA0XES1ETH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47% (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27142612-F2E6-48FA-412A-4AIAAQUH36MHD23L3HN6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/cY_0S</link>
+            <guid>http://newstapa.org/article/cY_0S</guid>
+            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15161246-C5C1-61AC-B91C-3TY2EEAOGBKGMVM8A0NG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/6Mp8O</link>
             <guid>http://newstapa.org/article/6Mp8O</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Thu, 26 Nov 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[의·약·돈 로비 추적] 의사들이 제주 리조트에 모인 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/25175239-795E-B6DE-0B8A-BXKFZL0UCHQQSJQ4EQHC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[벨라젤이 안전?] ①문제의 발단...'변형 불량' '내구성 우려' 계속 숨겼다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/ATACQ</link>
-            <guid>http://newstapa.org/article/ATACQ</guid>
-            <pubDate>Wed, 25 Nov 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[벨라젤이 안전?] ①문제의 발단...'변형 불량' '내구성 우려' 계속 숨겼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/11/24175915-BD69-77F6-3A96-EJ7T9WGULNQ7H8YDT5DZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민들레 청춘 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -2773,6 +2773,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/cY_0S</link>
+            <guid>https://www.newstapa.org/article/cY_0S</guid>
+            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.02.15]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15161246-C5C1-61AC-B91C-3TY2EEAOGBKGMVM8A0NG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 뉴스타파 보도 3년 만에 도이치모터스 주가조작 세력 1심 유죄 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/9OnmE</link>
             <guid>https://www.newstapa.org/article/9OnmE</guid>
@@ -2891,14 +2899,6 @@
             <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.12]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12154158-9876-CDDA-DE0F-L6NTQW6K1YCEBP2PNQAO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 국가보훈처, '기부금 비리' 입장 내놔 "제도 개선으로 보완" (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/pYWQj</link>
-            <guid>https://www.newstapa.org/article/pYWQj</guid>
-            <pubDate>Tue, 09 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/09170307-0689-91DE-DA73-J3C7GN7RULS71AYW6AUP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 참여)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98718266</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98718266</guid>
+            <pubDate>Wed, 15 Feb 2023 09:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98718266"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wTxWh/btrZrzPPBVX/hL6GCFS6TZnZ1KP9CYeWO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98712763</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98712763</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98603253</guid>
             <pubDate>Tue, 07 Feb 2023 09:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98603253"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bioAqJ/btrYsAhfxZR/ZkSL6FFVbkfrixsEloBWf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하루의 끝, 어머니는 매일 아들을 만난다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98592705</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98592705</guid>
-            <pubDate>Tue, 07 Feb 2023 02:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98592705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TBUUZ/btrYpgJTrQz/LbyDKQ9XAeydIR0gq1oTpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">하루의 끝, 어머니는 매일 아들을 만난다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

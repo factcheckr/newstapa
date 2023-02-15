@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 08:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 09:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></title>
+            <link>http://newstapa.org/article/cY_0S</link>
+            <guid>http://newstapa.org/article/cY_0S</guid>
+            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15161246-C5C1-61AC-B91C-3TY2EEAOGBKGMVM8A0NG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></title>
             <link>http://newstapa.org/article/ce0wj</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 이태원 참사 100일… 지지부진 진상규명, 왜?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/02171747-6A49-5C23-CB99-96TTQNJR754HF262WWZY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]① “몰랐다, 기억 안 난다…” 책임 회피하는 사건 관련자들]]></title>
-            <link>http://newstapa.org/article/Q7CMn</link>
-            <guid>http://newstapa.org/article/Q7CMn</guid>
-            <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]① “몰랐다, 기억 안 난다…” 책임 회피하는 사건 관련자들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/01163642-99DD-B921-E3DA-OMJFZUOO6LPA0XES1ETH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

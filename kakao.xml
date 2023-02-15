@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-15T08:18:32.964Z</updated>
+    <updated>2023-02-15T09:12:06.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98718266</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98718266"/>
+        <updated>2023-02-15T09:12:06.096Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98718266"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wTxWh/btrZrzPPBVX/hL6GCFS6TZnZ1KP9CYeWO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98712763</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98603253"/>
         <updated>2023-02-07T09:15:19.154Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98603253"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bioAqJ/btrYsAhfxZR/ZkSL6FFVbkfrixsEloBWf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루의 끝, 어머니는 매일 아들을 만난다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98592705</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98592705"/>
-        <updated>2023-02-07T02:12:47.564Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98592705"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TBUUZ/btrYpgJTrQz/LbyDKQ9XAeydIR0gq1oTpk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">하루의 끝, 어머니는 매일 아들을 만난다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
