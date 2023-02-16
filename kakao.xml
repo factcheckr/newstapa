@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-16T09:11:36.006Z</updated>
+    <updated>2023-02-16T10:12:14.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스엠 지분 전쟁에서 떠오른 이수만의 홍콩 유령회사 정체]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98735760</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98735760"/>
+        <updated>2023-02-16T10:12:14.095Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98735760"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iZSx1/btrZB3vUhMd/eWw2JHiXZHwYKMGEdGawuK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">에스엠 지분 전쟁에서 떠오른 이수만의 홍콩 유령회사 정체</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98718266</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98615549"/>
         <updated>2023-02-08T06:13:41.512Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98615549"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PT419/btrYy9Evyf3/S9UcDq9p3WIxyritC1K7SK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">잃어버린 ‘경찰청 매뉴얼’을 찾아서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98603253</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98603253"/>
-        <updated>2023-02-07T09:15:19.154Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98603253"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bioAqJ/btrYsAhfxZR/ZkSL6FFVbkfrixsEloBWf0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"저는 지금 좌빨 청소 중" 김미나 창원시의원의 SNS 의정활동</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
