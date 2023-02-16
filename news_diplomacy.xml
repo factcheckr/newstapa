@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 10:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 12:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 전 국방부 대변인이 말하는 문재인과 윤석열의 안보]]></title>
+            <link>http://newstapa.org/article/I-ZyR</link>
+            <guid>http://newstapa.org/article/I-ZyR</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 전 국방부 대변인이 말하는 문재인과 윤석열의 안보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16194239-6653-8B0F-9BD5-T7SL1R2ZP03HQD9O5B0V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["북 무인기, 용산 정화 비용 덤터기... 대통령실 졸속 이전이 부른 참사"]]></title>
+            <link>http://newstapa.org/article/du4P5</link>
+            <guid>http://newstapa.org/article/du4P5</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["북 무인기, 용산 정화 비용 덤터기... 대통령실 졸속 이전이 부른 참사"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16194120-9F15-E6B1-104B-RBRMQZOYPAAFTDJR3PWS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민들레 청춘]]></title>
             <link>http://newstapa.org/article/vQqzI</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 08 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['곤도 다이스케'와 '한국 언론', 익명 소스의 공생자들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/07155837-2F36-0305-DE11-431XP93L3NO9M13M76FP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 뉴스 '익명 소스' 종류만 수백 개...'아무말 대잔치']]></title>
-            <link>http://newstapa.org/article/Br9S8</link>
-            <guid>http://newstapa.org/article/Br9S8</guid>
-            <pubDate>Mon, 05 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[북한 뉴스 '익명 소스' 종류만 수백 개...'아무말 대잔치']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/02175255-2ED6-1D7F-181A-A61QH726HHLWBW4KWR5Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 북한 관련 기사 8만 건 분석...'소스' 해부]]></title>
-            <link>http://newstapa.org/article/-iZt8</link>
-            <guid>http://newstapa.org/article/-iZt8</guid>
-            <pubDate>Fri, 02 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 북한 관련 기사 8만 건 분석...'소스' 해부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/02095528-2FFE-912A-4B22-O92RR2ZEK9120DCNMSA2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

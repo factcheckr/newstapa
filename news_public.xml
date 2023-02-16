@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 10:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 12:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["북 무인기, 용산 정화 비용 덤터기... 대통령실 졸속 이전이 부른 참사"]]></title>
+            <link>http://newstapa.org/article/du4P5</link>
+            <guid>http://newstapa.org/article/du4P5</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["북 무인기, 용산 정화 비용 덤터기... 대통령실 졸속 이전이 부른 참사"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16194120-9F15-E6B1-104B-RBRMQZOYPAAFTDJR3PWS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이예람 중사 사건 수사 실패 이유는 국방부의 제식구 감싸기"]]></title>
+            <link>http://newstapa.org/article/5tDFI</link>
+            <guid>http://newstapa.org/article/5tDFI</guid>
+            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["이예람 중사 사건 수사 실패 이유는 국방부의 제식구 감싸기"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16194202-D00F-A558-F839-ULP2VUZZOZ0NTAMUY9LG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%]]></title>
             <link>http://newstapa.org/article/tytbr</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 16 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이상민에게 '이태원 참사'와 '2차 가해'의 책임을 물었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/13170606-4953-F804-9B2F-A37KO5TV80F6IIVLM1PF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개]]></title>
-            <link>http://newstapa.org/article/Afjoa</link>
-            <guid>http://newstapa.org/article/Afjoa</guid>
-            <pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/12182416-CEB0-174E-906A-MEFEUVPRQUFN9U7PHPYB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></title>
-            <link>http://newstapa.org/article/bNfGH</link>
-            <guid>http://newstapa.org/article/bNfGH</guid>
-            <pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정영학이 적은 대장동 ‘로비 인맥도’에 등장하는 ‘김만배 청탁 리스트’ 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/10153755-BA1A-1CA3-A2C3-JHICW15YA6CNYTKHMORA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
