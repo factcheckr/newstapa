@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 00:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 03:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽상도 무죄 판결과 법무부 장관의 역할]]></title>
+            <link>http://newstapa.org/article/fy7YJ</link>
+            <guid>http://newstapa.org/article/fy7YJ</guid>
+            <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[곽상도 무죄 판결과 법무부 장관의 역할]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16150235-1C9A-8F47-C0A2-644EF2ZJJ94K2AFY18CI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 전 국방부 대변인이 말하는 문재인과 윤석열의 안보]]></title>
             <link>http://newstapa.org/article/I-ZyR</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06152402-4333-82B6-1DA8-AKJPTJ59REMYT8A5RBK8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[참사 100일] "그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화]]></title>
-            <link>http://newstapa.org/article/7MwRh</link>
-            <guid>http://newstapa.org/article/7MwRh</guid>
-            <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[참사 100일] "그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/03103214-4B6E-3A51-FCE7-G7OVQT0QW28O24L3YS12.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
