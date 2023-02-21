@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-20T23:15:12.333Z</updated>
+    <updated>2023-02-21T03:22:43.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작전세력 문자 속 김건희, 46% 수익에도 '먹은 것 없다' 항의]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98790712</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98790712"/>
+        <updated>2023-02-21T03:22:42.422Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98790712"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cAxk6d/btrZ86lZbk2/px18sx4XSmbrmpQMKFnKK0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">작전세력 문자 속 김건희, 46% 수익에도 '먹은 것 없다' 항의</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 국방부 대변인이 말하는 문재인과 윤석열의 안보 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98736640</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98718266"/>
         <updated>2023-02-15T09:12:06.096Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98718266"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wTxWh/btrZrzPPBVX/hL6GCFS6TZnZ1KP9CYeWO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98712763</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98712763"/>
-        <updated>2023-02-15T05:19:51.770Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98712763"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c9tzlL/btrZkS3XpXx/7gLoLHMfFzjikTnsiGCxG1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">누가 이태원 참사 159번째 희생자를 만들었나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
