@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-21T08:14:06.644Z</updated>
+    <updated>2023-02-21T10:12:13.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정보사 군인 성폭행 사건' 무죄 판결에 일제히 군 복직]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98799296</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98799296"/>
+        <updated>2023-02-21T10:12:13.259Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98799296"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bAivO3/btr0dlqB5et/efvNYxAxZo4pQx6ftkOaZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'정보사 군인 성폭행 사건' 무죄 판결에 일제히 군 복직</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 원청과 교섭은 해도 파업은 안 된다? 이상한 대우조선 중노위 판정문]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98798988</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98798988"/>
+        <updated>2023-02-21T10:12:13.260Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98798988"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Uy85d/btr0dmbU71d/Iw0hRO9gA7E9HfoOcKokI0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 원청과 교섭은 해도 파업은 안 된다? 이상한 대우조선 중노위 판정문</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[작전세력 문자 속 김건희, 46% 수익에도 '먹은 것 없다' 항의]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98790712</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98736612"/>
         <updated>2023-02-16T12:22:48.557Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98736612"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ceZAPd/btrZz1eXpgD/etVI7TkT9Yhys4EPLNOG0k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"북 무인기, 용산 정화 비용 덤터기... 대통령실 졸속 이전이 부른 참사"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스엠 지분 전쟁에서 떠오른 이수만의 홍콩 유령회사 정체]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98735760</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98735760"/>
-        <updated>2023-02-16T10:12:14.095Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98735760"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iZSx1/btrZB3vUhMd/eWw2JHiXZHwYKMGEdGawuK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">에스엠 지분 전쟁에서 떠오른 이수만의 홍콩 유령회사 정체</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98718266</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98718266"/>
-        <updated>2023-02-15T09:12:06.096Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98718266"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wTxWh/btrZrzPPBVX/hL6GCFS6TZnZ1KP9CYeWO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
