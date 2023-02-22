@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 06:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 08:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책]]></title>
+            <link>http://newstapa.org/article/ge1AK</link>
+            <guid>http://newstapa.org/article/ge1AK</guid>
+            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/21131529-0F27-15B2-2452-FKU17B836UAT3CQD3WM1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></title>
             <link>http://newstapa.org/article/ce0wj</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[유족 지원 책임 '행안부 이태원 지원단', 참사 후 생산 문서는 딱 2건]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29113711-59C7-44A6-DDC9-5USK6SSBEGBMF4VRW415.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></title>
-            <link>http://newstapa.org/article/YlS0E</link>
-            <guid>http://newstapa.org/article/YlS0E</guid>
-            <pubDate>Mon, 26 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['불법하도급' KT와 리노스, 재난통신망 타고 화려한 부활]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/23174741-560A-19C5-8D3D-NCRAVESJ7NAARYQH2ZIX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
