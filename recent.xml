@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 10:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 11:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다]]></title>
+            <link>http://newstapa.org/article/GIo89</link>
+            <guid>http://newstapa.org/article/GIo89</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/23181740-AF6B-3B12-0C3A-BI0KHLKDPR3AS2US8YZ7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짜 맞추기 원전 감사, 스토리 라인과 큰 그림 있었다]]></title>
+            <link>http://newstapa.org/article/hBbn5</link>
+            <guid>http://newstapa.org/article/hBbn5</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[짜 맞추기 원전 감사, 스토리 라인과 큰 그림 있었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/23181757-44BC-D7AA-6EE4-J9LGHHT3UNRHJQQSZYSM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유병호의 사냥법, '맹호처럼 정 안되면 들개처럼']]></title>
+            <link>http://newstapa.org/article/a3lm6</link>
+            <guid>http://newstapa.org/article/a3lm6</guid>
+            <pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[유병호의 사냥법, '맹호처럼 정 안되면 들개처럼']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/23181812-9E25-1E94-1525-F4BW7B05QLPDOPW194BI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책]]></title>
             <link>http://newstapa.org/article/ge1AK</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/14174313-058D-3493-BC47-UAW0ZAIRFXEGLL8BYZR4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 '재벌집 막내 아들'이 계열사 지분 쓸어담는 법]]></title>
-            <link>http://newstapa.org/article/R4L8D</link>
-            <guid>http://newstapa.org/article/R4L8D</guid>
-            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[현실 '재벌집 막내 아들'이 계열사 지분 쓸어담는 법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10163350-52FA-04B4-C784-9Q7PDCG1NMNC2LMML0YH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파 보도 3년 만에 도이치모터스 주가조작 세력 1심 유죄]]></title>
-            <link>http://newstapa.org/article/9OnmE</link>
-            <guid>http://newstapa.org/article/9OnmE</guid>
-            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 뉴스타파 보도 3년 만에 도이치모터스 주가조작 세력 1심 유죄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10160001-885D-A0AC-A5EE-M189002K8ZBK310TNK9W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대우조선 감사 결과 입수...공정위에 털린 뒤에도 하청업체서 억대 금품수수]]></title>
-            <link>http://newstapa.org/article/egKXk</link>
-            <guid>http://newstapa.org/article/egKXk</guid>
-            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대우조선 감사 결과 입수...공정위에 털린 뒤에도 하청업체서 억대 금품수수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10033222-550E-2A34-AF55-85Y13NGWYR1DOF8JX7BW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
