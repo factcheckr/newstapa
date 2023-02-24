@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-24T04:13:51.644Z</updated>
+    <updated>2023-02-24T06:18:47.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]②]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98846697</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98846697"/>
+        <updated>2023-02-24T06:18:46.547Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98846697"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QuyOt/btr0HtUNSGk/0KrU6Q4zalnyTTfxCgnK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]②</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98836493</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98805927"/>
         <updated>2023-02-22T03:20:53.785Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98805927"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sXPmp/btr0e70j1Xt/AGWETMmQkbjfc5D3RucWZk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['정보사 군인 성폭행 사건' 무죄 판결에 일제히 군 복직]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98799296</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98799296"/>
-        <updated>2023-02-21T10:12:13.259Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98799296"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bAivO3/btr0dlqB5et/efvNYxAxZo4pQx6ftkOaZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'정보사 군인 성폭행 사건' 무죄 판결에 일제히 군 복직</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

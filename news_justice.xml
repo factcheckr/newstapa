@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 04:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 06:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></title>
+            <link>http://newstapa.org/article/jBRtb</link>
+            <guid>http://newstapa.org/article/jBRtb</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/24111246-1208-C0AA-6A08-V6B48HB1YRUJDY6SNHPD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다]]></title>
             <link>http://newstapa.org/article/_B68H</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[240억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/30115708-EEEF-5205-A617-KVVS5136SDXJLIQ67YGB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></title>
-            <link>http://newstapa.org/article/mus5Z</link>
-            <guid>http://newstapa.org/article/mus5Z</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/28164652-CDFA-2812-1457-O9P3B05OX62GRZXZFGJ1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

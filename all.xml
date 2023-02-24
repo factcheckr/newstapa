@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 04:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 06:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/jBRtb</link>
+            <guid>http://newstapa.org/article/jBRtb</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/24111246-1208-C0AA-6A08-V6B48HB1YRUJDY6SNHPD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/GIo89</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15110124-2A7A-0819-8DF2-V1K8NSMM33B9U9QKVYBR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47% (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tytbr</link>
-            <guid>http://newstapa.org/article/tytbr</guid>
-            <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/14174313-058D-3493-BC47-UAW0ZAIRFXEGLL8BYZR4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30104930-FB44-494F-F578-KIMZXV7ZN4TL1F24DFYK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/jBRtb</link>
+            <guid>http://newstapa.org/article/jBRtb</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/24111246-1208-C0AA-6A08-V6B48HB1YRUJDY6SNHPD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/_B68H</link>
             <guid>http://newstapa.org/article/_B68H</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 30 Dec 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[240억대 '김만배 비자금' 사용처 추적..."50억 클럽이 금괴로 현찰로 달라 한다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/30115708-EEEF-5205-A617-KVVS5136SDXJLIQ67YGB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/mus5Z</link>
-            <guid>http://newstapa.org/article/mus5Z</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대장동 키맨 김만배 "기자들에게 현금 2억씩, 아파트 분양권도 줬다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/28164652-CDFA-2812-1457-O9P3B05OX62GRZXZFGJ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/17153720-66AA-8FDF-33B3-BNMRRLLDHOBGKRWF9M3G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다” (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/jBRtb</link>
+            <guid>http://newstapa.org/article/jBRtb</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/24111246-1208-C0AA-6A08-V6B48HB1YRUJDY6SNHPD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 원청과 교섭은 해도 파업은 안 된다? 이상한 대우조선 중노위 판정문 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/gz7Bp</link>
             <guid>http://newstapa.org/article/gz7Bp</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대우조선해양 박두선 사장의 국정감사 '거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/21152701-4261-7160-7BA3-ZG8OZZK28HRWZFDQKVCH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대우조선, 하청 대금 멋대로 주면서 ‘소송 불가’ 합의 요구 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/0jhBO</link>
-            <guid>http://newstapa.org/article/0jhBO</guid>
-            <pubDate>Fri, 14 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대우조선, 하청 대금 멋대로 주면서 ‘소송 불가’ 합의 요구]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/12172355-D58B-FD48-EA8A-CJK81UFWKDN8MMJLO7GE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]② (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98846697</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98846697</guid>
+            <pubDate>Fri, 24 Feb 2023 06:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98846697"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QuyOt/btr0HtUNSGk/0KrU6Q4zalnyTTfxCgnK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]②</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98836493</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98836493</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98805927</guid>
             <pubDate>Wed, 22 Feb 2023 03:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98805927"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sXPmp/btr0e70j1Xt/AGWETMmQkbjfc5D3RucWZk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['정보사 군인 성폭행 사건' 무죄 판결에 일제히 군 복직 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98799296</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98799296</guid>
-            <pubDate>Tue, 21 Feb 2023 10:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98799296"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bAivO3/btr0dlqB5et/efvNYxAxZo4pQx6ftkOaZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'정보사 군인 성폭행 사건' 무죄 판결에 일제히 군 복직</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

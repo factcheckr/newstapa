@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 04:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 06:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></title>
+            <link>http://newstapa.org/article/jBRtb</link>
+            <guid>http://newstapa.org/article/jBRtb</guid>
+            <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/24111246-1208-C0AA-6A08-V6B48HB1YRUJDY6SNHPD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다]]></title>
             <link>http://newstapa.org/article/GIo89</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15110124-2A7A-0819-8DF2-V1K8NSMM33B9U9QKVYBR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%]]></title>
-            <link>http://newstapa.org/article/tytbr</link>
-            <guid>http://newstapa.org/article/tytbr</guid>
-            <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치모터스 판결문 분석 : 유죄 인정된 '통정 · 가장 매매' 중 김건희 비중 47%]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/14174313-058D-3493-BC47-UAW0ZAIRFXEGLL8BYZR4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
