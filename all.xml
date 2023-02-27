@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 08:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/jJYDe</link>
+            <guid>http://newstapa.org/article/jJYDe</guid>
+            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/jBRtb</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15161246-C5C1-61AC-B91C-3TY2EEAOGBKGMVM8A0NG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ce0wj</link>
-            <guid>http://newstapa.org/article/ce0wj</guid>
-            <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15110124-2A7A-0819-8DF2-V1K8NSMM33B9U9QKVYBR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/27104614-A3F2-A9C3-55D1-N8JRG2Z0BZ8U415N5KBS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/jJYDe</link>
+            <guid>http://newstapa.org/article/jJYDe</guid>
+            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/XIrAd</link>
             <guid>http://newstapa.org/article/XIrAd</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[당신이 보지 못한 한국전쟁]③판문점...전쟁과 평화]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27152806-F790-A67F-5747-3HLS3AJLF38MTA58J8FK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[당신이 보지 못한 한국전쟁]②심리전...증오의 유산 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/44Ata</link>
-            <guid>http://newstapa.org/article/44Ata</guid>
-            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[당신이 보지 못한 한국전쟁]②심리전...증오의 유산]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27142612-F2E6-48FA-412A-4AIAAQUH36MHD23L3HN6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31153428-594A-EF0E-15D5-3OHOF9XS4R8FJWOU2GAM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/jJYDe</link>
+            <guid>http://newstapa.org/article/jJYDe</guid>
+            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특집 다큐] 정치 깡패가 된 '아스팔트 유튜버' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/lJq_h</link>
             <guid>http://newstapa.org/article/lJq_h</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/13144432-14C1-3C24-A36B-0QVLP72DBFYB8D32UGZC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기사형광고 맛집' 조선일보의 메뉴판 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/d39jz</link>
-            <guid>http://newstapa.org/article/d39jz</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['기사형광고 맛집' 조선일보의 메뉴판]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/29143719-8763-8B13-924C-0Q4TKRF1ZYH81S0YLFDV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 사건 검찰 수사 검증 (뉴스타파 ─ 프로젝트)]]></title>
