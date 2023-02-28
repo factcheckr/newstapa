@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-28T08:14:43.576Z</updated>
+    <updated>2023-02-28T09:12:37.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98904336</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98904336"/>
+        <updated>2023-02-28T09:12:37.249Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98904336"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/baQYCd/btr0NMICaIC/pQMOwkcI64fgYMWI0BibZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음성군 산업단지 '복마전'...주민은 땅잃고 인허가 관계자는 재취업]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98900885</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98836475"/>
         <updated>2023-02-23T11:10:51.587Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98836475"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dLwAY6/btr0ycNaDjC/OtFJFYmfQaiPsdV29FAXy1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">짜 맞추기 원전 감사, 스토리 라인과 큰 그림 있었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98815741</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98815741"/>
-        <updated>2023-02-22T08:14:13.110Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98815741"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bxUYpO/btr0qsIhxhw/ObJ2u84qRcZlHY34KzT0kK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
