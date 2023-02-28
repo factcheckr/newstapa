@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-02-28T07:15:00.140Z</updated>
+    <updated>2023-02-28T08:14:43.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[음성군 산업단지 '복마전'...주민은 땅잃고 인허가 관계자는 재취업]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98900885</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98900885"/>
+        <updated>2023-02-28T08:14:42.933Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98900885"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yS4iP/btr0RQYap88/3i7B3jDf4QTeXcXADRzxQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">음성군 산업단지 '복마전'...주민은 땅잃고 인허가 관계자는 재취업</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]②]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98846697</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98815741"/>
         <updated>2023-02-22T08:14:13.110Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98815741"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bxUYpO/btr0qsIhxhw/ObJ2u84qRcZlHY34KzT0kK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98805927</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98805927"/>
-        <updated>2023-02-22T03:20:53.785Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98805927"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sXPmp/btr0e70j1Xt/AGWETMmQkbjfc5D3RucWZk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
