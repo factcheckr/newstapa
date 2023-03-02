@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-02T10:22:18.643Z</updated>
+    <updated>2023-03-02T11:14:14.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[삼림파괴 주식회사②] 친환경 연료 만든다며 동남아 환경 파괴..공급망 추적]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98940646</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98940646"/>
+        <updated>2023-03-02T11:14:13.551Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940646"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qjRGU/btr1pYg1Wrt/wCCRak5CKpO0Gez7xWoGO0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴 주식회사②] 친환경 연료 만든다며 동남아 환경 파괴..공급망 추적</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[삼림파괴 주식회사①]멀쩡한 나무로 목재 펠릿...친환경의 비밀]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98940614</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98940614"/>
+        <updated>2023-03-02T11:14:13.556Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/2WEYv/btr1yBerEAx/gc8KnGDX0Pax2PKVcnekZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴 주식회사①]멀쩡한 나무로 목재 펠릿...친환경의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98904336</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98836493"/>
         <updated>2023-02-23T11:10:51.584Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98836493"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mt7bA/btr0sA9osJK/FO8LY9TT8skfkcKKny2m8k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유병호의 사냥법, '맹호처럼 정 안되면 들개처럼']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98836478</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98836478"/>
-        <updated>2023-02-23T11:10:51.586Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98836478"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3jrze/btr0ycNaE90/f1mvkv8WA9Tsns4v2XxXc1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">유병호의 사냥법, '맹호처럼 정 안되면 들개처럼'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짜 맞추기 원전 감사, 스토리 라인과 큰 그림 있었다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98836475</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98836475"/>
-        <updated>2023-02-23T11:10:51.587Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98836475"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dLwAY6/btr0ycNaDjC/OtFJFYmfQaiPsdV29FAXy1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">짜 맞추기 원전 감사, 스토리 라인과 큰 그림 있었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
