@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 11:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 12:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98940726</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98940726</guid>
+            <pubDate>Thu, 02 Mar 2023 12:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940726"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nB1RS/btr1nD5f32I/yDnWhHktGy9Wq6tqMYooY0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[삼림파괴 주식회사②] 친환경 연료 만든다며 동남아 환경 파괴..공급망 추적 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98940646</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98940646</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98846697</guid>
             <pubDate>Fri, 24 Feb 2023 06:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98846697"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QuyOt/btr0HtUNSGk/0KrU6Q4zalnyTTfxCgnK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]②</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98836493</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98836493</guid>
-            <pubDate>Thu, 23 Feb 2023 11:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98836493"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mt7bA/btr0sA9osJK/FO8LY9TT8skfkcKKny2m8k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">감사원 '유병호 문건' 입수... 월성 원전 감사 '시나리오' 있었다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
