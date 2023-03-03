@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-03T06:14:43.241Z</updated>
+    <updated>2023-03-03T07:15:01.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김기현, ‘교회 지인’ 소송에서 위조 증거 제출]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98955041</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98955041"/>
+        <updated>2023-03-03T07:15:00.870Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98955041"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/beQz08/btr1HhngQ7p/jlC97dPGix9BjCUrGnwXPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김기현, ‘교회 지인’ 소송에서 위조 증거 제출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98940726</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98900885"/>
         <updated>2023-02-28T08:14:42.933Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98900885"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yS4iP/btr0RQYap88/3i7B3jDf4QTeXcXADRzxQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">음성군 산업단지 '복마전'...주민은 땅잃고 인허가 관계자는 재취업</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]②]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98846697</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98846697"/>
-        <updated>2023-02-24T06:18:46.547Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98846697"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QuyOt/btr0HtUNSGk/0KrU6Q4zalnyTTfxCgnK6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]②</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

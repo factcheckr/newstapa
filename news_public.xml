@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 06:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 07:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김기현, ‘교회 지인’ 소송에서 위조 증거 제출]]></title>
+            <link>http://newstapa.org/article/YvVMS</link>
+            <guid>http://newstapa.org/article/YvVMS</guid>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김기현, ‘교회 지인’ 소송에서 위조 증거 제출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03154348-10BF-FFF1-8613-QUH854FUX5SS8U4L19KO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동]]></title>
             <link>http://newstapa.org/article/m1jc8</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31165721-B78F-180A-F340-Y4AQL2TYZMEAB7R3YVIA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우리기술' 작전주 아니다? 대통령실 해명 틀렸다]]></title>
-            <link>http://newstapa.org/article/-cD1U</link>
-            <guid>http://newstapa.org/article/-cD1U</guid>
-            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['우리기술' 작전주 아니다? 대통령실 해명 틀렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31075715-A36A-AA50-B020-CAWJSR5AEVZPFB5J7VR6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
