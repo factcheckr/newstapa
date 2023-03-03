@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-03T07:15:01.531Z</updated>
+    <updated>2023-03-03T09:12:19.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98956681</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98956681"/>
+        <updated>2023-03-03T09:12:19.120Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98956681"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/gI2rV/btr1POYuE3s/bBLs8rl9G3satKlB7GKqg0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김기현, ‘교회 지인’ 소송에서 위조 증거 제출]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98955041</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98904336"/>
         <updated>2023-02-28T09:12:37.249Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98904336"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/baQYCd/btr0NMICaIC/pQMOwkcI64fgYMWI0BibZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음성군 산업단지 '복마전'...주민은 땅잃고 인허가 관계자는 재취업]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98900885</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98900885"/>
-        <updated>2023-02-28T08:14:42.933Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98900885"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yS4iP/btr0RQYap88/3i7B3jDf4QTeXcXADRzxQk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">음성군 산업단지 '복마전'...주민은 땅잃고 인허가 관계자는 재취업</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
