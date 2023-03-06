@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-06T07:11:27.343Z</updated>
+    <updated>2023-03-06T09:16:11.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<현장에서> 이태원 참사 특별법이 필요한 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98992467</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98992467"/>
+        <updated>2023-03-06T09:16:10.670Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98992467"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GZfdF/btr2tmGr05F/k1FpyNOcJSqKndKbdgaS81/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">&lt;현장에서&gt; 이태원 참사 특별법이 필요한 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울교통공사 방치된 내부 성범죄들, '신당역 사건' 불렀다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98988857</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98940646"/>
         <updated>2023-03-02T11:14:13.551Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940646"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qjRGU/btr1pYg1Wrt/wCCRak5CKpO0Gez7xWoGO0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴 주식회사②] 친환경 연료 만든다며 동남아 환경 파괴..공급망 추적</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[삼림파괴 주식회사①]멀쩡한 나무로 목재 펠릿...친환경의 비밀]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98940614</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98940614"/>
-        <updated>2023-03-02T11:14:13.556Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/2WEYv/btr1yBerEAx/gc8KnGDX0Pax2PKVcnekZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴 주식회사①]멀쩡한 나무로 목재 펠릿...친환경의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
