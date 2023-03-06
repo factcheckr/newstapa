@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-06T05:11:16.789Z</updated>
+    <updated>2023-03-06T06:14:42.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울교통공사 방치된 내부 성범죄들, '신당역 사건' 불렀다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/98988857</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/98988857"/>
+        <updated>2023-03-06T06:14:41.542Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98988857"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvawUR/btr2sFMKBRA/HpcNAuRKcjvK1774YWwxoK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">서울교통공사 방치된 내부 성범죄들, '신당역 사건' 불렀다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98956681</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98940614"/>
         <updated>2023-03-02T11:14:13.556Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/2WEYv/btr1yBerEAx/gc8KnGDX0Pax2PKVcnekZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴 주식회사①]멀쩡한 나무로 목재 펠릿...친환경의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98904336</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98904336"/>
-        <updated>2023-02-28T09:12:37.249Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98904336"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/baQYCd/btr0NMICaIC/pQMOwkcI64fgYMWI0BibZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

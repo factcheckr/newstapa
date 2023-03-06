@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 05:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 06:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울교통공사 방치된 내부 성범죄들, '신당역 사건' 불렀다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/98988857</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/98988857</guid>
+            <pubDate>Mon, 06 Mar 2023 06:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98988857"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bvawUR/btr2sFMKBRA/HpcNAuRKcjvK1774YWwxoK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">서울교통공사 방치된 내부 성범죄들, '신당역 사건' 불렀다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/98956681</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/98956681</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/98940614</guid>
             <pubDate>Thu, 02 Mar 2023 11:14:13 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940614"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/2WEYv/btr1yBerEAx/gc8KnGDX0Pax2PKVcnekZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴 주식회사①]멀쩡한 나무로 목재 펠릿...친환경의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/98904336</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/98904336</guid>
-            <pubDate>Tue, 28 Feb 2023 09:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/98904336"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/baQYCd/btr0NMICaIC/pQMOwkcI64fgYMWI0BibZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김기현, 'KTX 땅' 원 소유주의 차명부동산 변호사 활동</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
