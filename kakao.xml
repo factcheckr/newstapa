@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-07T03:27:24.726Z</updated>
+    <updated>2023-03-07T07:15:10.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]③]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99006586</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99006586"/>
+        <updated>2023-03-07T07:15:09.487Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99006586"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c2L6xF/btr2rEa0i0B/AlZSYq53JYz6mh68RYrxv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]③</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<현장에서> 이태원 참사 특별법이 필요한 이유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/98992467</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98940726"/>
         <updated>2023-03-02T12:17:53.398Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940726"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nB1RS/btr1nD5f32I/yDnWhHktGy9Wq6tqMYooY0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[삼림파괴 주식회사②] 친환경 연료 만든다며 동남아 환경 파괴..공급망 추적]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98940646</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98940646"/>
-        <updated>2023-03-02T11:14:13.551Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940646"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qjRGU/btr1pYg1Wrt/wCCRak5CKpO0Gez7xWoGO0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴 주식회사②] 친환경 연료 만든다며 동남아 환경 파괴..공급망 추적</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
