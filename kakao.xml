@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-08T06:15:04.336Z</updated>
+    <updated>2023-03-08T08:14:52.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기약 없는 이태원 참사 추모 공간... 또 사라진 '국가의 의무']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99028790</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99028790"/>
+        <updated>2023-03-08T08:14:51.583Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99028790"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dV8Wub/btr2GMeHb5W/LzD4Bf0KDSw7ksI4PUe0I0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기약 없는 이태원 참사 추모 공간... 또 사라진 '국가의 의무'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[석동현 평통 사무처장, 2019년 일본 우익들과 대법원 비난 성명]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99023925</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98956681"/>
         <updated>2023-03-03T09:12:19.120Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98956681"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/gI2rV/btr1POYuE3s/bBLs8rl9G3satKlB7GKqg0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기현, ‘교회 지인’ 소송에서 위조 증거 제출]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98955041</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98955041"/>
-        <updated>2023-03-03T07:15:00.870Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98955041"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/beQz08/btr1HhngQ7p/jlC97dPGix9BjCUrGnwXPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김기현, ‘교회 지인’ 소송에서 위조 증거 제출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
