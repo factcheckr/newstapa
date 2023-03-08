@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-08T03:20:29.376Z</updated>
+    <updated>2023-03-08T05:12:04.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[석동현 평통 사무처장, 2019년 일본 우익들과 대법원 비난 성명]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99023925</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99023925"/>
+        <updated>2023-03-08T05:12:03.305Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99023925"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QwyEt/btr2GLNdWBj/1Nf8XsDhaaDmqtmZjF3HC1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석동현 평통 사무처장, 2019년 일본 우익들과 대법원 비난 성명</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]③]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99006586</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/98955041"/>
         <updated>2023-03-03T07:15:00.870Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98955041"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/beQz08/btr1HhngQ7p/jlC97dPGix9BjCUrGnwXPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김기현, ‘교회 지인’ 소송에서 위조 증거 제출</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/98940726</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/98940726"/>
-        <updated>2023-03-02T12:17:53.398Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/98940726"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nB1RS/btr1nD5f32I/yDnWhHktGy9Wq6tqMYooY0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
