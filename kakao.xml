@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-09T11:14:54.102Z</updated>
+    <updated>2023-03-09T13:23:43.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99050609</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99050609"/>
+        <updated>2023-03-09T13:23:42.973Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99050609"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uMYnc/btr2ZUQFbg7/VgdGkItQRQQZ8IIQYjuexK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동남아 환경파괴가 한국 발전공기업에 이르는 길]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99050457</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99023925"/>
         <updated>2023-03-08T05:12:03.305Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99023925"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QwyEt/btr2GLNdWBj/1Nf8XsDhaaDmqtmZjF3HC1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석동현 평통 사무처장, 2019년 일본 우익들과 대법원 비난 성명</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]③]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99006586</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99006586"/>
-        <updated>2023-03-07T07:15:09.487Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99006586"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/c2L6xF/btr2rEa0i0B/AlZSYq53JYz6mh68RYrxv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]③</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
