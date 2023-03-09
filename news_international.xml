@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 10:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 11:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑]]></title>
+            <link>http://newstapa.org/article/hj9Rv</link>
+            <guid>http://newstapa.org/article/hj9Rv</guid>
+            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09180716-68F8-65BD-B3F7-80Z20E7G9FOIEIUA0KEQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[삼림파괴주식회사③]한국정부, 해외서 환경파괴 대기업에 특혜 금융]]></title>
+            <link>http://newstapa.org/article/fbMxc</link>
+            <guid>http://newstapa.org/article/fbMxc</guid>
+            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[삼림파괴주식회사③]한국정부, 해외서 환경파괴 대기업에 특혜 금융]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09190531-36E3-52A7-EAD0-OM1SEGA4OSM4ZU1LNVHQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데이터] 동남아 환경파괴가 한국 발전공기업에 이르는 길① - 인도네시아편]]></title>
+            <link>http://newstapa.org/article/ttyJu</link>
+            <guid>http://newstapa.org/article/ttyJu</guid>
+            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[데이터] 동남아 환경파괴가 한국 발전공기업에 이르는 길① - 인도네시아편]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09112500-83C0-118C-6A80-LRU9Z1TV9UR3OIC6H1AF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[데이터]동남아 환경파괴가 한국 발전공기업에 이르는 길② - 베트남편]]></title>
+            <link>http://newstapa.org/article/UCtzO</link>
+            <guid>http://newstapa.org/article/UCtzO</guid>
+            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[데이터]동남아 환경파괴가 한국 발전공기업에 이르는 길② - 베트남편]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09160032-468A-E52C-A658-Z6PSCEOI5IKYSWFUAX6Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법]]></title>
             <link>http://newstapa.org/article/fqDRb</link>
@@ -102,38 +134,6 @@
             <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/22182049-E961-3BB3-A0A3-O0P5QO5A07X48OC0ECB4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계은행 기록을 이용해 코로나19 정부 지출 추적하기]]></title>
-            <link>http://newstapa.org/article/G_9xA</link>
-            <guid>http://newstapa.org/article/G_9xA</guid>
-            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계은행 기록을 이용해 코로나19 정부 지출 추적하기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/24152314-FC2A-856F-CC6E-SOHSZYB9XZ145ENVTG04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹의 교훈: 코로나19와 보건·제약 분야 탐사보도]]></title>
-            <link>http://newstapa.org/article/Lglq0</link>
-            <guid>http://newstapa.org/article/Lglq0</guid>
-            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹의 교훈: 코로나19와 보건·제약 분야 탐사보도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/24152259-BE01-AAA3-A596-D0T52016ZSQBME91Z66V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 사라진 웹 기록 찾아주는 ‘웨이백 머신’ 활용 팁]]></title>
-            <link>http://newstapa.org/article/gZpYB</link>
-            <guid>http://newstapa.org/article/gZpYB</guid>
-            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[지금은 사라진 웹 기록 찾아주는 ‘웨이백 머신’ 활용 팁]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/24152229-6952-C765-8501-74XERJ223UIBD2QQ9YMI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자산가의 조세도피처 이용법] "자녀 해외유학 용도로 페이퍼컴퍼니"]]></title>
-            <link>http://newstapa.org/article/nanq8</link>
-            <guid>http://newstapa.org/article/nanq8</guid>
-            <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자산가의 조세도피처 이용법] "자녀 해외유학 용도로 페이퍼컴퍼니"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/16105110-F717-4B73-B4F5-VVSKIYS3UBGGSOOAVOEX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
