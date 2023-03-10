@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 08:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 09:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/X0rDU</link>
+            <guid>http://newstapa.org/article/X0rDU</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10162738-89A3-8220-BB04-SPJQJ29LRD44FRE987WG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/hj9Rv</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[삼림파괴 주식회사②]친환경 연료 만든다며 동남아 환경 파괴..공급망 추적]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03104316-53BB-1B2A-C430-00W537CWMKT15S22601P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉터리 '환경 인증'이 그린워싱 돕는다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/lDOz1</link>
-            <guid>http://newstapa.org/article/lDOz1</guid>
-            <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[엉터리 '환경 인증'이 그린워싱 돕는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/02190651-A83A-E262-2A4A-45LX6HYE7E8UVW8JEZ0Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민 알권리 무시...대통령기록관의 직무유기 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1800,6 +1800,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/07155837-2F36-0305-DE11-431XP93L3NO9M13M76FP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/SJP-K</link>
+            <guid>http://newstapa.org/article/SJP-K</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10170501-D6EF-8887-782E-JYES3POPGTTKR6B9H34C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/X0rDU</link>
+            <guid>http://newstapa.org/article/X0rDU</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10162738-89A3-8220-BB04-SPJQJ29LRD44FRE987WG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/hj9Rv</link>
             <guid>http://newstapa.org/article/hj9Rv</guid>
@@ -1912,20 +1928,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175118-6171-EDB4-63AF-BN3CPUPSEIY5UXB44AGE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/bkeAq</link>
-            <guid>http://newstapa.org/article/bkeAq</guid>
-            <pubDate>Tue, 26 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/25175705-7963-50C8-0AA6-KQPBLY54B7LHZQSUX2FY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/A5irp</link>
-            <guid>http://newstapa.org/article/A5irp</guid>
-            <pubDate>Fri, 22 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[파나마페이퍼스 내부고발자 6년만에 입 열다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/22182049-E961-3BB3-A0A3-O0P5QO5A07X48OC0ECB4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/SJP-K</link>
+            <guid>http://newstapa.org/article/SJP-K</guid>
+            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10170501-D6EF-8887-782E-JYES3POPGTTKR6B9H34C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대통령이 KBS 사극 편성에 관여할 수 있나?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/20134036-F165-47E2-D7BD-5IQYHFI1D98MJSKUGOEM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/3blnP</link>
-            <guid>http://newstapa.org/article/3blnP</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 뉴스타파, 한국최우수브랜드대상 1위..수상 거부의 전말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/13144432-14C1-3C24-A36B-0QVLP72DBFYB8D32UGZC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 사건 검찰 수사 검증 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99067168</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99067168</guid>
+            <pubDate>Fri, 10 Mar 2023 09:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99067168"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dYnX9o/btr29HraVrZ/f2KqyLxnBbDa0IjfplWAYk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99050609</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99050609</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99028790</guid>
             <pubDate>Wed, 08 Mar 2023 08:14:51 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99028790"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dV8Wub/btr2GMeHb5W/LzD4Bf0KDSw7ksI4PUe0I0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">기약 없는 이태원 참사 추모 공간... 또 사라진 '국가의 의무'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[석동현 평통 사무처장, 2019년 일본 우익들과 대법원 비난 성명 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99023925</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99023925</guid>
-            <pubDate>Wed, 08 Mar 2023 05:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99023925"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QwyEt/btr2GLNdWBj/1Nf8XsDhaaDmqtmZjF3HC1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">석동현 평통 사무처장, 2019년 일본 우익들과 대법원 비난 성명</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
