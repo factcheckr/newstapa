@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-13T05:15:30.404Z</updated>
+    <updated>2023-03-13T06:14:16.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위의 시행령①]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99092031</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99092031"/>
+        <updated>2023-03-13T06:14:15.932Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99092031"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cWuOqD/btr3iIcaYcM/uQeSRDcE3itRDPdLOdT6M0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위의 시행령①</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99067621</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99050402"/>
         <updated>2023-03-09T11:14:53.463Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99050402"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GLi1A/btr2X9nh2Lv/ZAVkh99sEQdfL8dsgTFcR1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[삼림파괴주식회사③]한국정부, 해외서 환경파괴 대기업에 특혜 금융</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 알권리 무시...대통령기록관의 직무유기]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99036337</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99036337"/>
-        <updated>2023-03-09T02:28:19.561Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99036337"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nWM3c/btr2NwiGlvY/chrrqNHjDMWFPaN3uJ4Ei1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민 알권리 무시...대통령기록관의 직무유기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
