@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 06:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 08:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대장동 X파일] 곽상도 하나은행 로비 혐의...김만배 육성엔 "최순실 통해 해결"]]></title>
+            <link>http://newstapa.org/article/cRbHe</link>
+            <guid>http://newstapa.org/article/cRbHe</guid>
+            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] 곽상도 하나은행 로비 혐의...김만배 육성엔 "최순실 통해 해결"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/13134902-129A-F4F8-E0EC-901DEQY6DGQ98Y0UE8Z0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위에 시행령①]]></title>
             <link>http://newstapa.org/article/L1g_x</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘50억 클럽’ 머니투데이 홍선근 회장, 두 아들 계좌로 49억 받았다가 돌려줬다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/05171628-FEAB-4D3D-5BB4-P7NFJYPZUI8JM2ZMDJ8P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김만배 240억대 비자금...‘50억 클럽’ 박영수 전 특검에 돌려서 건넨 정황]]></title>
-            <link>http://newstapa.org/article/BtwI0</link>
-            <guid>http://newstapa.org/article/BtwI0</guid>
-            <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김만배 240억대 비자금...‘50억 클럽’ 박영수 전 특검에 돌려서 건넨 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/02090612-3F1B-F8AA-8000-7NFVHQNKAKCC7CCM4XYZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
