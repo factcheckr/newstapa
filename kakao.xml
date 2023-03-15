@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-15T04:18:41.468Z</updated>
+    <updated>2023-03-15T06:13:40.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99126789</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99126789"/>
+        <updated>2023-03-15T06:13:40.008Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99126789"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b4e6L0/btr3V64g1yQ/dts6aJeEVSDn1AnJKGLUv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스타파 X MBC PD수첩] '대장동 그들 목소리']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99122414</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99067621"/>
         <updated>2023-03-10T10:12:07.859Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99067621"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bNTOYa/btr3alawgzJ/jllnom2VQRzbzrg5FR3L6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99067168</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99067168"/>
-        <updated>2023-03-10T09:16:57.286Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99067168"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dYnX9o/btr29HraVrZ/f2KqyLxnBbDa0IjfplWAYk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
