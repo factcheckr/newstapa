@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-15T02:11:14.698Z</updated>
+    <updated>2023-03-15T03:15:26.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스타파 X MBC PD수첩] '대장동 그들 목소리']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99122414</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99122414"/>
+        <updated>2023-03-15T03:15:26.023Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99122414"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cxS5Wt/btr3U4dAz8D/OF4wQthoIQYBfkFq5F10S1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X MBC PD수첩] '대장동 그들 목소리'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일] '정영학 음성파일' 첫 공개, 50억클럽 다룬 '3인의 노래방 회동']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99111438</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99067168"/>
         <updated>2023-03-10T09:16:57.286Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99067168"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dYnX9o/btr29HraVrZ/f2KqyLxnBbDa0IjfplWAYk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99050609</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99050609"/>
-        <updated>2023-03-09T13:23:42.973Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99050609"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uMYnc/btr2ZUQFbg7/VgdGkItQRQQZ8IIQYjuexK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

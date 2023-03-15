@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 02:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 03:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ④ “어떻게든 분위기 바꾸겠다” 언론 조작 시도한 공군 사장교]]></title>
+            <link>http://newstapa.org/article/fFMd0</link>
+            <guid>http://newstapa.org/article/fFMd0</guid>
+            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ④ “어떻게든 분위기 바꾸겠다” 언론 조작 시도한 공군 사장교]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15110914-5CE9-5D6C-40AB-6YHIFQME2J3VBGPQZIIC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스타파 X MBC PD수첩] '대장동 그들 목소리']]></title>
+            <link>http://newstapa.org/article/xa6N3</link>
+            <guid>http://newstapa.org/article/xa6N3</guid>
+            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] '대장동 그들 목소리']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15111409-D537-E0FD-BB17-H7DYZZGQR9LLL46I4LU0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대장동 X파일] '정영학 음성파일' 첫 공개, 50억클럽 다룬 '3인의 노래방 회동']]></title>
             <link>http://newstapa.org/article/_cNve</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]③ 담당 군검사, "피해자 요청으로 조사 일정 변경" 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/07132904-7FEE-7015-505C-P3554LINYJ4PYPPLZOA4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<현장에서> 이태원 참사 특별법이 필요한 이유]]></title>
-            <link>http://newstapa.org/article/WCAF3</link>
-            <guid>http://newstapa.org/article/WCAF3</guid>
-            <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;현장에서&gt; 이태원 참사 특별법이 필요한 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/06163432-88EE-FF11-C13F-E6V84N4KPGPSXL8K6D3I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울교통공사 방치된 내부 성범죄들, '신당역 사건' 불렀다]]></title>
-            <link>http://newstapa.org/article/ltyux</link>
-            <guid>http://newstapa.org/article/ltyux</guid>
-            <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울교통공사 방치된 내부 성범죄들, '신당역 사건' 불렀다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/06133643-B2E1-9CB6-230E-BEOLVQVW8416UMHW2CSF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
