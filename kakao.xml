@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-16T10:12:23.154Z</updated>
+    <updated>2023-03-16T11:10:04.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장① 안전 관리자의 고백]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99152371</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99152371"/>
+        <updated>2023-03-16T11:10:03.446Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152371"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cGuQgz/btr4fUihIiH/14ViI8l1zcTnZgWQHHpQrk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장① 안전 관리자의 고백</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 법원, '론스타 핵심' 스티븐 리 보석 석방..."범죄인 인도 무산 가능성 커"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99130805</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99094830"/>
         <updated>2023-03-13T08:19:03.514Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99094830"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/KCh3e/btr3CmeQWTO/ZqIAwGvwzErIC6uVhNSUXk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 곽상도 하나은행 로비 혐의...김만배 육성엔 "최순실 통해 해결"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위의 시행령①]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99092031</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99092031"/>
-        <updated>2023-03-13T06:14:15.932Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99092031"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cWuOqD/btr3iIcaYcM/uQeSRDcE3itRDPdLOdT6M0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위의 시행령①</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

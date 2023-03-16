@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 10:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 11:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></title>
+            <link>http://newstapa.org/article/gWaZp</link>
+            <guid>http://newstapa.org/article/gWaZp</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195452-40C9-0C11-4F2B-3J96OHG51JNXCM9P1JP3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백]]></title>
+            <link>http://newstapa.org/article/E-rbn</link>
+            <guid>http://newstapa.org/article/E-rbn</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16200553-750C-5D72-FBD0-89BV7R6NR85HSDQC8SZM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ② 7년 악취의 비밀]]></title>
+            <link>http://newstapa.org/article/S3jfg</link>
+            <guid>http://newstapa.org/article/S3jfg</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ② 7년 악취의 비밀]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195656-0C37-6A7C-C2C9-31W2H9MTRFYV1NX7GFS3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ③ 위험은 진화한다]]></title>
+            <link>http://newstapa.org/article/HkjS0</link>
+            <guid>http://newstapa.org/article/HkjS0</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ③ 위험은 진화한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195808-B21B-A60C-ED43-ZHPFXA7XLKL853VUK025.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[식약처는 안나온다는데 또 쌀에서 녹조 독소 검출]]></title>
             <link>http://newstapa.org/article/dXOpT</link>
@@ -102,38 +134,6 @@
             <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한 조선일보 기자의 기사 작성법]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/30105509-6AAE-F0AD-FEF1-FQRE56AB4342M42QVV4Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선일보 허위보도와 환경부 장관 위증으로 얼룩진 환경부 국정감사]]></title>
-            <link>http://newstapa.org/article/GdsUi</link>
-            <guid>http://newstapa.org/article/GdsUi</guid>
-            <pubDate>Fri, 28 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조선일보 허위보도와 환경부 장관 위증으로 얼룩진 환경부 국정감사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/28112242-C881-55EB-02C1-4A9MY9OUKY15MRDWXTQC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 소각장 타당성 조사업체, 유력 후보지에 부동산 소유]]></title>
-            <link>http://newstapa.org/article/FKETz</link>
-            <guid>http://newstapa.org/article/FKETz</guid>
-            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[서울 소각장 타당성 조사업체, 유력 후보지에 부동산 소유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/25145454-D172-CA2D-05E0-MRLPRYAPPIKNU7QPG38K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 방사능 줄줄 샌다...어느 원전 전문가의 고백]]></title>
-            <link>http://newstapa.org/article/JOapu</link>
-            <guid>http://newstapa.org/article/JOapu</guid>
-            <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 방사능 줄줄 샌다...어느 원전 전문가의 고백]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/20183043-F678-3972-C0D4-NNVDE794BCDIT1QIP8DI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 녹조 독소 불감증]]></title>
-            <link>http://newstapa.org/article/ahQJo</link>
-            <guid>http://newstapa.org/article/ahQJo</guid>
-            <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 녹조 독소 불감증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/03200718-E0A3-EDA8-162C-4IN7YML0M6AAQWOUDL6Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

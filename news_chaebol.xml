@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 10:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 11:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></title>
+            <link>http://newstapa.org/article/gWaZp</link>
+            <guid>http://newstapa.org/article/gWaZp</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195452-40C9-0C11-4F2B-3J96OHG51JNXCM9P1JP3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백]]></title>
+            <link>http://newstapa.org/article/E-rbn</link>
+            <guid>http://newstapa.org/article/E-rbn</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16200553-750C-5D72-FBD0-89BV7R6NR85HSDQC8SZM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ② 7년 악취의 비밀]]></title>
+            <link>http://newstapa.org/article/S3jfg</link>
+            <guid>http://newstapa.org/article/S3jfg</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ② 7년 악취의 비밀]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195656-0C37-6A7C-C2C9-31W2H9MTRFYV1NX7GFS3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ③ 위험은 진화한다]]></title>
+            <link>http://newstapa.org/article/HkjS0</link>
+            <guid>http://newstapa.org/article/HkjS0</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ③ 위험은 진화한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195808-B21B-A60C-ED43-ZHPFXA7XLKL853VUK025.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대우조선, 하청 대금 멋대로 주면서 ‘소송 불가’ 합의 요구]]></title>
             <link>http://newstapa.org/article/0jhBO</link>
@@ -102,38 +134,6 @@
             <pubDate>Tue, 20 Apr 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[어느 재벌 재산관리인의 고백③ 여전히 잘 산다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/20174359-70DC-CE1C-11DB-Z1L9U384YDG40J37SB6F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 재벌 재산관리인의 고백 ② 도망친 선장]]></title>
-            <link>http://newstapa.org/article/AzosM</link>
-            <guid>http://newstapa.org/article/AzosM</guid>
-            <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어느 재벌 재산관리인의 고백 ② 도망친 선장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/04/12113507-08D8-A779-F897-CZ7VKYRHO5VKY41N3JN7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 재벌 재산관리인의 고백 ① 두 개의 가방]]></title>
-            <link>http://newstapa.org/article/MQnR1</link>
-            <guid>http://newstapa.org/article/MQnR1</guid>
-            <pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[어느 재벌 재산관리인의 고백 ① 두 개의 가방]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/03/31172232-49AA-E0F1-1B96-C828DQX3FUI0JHH9URYQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]대법원, 하청업체에 갑질한 현대건설 패소 판결]]></title>
-            <link>http://newstapa.org/article/_D0Hq</link>
-            <guid>http://newstapa.org/article/_D0Hq</guid>
-            <pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]대법원, 하청업체에 갑질한 현대건설 패소 판결]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/28132258-D59F-623F-44AC-CK0KF2N2N55AYOHFDCPW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈HDC신라면세점 시계 밀수 사건〉 검사장 출신 변호사가 사건 은폐 시도]]></title>
-            <link>http://newstapa.org/article/SiwxG</link>
-            <guid>http://newstapa.org/article/SiwxG</guid>
-            <pubDate>Tue, 01 Dec 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[〈HDC신라면세점 시계 밀수 사건〉 검사장 출신 변호사가 사건 은폐 시도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/01163133-9020-06DC-0FA3-7UK566PRL596H2E2HL5U.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
