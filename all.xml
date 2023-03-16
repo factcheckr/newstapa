@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 04:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 05:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대장동 X파일] 정영학의 폭로 "김만배가 검찰 인맥으로 사업권 강탈" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/d9sOe</link>
+            <guid>http://newstapa.org/article/d9sOe</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] 정영학의 폭로 "김만배가 검찰 인맥으로 사업권 강탈"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16110214-08C0-1760-9DE6-SKBYP97Y96D4R234Z9K3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 법원, '론스타 핵심' 스티븐 리 보석 석방..."범죄인 인도 무산 가능성 커" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/XLNPn</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민 알권리 무시...대통령기록관의 직무유기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/08175842-0CA6-759F-866C-U0I3PBLT9RI4AF8RH26U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기약 없는 이태원 참사 추모 공간... 또 사라진 '국가의 의무' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/GwDdX</link>
-            <guid>http://newstapa.org/article/GwDdX</guid>
-            <pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기약 없는 이태원 참사 추모 공간... 또 사라진 '국가의 의무']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/08164935-67B2-FA9B-6919-VZ6PA4ZD7I2R8YQKNFZB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10160001-885D-A0AC-A5EE-M189002K8ZBK310TNK9W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] 정영학의 폭로 "김만배가 검찰 인맥으로 사업권 강탈" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/d9sOe</link>
+            <guid>http://newstapa.org/article/d9sOe</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] 정영학의 폭로 "김만배가 검찰 인맥으로 사업권 강탈"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16110214-08C0-1760-9DE6-SKBYP97Y96D4R234Z9K3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미 법원, '론스타 핵심' 스티븐 리 보석 석방..."범죄인 인도 무산 가능성 커" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/XLNPn</link>
             <guid>http://newstapa.org/article/XLNPn</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25114900-CBF3-A3DD-204F-H6701AFNWFCK40W043UG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/Afjoa</link>
-            <guid>http://newstapa.org/article/Afjoa</guid>
-            <pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 대장동 실체 담긴 ‘정영학 녹취록’ 1,325쪽 전문 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/12182416-CEB0-174E-906A-MEFEUVPRQUFN9U7PHPYB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
