@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 04:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 05:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대장동 X파일] 유동규-남욱 통화녹음 첫 공개..."내일 1억 5천 되냐?" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/V056K</link>
+            <guid>http://newstapa.org/article/V056K</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] 유동규-남욱 통화녹음 첫 공개..."내일 1억 5천 되냐?"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/17133649-C660-D8F0-3DFD-KZGQ9LO0Z2KKJUVQGBZ6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/gWaZp</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조현상 효성 부회장, 계열사 지분 차명 인수자금 '셀프대출' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10162738-89A3-8220-BB04-SPJQJ29LRD44FRE987WG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/hj9Rv</link>
-            <guid>http://newstapa.org/article/hj9Rv</guid>
-            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09180716-68F8-65BD-B3F7-80Z20E7G9FOIEIUA0KEQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10160001-885D-A0AC-A5EE-M189002K8ZBK310TNK9W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] 유동규-남욱 통화녹음 첫 공개..."내일 1억 5천 되냐?" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/V056K</link>
+            <guid>http://newstapa.org/article/V056K</guid>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] 유동규-남욱 통화녹음 첫 공개..."내일 1억 5천 되냐?"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/17133649-C660-D8F0-3DFD-KZGQ9LO0Z2KKJUVQGBZ6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일] 정영학의 폭로 "김만배가 검찰 인맥으로 사업권 강탈" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/d9sOe</link>
             <guid>http://newstapa.org/article/d9sOe</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["윤석열 수사팀이 강압·회유 수사"...사면된 전직 검사의 법정 증언 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25103103-9A3A-977F-6D87-EBRQW7LOV9E0OJ2VM10T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언) (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/YVi3W</link>
-            <guid>http://newstapa.org/article/YVi3W</guid>
-            <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“정영학 북부지검장이 ‘국정원 사건’ 수사기록 유출 관여” (2018년 법정 증언)]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/25114900-CBF3-A3DD-204F-H6701AFNWFCK40W043UG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
