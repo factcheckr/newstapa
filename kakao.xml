@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-21T02:06:05.868Z</updated>
+    <updated>2023-03-21T03:13:46.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99215353</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99215353"/>
+        <updated>2023-03-21T03:13:45.462Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99215353"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cIR9dI/btr43YpFUev/bUAvitXYW64E6lOepBgbu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일] 검찰, 8년 전 '정영학 녹음파일' 확보하고 수사는 안 했다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99204503</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99152371"/>
         <updated>2023-03-16T11:10:03.446Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152371"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cGuQgz/btr4fUihIiH/14ViI8l1zcTnZgWQHHpQrk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장① 안전 관리자의 고백</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 법원, '론스타 핵심' 스티븐 리 보석 석방..."범죄인 인도 무산 가능성 커"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99130805</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99130805"/>
-        <updated>2023-03-15T09:16:01.326Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99130805"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TtXsY/btr35cCsb22/vET9keSsHM9ot1jh6KMpb1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">미 법원, '론스타 핵심' 스티븐 리 보석 석방..."범죄인 인도 무산 가능성 커"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
