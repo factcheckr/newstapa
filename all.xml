@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 07:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/gVH7x</link>
+            <guid>http://newstapa.org/article/gVH7x</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21170108-5AB3-2145-9138-XLCOY3NKKTYJKUUJVZX9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대장동 X파일] 23초 동영상이 150억...추악한 민낯의 녹음파일 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/VG9Ei</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위에 시행령①]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/13142737-5DCA-0765-C466-QOH2HYBYO31DDIKLFTVX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식약처는 안나온다는데 또 쌀에서 녹조 독소 검출 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/dXOpT</link>
-            <guid>http://newstapa.org/article/dXOpT</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[식약처는 안나온다는데 또 쌀에서 녹조 독소 검출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/14162802-0D56-9DBA-D314-NN2G7Y0RT1WRTD0G8XMM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/27104614-A3F2-A9C3-55D1-N8JRG2Z0BZ8U415N5KBS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/gVH7x</link>
+            <guid>http://newstapa.org/article/gVH7x</guid>
+            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21170108-5AB3-2145-9138-XLCOY3NKKTYJKUUJVZX9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/jJYDe</link>
             <guid>http://newstapa.org/article/jJYDe</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['전두환의 광주학살' 진실 규명 남은 과제는?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/25183236-C69C-4342-788D-PCHRXQMIBU12J2I7TB2C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[당신이 보지 못한 한국전쟁]③판문점...전쟁과 평화 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/Ketva</link>
-            <guid>http://newstapa.org/article/Ketva</guid>
-            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[당신이 보지 못한 한국전쟁]③판문점...전쟁과 평화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27152806-F790-A67F-5747-3HLS3AJLF38MTA58J8FK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99222557</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99222557</guid>
+            <pubDate>Tue, 21 Mar 2023 09:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99222557"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oU8hY/btr5e6ABNdg/K5gkJMUQh7nfHFQjWolKf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“나, 양금덕”... 강제동원 피해 15년의 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99215353</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99215353</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99152423</guid>
             <pubDate>Thu, 16 Mar 2023 12:17:41 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152423"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/XowSF/btr4kjHBIQB/ELinesQnRmmUuyda8kyucK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장② 7년 악취의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 삼성의 위험한 공장① 안전 관리자의 고백 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99152371</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99152371</guid>
-            <pubDate>Thu, 16 Mar 2023 11:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152371"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cGuQgz/btr4fUihIiH/14ViI8l1zcTnZgWQHHpQrk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장① 안전 관리자의 고백</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

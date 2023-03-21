@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-21T07:19:43.432Z</updated>
+    <updated>2023-03-21T09:14:40.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99222557</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99222557"/>
+        <updated>2023-03-21T09:14:39.320Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99222557"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oU8hY/btr5e6ABNdg/K5gkJMUQh7nfHFQjWolKf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“나, 양금덕”... 강제동원 피해 15년의 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99215353</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99152423"/>
         <updated>2023-03-16T12:17:41.859Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152423"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/XowSF/btr4kjHBIQB/ELinesQnRmmUuyda8kyucK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장② 7년 악취의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장① 안전 관리자의 고백]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99152371</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99152371"/>
-        <updated>2023-03-16T11:10:03.446Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152371"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cGuQgz/btr4fUihIiH/14ViI8l1zcTnZgWQHHpQrk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장① 안전 관리자의 고백</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
