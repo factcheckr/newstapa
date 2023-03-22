@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-22T09:10:52.169Z</updated>
+    <updated>2023-03-22T10:16:12.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99241276</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99241276"/>
+        <updated>2023-03-22T10:16:11.390Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99241276"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AyyUv/btr5gR6v8gf/ocg2VkAbWpkwv0xqwREikk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장④ 이전된 위험</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령의 3대 거짓말]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99237499</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99204503"/>
         <updated>2023-03-20T08:18:55.190Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99204503"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Vl7RF/btr42SoWbxz/h67j65iQlZEp6Y6WVo0glK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 검찰, 8년 전 '정영학 녹음파일' 확보하고 수사는 안 했다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐" 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99152488</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99152488"/>
-        <updated>2023-03-16T12:17:41.852Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b23uJ1/btr4kihD9t5/TWgY9kOK6GxN2shQFwmQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐" 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

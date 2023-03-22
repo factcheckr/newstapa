@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 09:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 10:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></title>
+            <link>http://newstapa.org/article/z5s-l</link>
+            <guid>http://newstapa.org/article/z5s-l</guid>
+            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/22175746-8595-26BE-6A35-N6JF2FOQY3B7SFVUM3F1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령의 3대 거짓말]]></title>
             <link>http://newstapa.org/article/Xzaz7</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] '대장동 그들 목소리']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15173031-C632-0289-08BB-SDFTRZUX0KOEZD0F4OY6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] '정영학 음성파일' 첫 공개, 50억클럽 다룬 '3인의 노래방 회동']]></title>
-            <link>http://newstapa.org/article/_cNve</link>
-            <guid>http://newstapa.org/article/_cNve</guid>
-            <pubDate>Tue, 14 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] '정영학 음성파일' 첫 공개, 50억클럽 다룬 '3인의 노래방 회동']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/14155035-2120-436F-49D9-06U3XFE8AYWZ6HPB8GQP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
