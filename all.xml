@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 05:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 대통령의 3대 거짓말 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Xzaz7</link>
+            <guid>http://newstapa.org/article/Xzaz7</guid>
+            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령의 3대 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/22135802-0B95-A752-551C-5V4EIM1CJHSVT5HXS7OI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑤ 전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/3lUsa</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/14155035-2120-436F-49D9-06U3XFE8AYWZ6HPB8GQP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대장동 X파일] 곽상도 하나은행 로비 혐의...김만배 육성엔 "최순실 통해 해결" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/cRbHe</link>
-            <guid>http://newstapa.org/article/cRbHe</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 곽상도 하나은행 로비 혐의...김만배 육성엔 "최순실 통해 해결"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/13134902-129A-F4F8-E0EC-901DEQY6DGQ98Y0UE8Z0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 대통령의 3대 거짓말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/Xzaz7</link>
+            <guid>http://newstapa.org/article/Xzaz7</guid>
+            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령의 3대 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/22135802-0B95-A752-551C-5V4EIM1CJHSVT5HXS7OI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/14174313-058D-3493-BC47-UAW0ZAIRFXEGLL8BYZR4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[변화] 뉴스타파 보도 3년 만에 도이치모터스 주가조작 세력 1심 유죄 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/9OnmE</link>
-            <guid>http://newstapa.org/article/9OnmE</guid>
-            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 뉴스타파 보도 3년 만에 도이치모터스 주가조작 세력 1심 유죄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10160001-885D-A0AC-A5EE-M189002K8ZBK310TNK9W.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 대통령의 3대 거짓말 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/Xzaz7</link>
+            <guid>http://newstapa.org/article/Xzaz7</guid>
+            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령의 3대 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/22135802-0B95-A752-551C-5V4EIM1CJHSVT5HXS7OI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑤ 전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[곽상도 무죄 판결과 법무부 장관의 역할]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16150235-1C9A-8F47-C0A2-644EF2ZJJ94K2AFY18CI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이예람 중사 사건 수사 실패 이유는 국방부의 제식구 감싸기" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/5tDFI</link>
-            <guid>http://newstapa.org/article/5tDFI</guid>
-            <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["이예람 중사 사건 수사 실패 이유는 국방부의 제식구 감싸기"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16194202-D00F-A558-F839-ULP2VUZZOZ0NTAMUY9LG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김형동·윤건영, 정책연구 한다며 의원 이미지 관리에 세금 펑펑 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
