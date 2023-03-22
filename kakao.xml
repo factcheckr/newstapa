@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-22T00:39:33.851Z</updated>
+    <updated>2023-03-22T03:11:03.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99231061</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99231061"/>
+        <updated>2023-03-22T03:11:02.857Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99231061"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3uXXN/btr5e5CqY3a/ofrJA0BOjyDLbearxxhrA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99222557</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99152433"/>
         <updated>2023-03-16T12:17:41.857Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152433"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dUFdYU/btr4fUvRFJY/cKCZg4mbWKZBupf1HLu67k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장③ 위험은 진화한다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장② 7년 악취의 비밀]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99152423</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99152423"/>
-        <updated>2023-03-16T12:17:41.859Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152423"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/XowSF/btr4kjHBIQB/ELinesQnRmmUuyda8kyucK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장② 7년 악취의 비밀</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

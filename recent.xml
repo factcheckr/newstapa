@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 00:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑤ 전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다”]]></title>
+            <link>http://newstapa.org/article/3lUsa</link>
+            <guid>http://newstapa.org/article/3lUsa</guid>
+            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑤ 전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21183052-599C-CDFE-D95F-X3K1N8U4FDH1UCA7XD4H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></title>
             <link>http://newstapa.org/article/gVH7x</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 곽상도 하나은행 로비 혐의...김만배 육성엔 "최순실 통해 해결"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/13134902-129A-F4F8-E0EC-901DEQY6DGQ98Y0UE8Z0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위에 시행령①]]></title>
-            <link>http://newstapa.org/article/L1g_x</link>
-            <guid>http://newstapa.org/article/L1g_x</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위에 시행령①]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/13142737-5DCA-0765-C466-QOH2HYBYO31DDIKLFTVX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
