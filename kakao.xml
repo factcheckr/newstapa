@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-22T05:11:27.067Z</updated>
+    <updated>2023-03-22T06:13:43.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령의 3대 거짓말]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99235966</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99235966"/>
+        <updated>2023-03-22T06:13:42.245Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99235966"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cekz5w/btr5jbizbnf/JCsA8VMxzQV12d93W9tDFK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령의 3대 거짓말</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99231061</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99152488"/>
         <updated>2023-03-16T12:17:41.852Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b23uJ1/btr4kihD9t5/TWgY9kOK6GxN2shQFwmQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐" 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장③ 위험은 진화한다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99152433</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99152433"/>
-        <updated>2023-03-16T12:17:41.857Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152433"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dUFdYU/btr4fUvRFJY/cKCZg4mbWKZBupf1HLu67k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장③ 위험은 진화한다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

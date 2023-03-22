@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 05:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 06:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 대통령의 3대 거짓말 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99235966</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99235966</guid>
+            <pubDate>Wed, 22 Mar 2023 06:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99235966"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cekz5w/btr5jbizbnf/JCsA8VMxzQV12d93W9tDFK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령의 3대 거짓말</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99231061</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99231061</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99152488</guid>
             <pubDate>Thu, 16 Mar 2023 12:17:41 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b23uJ1/btr4kihD9t5/TWgY9kOK6GxN2shQFwmQw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐" 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 삼성의 위험한 공장③ 위험은 진화한다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99152433</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99152433</guid>
-            <pubDate>Thu, 16 Mar 2023 12:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99152433"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dUFdYU/btr4fUvRFJY/cKCZg4mbWKZBupf1HLu67k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장③ 위험은 진화한다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
