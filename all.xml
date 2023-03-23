@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99249955</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99249955</guid>
+            <pubDate>Thu, 23 Mar 2023 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99249955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/7eTcf/btr5nLFbCvl/4NFaGIuHFCtjfDgHquk8Vk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99241276</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99241276</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99215353</guid>
             <pubDate>Tue, 21 Mar 2023 03:13:45 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99215353"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cIR9dI/btr43YpFUev/bUAvitXYW64E6lOepBgbu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 검찰, 8년 전 '정영학 녹음파일' 확보하고 수사는 안 했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99204503</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99204503</guid>
-            <pubDate>Mon, 20 Mar 2023 08:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99204503"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Vl7RF/btr42SoWbxz/h67j65iQlZEp6Y6WVo0glK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 검찰, 8년 전 '정영학 녹음파일' 확보하고 수사는 안 했다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

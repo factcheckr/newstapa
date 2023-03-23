@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-23T02:36:56.081Z</updated>
+    <updated>2023-03-23T03:11:21.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99249955</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99249955"/>
+        <updated>2023-03-23T03:11:20.361Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99249955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/7eTcf/btr5nLFbCvl/4NFaGIuHFCtjfDgHquk8Vk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99241276</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99215353"/>
         <updated>2023-03-21T03:13:45.462Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99215353"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cIR9dI/btr43YpFUev/bUAvitXYW64E6lOepBgbu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일] 검찰, 8년 전 '정영학 녹음파일' 확보하고 수사는 안 했다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99204503</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99204503"/>
-        <updated>2023-03-20T08:18:55.190Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99204503"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Vl7RF/btr42SoWbxz/h67j65iQlZEp6Y6WVo0glK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 검찰, 8년 전 '정영학 녹음파일' 확보하고 수사는 안 했다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
