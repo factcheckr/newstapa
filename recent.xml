@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 10:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작]]></title>
+            <link>http://newstapa.org/article/xzGxJ</link>
+            <guid>http://newstapa.org/article/xzGxJ</guid>
+            <pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/23184541-3975-1660-1213-PDZY8SXNM1ZSZUQPSX7O.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다]]></title>
             <link>http://newstapa.org/article/iAQzn</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15144619-2561-3E71-19ED-AXSQJK9WHNH0SJL9HWCF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ④ “어떻게든 분위기 바꾸겠다” 언론 조작 시도한 공군 장교]]></title>
-            <link>http://newstapa.org/article/fFMd0</link>
-            <guid>http://newstapa.org/article/fFMd0</guid>
-            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ④ “어떻게든 분위기 바꾸겠다” 언론 조작 시도한 공군 장교]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15110914-5CE9-5D6C-40AB-6YHIFQME2J3VBGPQZIIC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
