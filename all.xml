@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 00:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 02:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0xECn</link>
+            <guid>http://newstapa.org/article/0xECn</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/23113523-C3D5-E317-4C1B-2NZKAP83Q4HHMXOHCRIH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/xzGxJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미 법원, '론스타 핵심' 스티븐 리 보석 석방..."범죄인 인도 무산 가능성 커"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15161255-F0FF-96C9-A99D-PS9FJMRIRPC1GHZSNJ2G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/xzThx</link>
-            <guid>http://newstapa.org/article/xzThx</guid>
-            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15144619-2561-3E71-19ED-AXSQJK9WHNH0SJL9HWCF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16194202-D00F-A558-F839-ULP2VUZZOZ0NTAMUY9LG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/0xECn</link>
+            <guid>http://newstapa.org/article/0xECn</guid>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/23113523-C3D5-E317-4C1B-2NZKAP83Q4HHMXOHCRIH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/iAQzn</link>
             <guid>http://newstapa.org/article/iAQzn</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]② 피해자에겐 “미안하다”, 동료 군인에겐 “받아주니 했다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/24111246-1208-C0AA-6A08-V6B48HB1YRUJDY6SNHPD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/_B68H</link>
-            <guid>http://newstapa.org/article/_B68H</guid>
-            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘최은순 도촌동 의혹은 사실’... 윤석열 거짓말 입증 법원 판결 나왔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/22101034-6C4E-46DC-CA8B-3QTTEYNENRLFTZEKX9MB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99265307</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99265307</guid>
+            <pubDate>Fri, 24 Mar 2023 02:13:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99265307"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ib4aD/btr5BKkGk9i/1KZiKrqOF9ikg6YrZuB201/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99249955</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99249955</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99222557</guid>
             <pubDate>Tue, 21 Mar 2023 09:14:39 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99222557"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oU8hY/btr5e6ABNdg/K5gkJMUQh7nfHFQjWolKf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“나, 양금덕”... 강제동원 피해 15년의 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99215353</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99215353</guid>
-            <pubDate>Tue, 21 Mar 2023 03:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99215353"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cIR9dI/btr43YpFUev/bUAvitXYW64E6lOepBgbu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 23초 동영상이 150억...추악한 그들의 녹음파일 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
