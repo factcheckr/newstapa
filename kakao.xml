@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-26T22:10:13.506Z</updated>
+    <updated>2023-03-27T00:44:40.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민을 속인 감사원의 거짓 보고서]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99296897</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99296897"/>
+        <updated>2023-03-27T00:44:40.097Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99296897"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1Fyqh/btr5QooJchO/mptZSccqx8GBGi3gWKkIDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민을 속인 감사원의 거짓 보고서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99265307</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99231061"/>
         <updated>2023-03-22T03:11:02.857Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99231061"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3uXXN/btr5e5CqY3a/ofrJA0BOjyDLbearxxhrA0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99222557</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99222557"/>
-        <updated>2023-03-21T09:14:39.320Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99222557"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oU8hY/btr5e6ABNdg/K5gkJMUQh7nfHFQjWolKf1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">“나, 양금덕”... 강제동원 피해 15년의 기록</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
