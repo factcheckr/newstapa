@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-28T00:50:27.702Z</updated>
+    <updated>2023-03-28T02:13:12.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일]"곽상도가 수사 막아줬다"는 김만배 자백에도, 검찰은 또 수사 뭉갰다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99316502</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99316502"/>
+        <updated>2023-03-28T02:13:11.635Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99316502"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GVHEa/btr6tYBmaPg/cSKOOs2GACsuVdjybKC6Gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]"곽상도가 수사 막아줬다"는 김만배 자백에도, 검찰은 또 수사 뭉갰다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부, 대통령기록물법 무시...알 권리 침해 우려]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99305982</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99241276"/>
         <updated>2023-03-22T10:16:11.390Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99241276"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AyyUv/btr5gR6v8gf/ocg2VkAbWpkwv0xqwREikk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장④ 이전된 위험</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령의 3대 거짓말]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99237499</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99237499"/>
-        <updated>2023-03-22T07:11:18.354Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99237499"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bMCuPq/btr5nLKPPeG/Y0lpLNy7aWIATVaamyT6G0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 대통령의 3대 거짓말</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
