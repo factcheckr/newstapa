@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-28T07:16:09.506Z</updated>
+    <updated>2023-03-28T08:18:52.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ①]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99324911</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99324911"/>
+        <updated>2023-03-28T08:18:51.379Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99324911"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdLoLX/btr6BS2htJk/CZynOcwe170veGGWumdE7k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">임은정 vs 한동훈, 누가 부적격 검사인가 ①</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일]"곽상도가 수사 막아줬다"는 김만배 자백에도, 검찰은 또 수사 뭉갰다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99316502</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99249955"/>
         <updated>2023-03-23T03:11:20.361Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99249955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/7eTcf/btr5nLFbCvl/4NFaGIuHFCtjfDgHquk8Vk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99241276</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99241276"/>
-        <updated>2023-03-22T10:16:11.390Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99241276"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/AyyUv/btr5gR6v8gf/ocg2VkAbWpkwv0xqwREikk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장④ 이전된 위험</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
