@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 03:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 05:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/IsaTh</link>
+            <guid>http://newstapa.org/article/IsaTh</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/QPOFr</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195452-40C9-0C11-4F2B-3J96OHG51JNXCM9P1JP3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/E-rbn</link>
-            <guid>http://newstapa.org/article/E-rbn</guid>
-            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16200553-750C-5D72-FBD0-89BV7R6NR85HSDQC8SZM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/23181812-9E25-1E94-1525-F4BW7B05QLPDOPW194BI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/IsaTh</link>
+            <guid>http://newstapa.org/article/IsaTh</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/QPOFr</link>
             <guid>http://newstapa.org/article/QPOFr</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 곽상도 하나은행 로비 혐의...김만배 육성엔 "최순실 통해 해결"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/13134902-129A-F4F8-E0EC-901DEQY6DGQ98Y0UE8Z0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위에 시행령① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/L1g_x</link>
-            <guid>http://newstapa.org/article/L1g_x</guid>
-            <pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[사법개혁 프로젝트 2] 홍준표 윤희근 한동훈의 국회 무시...헌법 위에 시행령①]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/13142737-5DCA-0765-C466-QOH2HYBYO31DDIKLFTVX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99338806</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99338806</guid>
+            <pubDate>Wed, 29 Mar 2023 05:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99338806"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/FojF2/btr6N4nSBzX/Ed8HcKRMTfMUL7ygs7cJtk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ① (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99324911</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99324911</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99265307</guid>
             <pubDate>Fri, 24 Mar 2023 02:13:40 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99265307"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ib4aD/btr5BKkGk9i/1KZiKrqOF9ikg6YrZuB201/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99249955</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99249955</guid>
-            <pubDate>Thu, 23 Mar 2023 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99249955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/7eTcf/btr5nLFbCvl/4NFaGIuHFCtjfDgHquk8Vk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

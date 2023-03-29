@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-29T03:19:10.557Z</updated>
+    <updated>2023-03-29T05:19:04.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99338806</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99338806"/>
+        <updated>2023-03-29T05:19:03.897Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99338806"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/FojF2/btr6N4nSBzX/Ed8HcKRMTfMUL7ygs7cJtk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ①]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99324911</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99265307"/>
         <updated>2023-03-24T02:13:40.717Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99265307"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ib4aD/btr5BKkGk9i/1KZiKrqOF9ikg6YrZuB201/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99249955</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99249955"/>
-        <updated>2023-03-23T03:11:20.361Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99249955"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/7eTcf/btr5nLFbCvl/4NFaGIuHFCtjfDgHquk8Vk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 2011년 대검이 뭉갠 대장동 수사, 2년 후 중앙지검이 또 뭉갰다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
