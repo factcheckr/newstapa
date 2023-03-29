@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-29T06:13:41.495Z</updated>
+    <updated>2023-03-29T07:12:54.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99340560</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99340560"/>
+        <updated>2023-03-29T07:12:53.869Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99340560"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byWWDW/btr6OY11Ux4/cx7KcZw7sWn9hXrROMbkP0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99338806</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99296897"/>
         <updated>2023-03-27T00:44:40.097Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99296897"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1Fyqh/btr5QooJchO/mptZSccqx8GBGi3gWKkIDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민을 속인 감사원의 거짓 보고서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99265307</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99265307"/>
-        <updated>2023-03-24T02:13:40.717Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99265307"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ib4aD/btr5BKkGk9i/1KZiKrqOF9ikg6YrZuB201/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

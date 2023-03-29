@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/IsaTh</link>
-            <guid>http://newstapa.org/article/IsaTh</guid>
-            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/wEr3r</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29144006-446A-EB61-A301-AW64CFJWG35ERM3O1I5M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/IsaTh</link>
+            <guid>http://newstapa.org/article/IsaTh</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1 (뉴스타파 ─ 뉴스)]]></title>
@@ -264,20 +264,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/23181812-9E25-1E94-1525-F4BW7B05QLPDOPW194BI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/IsaTh</link>
-            <guid>http://newstapa.org/article/IsaTh</guid>
-            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/wEr3r</link>
             <guid>http://newstapa.org/article/wEr3r</guid>
             <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29144006-446A-EB61-A301-AW64CFJWG35ERM3O1I5M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/IsaTh</link>
+            <guid>http://newstapa.org/article/IsaTh</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99340560</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99340560</guid>
+            <pubDate>Wed, 29 Mar 2023 07:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99340560"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byWWDW/btr6OY11Ux4/cx7KcZw7sWn9hXrROMbkP0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99338806</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99338806</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99296897</guid>
             <pubDate>Mon, 27 Mar 2023 00:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99296897"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1Fyqh/btr5QooJchO/mptZSccqx8GBGi3gWKkIDk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민을 속인 감사원의 거짓 보고서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99265307</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99265307</guid>
-            <pubDate>Fri, 24 Mar 2023 02:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99265307"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ib4aD/btr5BKkGk9i/1KZiKrqOF9ikg6YrZuB201/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] SK계열사 킨앤파트너스, 전주(錢主)가 아닌 불법의 동업자였다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

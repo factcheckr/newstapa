@@ -4,17 +4,9 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 06:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 07:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></title>
-            <link>http://newstapa.org/article/IsaTh</link>
-            <guid>http://newstapa.org/article/IsaTh</guid>
-            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></title>
             <link>http://newstapa.org/article/wEr3r</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29144006-446A-EB61-A301-AW64CFJWG35ERM3O1I5M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></title>
+            <link>http://newstapa.org/article/IsaTh</link>
+            <guid>http://newstapa.org/article/IsaTh</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1]]></title>
