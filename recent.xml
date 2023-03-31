@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 02:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 03:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[삼림파괴 주식회사④]목재펠릿 공장 분진 심각, 실내까지 침투]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></title>
+            <link>http://newstapa.org/article/NkJgL</link>
+            <guid>http://newstapa.org/article/NkJgL</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30214427-C6BF-12EA-47A2-NW35B6T7RCE8YQ7Q855P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑤ 전익수와 통화한 군법무관, “압력 느낄 수밖에 없었다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21183052-599C-CDFE-D95F-X3K1N8U4FDH1UCA7XD4H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></title>
-            <link>http://newstapa.org/article/gVH7x</link>
-            <guid>http://newstapa.org/article/gVH7x</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21170108-5AB3-2145-9138-XLCOY3NKKTYJKUUJVZX9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
