@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 23:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 02:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[삼림파괴 주식회사④]목재펠릿 공장 분진 심각, 실내까지 침투]]></title>
+            <link>http://newstapa.org/article/nZUU3</link>
+            <guid>http://newstapa.org/article/nZUU3</guid>
+            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[삼림파괴 주식회사④]목재펠릿 공장 분진 심각, 실내까지 침투]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기]]></title>
             <link>http://newstapa.org/article/kST11</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21170108-5AB3-2145-9138-XLCOY3NKKTYJKUUJVZX9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 23초 동영상이 150억...추악한 민낯의 녹음파일 공개]]></title>
-            <link>http://newstapa.org/article/VG9Ei</link>
-            <guid>http://newstapa.org/article/VG9Ei</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 23초 동영상이 150억...추악한 민낯의 녹음파일 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21105409-8E70-336A-CE48-3WCZ2DV353XRLFF0MV5H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
