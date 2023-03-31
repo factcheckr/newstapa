@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-31T04:13:01.141Z</updated>
+    <updated>2023-03-31T05:10:46.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99376359</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99376359"/>
+        <updated>2023-03-31T05:10:45.819Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99376359"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP86Qi/btr7dmBEeZY/uBqkmWKpxwIX6eUIOyNoKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상이 청년에게 말하지 않는, 진짜 연금 개혁 이야기 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99365328</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99324911"/>
         <updated>2023-03-28T08:18:51.379Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99324911"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdLoLX/btr6BS2htJk/CZynOcwe170veGGWumdE7k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">임은정 vs 한동훈, 누가 부적격 검사인가 ①</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일]"곽상도가 수사 막아줬다"는 김만배 자백에도, 검찰은 또 수사 뭉갰다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99316502</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99316502"/>
-        <updated>2023-03-28T02:13:11.635Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99316502"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GVHEa/btr6tYBmaPg/cSKOOs2GACsuVdjybKC6Gk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]"곽상도가 수사 막아줬다"는 김만배 자백에도, 검찰은 또 수사 뭉갰다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
