@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-03-31T07:18:28.816Z</updated>
+    <updated>2023-03-31T08:13:18.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 검사, 윤석열 검사, 그리고 조선총독부 다마나 검사...헌법 위에 시행령②]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99381370</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99381370"/>
+        <updated>2023-03-31T08:13:18.178Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99381370"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/chwqoP/btr7dX3q3JB/lHjH7BFq118Aa3i1ItcbD1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 검사, 윤석열 검사, 그리고 조선총독부 다마나 검사...헌법 위에 시행령②</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99376359</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99338806"/>
         <updated>2023-03-29T05:19:03.897Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99338806"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/FojF2/btr6N4nSBzX/Ed8HcKRMTfMUL7ygs7cJtk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ①]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99324911</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99324911"/>
-        <updated>2023-03-28T08:18:51.379Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99324911"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdLoLX/btr6BS2htJk/CZynOcwe170veGGWumdE7k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">임은정 vs 한동훈, 누가 부적격 검사인가 ①</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
