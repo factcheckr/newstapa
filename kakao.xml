@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-03T01:59:34.079Z</updated>
+    <updated>2023-04-03T02:28:00.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인 첫 신고 공직자 나왔다... 그러나 '갈팡질팡' 안내에 재산 왜곡까지]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99410820</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99410820"/>
+        <updated>2023-04-03T02:27:59.563Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99410820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bLJbDB/btr7pTfVXPN/NNyN1G6KIO84pm6Xm7rVu1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비트코인 첫 신고 공직자 나왔다... 그러나 '갈팡질팡' 안내에 재산 왜곡까지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99410633</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99410633"/>
+        <updated>2023-04-03T02:27:59.565Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99410633"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/rE3zb/btr7CUyetFJ/vAV8J0mXk2WgwjKlCvEMU0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 전역에 울려 퍼진 김복동의 외침 “일본 정부는 사죄하라”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99385603</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99365328"/>
         <updated>2023-03-30T11:10:48.979Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99365328"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ccYBFS/btr63mWaE34/tT43MAddkBIncSyE0w8CF0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">세상이 청년에게 말하지 않는, 진짜 연금 개혁 이야기 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99351526</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99351526"/>
-        <updated>2023-03-30T03:17:00.745Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99351526"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wpNkw/btr6N7lS3bc/4Fb9WoCp0mrcOv0dysbl51/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99340560</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99340560"/>
-        <updated>2023-03-29T07:12:53.869Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99340560"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/byWWDW/btr6OY11Ux4/cx7KcZw7sWn9hXrROMbkP0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
