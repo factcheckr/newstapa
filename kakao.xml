@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-03T09:10:59.741Z</updated>
+    <updated>2023-04-03T10:19:26.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99422086</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99422086"/>
+        <updated>2023-04-03T10:19:25.792Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99422086"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cyez3L/btr7R3Ia5Vz/gTR8sJkEgXHvQo4PKmgZWK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공약(空約)에 그친 윤석열의 ‘공직자 재산 DB 일원화’ 공약]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99415153</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99381370"/>
         <updated>2023-03-31T08:13:18.178Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99381370"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/chwqoP/btr7dX3q3JB/lHjH7BFq118Aa3i1ItcbD1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 검사, 윤석열 검사, 그리고 조선총독부 다마나 검사...헌법 위에 시행령②</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99376359</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99376359"/>
-        <updated>2023-03-31T05:10:45.819Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99376359"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bP86Qi/btr7dmBEeZY/uBqkmWKpxwIX6eUIOyNoKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
