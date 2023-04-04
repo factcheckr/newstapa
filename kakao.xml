@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-04T07:15:03.388Z</updated>
+    <updated>2023-04-04T09:15:21.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ②]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99439378</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99439378"/>
+        <updated>2023-04-04T09:15:20.332Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99439378"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dTnHiu/btr74uZ6r1k/BivkuM7ra9hIYbYssluR61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">임은정 vs 한동훈, 누가 부적격 검사인가 ②</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99433785</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99410820"/>
         <updated>2023-04-03T02:27:59.563Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99410820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bLJbDB/btr7pTfVXPN/NNyN1G6KIO84pm6Xm7rVu1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비트코인 첫 신고 공직자 나왔다... 그러나 '갈팡질팡' 안내에 재산 왜곡까지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99410633</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99410633"/>
-        <updated>2023-04-03T02:27:59.565Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99410633"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/rE3zb/btr7CUyetFJ/vAV8J0mXk2WgwjKlCvEMU0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

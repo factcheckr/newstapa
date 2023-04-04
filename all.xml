@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 07:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 09:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 2 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/qhKKe</link>
+            <guid>http://newstapa.org/article/qhKKe</guid>
+            <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 2]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/04174349-E0AD-160A-0EF2-T7HPJ6LVWVJTN1XDAFN3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/fkVAc</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/28152046-1DCE-230F-EC4F-N8GU0PT3W1CFM0M4Y9HM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대장동 X파일]"곽상도가 수사 막아줬다"는 김만배 자백에도, 검찰은 또 수사 뭉갰다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kpJoz</link>
-            <guid>http://newstapa.org/article/kpJoz</guid>
-            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일]"곽상도가 수사 막아줬다"는 김만배 자백에도, 검찰은 또 수사 뭉갰다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/27155448-C42B-1DC5-40A2-KF4TLFXQCR69J61O8989.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 2 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/qhKKe</link>
+            <guid>http://newstapa.org/article/qhKKe</guid>
+            <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 2]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/04174349-E0AD-160A-0EF2-T7HPJ6LVWVJTN1XDAFN3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03172010-05B2-78F9-8A3A-XUAAWACOPPEM7G6S6JTO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김기현, ‘교회 지인’ 소송에서 위조 증거 제출 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/YvVMS</link>
-            <guid>http://newstapa.org/article/YvVMS</guid>
-            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김기현, ‘교회 지인’ 소송에서 위조 증거 제출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03154348-10BF-FFF1-8613-QUH854FUX5SS8U4L19KO.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 2 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/qhKKe</link>
+            <guid>http://newstapa.org/article/qhKKe</guid>
+            <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 2]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/04174349-E0AD-160A-0EF2-T7HPJ6LVWVJTN1XDAFN3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대장동 X파일]박영수 차명지분 의혹...김만배 "천화동인·화천대유는 박영수 돈으로 설립" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 유동규-남욱 통화녹음 첫 공개..."내일 1억 5천 되냐?"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/17133649-C660-D8F0-3DFD-KZGQ9LO0Z2KKJUVQGBZ6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 정영학의 폭로 "김만배가 검찰 인맥으로 사업권 강탈" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/d9sOe</link>
-            <guid>http://newstapa.org/article/d9sOe</guid>
-            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 정영학의 폭로 "김만배가 검찰 인맥으로 사업권 강탈"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16110214-08C0-1760-9DE6-SKBYP97Y96D4R234Z9K3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ② (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99439378</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99439378</guid>
+            <pubDate>Tue, 04 Apr 2023 09:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99439378"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dTnHiu/btr74uZ6r1k/BivkuM7ra9hIYbYssluR61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">임은정 vs 한동훈, 누가 부적격 검사인가 ②</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99433785</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99433785</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99410820</guid>
             <pubDate>Mon, 03 Apr 2023 02:27:59 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99410820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bLJbDB/btr7pTfVXPN/NNyN1G6KIO84pm6Xm7rVu1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비트코인 첫 신고 공직자 나왔다... 그러나 '갈팡질팡' 안내에 재산 왜곡까지</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99410633</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99410633</guid>
-            <pubDate>Mon, 03 Apr 2023 02:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99410633"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/rE3zb/btr7CUyetFJ/vAV8J0mXk2WgwjKlCvEMU0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
