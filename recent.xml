@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 23:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 00:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대장동 X파일]박영수 차명지분 의혹...김만배 "천화동인·화천대유는 박영수 돈으로 설립"]]></title>
+            <link>http://newstapa.org/article/W05j0</link>
+            <guid>http://newstapa.org/article/W05j0</guid>
+            <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일]박영수 차명지분 의혹...김만배 "천화동인·화천대유는 박영수 돈으로 설립"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03163046-0C24-E9C3-FD9D-RFXF36QLUOG5BNRPSHG8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성']]></title>
             <link>http://newstapa.org/article/ON-nB</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부, 대통령기록물법 무시...알 권리 침해 우려]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/27150825-9A96-1C58-DD5D-ESCE30Z86WHXA4C06S3P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민을 속인 감사원의 거짓 보고서]]></title>
-            <link>http://newstapa.org/article/l1XVG</link>
-            <guid>http://newstapa.org/article/l1XVG</guid>
-            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민을 속인 감사원의 거짓 보고서]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/24145011-CAB2-0F02-108D-QI3R59NM1L855J0Q8B0N.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
