@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 07:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 10:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 제주 4·3 당시 영상 ‘제주도의 메이데이’ 공개]]></title>
+            <link>http://newstapa.org/article/BoSEW</link>
+            <guid>http://newstapa.org/article/BoSEW</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 제주 4·3 당시 영상 ‘제주도의 메이데이’ 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05180557-0F5A-8BF3-0EB6-G9LNKVG19I54ZYQL7E91.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬대 더불어민주당 의원, '보좌진 부정 채용' 의혹]]></title>
+            <link>http://newstapa.org/article/GMBlx</link>
+            <guid>http://newstapa.org/article/GMBlx</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '보좌진 부정 채용' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05170609-7921-46DD-ECE7-D0GU0W5MWRT5GYFZWB9S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['조세도피 추적 10년' ICIJ 대표 "비리가 있는 한 탐사보도 계속"]]></title>
+            <link>http://newstapa.org/article/87iVs</link>
+            <guid>http://newstapa.org/article/87iVs</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['조세도피 추적 10년' ICIJ 대표 "비리가 있는 한 탐사보도 계속"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파나마페이퍼스 7년, 그들은 지금 어디에?]]></title>
+            <link>http://newstapa.org/article/qjOV5</link>
+            <guid>http://newstapa.org/article/qjOV5</guid>
+            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[파나마페이퍼스 7년, 그들은 지금 어디에?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05153705-9D5C-5B9A-7223-0PNT13FFW590D3DIZOFX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대장동 X파일] 남욱 일당이 남긴 '저축은행 빚' 941억 더 있다...회수 방해 '검은 손' 밝혀야]]></title>
             <link>http://newstapa.org/article/V84i8</link>
@@ -102,38 +134,6 @@
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[삼림파괴 주식회사④]목재펠릿 공장 분진 심각, 실내까지 침투]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></title>
-            <link>http://newstapa.org/article/NkJgL</link>
-            <guid>http://newstapa.org/article/NkJgL</guid>
-            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30214427-C6BF-12EA-47A2-NW35B6T7RCE8YQ7Q855P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기]]></title>
-            <link>http://newstapa.org/article/kST11</link>
-            <guid>http://newstapa.org/article/kST11</guid>
-            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30170430-395D-F04C-3735-1SU7AX0NKMYSIRE28SML.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다]]></title>
-            <link>http://newstapa.org/article/3ylfn</link>
-            <guid>http://newstapa.org/article/3ylfn</guid>
-            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30082016-B873-4E9D-02D8-X4BRQ9DHAMQSZFD8V8CG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></title>
-            <link>http://newstapa.org/article/wEr3r</link>
-            <guid>http://newstapa.org/article/wEr3r</guid>
-            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29144006-446A-EB61-A301-AW64CFJWG35ERM3O1I5M.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
