@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-06T10:16:07.409Z</updated>
+    <updated>2023-04-06T12:16:07.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[곽상도 아들 50억, '이 법'으로 감췄다 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99479400</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99479400"/>
+        <updated>2023-04-06T12:16:06.695Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99479400"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bv7264/btr8w6YOEdS/lxFHgagtzkh8HimTTRBP4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">곽상도 아들 50억, '이 법'으로 감췄다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일]대장동 자금책 '조우형', 박영수와 말 맞춘 정황...검찰은 뒷북 압수수색]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99472464</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99429060"/>
         <updated>2023-04-04T06:13:11.809Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99429060"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/WTG79/btr7PjrPm7l/cX2x1jztfXAiqfHhUVBUtK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]박영수 차명지분 의혹...김만배 "천화동인·화천대유는 박영수 돈으로 설립"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99422086</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99422086"/>
-        <updated>2023-04-03T10:19:25.792Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99422086"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cyez3L/btr7R3Ia5Vz/gTR8sJkEgXHvQo4PKmgZWK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
