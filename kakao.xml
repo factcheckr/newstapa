@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-06T00:39:31.205Z</updated>
+    <updated>2023-04-06T02:05:26.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99463839</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99463839"/>
+        <updated>2023-04-06T02:05:26.020Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99463839"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3vYEy/btr8lNEZETi/4r2yB2L1gEVqLKKqdYl4hK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ②]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99439378</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99415153"/>
         <updated>2023-04-03T06:13:24.605Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99415153"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zJgJI/btr7GANSC2U/2xIeMKHQGW45kYczzEUzr0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">공약(空約)에 그친 윤석열의 ‘공직자 재산 DB 일원화’ 공약</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 첫 신고 공직자 나왔다... 그러나 '갈팡질팡' 안내에 재산 왜곡까지]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99410820</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99410820"/>
-        <updated>2023-04-03T02:27:59.563Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99410820"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bLJbDB/btr7pTfVXPN/NNyN1G6KIO84pm6Xm7rVu1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">비트코인 첫 신고 공직자 나왔다... 그러나 '갈팡질팡' 안내에 재산 왜곡까지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
