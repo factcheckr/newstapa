@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-07T09:11:55.601Z</updated>
+    <updated>2023-04-07T10:11:19.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99496634</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99496634"/>
+        <updated>2023-04-07T10:11:18.734Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496634"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GCtqP/btr8IxJHOvJ/T4Pjvuu7aWrKFyoJfS5nQ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99496641</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99463839"/>
         <updated>2023-04-06T02:05:26.020Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99463839"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3vYEy/btr8lNEZETi/4r2yB2L1gEVqLKKqdYl4hK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가 ②]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99439378</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99439378"/>
-        <updated>2023-04-04T09:15:20.332Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99439378"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dTnHiu/btr74uZ6r1k/BivkuM7ra9hIYbYssluR61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">임은정 vs 한동훈, 누가 부적격 검사인가 ②</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
