@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 06:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></title>
+            <link>http://newstapa.org/article/poKQK</link>
+            <guid>http://newstapa.org/article/poKQK</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07131440-E05B-6E78-E87A-KDS5FPGMKASY7TY170MV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 곽상도 아들 50억, '이 법'으로 감췄다]]></title>
             <link>http://newstapa.org/article/io-yJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령의 3대 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/22135802-0B95-A752-551C-5V4EIM1CJHSVT5HXS7OI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보]]></title>
-            <link>http://newstapa.org/article/xzThx</link>
-            <guid>http://newstapa.org/article/xzThx</guid>
-            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 남욱 재산 전격 가압류, 대장동 빚 환수 소송 나선 예보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15144619-2561-3E71-19ED-AXSQJK9WHNH0SJL9HWCF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

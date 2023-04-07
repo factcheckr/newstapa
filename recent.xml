@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 06:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></title>
+            <link>http://newstapa.org/article/poKQK</link>
+            <guid>http://newstapa.org/article/poKQK</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07131440-E05B-6E78-E87A-KDS5FPGMKASY7TY170MV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 곽상도 아들 50억, '이 법'으로 감췄다]]></title>
             <link>http://newstapa.org/article/io-yJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[비트코인 첫 신고 공직자 나왔다... 그러나 '갈팡질팡' 안내에 재산 왜곡까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03132542-0D76-1153-925B-LE33AW0HKNFBUHE189A2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템]]></title>
-            <link>http://newstapa.org/article/Sba6S</link>
-            <guid>http://newstapa.org/article/Sba6S</guid>
-            <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/02210017-72B4-2621-617A-0EI9U4SFHIGQ0A4OMIXE.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
