@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-07T08:16:35.800Z</updated>
+    <updated>2023-04-07T09:11:55.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99496641</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99496641"/>
+        <updated>2023-04-07T09:11:54.753Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vqO6v/btr8LKU0w0Z/tO6y9WVZK6pW6tN5gYnoKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99495294</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99439378"/>
         <updated>2023-04-04T09:15:20.332Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99439378"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dTnHiu/btr74uZ6r1k/BivkuM7ra9hIYbYssluR61/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">임은정 vs 한동훈, 누가 부적격 검사인가 ②</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99433785</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99433785"/>
-        <updated>2023-04-04T06:13:11.808Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99433785"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/0QAYy/btr7PiUTrJI/sEb0nYwCKuuWOE1e7FQJQ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
