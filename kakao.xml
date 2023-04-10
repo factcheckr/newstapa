@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-10T01:58:59.433Z</updated>
+    <updated>2023-04-10T02:31:03.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일]남욱 "세월호 특별수사팀 유병언 추적, 김만배가 도왔다"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99517953</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99517953"/>
+        <updated>2023-04-10T02:31:02.637Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99517953"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ysS3k/btr8MrCM3mC/nHDjTTEfiXtMwQA3uuN7d0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]남욱 "세월호 특별수사팀 유병언 추적, 김만배가 도왔다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99496634</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99472464"/>
         <updated>2023-04-06T07:10:29.077Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99472464"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cN3Ahb/btr8uulrx5t/qOyxcwELmNXckx7OFo67f1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]대장동 자금책 '조우형', 박영수와 말 맞춘 정황...검찰은 뒷북 압수수색</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99463839</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99463839"/>
-        <updated>2023-04-06T02:05:26.020Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99463839"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3vYEy/btr8lNEZETi/4r2yB2L1gEVqLKKqdYl4hK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

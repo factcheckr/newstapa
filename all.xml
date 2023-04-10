@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 01:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 02:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일]남욱 "세월호 특별수사팀 유병언 추적, 김만배가 도왔다" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99517953</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99517953</guid>
+            <pubDate>Mon, 10 Apr 2023 02:31:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99517953"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ysS3k/btr8MrCM3mC/nHDjTTEfiXtMwQA3uuN7d0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]남욱 "세월호 특별수사팀 유병언 추적, 김만배가 도왔다"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99496634</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99496634</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99472464</guid>
             <pubDate>Thu, 06 Apr 2023 07:10:29 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99472464"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cN3Ahb/btr8uulrx5t/qOyxcwELmNXckx7OFo67f1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]대장동 자금책 '조우형', 박영수와 말 맞춘 정황...검찰은 뒷북 압수수색</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99463839</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99463839</guid>
-            <pubDate>Thu, 06 Apr 2023 02:05:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99463839"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/3vYEy/btr8lNEZETi/4r2yB2L1gEVqLKKqdYl4hK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
