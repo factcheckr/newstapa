@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-11T12:17:10.633Z</updated>
+    <updated>2023-04-11T13:15:46.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99546372</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99546372"/>
+        <updated>2023-04-11T13:15:45.770Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99546372"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/I1sXw/btr9qBypTNd/astgjoW96KaJwvWTWMFIT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99533854</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99495294"/>
         <updated>2023-04-07T08:16:35.133Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99495294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbcOCP/btr8IwDHb0T/0gQgEEoMfaFyYEUuuYZl4k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박찬대 더불어민주당 의원, '언론 보도 무마' 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곽상도 아들 50억, '이 법'으로 감췄다 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99479400</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99479400"/>
-        <updated>2023-04-06T12:16:06.695Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99479400"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bv7264/btr8w6YOEdS/lxFHgagtzkh8HimTTRBP4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">곽상도 아들 50억, '이 법'으로 감췄다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

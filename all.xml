@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 12:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 13:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99546372</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99546372</guid>
+            <pubDate>Tue, 11 Apr 2023 13:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99546372"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/I1sXw/btr9qBypTNd/astgjoW96KaJwvWTWMFIT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99533854</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99533854</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99495294</guid>
             <pubDate>Fri, 07 Apr 2023 08:16:35 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99495294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbcOCP/btr8IwDHb0T/0gQgEEoMfaFyYEUuuYZl4k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박찬대 더불어민주당 의원, '언론 보도 무마' 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[곽상도 아들 50억, '이 법'으로 감췄다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99479400</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99479400</guid>
-            <pubDate>Thu, 06 Apr 2023 12:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99479400"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bv7264/btr8w6YOEdS/lxFHgagtzkh8HimTTRBP4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">곽상도 아들 50억, '이 법'으로 감췄다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
