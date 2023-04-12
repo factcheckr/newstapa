@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-12T05:10:24.753Z</updated>
+    <updated>2023-04-12T06:13:56.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99555639</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99555639"/>
+        <updated>2023-04-12T06:13:56.160Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99555639"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zmZON/btr9DHj0fUz/z3wvVjUa3AFRtKj1F9Cxl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99546372</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99496641"/>
         <updated>2023-04-07T09:11:54.753Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vqO6v/btr8LKU0w0Z/tO6y9WVZK6pW6tN5gYnoKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99495294</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99495294"/>
-        <updated>2023-04-07T08:16:35.133Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99495294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbcOCP/btr8IwDHb0T/0gQgEEoMfaFyYEUuuYZl4k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박찬대 더불어민주당 의원, '언론 보도 무마' 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

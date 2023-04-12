@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 05:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 06:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99555639</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99555639</guid>
+            <pubDate>Wed, 12 Apr 2023 06:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99555639"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zmZON/btr9DHj0fUz/z3wvVjUa3AFRtKj1F9Cxl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99546372</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99546372</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99496641</guid>
             <pubDate>Fri, 07 Apr 2023 09:11:54 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vqO6v/btr8LKU0w0Z/tO6y9WVZK6pW6tN5gYnoKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99495294</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99495294</guid>
-            <pubDate>Fri, 07 Apr 2023 08:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99495294"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dbcOCP/btr8IwDHb0T/0gQgEEoMfaFyYEUuuYZl4k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">박찬대 더불어민주당 의원, '언론 보도 무마' 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
