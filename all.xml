@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 08:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[글로벌 삼성의 위험한 공장] 연속보도 영문 자막 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99560085</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99560085</guid>
+            <pubDate>Wed, 12 Apr 2023 08:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99560085"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b8JI6G/btr9CJv6eMq/owJQyR6chU00gKLcbPrhB1/200x200.jpg?width=200&amp;height=200&quot;);"></span><span class="info_item"><span class="txt_g">[글로벌 삼성의 위험한 공장] 연속보도 영문 자막 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99555639</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99555639</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99496634</guid>
             <pubDate>Fri, 07 Apr 2023 10:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496634"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GCtqP/btr8IxJHOvJ/T4Pjvuu7aWrKFyoJfS5nQ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99496641</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99496641</guid>
-            <pubDate>Fri, 07 Apr 2023 09:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vqO6v/btr8LKU0w0Z/tO6y9WVZK6pW6tN5gYnoKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

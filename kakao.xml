@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-12T06:13:56.835Z</updated>
+    <updated>2023-04-12T08:13:09.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 삼성의 위험한 공장] 연속보도 영문 자막 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99560085</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99560085"/>
+        <updated>2023-04-12T08:13:08.987Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99560085"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b8JI6G/btr9CJv6eMq/owJQyR6chU00gKLcbPrhB1/200x200.jpg?width=200&amp;height=200&quot;);"></span><span class="info_item"><span class="txt_g">[글로벌 삼성의 위험한 공장] 연속보도 영문 자막 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99555639</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99496634"/>
         <updated>2023-04-07T10:11:18.734Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496634"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GCtqP/btr8IxJHOvJ/T4Pjvuu7aWrKFyoJfS5nQ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99496641</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99496641"/>
-        <updated>2023-04-07T09:11:54.753Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99496641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/vqO6v/btr8LKU0w0Z/tO6y9WVZK6pW6tN5gYnoKK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
