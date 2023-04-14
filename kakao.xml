@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-14T05:15:26.730Z</updated>
+    <updated>2023-04-14T07:19:15.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각" - 뉴스타파]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99592956</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99592956"/>
+        <updated>2023-04-14T07:19:15.145Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99592956"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/i6wkz/btsafPt05Gv/WE5pPAiowLDB6p7ACgc61K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각" - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이태원 참사 '재난통신망' 기록 폐기..."얼마나 무책임한가"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99586706</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99560085"/>
         <updated>2023-04-12T08:13:08.987Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99560085"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b8JI6G/btr9CJv6eMq/owJQyR6chU00gKLcbPrhB1/200x200.jpg?width=200&amp;height=200&quot;);"></span><span class="info_item"><span class="txt_g">[글로벌 삼성의 위험한 공장] 연속보도 영문 자막 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99555639</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99555639"/>
-        <updated>2023-04-12T06:13:56.160Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99555639"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/zmZON/btr9DHj0fUz/z3wvVjUa3AFRtKj1F9Cxl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
