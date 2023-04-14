@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-14T00:43:19.812Z</updated>
+    <updated>2023-04-14T01:59:35.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰의 방패를 뚫고, 정보공개 최종 판결을 받아내기까지]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99586697</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99586697"/>
+        <updated>2023-04-14T01:59:34.710Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99586697"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9KaAx/btr94v34mWN/PqMKVhDt3ryYCZQK30ydPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰의 방패를 뚫고, 정보공개 최종 판결을 받아내기까지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아직도 세월호 침몰이 '미스테리'라 말하는 당신에게 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99580978</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99546372"/>
         <updated>2023-04-11T13:15:45.770Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99546372"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/I1sXw/btr9qBypTNd/astgjoW96KaJwvWTWMFIT1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99533854</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99533854"/>
-        <updated>2023-04-11T02:09:53.740Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99533854"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/pmfcH/btr9qBXPJ6E/xjpPspzOkeptIxz0Q6zzhk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
