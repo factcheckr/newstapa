@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-18T08:13:14.283Z</updated>
+    <updated>2023-04-18T09:11:03.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연금개혁이 청년세대에게 중요한 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99647026</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99647026"/>
+        <updated>2023-04-18T09:11:02.760Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99647026"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/baDHZ9/btsa8h4kiYV/XMig4NN7UcCkJw50VLZnO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">연금개혁이 청년세대에게 중요한 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각" - 뉴스타파]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99592956</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99579980"/>
         <updated>2023-04-13T10:11:08.812Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99579980"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/biqb1V/btr92uD5TW9/FUSDAaY69XaoHDcwkHeIp0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 삼성의 위험한 공장] 연속보도 영문 자막 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99560085</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99560085"/>
-        <updated>2023-04-12T08:13:08.987Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99560085"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b8JI6G/btr9CJv6eMq/owJQyR6chU00gKLcbPrhB1/200x200.jpg?width=200&amp;height=200&quot;);"></span><span class="info_item"><span class="txt_g">[글로벌 삼성의 위험한 공장] 연속보도 영문 자막 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
