@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 11:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 12:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파 X  KBS 시사직격] 만배 형과 영수 형 - 예고편 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99666837</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99666837</guid>
+            <pubDate>Wed, 19 Apr 2023 12:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99666837"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/6WnTr/btsbmhcI3Tu/hgKokOAEqAovKh6DK687PK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X  KBS 시사직격] 만배 형과 영수 형 - 예고편</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[연금개혁이 청년세대에게 중요한 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99647026</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99647026</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99580978</guid>
             <pubDate>Thu, 13 Apr 2023 12:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99580978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/57Esq/btr92trOs16/lnIW6zvLM4jmy2TVGU3NTK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">아직도 세월호 침몰이 '미스테리'라 말하는 당신에게 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99579980</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99579980</guid>
-            <pubDate>Thu, 13 Apr 2023 10:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99579980"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/biqb1V/btr92uD5TW9/FUSDAaY69XaoHDcwkHeIp0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

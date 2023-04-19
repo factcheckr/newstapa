@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-19T11:14:37.557Z</updated>
+    <updated>2023-04-19T12:21:15.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스타파 X  KBS 시사직격] 만배 형과 영수 형 - 예고편]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99666837</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99666837"/>
+        <updated>2023-04-19T12:21:15.236Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99666837"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/6WnTr/btsbmhcI3Tu/hgKokOAEqAovKh6DK687PK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X  KBS 시사직격] 만배 형과 영수 형 - 예고편</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연금개혁이 청년세대에게 중요한 이유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99647026</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99580978"/>
         <updated>2023-04-13T12:17:29.338Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99580978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/57Esq/btr92trOs16/lnIW6zvLM4jmy2TVGU3NTK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">아직도 세월호 침몰이 '미스테리'라 말하는 당신에게 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99579980</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99579980"/>
-        <updated>2023-04-13T10:11:08.812Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99579980"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/biqb1V/btr92uD5TW9/FUSDAaY69XaoHDcwkHeIp0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
