@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 10:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 11:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간]]></title>
+            <link>http://newstapa.org/article/0x6Vq</link>
+            <guid>http://newstapa.org/article/0x6Vq</guid>
+            <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20185133-9EBB-2C1C-2073-IRS1TJ06VTQUS3QFC336.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③]]></title>
             <link>http://newstapa.org/article/WaQbO</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07171926-E7C6-688C-2764-EBEYVWJJNG1IA89CXJRL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></title>
-            <link>http://newstapa.org/article/MlcU1</link>
-            <guid>http://newstapa.org/article/MlcU1</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07162519-13AF-DB38-1362-G6S9WRFKIJ1ZPPU3K4XF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
