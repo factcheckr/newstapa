@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 03:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 06:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/WaQbO</link>
+            <guid>http://newstapa.org/article/WaQbO</guid>
+            <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20145241-FF97-C16D-6A93-4P9BEF1CDQ2AI3TYXZSY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[확정판결 검찰예산 신속히 공개 안 하면, '간접강제' 신청한다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/nB7LD</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07162519-13AF-DB38-1362-G6S9WRFKIJ1ZPPU3K4XF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/poKQK</link>
-            <guid>http://newstapa.org/article/poKQK</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07131440-E05B-6E78-E87A-KDS5FPGMKASY7TY170MV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 방패를 뚫고, 정보공개 최종 판결을 받아내기까지 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/24145011-CAB2-0F02-108D-QI3R59NM1L855J0Q8B0N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/WaQbO</link>
+            <guid>http://newstapa.org/article/WaQbO</guid>
+            <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20145241-FF97-C16D-6A93-4P9BEF1CDQ2AI3TYXZSY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/McFJU</link>
             <guid>http://newstapa.org/article/McFJU</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29144006-446A-EB61-A301-AW64CFJWG35ERM3O1I5M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/IsaTh</link>
-            <guid>http://newstapa.org/article/IsaTh</guid>
-            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] ‘검찰 버전 녹취록’에 드러난 수사 무마… 남욱 “수사관이 복수해준대요”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29102338-90A8-FB58-6BCE-KDFEYY990S95P0J62TPF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[확정판결 검찰예산 신속히 공개 안 하면, '간접강제' 신청한다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③ (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99677918</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99677918</guid>
+            <pubDate>Thu, 20 Apr 2023 06:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99677918"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/J3dmj/btsbmUXcH7t/xCSvxH02K01eV1uGAKiHNK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[뉴스타파 X  KBS 시사직격] 만배 형과 영수 형 - 예고편 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99666837</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99666837</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99586697</guid>
             <pubDate>Fri, 14 Apr 2023 01:59:34 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99586697"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9KaAx/btr94v34mWN/PqMKVhDt3ryYCZQK30ydPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰의 방패를 뚫고, 정보공개 최종 판결을 받아내기까지</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아직도 세월호 침몰이 '미스테리'라 말하는 당신에게 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99580978</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99580978</guid>
-            <pubDate>Thu, 13 Apr 2023 12:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99580978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/57Esq/btr92trOs16/lnIW6zvLM4jmy2TVGU3NTK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">아직도 세월호 침몰이 '미스테리'라 말하는 당신에게 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

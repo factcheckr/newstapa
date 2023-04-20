@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-20T03:16:14.746Z</updated>
+    <updated>2023-04-20T06:19:20.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99677918</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99677918"/>
+        <updated>2023-04-20T06:19:19.187Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99677918"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/J3dmj/btsbmUXcH7t/xCSvxH02K01eV1uGAKiHNK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스타파 X  KBS 시사직격] 만배 형과 영수 형 - 예고편]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99666837</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99586697"/>
         <updated>2023-04-14T01:59:34.710Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99586697"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9KaAx/btr94v34mWN/PqMKVhDt3ryYCZQK30ydPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰의 방패를 뚫고, 정보공개 최종 판결을 받아내기까지</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 세월호 침몰이 '미스테리'라 말하는 당신에게 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99580978</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99580978"/>
-        <updated>2023-04-13T12:17:29.338Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99580978"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/57Esq/btr92trOs16/lnIW6zvLM4jmy2TVGU3NTK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">아직도 세월호 침몰이 '미스테리'라 말하는 당신에게 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
