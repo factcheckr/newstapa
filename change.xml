@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 03:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 04:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료]]></title>
+            <link>https://www.newstapa.org/article/g8QiW</link>
+            <guid>https://www.newstapa.org/article/g8QiW</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.04.21]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21101141-78A9-971F-3A14-8TKZZGUJWWRHROJWP11D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] '무분별 안락사' 보도 4년 만에 '케어' 박소연 전 대표에 실형 선고]]></title>
             <link>https://www.newstapa.org/article/cY_0S</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.07]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/07233833-4D16-8051-D128-0ODD3H9FXK6D79BU820D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] "체리방송 협찬금, 수수료만 떼고 SBS비즈로 송금".. 방심위 과징금 처분]]></title>
-            <link>https://www.newstapa.org/article/6Re-x</link>
-            <guid>https://www.newstapa.org/article/6Re-x</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/12154158-9876-CDDA-DE0F-L6NTQW6K1YCEBP2PNQAO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
