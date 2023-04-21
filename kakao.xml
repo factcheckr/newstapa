@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-04-21T02:02:01.534Z</updated>
+    <updated>2023-04-21T02:33:18.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99690530</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99690530"/>
+        <updated>2023-04-21T02:33:17.551Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99690530"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tzPj6/btsbMlY8JSg/nUcLHZkWc9SjWqr2gCI261/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99689713</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99647026"/>
         <updated>2023-04-18T09:11:02.760Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99647026"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/baDHZ9/btsa8h4kiYV/XMig4NN7UcCkJw50VLZnO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">연금개혁이 청년세대에게 중요한 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각" - 뉴스타파]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99592956</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99592956"/>
-        <updated>2023-04-14T07:19:15.145Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99592956"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/i6wkz/btsafPt05Gv/WE5pPAiowLDB6p7ACgc61K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각" - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
