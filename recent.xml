@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 18:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 19:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스타파 X KBS시사직격] 대장동 카르텔의 기원...‘만배 형과 영수 형’]]></title>
+            <link>http://newstapa.org/article/vwArK</link>
+            <guid>http://newstapa.org/article/vwArK</guid>
+            <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파 X KBS시사직격] 대장동 카르텔의 기원...‘만배 형과 영수 형’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/22031229-79D2-947E-6F77-V46GO1RFLI790FBUBINR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></title>
             <link>http://newstapa.org/article/HcqQ9</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑦ 허위 보고한 군검사, 뒤늦게 사실 확인한 공군본부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/13173927-F4AE-5B1E-9495-9WPFALPRLH4OAZ4O5YS2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응]]></title>
-            <link>http://newstapa.org/article/wO1Jp</link>
-            <guid>http://newstapa.org/article/wO1Jp</guid>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/11195646-C354-10AB-4800-SIOE6OKTCC0SHLDW6CYP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
