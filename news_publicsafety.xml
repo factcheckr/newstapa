@@ -4,17 +4,9 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 09:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 10:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></title>
-            <link>http://newstapa.org/article/HcqQ9</link>
-            <guid>http://newstapa.org/article/HcqQ9</guid>
-            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[길 잃은 별들의 길이 되어... 이태원 진실버스]]></title>
             <link>http://newstapa.org/article/k1w2t</link>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/01133158-5225-C368-B9FF-KY3H9SNIXWWWEETQXK62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></title>
+            <link>http://newstapa.org/article/AHNuF</link>
+            <guid>http://newstapa.org/article/AHNuF</guid>
+            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31165721-B78F-180A-F340-Y4AQL2TYZMEAB7R3YVIA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
