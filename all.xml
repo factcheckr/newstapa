@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 08:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 09:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/HcqQ9</link>
+            <guid>http://newstapa.org/article/HcqQ9</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길 잃은 별들의 길이 되어... 이태원 진실버스 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/k1w2t</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/11195646-C354-10AB-4800-SIOE6OKTCC0SHLDW6CYP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Myybt</link>
-            <guid>http://newstapa.org/article/Myybt</guid>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/10181940-6463-6662-CB17-1X7T79I9O0LKT122H34Q.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/HcqQ9</link>
+            <guid>http://newstapa.org/article/HcqQ9</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30082016-B873-4E9D-02D8-X4BRQ9DHAMQSZFD8V8CG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/QPOFr</link>
-            <guid>http://newstapa.org/article/QPOFr</guid>
-            <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[임은정 vs 한동훈, 누가 부적격 검사인가1]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/28152046-1DCE-230F-EC4F-N8GU0PT3W1CFM0M4Y9HM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31143337-6075-E1AD-EBD2-600DEXWZVEP7N7PEU1K4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/HcqQ9</link>
+            <guid>http://newstapa.org/article/HcqQ9</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[길 잃은 별들의 길이 되어... 이태원 진실버스 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/k1w2t</link>
             <guid>http://newstapa.org/article/k1w2t</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공소장 속 박희영 구청장의 '총체적 부실'... 무대책, 태만, '정부 비판 없애라']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/01133158-5225-C368-B9FF-KY3H9SNIXWWWEETQXK62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/AHNuF</link>
-            <guid>http://newstapa.org/article/AHNuF</guid>
-            <pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["사과했잖아요"... '김미나 구하기' 나선 창원 시의원들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/31165721-B78F-180A-F340-Y4AQL2TYZMEAB7R3YVIA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최외출 영남대 총장과 28년 전의 비밀 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[길 잃은 별들의 길이 되어, 이태원 진실버스 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99699237</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99699237</guid>
+            <pubDate>Fri, 21 Apr 2023 09:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99699237"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/IjIUa/btsbSMCfTTg/U1wSat0r1Zfp0ZaoZH6kPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">길 잃은 별들의 길이 되어, 이태원 진실버스</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99690530</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99690530</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99666837</guid>
             <pubDate>Wed, 19 Apr 2023 12:21:15 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99666837"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/6WnTr/btsbmhcI3Tu/hgKokOAEqAovKh6DK687PK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X  KBS 시사직격] 만배 형과 영수 형 - 예고편</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연금개혁이 청년세대에게 중요한 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99647026</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99647026</guid>
-            <pubDate>Tue, 18 Apr 2023 09:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99647026"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/baDHZ9/btsa8h4kiYV/XMig4NN7UcCkJw50VLZnO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">연금개혁이 청년세대에게 중요한 이유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
