@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 00:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 02:02:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/7lAZd</link>
+            <guid>http://newstapa.org/article/7lAZd</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20170953-ACB9-612C-09BF-XQM97L7QGUYZX98MRVMH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/0x6Vq</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05165529-72E7-0664-B1A5-P13XC9Z5SSEAT16RQVG1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/o-APw</link>
-            <guid>http://newstapa.org/article/o-APw</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07171926-E7C6-688C-2764-EBEYVWJJNG1IA89CXJRL.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/7lAZd</link>
+            <guid>http://newstapa.org/article/7lAZd</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20170953-ACB9-612C-09BF-XQM97L7QGUYZX98MRVMH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/27155448-C42B-1DC5-40A2-KF4TLFXQCR69J61O8989.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부, 대통령기록물법 무시...알 권리 침해 우려 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/NIsWS</link>
-            <guid>http://newstapa.org/article/NIsWS</guid>
-            <pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부, 대통령기록물법 무시...알 권리 침해 우려]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/27150825-9A96-1C58-DD5D-ESCE30Z86WHXA4C06S3P.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/7lAZd</link>
+            <guid>http://newstapa.org/article/7lAZd</guid>
+            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20170953-ACB9-612C-09BF-XQM97L7QGUYZX98MRVMH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30082016-B873-4E9D-02D8-X4BRQ9DHAMQSZFD8V8CG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/wEr3r</link>
-            <guid>http://newstapa.org/article/wEr3r</guid>
-            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 덮은 '강현도 오산 부시장 뇌물 사건'... 경찰은 '기소의견 송치']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/29144006-446A-EB61-A301-AW64CFJWG35ERM3O1I5M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99689713</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99689713</guid>
+            <pubDate>Fri, 21 Apr 2023 02:02:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99689713"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nHuki/btsbCHborho/tZAkGF181WqBZKkPFXQnyK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[1,243일만의 승소... '검사' 윤석열, 검증의 시간 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99683829</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99683829</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99592956</guid>
             <pubDate>Fri, 14 Apr 2023 07:19:15 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99592956"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/i6wkz/btsafPt05Gv/WE5pPAiowLDB6p7ACgc61K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각" - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 '재난통신망' 기록 폐기..."얼마나 무책임한가" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99586706</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99586706</guid>
-            <pubDate>Fri, 14 Apr 2023 02:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99586706"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wcqSz/btr92ukktTE/3YET7GbvTIzgR8U0cekMsk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이태원 참사 '재난통신망' 기록 폐기..."얼마나 무책임한가"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
