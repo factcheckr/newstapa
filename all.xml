@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 09:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 10:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/wcXG1</link>
+            <guid>http://newstapa.org/article/wcXG1</guid>
+            <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/24182153-194E-4A4E-DAC4-8DOOVM13J3D2XY955N2P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 한동훈의 이중언어 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/dyP-D</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/13182618-E45C-E0DD-3364-1HRV1J322H3UTLIQP6WY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Es3uv</link>
-            <guid>http://newstapa.org/article/Es3uv</guid>
-            <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/12125401-A2BB-C19B-337D-1YOO06CNDOV4GKH4IA6V.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/wcXG1</link>
+            <guid>http://newstapa.org/article/wcXG1</guid>
+            <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/24182153-194E-4A4E-DAC4-8DOOVM13J3D2XY955N2P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["해운대구광역시"에 틀린 덧셈까지... 오류투성이 재산공개 시스템]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/02210017-72B4-2621-617A-0EI9U4SFHIGQ0A4OMIXE.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/3ylfn</link>
-            <guid>http://newstapa.org/article/3ylfn</guid>
-            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 화천대유-하나은행 묶어준 뒷배는 SK계열사, 킨앤이었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30082016-B873-4E9D-02D8-X4BRQ9DHAMQSZFD8V8CG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 한동훈의 이중언어 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/31161612-C0E1-A363-C2C3-2D867DKADMOSJ4FIXX1G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/wcXG1</link>
+            <guid>http://newstapa.org/article/wcXG1</guid>
+            <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/24182153-194E-4A4E-DAC4-8DOOVM13J3D2XY955N2P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/0x6Vq</link>
             <guid>http://newstapa.org/article/0x6Vq</guid>
@@ -510,14 +518,6 @@
             <pubDate>Tue, 15 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 정보공개청구 ‘달인’과 ‘정부 2인자’의 대결]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17140352-5077-3B82-738C-E7O2EZ7IW45YMCU7EMNR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/g0EII</link>
-            <guid>http://newstapa.org/article/g0EII</guid>
-            <pubDate>Wed, 26 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['부산 국민의힘 세금 유용 카르텔'... 불법 정치자금 조성 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/26145125-495A-8072-FCEF-Y6N6XG5V5EK9V3P0XUPK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
