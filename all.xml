@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 05:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 06:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99743887</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99743887</guid>
+            <pubDate>Tue, 25 Apr 2023 06:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99743887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dcyUn0/btscxmxDVJ3/9L2DaKb2mrM4ddVxXKbpl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘공천 미끼’ 돈봉투 의혹... 김현아 육성파일 “회비 완납하세요” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99740387</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99740387</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99689713</guid>
             <pubDate>Fri, 21 Apr 2023 02:02:00 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99689713"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nHuki/btsbCHborho/tZAkGF181WqBZKkPFXQnyK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1,243일만의 승소... '검사' 윤석열, 검증의 시간 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99683829</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99683829</guid>
-            <pubDate>Thu, 20 Apr 2023 11:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99683829"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/1hZIX/btsbtfGQOWr/xVX23N2gLtRxlfqPrFiNMk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">1,243일만의 승소... '검사' 윤석열, 검증의 시간 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
