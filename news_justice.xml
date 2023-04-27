@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 10:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 11:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 하청업체를 노예로 만든 대우조선해양의 '영업 비밀']]></title>
+            <link>http://newstapa.org/article/9_SBy</link>
+            <guid>http://newstapa.org/article/9_SBy</guid>
+            <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 하청업체를 노예로 만든 대우조선해양의 '영업 비밀']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/27172814-9F88-D02D-0A95-LJJETV0MAXXQO9WWI2S1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김현아 ‘돈봉투 의혹’ 추가 녹음파일...“3명 200씩? 잘 쓰겠습니다”]]></title>
             <link>http://newstapa.org/article/alKdK</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 남욱 일당이 남긴 '저축은행 빚' 941억 더 있다...회수 방해 '검은 손' 밝혀야]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/04112727-AB9E-9FFB-DFFB-UX471Y0Q1L535RLT35IR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 김만배 미공개 육성파일 "박영수랑 그렇게 형제가 된 거야"]]></title>
-            <link>http://newstapa.org/article/GdBiC</link>
-            <guid>http://newstapa.org/article/GdBiC</guid>
-            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 김만배 미공개 육성파일 "박영수랑 그렇게 형제가 된 거야"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05095011-EA87-A7DA-63A1-9OMKZ79BUI5YN8RK4HZG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
