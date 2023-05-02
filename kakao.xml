@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-02T08:16:38.369Z</updated>
+    <updated>2023-05-02T10:11:43.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99866058</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99866058"/>
+        <updated>2023-05-02T10:11:42.358Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99866058"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kMVwT/btsdIqRNoBp/hIAAcWErk7RJtSd6yg91TK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낙동강서 메탄 대량 배출 확인... 원인은 보 때문에 쌓인 녹조]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99862334</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99743887"/>
         <updated>2023-04-25T06:13:22.953Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99743887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dcyUn0/btscxmxDVJ3/9L2DaKb2mrM4ddVxXKbpl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘공천 미끼’ 돈봉투 의혹... 김현아 육성파일 “회비 완납하세요”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99740387</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99740387"/>
-        <updated>2023-04-25T02:36:44.972Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99740387"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TGlOp/btscwKLANuI/pnXANiFQ8Cgl5T00kRx0Kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘공천 미끼’ 돈봉투 의혹... 김현아 육성파일 “회비 완납하세요”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

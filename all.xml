@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 08:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 10:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/IDeo5</link>
+            <guid>http://newstapa.org/article/IDeo5</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02144657-BF4D-96D0-D37F-2P9UBWSEHLGN8P7FQ7KX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Tcnj0</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20185133-9EBB-2C1C-2073-IRS1TJ06VTQUS3QFC336.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③ (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/WaQbO</link>
-            <guid>http://newstapa.org/article/WaQbO</guid>
-            <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20145241-FF97-C16D-6A93-4P9BEF1CDQ2AI3TYXZSY.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/IDeo5</link>
+            <guid>http://newstapa.org/article/IDeo5</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02144657-BF4D-96D0-D37F-2P9UBWSEHLGN8P7FQ7KX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현아 ‘돈봉투 의혹’ 추가 녹음파일...“3명 200씩? 잘 쓰겠습니다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03173501-5F3F-62E7-9558-UHJINE3XG6S1CH6FMXK7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공약(空約)에 그친 윤석열의 ‘공직자 재산 DB 일원화’ 공약 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/ZUOvz</link>
-            <guid>http://newstapa.org/article/ZUOvz</guid>
-            <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공약(空約)에 그친 윤석열의 ‘공직자 재산 DB 일원화’ 공약]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03141609-E4B1-9A56-BC90-HFVPS5ADROCVTXENLXOZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -2773,6 +2773,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/Tcnj0</link>
+            <guid>https://www.newstapa.org/article/Tcnj0</guid>
+            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.02]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02154810-E039-5D6A-18A9-AZ793QR04HZUHHF6F0W1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다" (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/HcqQ9</link>
             <guid>https://www.newstapa.org/article/HcqQ9</guid>
@@ -2891,14 +2899,6 @@
             <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/11171503-886A-8890-0D15-MZB0VZ9AGHWOD754F6ID.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 금융위, 삼성생명 암 보험금 부지급에 중징계 결정 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/_N8q-</link>
-            <guid>https://www.newstapa.org/article/_N8q-</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.27]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/03102130-50AE-FE2C-8D1F-E61LQ7A7KOFR00L67J47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 참여)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’ (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99866058</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99866058</guid>
+            <pubDate>Tue, 02 May 2023 10:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99866058"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kMVwT/btsdIqRNoBp/hIAAcWErk7RJtSd6yg91TK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[낙동강서 메탄 대량 배출 확인... 원인은 보 때문에 쌓인 녹조 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99862334</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99862334</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99743887</guid>
             <pubDate>Tue, 25 Apr 2023 06:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99743887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dcyUn0/btscxmxDVJ3/9L2DaKb2mrM4ddVxXKbpl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘공천 미끼’ 돈봉투 의혹... 김현아 육성파일 “회비 완납하세요” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99740387</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99740387</guid>
-            <pubDate>Tue, 25 Apr 2023 02:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99740387"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/TGlOp/btscwKLANuI/pnXANiFQ8Cgl5T00kRx0Kk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘공천 미끼’ 돈봉투 의혹... 김현아 육성파일 “회비 완납하세요”</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
