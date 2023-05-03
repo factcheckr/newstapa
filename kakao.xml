@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-03T00:44:40.543Z</updated>
+    <updated>2023-05-03T02:30:49.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99877715</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99877715"/>
+        <updated>2023-05-03T02:30:48.895Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99877715"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dsYKlT/btsdInuyuAF/i5dkVaxsKWYV77EUOPLJGk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99866058</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99776200"/>
         <updated>2023-04-27T02:34:40.601Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99776200"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/snVY8/btscQyElVnQ/fglGFeUiGspry8wLxzyKOK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김현아 '돈봉투 의혹' 추가 녹음파일..."3명, 200씩? 잘 쓰겠습니다"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99743887</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99743887"/>
-        <updated>2023-04-25T06:13:22.953Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99743887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dcyUn0/btscxmxDVJ3/9L2DaKb2mrM4ddVxXKbpl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 00:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 02:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/TM7S3</link>
+            <guid>http://newstapa.org/article/TM7S3</guid>
+            <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02141355-3C43-65A6-A90B-N27JBXFE98ZYYUM1B89E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’ (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/IDeo5</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20170953-ACB9-612C-09BF-XQM97L7QGUYZX98MRVMH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/0x6Vq</link>
-            <guid>http://newstapa.org/article/0x6Vq</guid>
-            <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 1,243일만의 승소... '검사' 윤석열, 검증의 시간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20185133-9EBB-2C1C-2073-IRS1TJ06VTQUS3QFC336.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/TM7S3</link>
+            <guid>http://newstapa.org/article/TM7S3</guid>
+            <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02141355-3C43-65A6-A90B-N27JBXFE98ZYYUM1B89E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/04174349-E0AD-160A-0EF2-T7HPJ6LVWVJTN1XDAFN3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/fkVAc</link>
-            <guid>http://newstapa.org/article/fkVAc</guid>
-            <pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["공직자 재산공개제도, 확 뜯어고쳐야 시민 알권리 보장"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03173501-5F3F-62E7-9558-UHJINE3XG6S1CH6FMXK7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/TM7S3</link>
+            <guid>http://newstapa.org/article/TM7S3</guid>
+            <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02141355-3C43-65A6-A90B-N27JBXFE98ZYYUM1B89E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07162519-13AF-DB38-1362-G6S9WRFKIJ1ZPPU3K4XF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일]대장동 자금책 '조우형', 박영수와 말 맞춘 정황...검찰은 뒷북 압수수색 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/nHzcz</link>
-            <guid>http://newstapa.org/article/nHzcz</guid>
-            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일]대장동 자금책 '조우형', 박영수와 말 맞춘 정황...검찰은 뒷북 압수수색]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/06134900-E101-9BC2-3ABC-RSZ5KIZL2CCXBSZ88Z4C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/99877715</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/99877715</guid>
+            <pubDate>Wed, 03 May 2023 02:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99877715"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dsYKlT/btsdInuyuAF/i5dkVaxsKWYV77EUOPLJGk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’ (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99866058</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99866058</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99776200</guid>
             <pubDate>Thu, 27 Apr 2023 02:34:40 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99776200"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/snVY8/btscQyElVnQ/fglGFeUiGspry8wLxzyKOK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김현아 '돈봉투 의혹' 추가 녹음파일..."3명, 200씩? 잘 쓰겠습니다"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손' (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99743887</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99743887</guid>
-            <pubDate>Tue, 25 Apr 2023 06:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99743887"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dcyUn0/btscxmxDVJ3/9L2DaKb2mrM4ddVxXKbpl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손'</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
