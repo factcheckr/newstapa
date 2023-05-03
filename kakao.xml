@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-03T04:15:46.484Z</updated>
+    <updated>2023-05-03T05:14:20.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김현아 ‘돈봉투 의혹’에 국민의힘, 1년 만에 ‘뒷북 감사’]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99882799</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99882799"/>
+        <updated>2023-05-03T05:14:19.654Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99882799"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/N9m6f/btsdKqZgqtU/IRTqTOK99bmg45yZEYKiOK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김현아 ‘돈봉투 의혹’에 국민의힘, 1년 만에 ‘뒷북 감사’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99877715</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99790460"/>
         <updated>2023-04-27T11:13:54.859Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99790460"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DuFr7/btsc0X36bjd/oKwORnf18wEiQKeSyaJerK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">하청업체를 노예로 만든 대우조선해양의 '영업 비밀' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현아 '돈봉투 의혹' 추가 녹음파일..."3명, 200씩? 잘 쓰겠습니다"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99776200</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99776200"/>
-        <updated>2023-04-27T02:34:40.601Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99776200"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/snVY8/btscQyElVnQ/fglGFeUiGspry8wLxzyKOK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김현아 '돈봉투 의혹' 추가 녹음파일..."3명, 200씩? 잘 쓰겠습니다"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
