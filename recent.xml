@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 07:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 08:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유]]></title>
+            <link>http://newstapa.org/article/QSdvB</link>
+            <guid>http://newstapa.org/article/QSdvB</guid>
+            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/04164910-61AB-E9B1-1961-YWICLAVS0LW39P82R0MS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["군을 믿어서는 안 됐다"... 고 이예람 중사 부모 인터뷰]]></title>
             <link>http://newstapa.org/article/LzPs7</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[길 잃은 별들의 길이 되어... 이태원 진실버스]]></title>
-            <link>http://newstapa.org/article/k1w2t</link>
-            <guid>http://newstapa.org/article/k1w2t</guid>
-            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[길 잃은 별들의 길이 되어... 이태원 진실버스]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20124005-067E-7650-9197-GAISBMHKPQ56LU3RXB04.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
