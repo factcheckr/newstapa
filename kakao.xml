@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-08T04:16:18.259Z</updated>
+    <updated>2023-05-08T05:15:19.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/99949090</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/99949090"/>
+        <updated>2023-05-08T05:15:19.147Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99949090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9HSa9/btsd9NUQ7zj/L58tFaYAVIkwOOCyFDZaIk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노조 혐오 방정식 : 지지율 장사의 밑천 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/99915472</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99891919"/>
         <updated>2023-05-03T09:10:11.980Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99891919"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DtSSi/btsdOBNzpSW/fLlaJak68JP8dmKXQgtSjK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"군을 믿어서는 안 됐다"... 고 이예람 중사 부모 인터뷰</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현아 ‘돈봉투 의혹’에 국민의힘, 1년 만에 ‘뒷북 감사’]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99882799</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99882799"/>
-        <updated>2023-05-03T05:14:19.654Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99882799"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/N9m6f/btsdKqZgqtU/IRTqTOK99bmg45yZEYKiOK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김현아 ‘돈봉투 의혹’에 국민의힘, 1년 만에 ‘뒷북 감사’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
