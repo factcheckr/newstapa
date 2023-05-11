@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 10:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 11:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/C1VLd</link>
+            <guid>http://newstapa.org/article/C1VLd</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11182522-3162-7F4E-70FF-WUD3JMUIWBCUKX5HKW13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/h4924</link>
+            <guid>http://newstapa.org/article/h4924</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11162722-22B1-CDEA-178F-SSHOA46J2W8Z08OWQZFL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/U28so</link>
+            <guid>http://newstapa.org/article/U28so</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11165631-5F85-4124-2536-L8OMXMSFBLYEQRNAANAH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Or6lx</link>
@@ -112,28 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/26153121-4216-1E38-74D1-6QFED5B6TRIT2ZPNNVQ4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/7GCm_</link>
-            <guid>http://newstapa.org/article/7GCm_</guid>
-            <pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 대장동 일당이 남긴 저축은행 빚 3,672억원과 '검은 손']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21133558-3D39-70D3-2AD4-CKXNBYB999IQF2ZPG5SL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘공천 미끼’ 돈봉투 의혹... 김현아 육성파일 “회비 완납하세요” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/KKHsw</link>
-            <guid>http://newstapa.org/article/KKHsw</guid>
-            <pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘공천 미끼’ 돈봉투 의혹... 김현아 육성파일 “회비 완납하세요”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/24174943-1C29-A393-6B01-YG3R4UHAFRG6Q5TI30S4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/wcXG1</link>
-            <guid>http://newstapa.org/article/wcXG1</guid>
-            <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 특수활동비’ 6월 23일 공개된다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/24182153-194E-4A4E-DAC4-8DOOVM13J3D2XY955N2P.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/U28so</link>
+            <guid>http://newstapa.org/article/U28so</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11165631-5F85-4124-2536-L8OMXMSFBLYEQRNAANAH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현아 ‘돈봉투 의혹’에 국민의힘, 1년 만에 ‘뒷북 감사’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박찬대 더불어민주당 의원, '보좌진 부정 채용' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05170609-7921-46DD-ECE7-D0GU0W5MWRT5GYFZWB9S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 남욱 일당이 남긴 '저축은행 빚' 941억 더 있다...회수 방해 '검은 손' 밝혀야 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/V84i8</link>
-            <guid>http://newstapa.org/article/V84i8</guid>
-            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 남욱 일당이 남긴 '저축은행 빚' 941억 더 있다...회수 방해 '검은 손' 밝혀야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/04112727-AB9E-9FFB-DFFB-UX471Y0Q1L535RLT35IR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["군을 믿어서는 안 됐다"... 고 이예람 중사 부모 인터뷰 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1672,6 +1672,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/01185734-F102-57ED-9F30-AVWLVVPDMUYFPSJP4KHO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/C1VLd</link>
+            <guid>http://newstapa.org/article/C1VLd</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11182522-3162-7F4E-70FF-WUD3JMUIWBCUKX5HKW13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/h4924</link>
+            <guid>http://newstapa.org/article/h4924</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11162722-22B1-CDEA-178F-SSHOA46J2W8Z08OWQZFL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/wO1Jp</link>
             <guid>http://newstapa.org/article/wO1Jp</guid>
@@ -1782,22 +1798,6 @@
             <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['미 국무부'가 최다...美 선전매체 인용 기사 데이터 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/29140336-DF85-1A1F-AF6C-56FO9VGFSQ8PG7FQXA0R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/p0Y-i</link>
-            <guid>http://newstapa.org/article/p0Y-i</guid>
-            <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/26160020-A04F-F84B-7E95-ZBI605R9U38YWQI459ZK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/aBBIY</link>
-            <guid>http://newstapa.org/article/aBBIY</guid>
-            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/12114944-26B2-D231-FE3E-F7J9VV3SVMEPL0FZXEIF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -1928,6 +1928,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10163350-52FA-04B4-C784-9Q7PDCG1NMNC2LMML0YH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/C1VLd</link>
+            <guid>http://newstapa.org/article/C1VLd</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11182522-3162-7F4E-70FF-WUD3JMUIWBCUKX5HKW13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/U28so</link>
+            <guid>http://newstapa.org/article/U28so</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11165631-5F85-4124-2536-L8OMXMSFBLYEQRNAANAH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['불법', '강성', '기득', '귀족'...... 노동조합 그리는 언론사들의 시선 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/tBYLC</link>
             <guid>http://newstapa.org/article/tBYLC</guid>
@@ -2038,22 +2054,6 @@
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31124222-E6F1-8533-8D44-Z3828JJ07SIUO5YJBGWD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수 언론에 당근, 비판 언론엔 채찍 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/a7f1A</link>
-            <guid>http://newstapa.org/article/a7f1A</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보수 언론에 당근, 비판 언론엔 채찍]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12153527-6AFC-EFA2-AFD2-7K3UG0LVEIGZ5AENN7TO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/I8YMa</link>
-            <guid>http://newstapa.org/article/I8YMa</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02185039-8E13-F2C9-E3B1-P5Z0E0KNG2KAWQ635NNJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 X파일 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3029,6 +3029,27 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100016262</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100016262</guid>
+            <pubDate>Thu, 11 May 2023 11:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016262"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/71HT9/btseQDji0jD/GlIFImSVN5KgPPLkCprIn0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100016232</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100016232</guid>
+            <pubDate>Thu, 11 May 2023 11:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016232"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eJvBex/btseSCDVcNT/wiBhaDh5MWE5S2sdaeUjmK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100016223</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100016223</guid>
+            <pubDate>Thu, 11 May 2023 11:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016223"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgFarr/btseQjZHXQl/KkRNJkmlXEgy3CtEYIEeek/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/99949090</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/99949090</guid>
@@ -3048,27 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99915446</guid>
             <pubDate>Thu, 04 May 2023 11:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99915446"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tu0X5/btsdXDZzPx1/MZHNxl0H6hAN3VK4dkCoG1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'불법', '강성', '기득', '귀족'...... 노동조합 그리는 언론사들의 시선</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99912573</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99912573</guid>
-            <pubDate>Thu, 04 May 2023 10:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99912573"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cicZ6J/btsdXlKszz9/8JkoITNHkYmIryGTucHQM1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서]'용산어린이정원'이 우려되는 세 가지 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 4월 후원회원 시사회 : 〈하청업체를 노예로 만든 대우조선해양의 영업비밀〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99909024</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99909024</guid>
-            <pubDate>Thu, 04 May 2023 07:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99909024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/MLCfI/btsdRjfUpX8/YOd8zyKkTFq6AzLSqkxM41/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 4월 후원회원 시사회 : 〈하청업체를 노예로 만든 대우조선해양의 영업비밀〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["군을 믿어서는 안 됐다"... 고 이예람 중사 부모 인터뷰 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99891919</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99891919</guid>
-            <pubDate>Wed, 03 May 2023 09:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99891919"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/DtSSi/btsdOBNzpSW/fLlaJak68JP8dmKXQgtSjK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"군을 믿어서는 안 됐다"... 고 이예람 중사 부모 인터뷰</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

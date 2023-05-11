@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 10:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 11:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></title>
+            <link>http://newstapa.org/article/C1VLd</link>
+            <guid>http://newstapa.org/article/C1VLd</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11182522-3162-7F4E-70FF-WUD3JMUIWBCUKX5HKW13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></title>
+            <link>http://newstapa.org/article/h4924</link>
+            <guid>http://newstapa.org/article/h4924</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11162722-22B1-CDEA-178F-SSHOA46J2W8Z08OWQZFL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국의 도청 의혹…윤석열과 박정희 정부의 닮은꼴 대응]]></title>
             <link>http://newstapa.org/article/wO1Jp</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['미 국무부'가 최다...美 선전매체 인용 기사 데이터 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/29140336-DF85-1A1F-AF6C-56FO9VGFSQ8PG7FQXA0R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></title>
-            <link>http://newstapa.org/article/p0Y-i</link>
-            <guid>http://newstapa.org/article/p0Y-i</guid>
-            <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국언론의 북한 기사 '참고서'...美 선전매체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/26160020-A04F-F84B-7E95-ZBI605R9U38YWQI459ZK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개]]></title>
-            <link>http://newstapa.org/article/aBBIY</link>
-            <guid>http://newstapa.org/article/aBBIY</guid>
-            <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['관계자'가 1위...'출처 불명' 북한 기사 데이터 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/12114944-26B2-D231-FE3E-F7J9VV3SVMEPL0FZXEIF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 10:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 11:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></title>
+            <link>http://newstapa.org/article/C1VLd</link>
+            <guid>http://newstapa.org/article/C1VLd</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11182522-3162-7F4E-70FF-WUD3JMUIWBCUKX5HKW13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></title>
+            <link>http://newstapa.org/article/U28so</link>
+            <guid>http://newstapa.org/article/U28so</guid>
+            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11165631-5F85-4124-2536-L8OMXMSFBLYEQRNAANAH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['불법', '강성', '기득', '귀족'...... 노동조합 그리는 언론사들의 시선]]></title>
             <link>http://newstapa.org/article/tBYLC</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 기호일보 한창원 사장 '업무상 배임' 기소... 법원은 '편집권 침해' 인정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/31124222-E6F1-8533-8D44-Z3828JJ07SIUO5YJBGWD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수 언론에 당근, 비판 언론엔 채찍]]></title>
-            <link>http://newstapa.org/article/a7f1A</link>
-            <guid>http://newstapa.org/article/a7f1A</guid>
-            <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[보수 언론에 당근, 비판 언론엔 채찍]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12153527-6AFC-EFA2-AFD2-7K3UG0LVEIGZ5AENN7TO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해]]></title>
-            <link>http://newstapa.org/article/I8YMa</link>
-            <guid>http://newstapa.org/article/I8YMa</guid>
-            <pubDate>Tue, 03 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['기사형 광고' 의심사례 수천 건...연합뉴스 사태 이후에도 안 변해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/02185039-8E13-F2C9-E3B1-P5Z0E0KNG2KAWQ635NNJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
