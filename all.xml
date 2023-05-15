@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 07:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 08:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/uJWaS</link>
+            <guid>http://newstapa.org/article/uJWaS</guid>
+            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/15142327-A0B2-98A2-EA40-UY6EHVWJZDSXR0TNPTVZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/C1VLd</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/27172814-9F88-D02D-0A95-LJJETV0MAXXQO9WWI2S1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김현아 ‘돈봉투 의혹’ 추가 녹음파일...“3명 200씩? 잘 쓰겠습니다” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/alKdK</link>
-            <guid>http://newstapa.org/article/alKdK</guid>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현아 ‘돈봉투 의혹’ 추가 녹음파일...“3명 200씩? 잘 쓰겠습니다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/26153121-4216-1E38-74D1-6QFED5B6TRIT2ZPNNVQ4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/uJWaS</link>
+            <guid>http://newstapa.org/article/uJWaS</guid>
+            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/15142327-A0B2-98A2-EA40-UY6EHVWJZDSXR0TNPTVZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 곽상도 아들 50억, '이 법'으로 감췄다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/06183540-F675-CCD6-1ACE-Z9LK10VSB7JTR7I6ZF9J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬대 더불어민주당 의원, '보좌진 부정 채용' 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/GMBlx</link>
-            <guid>http://newstapa.org/article/GMBlx</guid>
-            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '보좌진 부정 채용' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05170609-7921-46DD-ECE7-D0GU0W5MWRT5GYFZWB9S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["군을 믿어서는 안 됐다"... 고 이예람 중사 부모 인터뷰 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
