@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-15T08:21:06.065Z</updated>
+    <updated>2023-05-15T09:16:36.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100061869</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100061869"/>
+        <updated>2023-05-15T09:16:35.762Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100061869"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/wLVdb/btsfOHFvpqG/kHGz5ERsw1FYAb6JkLYp21/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100016262</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/99915472"/>
         <updated>2023-05-04T11:15:25.314Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99915472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ciskas/btsdYCFO168/XuV3FyAYYXtky9ngPIbe8k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">노조 혐오 방정식 : 지지율 장사의 밑천 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['불법', '강성', '기득', '귀족'...... 노동조합 그리는 언론사들의 시선]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99915446</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99915446"/>
-        <updated>2023-05-04T11:15:25.315Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99915446"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tu0X5/btsdXDZzPx1/MZHNxl0H6hAN3VK4dkCoG1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'불법', '강성', '기득', '귀족'...... 노동조합 그리는 언론사들의 시선</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
