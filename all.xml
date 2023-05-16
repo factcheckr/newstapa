@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 02:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 04:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3029,6 +3029,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공직자 가상자산 전수조사 및 공직자윤리법 개정 촉구 기자회견 열려 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100072108</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100072108</guid>
+            <pubDate>Tue, 16 May 2023 04:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100072108"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/bkthYM/btsgbKAip8C/mBjKopFdPPEPGpNsEIDx3K/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">공직자 가상자산 전수조사 및 공직자윤리법 개정 촉구 기자회견 열려</span></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100061869</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100061869</guid>
@@ -3062,13 +3069,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/99949090</guid>
             <pubDate>Mon, 08 May 2023 05:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99949090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9HSa9/btsd9NUQ7zj/L58tFaYAVIkwOOCyFDZaIk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노조 혐오 방정식 : 지지율 장사의 밑천 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99915472</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99915472</guid>
-            <pubDate>Thu, 04 May 2023 11:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99915472"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ciskas/btsdYCFO168/XuV3FyAYYXtky9ngPIbe8k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">노조 혐오 방정식 : 지지율 장사의 밑천 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
