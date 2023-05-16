@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-16T07:22:10.856Z</updated>
+    <updated>2023-05-16T08:17:26.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보도 그 후 : [병실 퇴거명령] 법원이 식물인간을 내쫓는 논리]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100077529</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100077529"/>
+        <updated>2023-05-16T08:17:25.658Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100077529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/2i6Dc/btsf41X7HPQ/3BQNGQEuYbTBhTqBvBgSS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">보도 그 후 : [병실 퇴거명령] 법원이 식물인간을 내쫓는 논리</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공직자 가상자산 전수조사 및 공직자윤리법 개정 촉구 기자회견 열려]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100072108</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100016223"/>
         <updated>2023-05-11T11:08:59.066Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016223"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgFarr/btseQjZHXQl/KkRNJkmlXEgy3CtEYIEeek/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/99949090</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/99949090"/>
-        <updated>2023-05-08T05:15:19.147Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/99949090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9HSa9/btsd9NUQ7zj/L58tFaYAVIkwOOCyFDZaIk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

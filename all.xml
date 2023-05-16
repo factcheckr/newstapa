@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 07:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 08:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2724,6 +2724,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/01/c0d018a614464667a984dc48d591b1b815551c40e119840b5bfc2ec061b808e6c98c3872174918ebf11aeab1ccfc4249a115c5287e803cdbebaee18ff7d35a6b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[여성혐오 셀프테스트 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://newstapa.org/misogyny</link>
+            <guid>https://newstapa.org/misogyny</guid>
+            <pubDate>Wed, 29 Jun 2016 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/16165627-7DD5-8A74-9FA5-QTNEEC24CT5N3G7U457X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박근혜 최순실 체제의 부역자들 (뉴스타파 ─ 데이터)]]></title>
             <link>http://traitors.newstapa.org/</link>
             <guid>http://traitors.newstapa.org/</guid>
@@ -3029,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보도 그 후 : [병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100077529</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100077529</guid>
+            <pubDate>Tue, 16 May 2023 08:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100077529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/2i6Dc/btsf41X7HPQ/3BQNGQEuYbTBhTqBvBgSS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">보도 그 후 : [병실 퇴거명령] 법원이 식물인간을 내쫓는 논리</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공직자 가상자산 전수조사 및 공직자윤리법 개정 촉구 기자회견 열려 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100072108</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100072108</guid>
@@ -3062,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100016223</guid>
             <pubDate>Thu, 11 May 2023 11:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016223"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgFarr/btseQjZHXQl/KkRNJkmlXEgy3CtEYIEeek/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/99949090</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/99949090</guid>
-            <pubDate>Mon, 08 May 2023 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/99949090"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b9HSa9/btsd9NUQ7zj/L58tFaYAVIkwOOCyFDZaIk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
