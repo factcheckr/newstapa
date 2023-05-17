@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 04:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 07:25:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,15 +13,15 @@
             <guid>https://data.newstapa.org/</guid>
             <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01140138-C2F9-7E43-E1CD-YJNB2C8X98C0CRLWUPVA.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17143836-A5D7-8B91-9AA3-9ZWV50OC6V8INHWE8W5N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고위공직자 재산 공개]]></title>
+            <title><![CDATA[공직자 재산 공개]]></title>
             <link>https://jaesan.newstapa.org/</link>
             <guid>https://jaesan.newstapa.org/</guid>
             <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기관 별로 산발적으로 공개되던 고위공직자들의 재산 내역을 한데 모아 후원회원님들이 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 고위공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135941-20F7-34EC-F3F8-21MC86C6GNX8LVSAA022.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17143946-F722-B6C0-6D7C-U8PUUE3I1RSK0ECY6RMI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언론개혁 대시보드]]></title>
@@ -29,7 +29,7 @@
             <guid>https://pages.newstapa.org/n1907/#/</guid>
             <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파가 언론개혁을 위해 추적하고 수집한 정보를 대시보드 형태로 게재합니다. 독자를 속이는 '기사형 광고', 언론사의 신종 돈벌이 수단인 포럼과 컨퍼런스 정보 등을 한 눈에 볼 수 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01140050-3898-8423-EB12-Y5IGDN792AZG860V5ZY3.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144131-AE20-214A-DBC2-I5KPBGIW55O5ER5SMZLU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머니트레일]]></title>
@@ -37,7 +37,7 @@
             <guid>https://moneytrail.newstapa.org/</guid>
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/07/01135902-409B-A67D-FA70-3O3Q05DM5BPQXB82VS1I.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144226-67A0-8C86-DB52-PMB5CJ254HROJ7P81RII.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 산 : 2022년 울진 산불]]></title>
