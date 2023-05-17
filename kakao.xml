@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-17T08:18:00.182Z</updated>
+    <updated>2023-05-17T09:12:24.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100096214</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100096214"/>
+        <updated>2023-05-17T09:12:24.012Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100096214"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dKS4Hx/btsglzFYflF/VPBkLHDRaIWEaxtXUXLaUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보도 그 후 : [병실 퇴거명령] 법원이 식물인간을 내쫓는 논리]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100077529</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100016232"/>
         <updated>2023-05-11T11:08:59.064Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016232"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eJvBex/btseSCDVcNT/wiBhaDh5MWE5S2sdaeUjmK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100016223</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100016223"/>
-        <updated>2023-05-11T11:08:59.066Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016223"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bgFarr/btseQjZHXQl/KkRNJkmlXEgy3CtEYIEeek/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
