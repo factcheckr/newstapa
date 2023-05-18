@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-18T09:10:21.808Z</updated>
+    <updated>2023-05-18T10:11:04.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100115219</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100115219"/>
+        <updated>2023-05-18T10:11:04.299Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100115219"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9SYzd/btsgujbO8Vb/4Cbp6edQSM0EYZ22XGa23k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100096214</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100016262"/>
         <updated>2023-05-11T11:08:59.060Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016262"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/71HT9/btseQDji0jD/GlIFImSVN5KgPPLkCprIn0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100016232</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100016232"/>
-        <updated>2023-05-11T11:08:59.064Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016232"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eJvBex/btseSCDVcNT/wiBhaDh5MWE5S2sdaeUjmK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

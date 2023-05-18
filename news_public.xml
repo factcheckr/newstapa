@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 09:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 10:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></title>
+            <link>http://newstapa.org/article/TbKen</link>
+            <guid>http://newstapa.org/article/TbKen</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18181642-C79C-6D01-6349-HUEVVLRCCRV6L9CUTQK1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1993년 김영삼 대통령 재산은 얼마? 뉴스타파 재산 사이트 업데이트]]></title>
             <link>http://newstapa.org/article/-bxPJ</link>
@@ -21,7 +29,7 @@
             <guid>http://newstapa.org/article/uJWaS</guid>
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/15142327-A0B2-98A2-EA40-UY6EHVWJZDSXR0TNPTVZ.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/13182618-E45C-E0DD-3364-1HRV1J322H3UTLIQP6WY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></title>
-            <link>http://newstapa.org/article/poKQK</link>
-            <guid>http://newstapa.org/article/poKQK</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07131440-E05B-6E78-E87A-KDS5FPGMKASY7TY170MV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 09:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 10:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/TbKen</link>
+            <guid>http://newstapa.org/article/TbKen</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18181642-C79C-6D01-6349-HUEVVLRCCRV6L9CUTQK1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/FuWju</link>
@@ -37,7 +45,7 @@
             <guid>http://newstapa.org/article/uJWaS</guid>
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/15142327-A0B2-98A2-EA40-UY6EHVWJZDSXR0TNPTVZ.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스)]]></title>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02144657-BF4D-96D0-D37F-2P9UBWSEHLGN8P7FQ7KX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Tcnj0</link>
-            <guid>http://newstapa.org/article/Tcnj0</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02154810-E039-5D6A-18A9-AZ793QR04HZUHHF6F0W1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/TbKen</link>
+            <guid>http://newstapa.org/article/TbKen</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18181642-C79C-6D01-6349-HUEVVLRCCRV6L9CUTQK1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1993년 김영삼 대통령 재산은 얼마? 뉴스타파 재산 사이트 업데이트 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -149,7 +157,7 @@
             <guid>http://newstapa.org/article/uJWaS</guid>
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/15142327-A0B2-98A2-EA40-UY6EHVWJZDSXR0TNPTVZ.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/13182618-E45C-E0DD-3364-1HRV1J322H3UTLIQP6WY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/poKQK</link>
-            <guid>http://newstapa.org/article/poKQK</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07131440-E05B-6E78-E87A-KDS5FPGMKASY7TY170MV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑧ 성추행 가해자-피해자 분리 늦춰 재판받는 공군 대대장 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06154441-6F1A-6899-5691-GTEA2ZQ1P0HNCYUP7HQQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/TbKen</link>
+            <guid>http://newstapa.org/article/TbKen</guid>
+            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18181642-C79C-6D01-6349-HUEVVLRCCRV6L9CUTQK1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, 제주 4·3 당시 영상 ‘제주도의 메이데이’ 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/BoSEW</link>
             <guid>http://newstapa.org/article/BoSEW</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/11153645-D5C6-ACDF-03A2-PQ3ZYXAIEUKCE3SMB7WK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/miFA_</link>
-            <guid>http://newstapa.org/article/miFA_</guid>
-            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 일가, 인터넷 쇼핑몰 '행복한 과일가게' 창업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/02173909-F9C2-423A-B377-9ERKM7EE7OLYVOO3XM1J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100115219</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100115219</guid>
+            <pubDate>Thu, 18 May 2023 10:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100115219"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9SYzd/btsgujbO8Vb/4Cbp6edQSM0EYZ22XGa23k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100096214</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100096214</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100016262</guid>
             <pubDate>Thu, 11 May 2023 11:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016262"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/71HT9/btseQDji0jD/GlIFImSVN5KgPPLkCprIn0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100016232</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100016232</guid>
-            <pubDate>Thu, 11 May 2023 11:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100016232"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eJvBex/btseSCDVcNT/wiBhaDh5MWE5S2sdaeUjmK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
