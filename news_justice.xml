@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 07:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 08:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의']]></title>
+            <link>http://newstapa.org/article/ZRjJx</link>
+            <guid>http://newstapa.org/article/ZRjJx</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19163039-F3EE-E095-4D11-MHNM2IBVBIC9EWA96AL9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑧ 성추행 가해자-피해자 분리 늦춰 재판받는 공군 대대장]]></title>
             <link>http://newstapa.org/article/JGIDM</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑦ 허위 보고한 군검사, 뒤늦게 사실 확인한 공군본부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/13173927-F4AE-5B1E-9495-9WPFALPRLH4OAZ4O5YS2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다]]></title>
-            <link>http://newstapa.org/article/Myybt</link>
-            <guid>http://newstapa.org/article/Myybt</guid>
-            <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일]“조우형은 공범” 한목소리에도 검찰은 늑장 수사했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/10181940-6463-6662-CB17-1X7T79I9O0LKT122H34Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
