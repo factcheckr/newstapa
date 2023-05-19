@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 08:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 09:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/MjNV4</link>
+            <guid>http://newstapa.org/article/MjNV4</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19164932-40BE-8E36-F84E-US0WAWCWV1VJTWRQDXDN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ZRjJx</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['불법', '강성', '기득', '귀족'...... 노동조합 그리는 언론사들의 시선]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/04191917-47BA-9F7A-D304-AP66LYQ471SK2TD65MN6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QSdvB</link>
-            <guid>http://newstapa.org/article/QSdvB</guid>
-            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/04164910-61AB-E9B1-1961-YWICLAVS0LW39P82R0MS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '의정'과 '사익' 사이... 김남국, 조명희, 최영희 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06154441-6F1A-6899-5691-GTEA2ZQ1P0HNCYUP7HQQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/MjNV4</link>
+            <guid>http://newstapa.org/article/MjNV4</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19164932-40BE-8E36-F84E-US0WAWCWV1VJTWRQDXDN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/TbKen</link>
             <guid>http://newstapa.org/article/TbKen</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27151337-80C2-8CB1-DA5B-FX8ZOB9B6ZWQ221UNVZS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/JzU5c</link>
-            <guid>http://newstapa.org/article/JzU5c</guid>
-            <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[12·12 특별기획] 일본 외무성의 '전두환 파일' 최초 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/12/11153645-D5C6-ACDF-03A2-PQ3ZYXAIEUKCE3SMB7WK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/12/01185734-F102-57ED-9F30-AVWLVVPDMUYFPSJP4KHO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/MjNV4</link>
+            <guid>http://newstapa.org/article/MjNV4</guid>
+            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19164932-40BE-8E36-F84E-US0WAWCWV1VJTWRQDXDN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/C1VLd</link>
             <guid>http://newstapa.org/article/C1VLd</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국언론, 美 극우인사를 '한반도 전문가'로 둔갑]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/31135826-8B1F-A0CA-7E0F-O7LH9EL9M0L7LIIPXKKE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미 국무부'가 최다...美 선전매체 인용 기사 데이터 공개 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/WAmV_</link>
-            <guid>http://newstapa.org/article/WAmV_</guid>
-            <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['미 국무부'가 최다...美 선전매체 인용 기사 데이터 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/29140336-DF85-1A1F-AF6C-56FO9VGFSQ8PG7FQXA0R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3036,6 +3036,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100146032</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100146032</guid>
+            <pubDate>Fri, 19 May 2023 09:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100146032"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bseZ6A/btsgBQhoEzp/6WTBClzqzG2KOcd6h84Gv0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100145599</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100145599</guid>
+            <pubDate>Fri, 19 May 2023 09:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100145599"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cccRLv/btsgEhRTtjX/2SdMqQhZdyZueyiLdqh151/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['의정'과 '사익' 사이... 김남국, 조명희, 최영희 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100117611</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100117611</guid>
@@ -3062,20 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100115219</guid>
             <pubDate>Thu, 18 May 2023 10:11:04 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100115219"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9SYzd/btsgujbO8Vb/4Cbp6edQSM0EYZ22XGa23k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100096214</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100096214</guid>
-            <pubDate>Wed, 17 May 2023 09:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100096214"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dKS4Hx/btsglzFYflF/VPBkLHDRaIWEaxtXUXLaUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보도 그 후 : [병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100077529</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100077529</guid>
-            <pubDate>Tue, 16 May 2023 08:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100077529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/2i6Dc/btsf41X7HPQ/3BQNGQEuYbTBhTqBvBgSS1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">보도 그 후 : [병실 퇴거명령] 법원이 식물인간을 내쫓는 논리</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
