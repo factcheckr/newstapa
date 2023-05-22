@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 07:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 08:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100174871</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100174871</guid>
+            <pubDate>Mon, 22 May 2023 08:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100174871"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/wUS5T/btsgYAYSUMb/E43F2f8QoUkE6ppYOolwh0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다</span></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100146032</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100146032</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100117553</guid>
             <pubDate>Thu, 18 May 2023 12:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100117553"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dX1zGm/btsgwaejUco/aPn3I66sn7PGn5RKdqvMPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[히든머니 프로젝트] “대정부 영업 활동”... 조명희 의원의 내 회사 챙기기</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100115219</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100115219</guid>
-            <pubDate>Thu, 18 May 2023 10:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100115219"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9SYzd/btsgujbO8Vb/4Cbp6edQSM0EYZ22XGa23k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
