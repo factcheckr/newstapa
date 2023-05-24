@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-24T00:44:58.997Z</updated>
+    <updated>2023-05-24T02:09:18.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘대통령비서실’ 예산 공개 소송에 ‘국가안보실’ 자료 제출]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100201740</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100201740"/>
+        <updated>2023-05-24T02:09:18.138Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100201740"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dtl7xb/btshb7asUdH/lDODX34k2uPArPL46nLFk1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘대통령비서실’ 예산 공개 소송에 ‘국가안보실’ 자료 제출</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100174871</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100117585"/>
         <updated>2023-05-18T12:16:00.071Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100117585"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dNsCgn/btsgtRUmtbb/nO2MvngRE43ElSk5yyXJy1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[히든머니 프로젝트] 최영희, 국회법 어기고 일가족 위한 법안 발의</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[히든머니 프로젝트] “대정부 영업 활동”... 조명희 의원의 내 회사 챙기기]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100117553</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100117553"/>
-        <updated>2023-05-18T12:16:00.072Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100117553"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dX1zGm/btsgwaejUco/aPn3I66sn7PGn5RKdqvMPk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[히든머니 프로젝트] “대정부 영업 활동”... 조명희 의원의 내 회사 챙기기</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
