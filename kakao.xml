@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-25T10:20:08.447Z</updated>
+    <updated>2023-05-25T11:09:23.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100238304</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100238304"/>
+        <updated>2023-05-25T11:09:23.188Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100238304"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nFDgG/btshqrNZwx4/WJBtOSwqwwM5zEQvx1gZv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100237846</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100237846"/>
+        <updated>2023-05-25T11:09:23.189Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100237846"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cOeP9X/btshlX1hTxf/G9hair6b0AlfSLGF7kbPFk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정권의 '권력과 안보' 책 사냥법</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100213442</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100146032"/>
         <updated>2023-05-19T09:14:28.013Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100146032"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bseZ6A/btsgBQhoEzp/6WTBClzqzG2KOcd6h84Gv0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100145599</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100145599"/>
-        <updated>2023-05-19T09:14:28.014Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100145599"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cccRLv/btsgEhRTtjX/2SdMqQhZdyZueyiLdqh151/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['의정'과 '사익' 사이... 김남국, 조명희, 최영희 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100117611</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100117611"/>
-        <updated>2023-05-18T12:16:00.070Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100117611"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/boryJK/btsguLMSUw2/XWR0HzZE4D8YK0DOtL6oHK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'의정'과 '사익' 사이... 김남국, 조명희, 최영희 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

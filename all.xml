@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 10:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 11:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/tMUCY</link>
+            <guid>http://newstapa.org/article/tMUCY</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25134406-82F2-B5AF-83E5-PH6PHMSSXYPTBSK5HPEE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/8gtzI</link>
+            <guid>http://newstapa.org/article/8gtzI</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25193326-6EC1-8498-8EE2-RWF17PCVVOIX46G60RQ9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/kJYdb</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/C1VLd</link>
-            <guid>http://newstapa.org/article/C1VLd</guid>
-            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11182522-3162-7F4E-70FF-WUD3JMUIWBCUKX5HKW13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/h4924</link>
-            <guid>http://newstapa.org/article/h4924</guid>
-            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11162722-22B1-CDEA-178F-SSHOA46J2W8Z08OWQZFL.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/8gtzI</link>
+            <guid>http://newstapa.org/article/8gtzI</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25193326-6EC1-8498-8EE2-RWF17PCVVOIX46G60RQ9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘대통령비서실’ 예산 공개 소송에 ‘국가안보실’ 자료 제출 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/g8QiW</link>
-            <guid>http://newstapa.org/article/g8QiW</guid>
-            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21101141-78A9-971F-3A14-8TKZZGUJWWRHROJWP11D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑨ 전익수 측, “국방부의 부당한 수사에 대응하려 포렌식 거부” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06154441-6F1A-6899-5691-GTEA2ZQ1P0HNCYUP7HQQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/tMUCY</link>
+            <guid>http://newstapa.org/article/tMUCY</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25134406-82F2-B5AF-83E5-PH6PHMSSXYPTBSK5HPEE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/MjNV4</link>
             <guid>http://newstapa.org/article/MjNV4</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28182504-C5E7-7746-5D98-07ZDW260QSC7Q9G5CJX7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/lNKu_</link>
-            <guid>http://newstapa.org/article/lNKu_</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 한국전쟁 영상 등 해외수집 사료 공개...공익목적 무료 이용 가능]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/01/27151337-80C2-8CB1-DA5B-FX8ZOB9B6ZWQ221UNVZS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/16162002-4ABB-1964-C50E-XVZU0A9RF5HRDRI4RQCS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/8gtzI</link>
+            <guid>http://newstapa.org/article/8gtzI</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25193326-6EC1-8498-8EE2-RWF17PCVVOIX46G60RQ9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/MjNV4</link>
             <guid>http://newstapa.org/article/MjNV4</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[의도된 '재탕'?…미 싱크탱크 CSIS와 '북한 뉴스']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/02144912-B3C5-573A-7407-77995NCSIXYDFUTXX7YJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국언론, 美 극우인사를 '한반도 전문가'로 둔갑 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/m7svl</link>
-            <guid>http://newstapa.org/article/m7svl</guid>
-            <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국언론, 美 극우인사를 '한반도 전문가'로 둔갑]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/31135826-8B1F-A0CA-7E0F-O7LH9EL9M0L7LIIPXKKE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3036,6 +3036,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100238304</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100238304</guid>
+            <pubDate>Thu, 25 May 2023 11:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100238304"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nFDgG/btshqrNZwx4/WJBtOSwqwwM5zEQvx1gZv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100237846</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100237846</guid>
+            <pubDate>Thu, 25 May 2023 11:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100237846"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cOeP9X/btshlX1hTxf/G9hair6b0AlfSLGF7kbPFk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정권의 '권력과 안보' 책 사냥법</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100213442</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100213442</guid>
@@ -3062,20 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100146032</guid>
             <pubDate>Fri, 19 May 2023 09:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100146032"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bseZ6A/btsgBQhoEzp/6WTBClzqzG2KOcd6h84Gv0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의' (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100145599</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100145599</guid>
-            <pubDate>Fri, 19 May 2023 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100145599"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cccRLv/btsgEhRTtjX/2SdMqQhZdyZueyiLdqh151/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['의정'과 '사익' 사이... 김남국, 조명희, 최영희 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100117611</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100117611</guid>
-            <pubDate>Thu, 18 May 2023 12:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100117611"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/boryJK/btsguLMSUw2/XWR0HzZE4D8YK0DOtL6oHK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'의정'과 '사익' 사이... 김남국, 조명희, 최영희 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

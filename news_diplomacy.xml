@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 10:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 11:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></title>
+            <link>http://newstapa.org/article/8gtzI</link>
+            <guid>http://newstapa.org/article/8gtzI</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25193326-6EC1-8498-8EE2-RWF17PCVVOIX46G60RQ9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다]]></title>
             <link>http://newstapa.org/article/MjNV4</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Sep 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[의도된 '재탕'?…미 싱크탱크 CSIS와 '북한 뉴스']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/02144912-B3C5-573A-7407-77995NCSIXYDFUTXX7YJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국언론, 美 극우인사를 '한반도 전문가'로 둔갑]]></title>
-            <link>http://newstapa.org/article/m7svl</link>
-            <guid>http://newstapa.org/article/m7svl</guid>
-            <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국언론, 美 극우인사를 '한반도 전문가'로 둔갑]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/08/31135826-8B1F-A0CA-7E0F-O7LH9EL9M0L7LIIPXKKE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

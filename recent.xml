@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 10:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 11:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기]]></title>
+            <link>http://newstapa.org/article/tMUCY</link>
+            <guid>http://newstapa.org/article/tMUCY</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25134406-82F2-B5AF-83E5-PH6PHMSSXYPTBSK5HPEE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></title>
+            <link>http://newstapa.org/article/8gtzI</link>
+            <guid>http://newstapa.org/article/8gtzI</guid>
+            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25193326-6EC1-8498-8EE2-RWF17PCVVOIX46G60RQ9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발]]></title>
             <link>http://newstapa.org/article/kJYdb</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></title>
-            <link>http://newstapa.org/article/C1VLd</link>
-            <guid>http://newstapa.org/article/C1VLd</guid>
-            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11182522-3162-7F4E-70FF-WUD3JMUIWBCUKX5HKW13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></title>
-            <link>http://newstapa.org/article/h4924</link>
-            <guid>http://newstapa.org/article/h4924</guid>
-            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 외교 1년…'동맹이냐 적이냐' 이분법의 위험성]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11162722-22B1-CDEA-178F-SSHOA46J2W8Z08OWQZFL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
