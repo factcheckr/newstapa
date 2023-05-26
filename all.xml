@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 08:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/DFXRl</link>
+            <guid>http://newstapa.org/article/DFXRl</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/26171959-B6F0-E302-42D9-3KJG51PHRWR0RWWC9XM6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/tMUCY</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑧ 성추행 가해자-피해자 분리 늦춰 재판받는 공군 대대장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18194844-C455-5374-9063-4PUXUWQOIMZMUFL62DTH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/uJWaS</link>
-            <guid>http://newstapa.org/article/uJWaS</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/17132854-C46A-7B28-11E9-1IEGMH92LSL6P7RARNX3.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
+            <link>http://newstapa.org/article/DFXRl</link>
+            <guid>http://newstapa.org/article/DFXRl</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/26171959-B6F0-E302-42D9-3KJG51PHRWR0RWWC9XM6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
             <link>http://newstapa.org/article/MlcU1</link>
             <guid>http://newstapa.org/article/MlcU1</guid>
@@ -638,14 +646,6 @@
             <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] ‘롯데마트 삼겹살 갑질’ 법원도 인정, 하지만 악몽은 끝나지 않았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27154102-87CC-54E5-E3E9-Q3HR0QS6YIN2PE9L61ZU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, '프로포폴 투약=정식 재판' 관례 깨고 이재용은 약식 기소 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/HoNrz</link>
-            <guid>http://newstapa.org/article/HoNrz</guid>
-            <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, '프로포폴 투약=정식 재판' 관례 깨고 이재용은 약식 기소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/06/07172219-C3CD-3521-ACE5-UBMZCKTD1A3G0YGIZQI0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
@@ -1800,6 +1800,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/02144912-B3C5-573A-7407-77995NCSIXYDFUTXX7YJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
+            <link>http://newstapa.org/article/DFXRl</link>
+            <guid>http://newstapa.org/article/DFXRl</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/26171959-B6F0-E302-42D9-3KJG51PHRWR0RWWC9XM6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[효성 조현상 부회장, 폭스바겐 딜러사 지분도 차명 소유 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
             <link>http://newstapa.org/article/o-APw</link>
             <guid>http://newstapa.org/article/o-APw</guid>
@@ -1918,14 +1926,6 @@
             <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[에스엠 지분 전쟁에서 떠오른 이수만의 홍콩 유령회사 정체]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16183023-9ADE-1EC8-EC89-UQZ4UQZM1PKC64D2F41H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실 '재벌집 막내 아들'이 계열사 지분 쓸어담는 법 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
-            <link>http://newstapa.org/article/R4L8D</link>
-            <guid>http://newstapa.org/article/R4L8D</guid>
-            <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[현실 '재벌집 막내 아들'이 계열사 지분 쓸어담는 법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10163350-52FA-04B4-C784-9Q7PDCG1NMNC2LMML0YH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 1년, 안에서는 누르고 밖에서는 저질렀다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100268328</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100268328</guid>
+            <pubDate>Fri, 26 May 2023 09:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100268328"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/beA8Jl/btshyUvA0z7/AkywkI6lb5P2yp5jlZBSsK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">효성 조현상, 또 다른 벤츠 딜러사도 차명 소유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100238304</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100238304</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100174871</guid>
             <pubDate>Mon, 22 May 2023 08:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100174871"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/wUS5T/btsgYAYSUMb/E43F2f8QoUkE6ppYOolwh0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다</span></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100146032</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100146032</guid>
-            <pubDate>Fri, 19 May 2023 09:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100146032"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bseZ6A/btsgBQhoEzp/6WTBClzqzG2KOcd6h84Gv0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
