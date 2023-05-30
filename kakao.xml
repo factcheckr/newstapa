@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-05-30T00:42:21.439Z</updated>
+    <updated>2023-05-30T02:10:28.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100306254</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100306254"/>
+        <updated>2023-05-30T02:10:27.491Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100306254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sNdbW/btshChdZkPn/vnr5ivI4VvFr9a7oyEPk91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"한국 정부는 기다리라고만"... 차별받는 외국인 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100268328</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100201740"/>
         <updated>2023-05-24T02:09:18.138Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100201740"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dtl7xb/btshb7asUdH/lDODX34k2uPArPL46nLFk1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘대통령비서실’ 예산 공개 소송에 ‘국가안보실’ 자료 제출</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100174871</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100174871"/>
-        <updated>2023-05-22T08:18:43.380Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100174871"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/wUS5T/btsgYAYSUMb/E43F2f8QoUkE6ppYOolwh0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다</span></span></a>]]></content>
     </entry>
 </feed>

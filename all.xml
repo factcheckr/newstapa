@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 00:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 02:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/XMvLz</link>
+            <guid>http://newstapa.org/article/XMvLz</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/30102551-09E2-141C-E614-SNPZ2Z499CWF82JA09W9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집 다큐] '재명이네 마을'과 '건희 사랑' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/HCsY-</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17173351-6A9A-6E84-014A-B235XEEJP97PP0I9K25M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1993년 김영삼 대통령 재산은 얼마? 뉴스타파 재산 사이트 업데이트 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/-bxPJ</link>
-            <guid>http://newstapa.org/article/-bxPJ</guid>
-            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1993년 김영삼 대통령 재산은 얼마? 뉴스타파 재산 사이트 업데이트]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17151030-5349-26DB-8EB6-FZWZDE214ZAPG6ZK78F2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/07132904-7FEE-7015-505C-P3554LINYJ4PYPPLZOA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/XMvLz</link>
+            <guid>http://newstapa.org/article/XMvLz</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/30102551-09E2-141C-E614-SNPZ2Z499CWF82JA09W9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/Or6lx</link>
             <guid>http://newstapa.org/article/Or6lx</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[참사 100일] 하루의 끝, 어머니는 매일 아들을 만난다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06175710-6971-30EA-1117-HXCDX0B7UNHWVBV0IFZ1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[참사 100일] "그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/7MwRh</link>
-            <guid>http://newstapa.org/article/7MwRh</guid>
-            <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[참사 100일] "그럼에도, 이태원에 갈 거예요"...참사 생존자들의 대화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/03103214-4B6E-3A51-FCE7-G7OVQT0QW28O24L3YS12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100306254</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100306254</guid>
+            <pubDate>Tue, 30 May 2023 02:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100306254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sNdbW/btshChdZkPn/vnr5ivI4VvFr9a7oyEPk91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"한국 정부는 기다리라고만"... 차별받는 외국인 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100268328</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100268328</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100201740</guid>
             <pubDate>Wed, 24 May 2023 02:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100201740"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dtl7xb/btshb7asUdH/lDODX34k2uPArPL46nLFk1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘대통령비서실’ 예산 공개 소송에 ‘국가안보실’ 자료 제출</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100174871</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100174871</guid>
-            <pubDate>Mon, 22 May 2023 08:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100174871"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/wUS5T/btsgYAYSUMb/E43F2f8QoUkE6ppYOolwh0/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">5월 25일(목) 뉴스타파가 여러분을 만나러 광주로 갑니다</span></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
