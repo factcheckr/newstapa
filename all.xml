@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 00:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 03:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2908,6 +2908,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/17094457-DFCB-788A-561B-S2D0YKCFS97IV856N2JW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발 (뉴스타파 ─ 참여)]]></title>
+            <link>https://www.newstapa.org/article/kJYdb</link>
+            <guid>https://www.newstapa.org/article/kJYdb</guid>
+            <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.05.24]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/24174853-3856-36D7-F892-EUL2QRWHA5YVODHPLRLO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 참여)]]></title>
             <link>https://www.newstapa.org/article/BFWvk</link>
             <guid>https://www.newstapa.org/article/BFWvk</guid>
@@ -3026,14 +3034,6 @@
             <pubDate>Tue, 04 Aug 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2020.08.04]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04143501-E948-5269-0E94-CK99MPNZ86R3BPC1Q0U4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대학생탐사공모]젊은 보수? ‘트루스포럼’ 검증 (뉴스타파 ─ 참여)]]></title>
-            <link>https://www.newstapa.org/article/2m5BU</link>
-            <guid>https://www.newstapa.org/article/2m5BU</guid>
-            <pubDate>Tue, 04 Aug 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020.08.04]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/04144358-8903-1E95-A3D1-B04Q53PMPCIVF9WJ2XIC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자 (뉴스타파 ─ 카카오톡 채널)]]></title>
