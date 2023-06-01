@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-01T09:12:00.880Z</updated>
+    <updated>2023-06-01T11:09:00.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 특활비 검증 가로막는 한동훈 법무부 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100374676</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100374676"/>
+        <updated>2023-06-01T11:08:59.412Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100374676"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/8HTH6/btsigFkR0nO/lnuKdxymcvTxIk7GY01JOK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 특활비 검증 가로막는 한동훈 법무부 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[특수활동비와 권력의 흑역사 그리고 검찰]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100374617</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100374617"/>
+        <updated>2023-06-01T11:08:59.415Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100374617"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ce6UPE/btsimD6LrHM/RC8NenlIKLBBnOkxD89x6k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">특수활동비와 권력의 흑역사 그리고 검찰</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100365263</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100306254"/>
         <updated>2023-05-30T02:10:27.491Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100306254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sNdbW/btshChdZkPn/vnr5ivI4VvFr9a7oyEPk91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"한국 정부는 기다리라고만"... 차별받는 외국인 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100268328</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100268328"/>
-        <updated>2023-05-26T09:18:44.682Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100268328"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/beA8Jl/btshyUvA0z7/AkywkI6lb5P2yp5jlZBSsK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">효성 조현상, 또 다른 벤츠 딜러사도 차명 소유</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100238304</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100238304"/>
-        <updated>2023-05-25T11:09:23.188Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100238304"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nFDgG/btshqrNZwx4/WJBtOSwqwwM5zEQvx1gZv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
