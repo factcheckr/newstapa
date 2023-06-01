@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 05:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 06:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/nz_Fw</link>
+            <guid>http://newstapa.org/article/nz_Fw</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31150513-4822-0BAC-4213-NIL4MH2HJ27SL0L9IBZQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Jz2qB</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[히든머니 프로젝트] “대정부 영업 활동”... 조명희 의원의 내 회사 챙기기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185502-1C2E-F107-A4C1-K08I0CXAEO3JPXRFEQQP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[히든머니 프로젝트] 최영희, 국회법 어기고 일가족 위한 법안 발의 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/re6Gr</link>
-            <guid>http://newstapa.org/article/re6Gr</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[히든머니 프로젝트] 최영희, 국회법 어기고 일가족 위한 법안 발의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185430-2511-DFDA-3197-R8K74SHW2V90I8D56LV9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/07132904-7FEE-7015-505C-P3554LINYJ4PYPPLZOA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/nz_Fw</link>
+            <guid>http://newstapa.org/article/nz_Fw</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31150513-4822-0BAC-4213-NIL4MH2HJ27SL0L9IBZQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 이태원 참사 외국인 피해자 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/XMvLz</link>
             <guid>http://newstapa.org/article/XMvLz</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] "이태원에 간 내 동생, '왜 갔나' 대신 '왜 못 돌아왔나' 물어주세요"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/09180424-A766-0C93-1E01-ISSU6YPPKLI98JHOLH4H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[참사 100일] 하루의 끝, 어머니는 매일 아들을 만난다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/gkHnW</link>
-            <guid>http://newstapa.org/article/gkHnW</guid>
-            <pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[참사 100일] 하루의 끝, 어머니는 매일 아들을 만난다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06175710-6971-30EA-1117-HXCDX0B7UNHWVBV0IFZ1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3036,6 +3036,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05182727-20D9-B00A-8F9E-Y7OG1F5WUBQ17UNLRJLK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100365263</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100365263</guid>
+            <pubDate>Thu, 01 Jun 2023 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100365263"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bCsNZ1/btsijMC5pXF/6DocDkjkJHHY1FtsjXWufK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100363348</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100363348</guid>
+            <pubDate>Thu, 01 Jun 2023 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100363348"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HdjJH/btsijOtZjeL/HIidVnuVpJ9k8ukjHMgK40/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"공직자 가상 자산, '현 시점' 전수조사해야"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100340278</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100340278</guid>
@@ -3062,20 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100238304</guid>
             <pubDate>Thu, 25 May 2023 11:09:23 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100238304"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nFDgG/btshqrNZwx4/WJBtOSwqwwM5zEQvx1gZv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">5월의 빛과 어둠, 두 형제 이야기 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정권의 '권력과 안보' 책 사냥법 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100237846</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100237846</guid>
-            <pubDate>Thu, 25 May 2023 11:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100237846"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cOeP9X/btshlX1hTxf/G9hair6b0AlfSLGF7kbPFk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정권의 '권력과 안보' 책 사냥법</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100213442</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100213442</guid>
-            <pubDate>Wed, 24 May 2023 10:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100213442"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dZpwEy/btshgn6RcqU/9yLtqrplPsa3tYphvznx8K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도시재생 10년, 길을 잃었나① 예산 써서 도시재생 하더니, 끝나자마자 재개발</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
