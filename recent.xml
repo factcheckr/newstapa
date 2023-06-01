@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 04:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 05:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야"]]></title>
+            <link>http://newstapa.org/article/Jz2qB</link>
+            <guid>http://newstapa.org/article/Jz2qB</guid>
+            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/01135104-BF47-05F0-B429-4OZ78ELO94KE2K3RCQ3B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치]]></title>
             <link>http://newstapa.org/article/hgFPz</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[히든머니 프로젝트] 최영희, 국회법 어기고 일가족 위한 법안 발의]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185430-2511-DFDA-3197-R8K74SHW2V90I8D56LV9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></title>
-            <link>http://newstapa.org/article/TbKen</link>
-            <guid>http://newstapa.org/article/TbKen</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18181642-C79C-6D01-6349-HUEVVLRCCRV6L9CUTQK1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
