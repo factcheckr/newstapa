@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-05T00:50:47.486Z</updated>
+    <updated>2023-06-05T02:28:41.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100430092</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100430092"/>
+        <updated>2023-06-05T02:28:40.816Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100430092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/v4BS7/btsivPmNhLC/ml5cHf1TNKAJQ8nXDGimR0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 특활비 검증 가로막는 한동훈 법무부 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100374676</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100340278"/>
         <updated>2023-05-31T09:17:43.370Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100340278"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Dd1gz/btsickT0yPn/BxGyNKFTZTKV2Td2ZyzVzk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100306254</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100306254"/>
-        <updated>2023-05-30T02:10:27.491Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100306254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sNdbW/btshChdZkPn/vnr5ivI4VvFr9a7oyEPk91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"한국 정부는 기다리라고만"... 차별받는 외국인 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

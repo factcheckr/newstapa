@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 00:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 02:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/rWess</link>
+            <guid>http://newstapa.org/article/rWess</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/05093538-EC47-41FD-750C-5LLZX1PLAQAJ2NRT278T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 특활비 검증 가로막는 한동훈 법무부 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/x-Pkk</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19164932-40BE-8E36-F84E-US0WAWCWV1VJTWRQDXDN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ZRjJx</link>
-            <guid>http://newstapa.org/article/ZRjJx</guid>
-            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경찰, 법원 판결 뒤집고 윤 대통령 장모 '최은순 무혐의']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19163039-F3EE-E095-4D11-MHNM2IBVBIC9EWA96AL9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 특활비 검증 가로막는 한동훈 법무부 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/26153121-4216-1E38-74D1-6QFED5B6TRIT2ZPNNVQ4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/rWess</link>
+            <guid>http://newstapa.org/article/rWess</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/05093538-EC47-41FD-750C-5LLZX1PLAQAJ2NRT278T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑨ 전익수 측, “국방부의 부당한 수사에 대응하려 포렌식 거부” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/iG8mg</link>
             <guid>http://newstapa.org/article/iG8mg</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/14141356-5B12-07AA-E33D-M8KKMR397GYREHGFETTB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/Es3uv</link>
-            <guid>http://newstapa.org/article/Es3uv</guid>
-            <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 남욱 “저축은행 조우형 사건, 김만배가 최재경에게도 청탁”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/12125401-A2BB-C19B-337D-1YOO06CNDOV4GKH4IA6V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 특활비 검증 가로막는 한동훈 법무부 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/02182942-DD34-F204-33DD-EH7ZVOOM39GOONUBK25K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/rWess</link>
+            <guid>http://newstapa.org/article/rWess</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/05093538-EC47-41FD-750C-5LLZX1PLAQAJ2NRT278T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑨ 전익수 측, “국방부의 부당한 수사에 대응하려 포렌식 거부” (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/iG8mg</link>
             <guid>http://newstapa.org/article/iG8mg</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ④ “어떻게든 분위기 바꾸겠다” 언론 조작 시도한 공군 장교]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/15110914-5CE9-5D6C-40AB-6YHIFQME2J3VBGPQZIIC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]③ 담당 군검사, "피해자 요청으로 조사 일정 변경" 거짓말 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/I30kT</link>
-            <guid>http://newstapa.org/article/I30kT</guid>
-            <pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]③ 담당 군검사, "피해자 요청으로 조사 일정 변경" 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/07132904-7FEE-7015-505C-P3554LINYJ4PYPPLZOA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05182727-20D9-B00A-8F9E-Y7OG1F5WUBQ17UNLRJLK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100430092</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100430092</guid>
+            <pubDate>Mon, 05 Jun 2023 02:28:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100430092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/v4BS7/btsivPmNhLC/ml5cHf1TNKAJQ8nXDGimR0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열 특활비 검증 가로막는 한동훈 법무부 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100374676</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100374676</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100340278</guid>
             <pubDate>Wed, 31 May 2023 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100340278"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Dd1gz/btsickT0yPn/BxGyNKFTZTKV2Td2ZyzVzk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 외국인 피해자 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100306254</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100306254</guid>
-            <pubDate>Tue, 30 May 2023 02:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100306254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sNdbW/btshChdZkPn/vnr5ivI4VvFr9a7oyEPk91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"한국 정부는 기다리라고만"... 차별받는 외국인 피해자</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
