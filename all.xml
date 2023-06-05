@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 04:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 06:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/06162009-953D-FC63-F187-TT925ZRWMBAI7XSZLC5F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[문명의 끝에서 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/HfQPr</link>
+            <guid>http://newstapa.org/article/HfQPr</guid>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문명의 끝에서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/05145920-7BE4-A22E-F892-CEI2IAVV8N8M1MYJUA6F.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/QSdvB</link>
             <guid>http://newstapa.org/article/QSdvB</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[데이터]동남아 환경파괴가 한국 발전공기업에 이르는 길② - 베트남편]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09160032-468A-E52C-A658-Z6PSCEOI5IKYSWFUAX6Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/fqDRb</link>
-            <guid>http://newstapa.org/article/fqDRb</guid>
-            <pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 한국식 '친환경' 에너지가 동남아 삼림을 파괴하는 방법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/02182942-DD34-F204-33DD-EH7ZVOOM39GOONUBK25K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황 (뉴스타파 ─ 뉴스 ─ )]]></title>
