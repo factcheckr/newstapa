@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-07T08:14:18.446Z</updated>
+    <updated>2023-06-07T09:20:16.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100471734</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100471734"/>
+        <updated>2023-06-07T09:20:16.197Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100471734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ylpbW/btsi2xsyk3U/qRg4AResgCv8l8jwXK4RPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문명의 끝에서]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100436062</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100365263"/>
         <updated>2023-06-01T06:16:55.590Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100365263"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bCsNZ1/btsijMC5pXF/6DocDkjkJHHY1FtsjXWufK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100363348</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100363348"/>
-        <updated>2023-06-01T06:16:55.591Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100363348"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HdjJH/btsijOtZjeL/HIidVnuVpJ9k8ukjHMgK40/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"공직자 가상 자산, '현 시점' 전수조사해야"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
