@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 11:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진']]></title>
+            <link>http://newstapa.org/article/0EPdU</link>
+            <guid>http://newstapa.org/article/0EPdU</guid>
+            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180502-E0B5-BF80-1E83-H4MCII7ANV4P6QM643A9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’]]></title>
+            <link>http://newstapa.org/article/_8k0e</link>
+            <guid>http://newstapa.org/article/_8k0e</guid>
+            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180419-C32C-02FD-9163-612Y06NBTAQE5X6LMHIQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 특활비 검증 가로막는 한동훈 법무부]]></title>
             <link>http://newstapa.org/article/x-Pkk</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/03131517-B2F9-1616-A580-Y5OM6RCLEQOLRHJF6KYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’]]></title>
-            <link>http://newstapa.org/article/IDeo5</link>
-            <guid>http://newstapa.org/article/IDeo5</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[멈춰버린 행정심판과 법무부의 비공개 ‘억지 주장’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02144657-BF4D-96D0-D37F-2P9UBWSEHLGN8P7FQ7KX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현아 ‘돈봉투 의혹’ 추가 녹음파일...“3명 200씩? 잘 쓰겠습니다”]]></title>
-            <link>http://newstapa.org/article/alKdK</link>
-            <guid>http://newstapa.org/article/alKdK</guid>
-            <pubDate>Thu, 27 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현아 ‘돈봉투 의혹’ 추가 녹음파일...“3명 200씩? 잘 쓰겠습니다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/26153121-4216-1E38-74D1-6QFED5B6TRIT2ZPNNVQ4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
