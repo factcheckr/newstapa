@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 08:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 10:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/LHYJu</link>
+            <guid>http://newstapa.org/article/LHYJu</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/09161950-B90C-0DF1-EBB0-KKW4O7IPZ7O2NF0XUC0Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/QmgDc</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/26171959-B6F0-E302-42D9-3KJG51PHRWR0RWWC9XM6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tMUCY</link>
-            <guid>http://newstapa.org/article/tMUCY</guid>
-            <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25134406-82F2-B5AF-83E5-PH6PHMSSXYPTBSK5HPEE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09160032-468A-E52C-A658-Z6PSCEOI5IKYSWFUAX6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/LHYJu</link>
+            <guid>http://newstapa.org/article/LHYJu</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/09161950-B90C-0DF1-EBB0-KKW4O7IPZ7O2NF0XUC0Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진' (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/0EPdU</link>
             <guid>http://newstapa.org/article/0EPdU</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑥ '2차 가해' 정황 알고도 수사 안 한 군검사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30214427-C6BF-12EA-47A2-NW35B6T7RCE8YQ7Q855P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/kST11</link>
-            <guid>http://newstapa.org/article/kST11</guid>
-            <pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 세상이 청년에게 말하지 않는, 진짜 연금개혁 이야기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30170430-395D-F04C-3735-1SU7AX0NKMYSIRE28SML.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/09180424-A766-0C93-1E01-ISSU6YPPKLI98JHOLH4H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/LHYJu</link>
+            <guid>http://newstapa.org/article/LHYJu</guid>
+            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/09161950-B90C-0DF1-EBB0-KKW4O7IPZ7O2NF0XUC0Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/FuWju</link>
             <guid>http://newstapa.org/article/FuWju</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[권성연 교육비서관, 찬성 여론 조작 등 '박근혜 역사교과서 국정화' 실무 주도]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/15075459-7D86-AA71-001C-CFIV8SSGA1WKUDVNEHQ4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/op4gx</link>
-            <guid>http://newstapa.org/article/op4gx</guid>
-            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06154441-6F1A-6899-5691-GTEA2ZQ1P0HNCYUP7HQQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05182727-20D9-B00A-8F9E-Y7OG1F5WUBQ17UNLRJLK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100513929</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100513929</guid>
+            <pubDate>Fri, 09 Jun 2023 10:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100513929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HbN60/btsjkhbqJHO/uTo2T7da2Zly8KHztAX4Z0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100501954</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100501954</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100471734</guid>
             <pubDate>Wed, 07 Jun 2023 09:20:16 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100471734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ylpbW/btsi2xsyk3U/qRg4AResgCv8l8jwXK4RPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[문명의 끝에서 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100436062</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100436062</guid>
-            <pubDate>Mon, 05 Jun 2023 07:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100436062"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Ndp0P/btsiJ7tSNeH/xcD5gPRNEKHlSKfDntOO9K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문명의 끝에서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

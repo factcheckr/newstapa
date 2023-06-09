@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-09T08:12:47.450Z</updated>
+    <updated>2023-06-09T10:11:02.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100513929</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100513929"/>
+        <updated>2023-06-09T10:11:01.368Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100513929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HbN60/btsjkhbqJHO/uTo2T7da2Zly8KHztAX4Z0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100501954</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100471734"/>
         <updated>2023-06-07T09:20:16.197Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100471734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ylpbW/btsi2xsyk3U/qRg4AResgCv8l8jwXK4RPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문명의 끝에서]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100436062</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100436062"/>
-        <updated>2023-06-05T07:14:27.776Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100436062"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Ndp0P/btsiJ7tSNeH/xcD5gPRNEKHlSKfDntOO9K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문명의 끝에서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
