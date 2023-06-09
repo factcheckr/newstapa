@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-09T00:51:57.537Z</updated>
+    <updated>2023-06-09T02:25:55.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100501954</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100501954"/>
+        <updated>2023-06-09T02:25:54.776Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100501954"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tFqwg/btsja6nOPRe/5qE4V8NFpJbhh3By3W01AK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부, MB 시절로 '전속력 후진' 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100493541</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100436062"/>
         <updated>2023-06-05T07:14:27.776Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100436062"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Ndp0P/btsiJ7tSNeH/xcD5gPRNEKHlSKfDntOO9K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문명의 끝에서</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100430092</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100430092"/>
-        <updated>2023-06-05T02:28:40.816Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100430092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/v4BS7/btsivPmNhLC/ml5cHf1TNKAJQ8nXDGimR0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
