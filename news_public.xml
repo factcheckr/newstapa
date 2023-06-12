@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 04:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 05:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당”]]></title>
+            <link>http://newstapa.org/article/YzYWf</link>
+            <guid>http://newstapa.org/article/YzYWf</guid>
+            <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/12140325-43AB-39AA-5999-25EDICNSYASS1W12CWVT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송]]></title>
             <link>http://newstapa.org/article/QmgDc</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11165631-5F85-4124-2536-L8OMXMSFBLYEQRNAANAH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현아 ‘돈봉투 의혹’에 국민의힘, 1년 만에 ‘뒷북 감사’]]></title>
-            <link>http://newstapa.org/article/xT_rN</link>
-            <guid>http://newstapa.org/article/xT_rN</guid>
-            <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김현아 ‘돈봉투 의혹’에 국민의힘, 1년 만에 ‘뒷북 감사’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02230155-8DC9-7065-EDBC-IK551RCCD3GJ746QJP6W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

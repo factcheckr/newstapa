@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-12T04:12:34.242Z</updated>
+    <updated>2023-06-12T05:14:07.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100545963</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100545963"/>
+        <updated>2023-06-12T05:14:06.589Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100545963"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cbGeHW/btsjFRJX1Cg/6zBzzVGjYVTCKsJ6N5Gjv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100513929</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100493504"/>
         <updated>2023-06-08T11:10:52.948Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493504"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdrhoU/btsi9RLuszh/9k1pCzFOI2X43HjUeESbX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘백투더 MB’ 언론장악 설계자의 ‘귀환’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100471734</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100471734"/>
-        <updated>2023-06-07T09:20:16.197Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100471734"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ylpbW/btsi2xsyk3U/qRg4AResgCv8l8jwXK4RPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
