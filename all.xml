@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 05:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 06:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100596079</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100596079</guid>
+            <pubDate>Thu, 15 Jun 2023 06:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100596079"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Pmu6M/btsj6jFvpUe/Q4cb8HNkWQnKiMS4BRZeC0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100545963</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100545963</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100493515</guid>
             <pubDate>Thu, 08 Jun 2023 11:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493515"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/NFQqH/btsjbIGEAhr/t4KzSKX4zsUARfMrsKvch0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">캡사이신, 곤봉...노동탄압도 MB처럼</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’ (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100493504</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100493504</guid>
-            <pubDate>Thu, 08 Jun 2023 11:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493504"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdrhoU/btsi9RLuszh/9k1pCzFOI2X43HjUeESbX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘백투더 MB’ 언론장악 설계자의 ‘귀환’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

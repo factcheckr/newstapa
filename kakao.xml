@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-15T05:14:58.417Z</updated>
+    <updated>2023-06-15T06:17:29.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100596079</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100596079"/>
+        <updated>2023-06-15T06:17:28.561Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100596079"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Pmu6M/btsj6jFvpUe/Q4cb8HNkWQnKiMS4BRZeC0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100545963</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100493515"/>
         <updated>2023-06-08T11:10:52.947Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493515"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/NFQqH/btsjbIGEAhr/t4KzSKX4zsUARfMrsKvch0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">캡사이신, 곤봉...노동탄압도 MB처럼</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100493504</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100493504"/>
-        <updated>2023-06-08T11:10:52.948Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493504"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bdrhoU/btsi9RLuszh/9k1pCzFOI2X43HjUeESbX1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘백투더 MB’ 언론장악 설계자의 ‘귀환’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
