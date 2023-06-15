@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 02:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 03:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑪ 전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”]]></title>
+            <link>http://newstapa.org/article/C4dXi</link>
+            <guid>http://newstapa.org/article/C4dXi</guid>
+            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑪ 전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/15111805-B206-CEE7-C3B2-PFYKPKKJ3QX8UWO3UWJM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑩ 전익수, 또 다른 공군 성추행 사건에도 부당 개입한 정황]]></title>
             <link>http://newstapa.org/article/rWess</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[사법개혁 프로젝트 2] 박근혜의 시행령, 윤석열의 시행령...헌법 위에 시행령③]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20145241-FF97-C16D-6A93-4P9BEF1CDQ2AI3TYXZSY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각"]]></title>
-            <link>http://newstapa.org/article/McFJU</link>
-            <guid>http://newstapa.org/article/McFJU</guid>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대장동 X파일] 유동규 "김만배의 세뇌로 천화동인 1호가 내 것이라 착각"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/14141356-5B12-07AA-E33D-M8KKMR397GYREHGFETTB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
