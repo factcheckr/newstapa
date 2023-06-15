@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 11:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 정부는 무시하고, 경찰은 짓밟았다]]></title>
+            <link>http://newstapa.org/article/HEnRK</link>
+            <guid>http://newstapa.org/article/HEnRK</guid>
+            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 정부는 무시하고, 경찰은 짓밟았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/15185022-10DD-2415-9DD3-XIOEHHPF7J68YVMKQEFS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑪ 전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”]]></title>
             <link>http://newstapa.org/article/C4dXi</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/06160218-005A-651A-6971-K9PNPJYDU73YLW1AO3K2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 전역에 울려 퍼진 김복동의 외침 “일본 정부는 사죄하라”]]></title>
-            <link>http://newstapa.org/article/hMc1D</link>
-            <guid>http://newstapa.org/article/hMc1D</guid>
-            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일본 전역에 울려 퍼진 김복동의 외침 “일본 정부는 사죄하라”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/31184759-E0E3-6E31-011F-XDK7HUNEJH1XKV4S7T9H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

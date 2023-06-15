@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-15T09:10:33.230Z</updated>
+    <updated>2023-06-15T11:15:38.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부는 무시하고, 경찰은 짓밟았다 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100603424</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100603424"/>
+        <updated>2023-06-15T11:15:37.535Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100603424"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YSIUI/btsj7MafSGf/tzaIYa6URXoWwdVKbnebi0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정부는 무시하고, 경찰은 짓밟았다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100596079</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100493541"/>
         <updated>2023-06-08T11:10:52.946Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PGxja/btsjawAfm06/RQTcKdxazEHHNZsj4oPpgK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, MB 시절로 '전속력 후진' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캡사이신, 곤봉...노동탄압도 MB처럼]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100493515</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100493515"/>
-        <updated>2023-06-08T11:10:52.947Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493515"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/NFQqH/btsjbIGEAhr/t4KzSKX4zsUARfMrsKvch0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">캡사이신, 곤봉...노동탄압도 MB처럼</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
