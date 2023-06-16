@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 06:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 07:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/vwc1o</link>
+            <guid>http://newstapa.org/article/vwc1o</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/16151904-6C9C-B02C-4014-0NKUMOJK8NTAH9WQDMHF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 정부는 무시하고, 경찰은 짓밟았다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/HEnRK</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/01135104-BF47-05F0-B429-4OZ78ELO94KE2K3RCQ3B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/hgFPz</link>
-            <guid>http://newstapa.org/article/hgFPz</guid>
-            <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도시재생 10년, 길을 잃었나② 주민 짐 된 거점시설, 사업 끝나자 방치]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31142839-EA70-8FC3-30AD-0YHGSGC2S5LVEH9EPJ3N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09160032-468A-E52C-A658-Z6PSCEOI5IKYSWFUAX6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/vwc1o</link>
+            <guid>http://newstapa.org/article/vwc1o</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/16151904-6C9C-B02C-4014-0NKUMOJK8NTAH9WQDMHF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 정부는 무시하고, 경찰은 짓밟았다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/HEnRK</link>
             <guid>http://newstapa.org/article/HEnRK</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑦ 허위 보고한 군검사, 뒤늦게 사실 확인한 공군본부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/13173927-F4AE-5B1E-9495-9WPFALPRLH4OAZ4O5YS2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/boFi6</link>
-            <guid>http://newstapa.org/article/boFi6</guid>
-            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[문체부, 동아일보·채널A에 4억대 '노동개혁' 광고 기사 추진]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/06160218-005A-651A-6971-K9PNPJYDU73YLW1AO3K2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/09180424-A766-0C93-1E01-ISSU6YPPKLI98JHOLH4H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/vwc1o</link>
+            <guid>http://newstapa.org/article/vwc1o</guid>
+            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/16151904-6C9C-B02C-4014-0NKUMOJK8NTAH9WQDMHF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/LHYJu</link>
             <guid>http://newstapa.org/article/LHYJu</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부, 중징계 대상 '국정교과서 책임자' 요직에 또 영전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/23210243-9FD0-D61E-25DF-2KFXH7J0OOBTFT584NWE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권성연 교육비서관, 찬성 여론 조작 등 '박근혜 역사교과서 국정화' 실무 주도 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/rQ3_G</link>
-            <guid>http://newstapa.org/article/rQ3_G</guid>
-            <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[권성연 교육비서관, 찬성 여론 조작 등 '박근혜 역사교과서 국정화' 실무 주도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/15075459-7D86-AA71-001C-CFIV8SSGA1WKUDVNEHQ4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -3036,6 +3036,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100620217</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100620217</guid>
+            <pubDate>Fri, 16 Jun 2023 07:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100620217"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/m1VuS/btskc8yxlzW/XfuTGQTNoIK89XJV9pUzh0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정부는 무시하고, 경찰은 짓밟았다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100603424</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100603424</guid>
@@ -3069,13 +3076,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100501954</guid>
             <pubDate>Fri, 09 Jun 2023 03:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100501954"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tFqwg/btsja6nOPRe/5qE4V8NFpJbhh3By3W01AK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부, MB 시절로 '전속력 후진' 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100493541</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100493541</guid>
-            <pubDate>Thu, 08 Jun 2023 11:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100493541"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/PGxja/btsjawAfm06/RQTcKdxazEHHNZsj4oPpgK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, MB 시절로 '전속력 후진' 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
