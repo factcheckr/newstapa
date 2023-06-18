@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 11:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 13:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/4ipOl</link>
+            <guid>http://newstapa.org/article/4ipOl</guid>
+            <pubDate>Sun, 18 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/18205538-DD46-0959-0829-6HRHZV2FKZUQVD1Y4L2M.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/vwc1o</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31150513-4822-0BAC-4213-NIL4MH2HJ27SL0L9IBZQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Jz2qB</link>
-            <guid>http://newstapa.org/article/Jz2qB</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["공직자 가상 자산, '현 시점' 전수조사해야"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/01135104-BF47-05F0-B429-4OZ78ELO94KE2K3RCQ3B.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/4ipOl</link>
+            <guid>http://newstapa.org/article/4ipOl</guid>
+            <pubDate>Sun, 18 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/18205538-DD46-0959-0829-6HRHZV2FKZUQVD1Y4L2M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/U28so</link>
-            <guid>http://newstapa.org/article/U28so</guid>
-            <pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 1년 : 권력 장악, 포퓰리즘 도구로 전락한 언론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/11165631-5F85-4124-2536-L8OMXMSFBLYEQRNAANAH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑪ 전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
