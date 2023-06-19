@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 12:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 13:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/CCf8o</link>
+            <guid>http://newstapa.org/article/CCf8o</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/19220258-E4B2-0EBB-125A-5GBL4WEKBMODVRZW8GNB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/4ipOl</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/01174431-E6DF-8478-0957-4W3PZ7QB8VDC55ZXZ6V1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/nz_Fw</link>
-            <guid>http://newstapa.org/article/nz_Fw</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31150513-4822-0BAC-4213-NIL4MH2HJ27SL0L9IBZQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/CCf8o</link>
+            <guid>http://newstapa.org/article/CCf8o</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/19220258-E4B2-0EBB-125A-5GBL4WEKBMODVRZW8GNB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1993년 김영삼 대통령 재산은 얼마? 뉴스타파 재산 사이트 업데이트]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17151030-5349-26DB-8EB6-FZWZDE214ZAPG6ZK78F2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/uJWaS</link>
-            <guid>http://newstapa.org/article/uJWaS</guid>
-            <pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국회사무처 2023년 재산신고 시, 가상자산 신고기재 요청했었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185712-B235-B5E0-9C05-200RTQXO35ZJN6GV7UYH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑪ 전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
