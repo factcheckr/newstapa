@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 09:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 10:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다"]]></title>
+            <link>http://newstapa.org/article/CCf8o</link>
+            <guid>http://newstapa.org/article/CCf8o</guid>
+            <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/19183350-F113-9950-D310-U4YCN8ABX72T781631D3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다"]]></title>
             <link>http://newstapa.org/article/4ipOl</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[특수활동비와 권력의 흑역사 그리고 검찰]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/01174431-E6DF-8478-0957-4W3PZ7QB8VDC55ZXZ6V1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></title>
-            <link>http://newstapa.org/article/nz_Fw</link>
-            <guid>http://newstapa.org/article/nz_Fw</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31150513-4822-0BAC-4213-NIL4MH2HJ27SL0L9IBZQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

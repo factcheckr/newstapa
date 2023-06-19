@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-19T09:11:19.716Z</updated>
+    <updated>2023-06-19T10:11:58.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100658628</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100658628"/>
+        <updated>2023-06-19T10:11:57.950Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100658628"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bhf2Kk/btskrbvAWG2/ZlSgIpe4EkKp6DbxtWU1mK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100620217</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100513929"/>
         <updated>2023-06-09T10:11:01.368Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100513929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HbN60/btsjkhbqJHO/uTo2T7da2Zly8KHztAX4Z0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100501954</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100501954"/>
-        <updated>2023-06-09T03:19:32.902Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100501954"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tFqwg/btsja6nOPRe/5qE4V8NFpJbhh3By3W01AK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">대통령실의 억지와 거짓말...엉망된 '직원명단 공개' 소송</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
