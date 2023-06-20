@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-20T02:09:11.042Z</updated>
+    <updated>2023-06-20T04:12:10.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검사의 나라, 이제 1년' 북콘서트에 초대합니다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100666612</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100666612"/>
+        <updated>2023-06-20T04:12:09.225Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100666612"><span class="thume_item" style="background-image: url(&quot;//k.kakaocdn.net/dn/iPIRV/btskEo0IZno/NR9ShwdNVHScfEfu4TREd1/img_s.jpg&quot;);"></span><span class="info_item"><span class="txt_g">'검사의 나라, 이제 1년' 북콘서트에 초대합니다</span></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황보승희 음성파일 "니(남편) 능력이 안 돼 남의 돈 받았다"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100658628</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100545963"/>
         <updated>2023-06-12T05:14:06.589Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100545963"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cbGeHW/btsjFRJX1Cg/6zBzzVGjYVTCKsJ6N5Gjv1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100513929</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100513929"/>
-        <updated>2023-06-09T10:11:01.368Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100513929"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HbN60/btsjkhbqJHO/uTo2T7da2Zly8KHztAX4Z0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
