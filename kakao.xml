@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-22T10:20:54.052Z</updated>
+    <updated>2023-06-22T11:10:24.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우크라이나 지원 의혹' 한국산 포탄 독일 도착 확인 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100709529</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100709529"/>
+        <updated>2023-06-22T11:10:23.901Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100709529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/p1GeH/btskZUTq5yK/9w9VkCWmfr5bsikoMFw0Q0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'우크라이나 지원 의혹' 한국산 포탄 독일 도착 확인 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회의원 정치자금 분석: 선거 앞두고 ‘품앗이 후원' 급증]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100704106</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100620217"/>
         <updated>2023-06-16T07:10:17.334Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100620217"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/m1VuS/btskc8yxlzW/XfuTGQTNoIK89XJV9pUzh0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부는 무시하고, 경찰은 짓밟았다 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100603424</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100603424"/>
-        <updated>2023-06-15T11:15:37.535Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100603424"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YSIUI/btsj7MafSGf/tzaIYa6URXoWwdVKbnebi0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정부는 무시하고, 경찰은 짓밟았다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
