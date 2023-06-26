@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 00:58:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 02:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 특활비 공개 소송]]></title>
+            <link>https://newstapa.org/projects/NMjEM</link>
+            <guid>https://newstapa.org/projects/NMjEM</guid>
+            <pubDate>Tue, 27 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민 세금으로 책정되는 검찰의 특수활동비 예산. 하지만 그 집행 내역은 지금까지 한 번도 공개되지 않았습니다. 뉴스타파와 시민단체들이 투명한 정보 공개를 위해 소송에 나섰습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26102450-85F6-F5CD-2C73-DR2LKQC9T5ST70WH539H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히든머니 프로젝트]]></title>
+            <link>https://newstapa.org/projects/4n8Aq</link>
+            <guid>https://newstapa.org/projects/4n8Aq</guid>
+            <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공직자 재산공개 제도 30년을 맞아, 뉴스타파가 재산 공개 제도의 허와 실을 짚어봤습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26102410-6DA7-C358-E1A4-SJ57SVY0ZI6TB8PRLVVN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이예람 중사 사건 추적]]></title>
+            <link>https://newstapa.org/projects/zCIb-</link>
+            <guid>https://newstapa.org/projects/zCIb-</guid>
+            <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[상관의 성추행과 2차 가해 끝에 스스로 목숨을 끊은 고 이예람 중사. 뉴스타파가 이예람 중사 사건의 전말을 추적하고 재판 과정을 분석했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26102700-8A51-7B19-622C-X4LFE0E1OE3YIMIN46OF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대장동 X파일]]></title>
             <link>https://newstapa.org/projects/F7nW-</link>
