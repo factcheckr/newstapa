@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-27T03:26:15.271Z</updated>
+    <updated>2023-06-27T04:17:08.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오류시장]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100782737</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100782737"/>
+        <updated>2023-06-27T04:17:07.604Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100782737"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/mnmvR/btslujSRTHs/DjYQQVvfJMc381ubW9ql6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">오류시장</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100780548</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100709529"/>
         <updated>2023-06-22T11:10:23.901Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100709529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/p1GeH/btskZUTq5yK/9w9VkCWmfr5bsikoMFw0Q0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'우크라이나 지원 의혹' 한국산 포탄 독일 도착 확인 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 정치자금 분석: 선거 앞두고 ‘품앗이 후원' 급증]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100704106</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100704106"/>
-        <updated>2023-06-22T06:17:10.914Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100704106"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cZKcP1/btskTF3JQsJ/G0HDEn5evYyN6NuubOL0jK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국회의원 정치자금 분석: 선거 앞두고 ‘품앗이 후원' 급증</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
