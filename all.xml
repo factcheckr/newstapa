@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 00:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 02:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/bfTdJ</link>
+            <guid>http://newstapa.org/article/bfTdJ</guid>
+            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/27101225-42E6-BD86-8D92-IJ3MY23NB3SUC9OG373Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오류시장 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/YXcM4</link>
+            <guid>http://newstapa.org/article/YXcM4</guid>
+            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오류시장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/27100904-6FA5-22F4-193B-PPRLWBELR61PN5875VMV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/VLXaX</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/09092353-F14E-000D-1481-0Q0MVLIIY3MQ6T6YOJQB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/0EPdU</link>
-            <guid>http://newstapa.org/article/0EPdU</guid>
-            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180502-E0B5-BF80-1E83-H4MCII7ANV4P6QM643A9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’ (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/_8k0e</link>
-            <guid>http://newstapa.org/article/_8k0e</guid>
-            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180419-C32C-02FD-9163-612Y06NBTAQE5X6LMHIQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/bfTdJ</link>
+            <guid>http://newstapa.org/article/bfTdJ</guid>
+            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/27101225-42E6-BD86-8D92-IJ3MY23NB3SUC9OG373Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[16,735쪽 검찰 예산 최초 수령...뉴스타파X시민단체 검증 착수 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '의정'과 '사익' 사이... 김남국, 조명희, 최영희]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185355-27DC-F53C-50D5-NIEFX6D65A3XTWAO6N81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[히든머니 프로젝트] “대정부 영업 활동”... 조명희 의원의 내 회사 챙기기 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/AlX4c</link>
-            <guid>http://newstapa.org/article/AlX4c</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[히든머니 프로젝트] “대정부 영업 활동”... 조명희 의원의 내 회사 챙기기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185502-1C2E-F107-A4C1-K08I0CXAEO3JPXRFEQQP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3060,6 +3060,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100780548</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100780548</guid>
+            <pubDate>Tue, 27 Jun 2023 02:37:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100780548"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/RRPaf/btslpVkHeZI/bMImbReqwbgCNfhQV1OEBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100770719</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100770719</guid>
@@ -3093,13 +3100,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100704106</guid>
             <pubDate>Thu, 22 Jun 2023 06:17:10 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100704106"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cZKcP1/btskTF3JQsJ/G0HDEn5evYyN6NuubOL0jK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국회의원 정치자금 분석: 선거 앞두고 ‘품앗이 후원' 급증</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국회의원 정치자금 분석: 의원은 서울에 있는데, 업무용 차량은 지방에서 '홀로 주유' (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100704066</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100704066</guid>
-            <pubDate>Thu, 22 Jun 2023 06:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100704066"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jGRV3/btskTHAtQwK/jgelLem4droVYdGX4I3hO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국회의원 정치자금 분석: 의원은 서울에 있는데, 업무용 차량은 지방에서 '홀로 주유'</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

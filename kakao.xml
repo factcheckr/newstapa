@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-27T00:48:53.561Z</updated>
+    <updated>2023-06-27T02:37:03.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100780548</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100780548"/>
+        <updated>2023-06-27T02:37:03.247Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100780548"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/RRPaf/btslpVkHeZI/bMImbReqwbgCNfhQV1OEBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100770719</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100704106"/>
         <updated>2023-06-22T06:17:10.914Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100704106"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cZKcP1/btskTF3JQsJ/G0HDEn5evYyN6NuubOL0jK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국회의원 정치자금 분석: 선거 앞두고 ‘품앗이 후원' 급증</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 정치자금 분석: 의원은 서울에 있는데, 업무용 차량은 지방에서 '홀로 주유']]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100704066</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100704066"/>
-        <updated>2023-06-22T06:17:10.915Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100704066"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jGRV3/btskTHAtQwK/jgelLem4droVYdGX4I3hO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국회의원 정치자금 분석: 의원은 서울에 있는데, 업무용 차량은 지방에서 '홀로 주유'</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
