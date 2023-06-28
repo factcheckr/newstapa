@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-28T06:18:16.845Z</updated>
+    <updated>2023-06-28T07:11:56.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 '김현아 당무감사' 부실조사 논란]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100805255</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100805255"/>
+        <updated>2023-06-28T07:11:56.231Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100805255"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/XIfA2/btslJ2iyjaO/2gDFAKP74SWGawCibXfGM1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민의힘 '김현아 당무감사' 부실조사 논란</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오류시장]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100782737</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100725238"/>
         <updated>2023-06-23T08:22:26.165Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100725238"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cP3Cdn/btsk7Gntqbn/7oNqE6ZJRlSP0iM19a3kE0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">스포츠혁신 4년③ 스포츠 혁신의 시간은 거꾸로 간다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우크라이나 지원 의혹' 한국산 포탄 독일 도착 확인 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100709529</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100709529"/>
-        <updated>2023-06-22T11:10:23.901Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100709529"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/p1GeH/btskZUTq5yK/9w9VkCWmfr5bsikoMFw0Q0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'우크라이나 지원 의혹' 한국산 포탄 독일 도착 확인 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

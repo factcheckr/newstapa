@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 06:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 07:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민의힘 '김현아 당무감사' 부실조사 논란]]></title>
+            <link>http://newstapa.org/article/Hxjy9</link>
+            <guid>http://newstapa.org/article/Hxjy9</guid>
+            <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 '김현아 당무감사' 부실조사 논란]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/28141335-CFB8-B2C3-DCC6-U9V78UOP979V9EV3R6FU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해]]></title>
             <link>http://newstapa.org/article/bfTdJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘대통령비서실’ 예산 공개 소송에 ‘국가안보실’ 자료 제출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/23152337-AE2D-7B75-819B-7S6HLUBD60LJJJJUVDYR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '의정'과 '사익' 사이... 김남국, 조명희, 최영희]]></title>
-            <link>http://newstapa.org/article/ZkOpQ</link>
-            <guid>http://newstapa.org/article/ZkOpQ</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '의정'과 '사익' 사이... 김남국, 조명희, 최영희]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18185355-27DC-F53C-50D5-NIEFX6D65A3XTWAO6N81.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
