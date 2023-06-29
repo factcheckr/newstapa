@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 03:32:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 05:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, '윤석열 식당' 이름·결제 시간 가린 ‘백지 영수증’ 줬다]]></title>
+            <link>http://newstapa.org/article/4DD-c</link>
+            <guid>http://newstapa.org/article/4DD-c</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, '윤석열 식당' 이름·결제 시간 가린 ‘백지 영수증’ 줬다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29124512-E885-D72B-7D6A-K38TAG079JQEPH58O2AU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화]]></title>
             <link>http://newstapa.org/article/VLXaX</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파 X KBS시사직격] 대장동 카르텔의 기원...‘만배 형과 영수 형’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/22031229-79D2-947E-6F77-V46GO1RFLI790FBUBINR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사]]></title>
-            <link>http://newstapa.org/article/7lAZd</link>
-            <guid>http://newstapa.org/article/7lAZd</guid>
-            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[경찰, 김현아 전 의원 ‘공천 미끼 돈봉투’ 의혹 수사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20170953-ACB9-612C-09BF-XQM97L7QGUYZX98MRVMH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
