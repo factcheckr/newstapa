@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 05:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 08:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김홍일 신임 국민권익위원장, '대장동 수사기록'에 여러 차례 등장 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dsnAz</link>
+            <guid>http://newstapa.org/article/dsnAz</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김홍일 신임 국민권익위원장, '대장동 수사기록'에 여러 차례 등장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29145456-D1D0-46F7-FD5C-O5CILDLSQ6GVVR9AV1CG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰의 ‘안하무법’과 사라진 윤석열 영수증 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/OS0HA</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/19220258-E4B2-0EBB-125A-5GBL4WEKBMODVRZW8GNB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/4ipOl</link>
-            <guid>http://newstapa.org/article/4ipOl</guid>
-            <pubDate>Sun, 18 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[황보승희 전 남편 인터뷰..."억대 돈봉투 가방, 장롱에 숨겼다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/18205538-DD46-0959-0829-6HRHZV2FKZUQVD1Y4L2M.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김홍일 신임 국민권익위원장, '대장동 수사기록'에 여러 차례 등장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/dsnAz</link>
+            <guid>http://newstapa.org/article/dsnAz</guid>
+            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김홍일 신임 국민권익위원장, '대장동 수사기록'에 여러 차례 등장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29145456-D1D0-46F7-FD5C-O5CILDLSQ6GVVR9AV1CG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰의 ‘안하무법’과 사라진 윤석열 영수증 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180502-E0B5-BF80-1E83-H4MCII7ANV4P6QM643A9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/_8k0e</link>
-            <guid>http://newstapa.org/article/_8k0e</guid>
-            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘백투더 MB’ 언론장악 설계자의 ‘귀환’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180419-C32C-02FD-9163-612Y06NBTAQE5X6LMHIQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, '윤석열 식당' 이름·결제 시간 가린 ‘백지 영수증’ 줬다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
