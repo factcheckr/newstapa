@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-06-30T08:22:28.386Z</updated>
+    <updated>2023-06-30T09:16:24.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김홍일 권익위원장 내정자, 대장동 자금책 '몰래 변론' 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100860761</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100860761"/>
+        <updated>2023-06-30T09:16:23.417Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100860761"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bI1aTp/btslYy32H3D/hTImcwXFjme5GzZ8tv6jtK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김홍일 권익위원장 내정자, 대장동 자금책 '몰래 변론' 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰의 ‘안하무법’과 사라진 윤석열 영수증 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100821720</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100821545"/>
         <updated>2023-06-29T05:18:03.212Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100821545"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bfwdRM/btslK7LlpCw/xBGzkojm2ZCF2kITWKWKik/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2017년 대검 특활비 74억 집행기록 없어졌다...무단 폐기 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 '김현아 당무감사' 부실조사 논란]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100805255</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100805255"/>
-        <updated>2023-06-28T07:11:56.231Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100805255"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/XIfA2/btslJ2iyjaO/2gDFAKP74SWGawCibXfGM1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국민의힘 '김현아 당무감사' 부실조사 논란</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
