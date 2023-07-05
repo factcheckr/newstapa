@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-05T07:13:38.408Z</updated>
+    <updated>2023-07-05T08:25:05.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검사의 나라 이제 1년, 뉴스타파 x 참여연대 북 콘서트]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/100950422</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/100950422"/>
+        <updated>2023-07-05T08:25:04.735Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100950422"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cHMdox/btsmyVi18RJ/EFqlr0I3CTrr1N78GrWI91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검사의 나라 이제 1년, 뉴스타파 x 참여연대 북 콘서트</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰의 거짓말… 특활비 기록 불법 폐기 확인]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/100927652</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100821676"/>
         <updated>2023-06-29T05:18:03.210Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100821676"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/h4uvF/btslNl3cYSx/n8S8Xc24lNESNvD7uUBdgk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰, '윤석열 식당' 이름·결제 시간 가린 ‘백지 영수증’ 줬다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100821635</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100821635"/>
-        <updated>2023-06-29T05:18:03.210Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100821635"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cNLnws/btslQlIyT4s/jU7Us5FxYSfCNtKIrv4Nj1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 07:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 08:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3060,6 +3060,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검사의 나라 이제 1년, 뉴스타파 x 참여연대 북 콘서트 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/100950422</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/100950422</guid>
+            <pubDate>Wed, 05 Jul 2023 08:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100950422"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cHMdox/btsmyVi18RJ/EFqlr0I3CTrr1N78GrWI91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검사의 나라 이제 1년, 뉴스타파 x 참여연대 북 콘서트</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검찰의 거짓말… 특활비 기록 불법 폐기 확인 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/100927652</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/100927652</guid>
@@ -3093,13 +3100,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/100821676</guid>
             <pubDate>Thu, 29 Jun 2023 05:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100821676"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/h4uvF/btslNl3cYSx/n8S8Xc24lNESNvD7uUBdgk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰, '윤석열 식당' 이름·결제 시간 가린 ‘백지 영수증’ 줬다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/100821635</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/100821635</guid>
-            <pubDate>Thu, 29 Jun 2023 05:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/100821635"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cNLnws/btslQlIyT4s/jU7Us5FxYSfCNtKIrv4Nj1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
