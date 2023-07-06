@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 04:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 05:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '윤석열 이중 장부' 확인, 총장 특활비 대해부]]></title>
+            <link>http://newstapa.org/article/T-1Ee</link>
+            <guid>http://newstapa.org/article/T-1Ee</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '윤석열 이중 장부' 확인, 총장 특활비 대해부]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06114509-5101-845D-F9B9-A2T7LJR38V4X1LHYUTKM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘총장 몫 특활비’ 136억, 별도 계좌에서 ‘이중장부’로 관리]]></title>
+            <link>http://newstapa.org/article/p5285</link>
+            <guid>http://newstapa.org/article/p5285</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘총장 몫 특활비’ 136억, 별도 계좌에서 ‘이중장부’로 관리]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06133132-ED7F-385B-9E5F-RXHTCZUUFM7TUNSTAG3L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문무일 전 검찰총장, ‘무증빙 특활비’ 최소 2억... 회계 부정 의혹]]></title>
+            <link>http://newstapa.org/article/7hKPE</link>
+            <guid>http://newstapa.org/article/7hKPE</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[문무일 전 검찰총장, ‘무증빙 특활비’ 최소 2억... 회계 부정 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/05174641-0954-1EB7-8EA0-I6BYG4SFOY2TTUK9DNAP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰의 거짓말… 특활비 기록 불법 폐기 확인]]></title>
             <link>http://newstapa.org/article/9vHEY</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[확정판결 검찰예산 신속히 공개 안 하면, '간접강제' 신청한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/17160740-7939-FE15-0073-O4SFI89AMKXWK651N4ZJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰의 방패를 뚫고, 정보공개 최종 판결을 받아내기까지]]></title>
-            <link>http://newstapa.org/article/Ysd06</link>
-            <guid>http://newstapa.org/article/Ysd06</guid>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰의 방패를 뚫고, 정보공개 최종 판결을 받아내기까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/14102402-0A6D-D523-A00B-TIWMD7Q3M5LEG1QNOVDC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소]]></title>
-            <link>http://newstapa.org/article/8wJDv</link>
-            <guid>http://newstapa.org/article/8wJDv</guid>
-            <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['윤석열 특수활동비' 공개 확정... 뉴스타파, 3년 5개월 만에 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/13182618-E45C-E0DD-3364-1HRV1J322H3UTLIQP6WY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작]]></title>
-            <link>http://newstapa.org/article/xzGxJ</link>
-            <guid>http://newstapa.org/article/xzGxJ</guid>
-            <pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 뉴스타파 vs 대통령실, 예산 공개 소송 시작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/23184541-3975-1660-1213-PDZY8SXNM1ZSZUQPSX7O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

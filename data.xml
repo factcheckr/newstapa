@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 04:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 05:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,13 @@
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144226-67A0-8C86-DB52-PMB5CJ254HROJ7P81RII.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최초 공개, 검찰의 금고를 열다]]></title>
+            <link>https://pages.newstapa.org/2023/07_prosecution/</link>
+            <guid>https://pages.newstapa.org/2023/07_prosecution/</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06134052-A739-5753-CFDA-LUXSGZA88JUK06YXIFFJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 산 : 2022년 울진 산불]]></title>
