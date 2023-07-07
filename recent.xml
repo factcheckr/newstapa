@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 04:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 05:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대장동 X파일] "박영수 딸에 '호화 생활비' 명목 11억 빌려줘"...김만배 검찰 진술 확인]]></title>
+            <link>http://newstapa.org/article/F8xWM</link>
+            <guid>http://newstapa.org/article/F8xWM</guid>
+            <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일] "박영수 딸에 '호화 생활비' 명목 11억 빌려줘"...김만배 검찰 진술 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/07135223-79B3-4F53-C1D2-4UPP8MCBWM5HID1MQWFM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '윤석열 이중 장부' 확인, 총장 특활비 대해부]]></title>
             <link>http://newstapa.org/article/T-1Ee</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[황보승희 의원 재산신고 누락, 증여세 탈루 의혹...경찰, 알면서 수사 안 해]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/27101225-42E6-BD86-8D92-IJ3MY23NB3SUC9OG373Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오류시장]]></title>
-            <link>http://newstapa.org/article/YXcM4</link>
-            <guid>http://newstapa.org/article/YXcM4</guid>
-            <pubDate>Tue, 27 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오류시장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/27100904-6FA5-22F4-193B-PPRLWBELR61PN5875VMV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
