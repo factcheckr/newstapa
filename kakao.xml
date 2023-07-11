@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-11T05:19:50.932Z</updated>
+    <updated>2023-07-11T06:20:44.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 김길자 경인여대 총장 부부 ‘유죄’...김황식 전 총리 딸 부정채용 의혹 인정]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101037993</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101037993"/>
+        <updated>2023-07-11T06:20:43.994Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101037993"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/btQXMi/btsngNRiUBs/K7paG6grW9GEIr5kzrIiVk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 김길자 경인여대 총장 부부 ‘유죄’...김황식 전 총리 딸 부정채용 의혹 인정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이태원 참사' 이란 유가족 최초 인터뷰... "한국 정부는 아무것도 알려주지 않았다"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101020992</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100965410"/>
         <updated>2023-07-06T05:12:42.760Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100965410"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9ywzs/btsmz24fbFx/Xm3GxhdHWNsaQow7kJnTt0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문무일 전 검찰총장, ‘무증빙 특활비’ 최소 2억... 회계 부정 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘총장 몫 특활비’ 136억, 별도 계좌에서 ‘이중장부’로 관리]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100965370</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100965370"/>
-        <updated>2023-07-06T05:12:42.761Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100965370"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jKPev/btsmGALFbZN/VfuQghUmuLA0xRvVIqKlr1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘총장 몫 특활비’ 136억, 별도 계좌에서 ‘이중장부’로 관리</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
