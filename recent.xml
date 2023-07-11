@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 07:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 08:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'"]]></title>
+            <link>http://newstapa.org/article/8k_uv</link>
+            <guid>http://newstapa.org/article/8k_uv</guid>
+            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/11140646-1C97-4D82-EE9A-UWYFJYR7PZTVK4VHDRAI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다른 3개 지검·고검 특수활동비 기록도 증발... 검찰 ‘조직적 폐기’ 의혹]]></title>
             <link>http://newstapa.org/article/u7Pam</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 서울지검장 시절 특활비 기록도 무더기 사라졌다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29121123-6B58-3F5C-3313-UKDY8UAIE7BPXTDY4Y1Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중]]></title>
-            <link>http://newstapa.org/article/IY5b1</link>
-            <guid>http://newstapa.org/article/IY5b1</guid>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29115210-102E-B082-381C-TTR910XLASV1MX6C8JW1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
