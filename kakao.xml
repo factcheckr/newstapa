@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-11T06:20:44.996Z</updated>
+    <updated>2023-07-11T07:11:02.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다른 3개 지검·고검 특수활동비 기록도 증발... 검찰 ‘조직적 폐기’ 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101040072</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101040072"/>
+        <updated>2023-07-11T07:11:02.073Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101040072"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cP02ZS/btsnfr9edeg/379PhzbYCHFL9VbmXGFpnk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">다른 3개 지검·고검 특수활동비 기록도 증발... 검찰 ‘조직적 폐기’ 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[변화] 김길자 경인여대 총장 부부 ‘유죄’...김황식 전 총리 딸 부정채용 의혹 인정]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101037993</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/100965457"/>
         <updated>2023-07-06T05:12:42.755Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100965457"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/24RQI/btsmBileEfu/O2pvOunQ944jiJgRgiMYJK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, &lt;검찰의 금고를 열다&gt; 특별 페이지 공개</span><em class="emph_g">pages.newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문무일 전 검찰총장, ‘무증빙 특활비’ 최소 2억... 회계 부정 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100965410</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100965410"/>
-        <updated>2023-07-06T05:12:42.760Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100965410"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/9ywzs/btsmz24fbFx/Xm3GxhdHWNsaQow7kJnTt0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">문무일 전 검찰총장, ‘무증빙 특활비’ 최소 2억... 회계 부정 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
