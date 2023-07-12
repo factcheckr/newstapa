@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-12T05:20:42.581Z</updated>
+    <updated>2023-07-12T07:11:17.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['국보법 위반자' 김영호는 어떻게 '미국 유학길'에 올랐을까]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101058254</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101058254"/>
+        <updated>2023-07-12T07:11:16.605Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101058254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/R03bn/btsng9n30vv/GcL4Ep1KI42Phzp4q2DoWk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'국보법 위반자' 김영호는 어떻게 '미국 유학길'에 올랐을까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['당원권 정지' 김현아, 대선용 선거사무소도 '차명 계약' 의혹]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101051449</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101020992"/>
         <updated>2023-07-10T07:12:23.114Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101020992"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cWCyAk/btsmWolpaZy/LGCg3oqt0id2mTyGmkiizK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이태원 참사' 이란 유가족 최초 인터뷰... "한국 정부는 아무것도 알려주지 않았다"</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["박영수 딸에 '호화 생활비' 명목 11억 빌려줘"...김만배 검찰 진술 확인]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/100985435</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/100985435"/>
-        <updated>2023-07-07T06:15:09.953Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/100985435"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bWNeDA/btsmN6c40wi/qmPCKKEqZ3hyZN7ezj4n0k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"박영수 딸에 '호화 생활비' 명목 11억 빌려줘"...김만배 검찰 진술 확인</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
