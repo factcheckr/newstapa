@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-14T00:54:15.048Z</updated>
+    <updated>2023-07-14T02:29:48.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101093566</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101093566"/>
+        <updated>2023-07-14T02:29:47.919Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101093566"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/imqWl/btsnBTpLMDj/KZDR5qKv4VIgjIzvuUOL8k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 이동관 특보는 탄핵이 두려웠을까?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명절 떡값 2억 5천? 윤석열 특활비의 실체 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101086430</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101058254"/>
         <updated>2023-07-12T07:11:16.605Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101058254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/R03bn/btsng9n30vv/GcL4Ep1KI42Phzp4q2DoWk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'국보법 위반자' 김영호는 어떻게 '미국 유학길'에 올랐을까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당원권 정지' 김현아, 대선용 선거사무소도 '차명 계약' 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101051449</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101051449"/>
-        <updated>2023-07-12T02:31:07.546Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101051449"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bmnEhr/btsngvqJDMH/3vFRcKpHFMvF1sI1ERAhZ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'당원권 정지' 김현아, 대선용 선거사무소도 '차명 계약' 의혹</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
