@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-16T22:10:38.339Z</updated>
+    <updated>2023-07-17T00:58:43.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101122402</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101122402"/>
+        <updated>2023-07-17T00:58:42.442Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101122402"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dmiKSc/btsnOrUE3oa/fK5Zqit1tAABmK4KgK6k10/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101093566</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101083278"/>
         <updated>2023-07-13T08:15:08.398Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101083278"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ckfIaK/btsnpUYJNKc/27pWRTWKZDUhozr0fOc7x0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 주진우 법률비서관에 승소... &lt;죄수와 검사&gt; 소송 다 이겼다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국보법 위반자' 김영호는 어떻게 '미국 유학길'에 올랐을까]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101058254</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101058254"/>
-        <updated>2023-07-12T07:11:16.605Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101058254"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/R03bn/btsng9n30vv/GcL4Ep1KI42Phzp4q2DoWk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'국보법 위반자' 김영호는 어떻게 '미국 유학길'에 올랐을까</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

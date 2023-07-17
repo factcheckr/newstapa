@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 22:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 00:58:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’?]]></title>
+            <link>http://newstapa.org/article/2mr35</link>
+            <guid>http://newstapa.org/article/2mr35</guid>
+            <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/14170142-EEAB-8141-1282-6QP9CWLYR868H4KLIM2C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까?]]></title>
             <link>http://newstapa.org/article/tLh9-</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘총장 몫 특활비’ 136억, 별도 계좌에서 ‘이중장부’로 관리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06133132-ED7F-385B-9E5F-RXHTCZUUFM7TUNSTAG3L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문무일 전 검찰총장, ‘무증빙 특활비’ 최소 2억... 회계 부정 의혹]]></title>
-            <link>http://newstapa.org/article/7hKPE</link>
-            <guid>http://newstapa.org/article/7hKPE</guid>
-            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[문무일 전 검찰총장, ‘무증빙 특활비’ 최소 2억... 회계 부정 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/05174641-0954-1EB7-8EA0-I6BYG4SFOY2TTUK9DNAP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
