@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-18T01:08:15.720Z</updated>
+    <updated>2023-07-18T02:58:08.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["검찰이 범죄 집단으로 남지 않으려면" - 뉴스타파 x 국회 법사위 긴급 토론회]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101145048</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101145048"/>
+        <updated>2023-07-18T02:58:07.446Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101145048"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lPHmT/btsn1aL46b6/CZQeFHC9DOP3cBNAnsop00/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"검찰이 범죄 집단으로 남지 않으려면" - 뉴스타파 x 국회 법사위 긴급 토론회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’?]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101122402</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101086404"/>
         <updated>2023-07-13T11:15:54.609Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101086404"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sP7E1/btsnwoD89JZ/dWgp8R7ifhzux1bzjCCii1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특활비’ 어디에 썼나…명절 앞두고 무더기 지급</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스타파, 주진우 법률비서관에 승소... <죄수와 검사> 소송 다 이겼다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101083278</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101083278"/>
-        <updated>2023-07-13T08:15:08.398Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101083278"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ckfIaK/btsnpUYJNKc/27pWRTWKZDUhozr0fOc7x0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 주진우 법률비서관에 승소... &lt;죄수와 검사&gt; 소송 다 이겼다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

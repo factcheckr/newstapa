@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 01:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 02:58:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3067,6 +3067,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["검찰이 범죄 집단으로 남지 않으려면" - 뉴스타파 x 국회 법사위 긴급 토론회 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101145048</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101145048</guid>
+            <pubDate>Tue, 18 Jul 2023 02:58:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101145048"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lPHmT/btsn1aL46b6/CZQeFHC9DOP3cBNAnsop00/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"검찰이 범죄 집단으로 남지 않으려면" - 뉴스타파 x 국회 법사위 긴급 토론회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101122402</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101122402</guid>
@@ -3100,13 +3107,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101086404</guid>
             <pubDate>Thu, 13 Jul 2023 11:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101086404"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/sP7E1/btsnwoD89JZ/dWgp8R7ifhzux1bzjCCii1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특활비’ 어디에 썼나…명절 앞두고 무더기 지급</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 주진우 법률비서관에 승소... <죄수와 검사> 소송 다 이겼다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101083278</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101083278</guid>
-            <pubDate>Thu, 13 Jul 2023 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101083278"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ckfIaK/btsnpUYJNKc/27pWRTWKZDUhozr0fOc7x0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파, 주진우 법률비서관에 승소... &lt;죄수와 검사&gt; 소송 다 이겼다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
