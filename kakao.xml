@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-20T08:16:57.669Z</updated>
+    <updated>2023-07-20T09:10:57.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<현장에서> '윤석열 철학' 부정하는 통일부장관 후보, 용산은 괜찮나?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101187208</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101187208"/>
+        <updated>2023-07-20T09:10:56.524Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101187208"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/BWd2S/btsol8hqVra/siHbdJlMe5FKDzIbmrFYJ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">&lt;현장에서&gt; '윤석열 철학' 부정하는 통일부장관 후보, 용산은 괜찮나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘검사 윤석열’의 세금 씀씀이...쪼개기 결제와 근무지 이탈]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101168394</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101145048"/>
         <updated>2023-07-18T02:58:07.446Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101145048"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lPHmT/btsn1aL46b6/CZQeFHC9DOP3cBNAnsop00/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"검찰이 범죄 집단으로 남지 않으려면" - 뉴스타파 x 국회 법사위 긴급 토론회</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101122402</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101122402"/>
-        <updated>2023-07-17T00:58:42.442Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101122402"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/dmiKSc/btsnOrUE3oa/fK5Zqit1tAABmK4KgK6k10/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰 특활비 ‘이해충돌’ 당사자가 ‘검찰 방어’?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
