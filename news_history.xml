@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 10:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 11:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] ‘전쟁불사’ 대통령이 보지 못한 한국전쟁]]></title>
+            <link>http://newstapa.org/article/fPc16</link>
+            <guid>http://newstapa.org/article/fPc16</guid>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] ‘전쟁불사’ 대통령이 보지 못한 한국전쟁]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/20195208-5144-420B-F4BA-NSH0XZ9DO8ZEWZAEI9XU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[당신이 보지 못한 한국전쟁] ④민간인학살]]></title>
+            <link>http://newstapa.org/article/M4mYE</link>
+            <guid>http://newstapa.org/article/M4mYE</guid>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[당신이 보지 못한 한국전쟁] ④민간인학살]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/20195222-DBDB-278C-AC82-XMI3NPI50GAR17032IKX.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['악마의 무기' 네이팜의 탄생과 민간인 학살]]></title>
+            <link>http://newstapa.org/article/WLEr4</link>
+            <guid>http://newstapa.org/article/WLEr4</guid>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['악마의 무기' 네이팜의 탄생과 민간인 학살]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/20143810-119F-988B-8880-SL9I0653TJ0NXLJNFE7K.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기]]></title>
             <link>http://newstapa.org/article/tMUCY</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12095416-1701-26EC-309A-I9D5HO3CJD5HUDIXIQVQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></title>
-            <link>http://newstapa.org/article/diVlC</link>
-            <guid>http://newstapa.org/article/diVlC</guid>
-            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[문재인 정부가 청산하지 못한 적폐의 반격]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/15102915-963F-AB08-C874-B4PNNKPIKMJOFNC8XYMT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></title>
-            <link>http://newstapa.org/article/ZEjWL</link>
-            <guid>http://newstapa.org/article/ZEjWL</guid>
-            <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 한국전 당시 미공군 용산 대폭격 촬영 원본 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/27104921-3F92-820A-8E9C-TAIZLVB7REUDZM6NV45B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></title>
-            <link>http://newstapa.org/article/EaoOR</link>
-            <guid>http://newstapa.org/article/EaoOR</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[일제 '태형'에 사망한 조선 청년의 '마지막 소원']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/28182504-C5E7-7746-5D98-07ZDW260QSC7Q9G5CJX7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
