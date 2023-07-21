@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-21T07:11:19.373Z</updated>
+    <updated>2023-07-21T08:23:10.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부, 4대강식 삽질로 홍수를 막겠다고?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101205649</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101205649"/>
+        <updated>2023-07-21T08:23:09.451Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101205649"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cblyuR/btsoxpO5qrf/SLCx68rwoPGH42lsQ6X281/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, 4대강식 삽질로 홍수를 막겠다고?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전쟁불사’ 대통령이 보지 못한 한국전쟁 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101188810</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101168394"/>
         <updated>2023-07-19T08:13:53.484Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101168394"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/xX3Kv/btsogYxff5O/nTYkRTxF2krJjTynGmmGs1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘검사 윤석열’의 세금 씀씀이...쪼개기 결제와 근무지 이탈</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰총장·서울중앙지검장 등 고위 검사들의 업추비 사용 식당 79곳 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101168345</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101168345"/>
-        <updated>2023-07-19T08:13:53.486Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101168345"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nZxmY/btsoeJnOxeP/V1cdgmF7GRvTZDVPMplc80/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장·서울중앙지검장 등 고위 검사들의 업추비 사용 식당 79곳 공개</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
