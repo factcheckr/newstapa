@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-24T08:14:17.065Z</updated>
+    <updated>2023-07-24T09:11:41.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101237798</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101237798"/>
+        <updated>2023-07-24T09:11:40.961Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101237798"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qlTl8/btsoNW093dO/gxPThgMXJ1HfBzDHpKKDZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 윤석열과 관상가, 그리고 홍석현</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰 핵심부의 네 가지 범죄 혐의와 ‘특활비 특검’]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101228228</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101188763"/>
         <updated>2023-07-20T12:17:33.849Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101188763"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bxjoX2/btsopuC57Ia/UtMmOdbXxP4k6ca3HAUh80/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[당신이 보지 못한 한국전쟁] ④민간인학살 - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<현장에서> '윤석열 철학' 부정하는 통일부장관 후보, 용산은 괜찮나?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101187208</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101187208"/>
-        <updated>2023-07-20T09:10:56.524Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101187208"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/BWd2S/btsol8hqVra/siHbdJlMe5FKDzIbmrFYJ0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">&lt;현장에서&gt; '윤석열 철학' 부정하는 통일부장관 후보, 용산은 괜찮나?</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
