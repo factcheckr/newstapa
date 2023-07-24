@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 00:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 02:06:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 핵심부의 네 가지 범죄 혐의와 ‘특활비 특검’]]></title>
+            <link>http://newstapa.org/article/iPIw_</link>
+            <guid>http://newstapa.org/article/iPIw_</guid>
+            <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 핵심부의 네 가지 범죄 혐의와 ‘특활비 특검’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/21144921-157B-9AF6-C53E-QHOSX6WJ4TXY1NBIUKVE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰총장·서울중앙지검장 등 고위 검사들의 업추비 사용 식당 79곳 공개]]></title>
             <link>http://newstapa.org/article/fCLWr</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 12 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중앙행정심판위, "법무부 업추비 카드 내역 비공개는 위법·부당”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/12140325-43AB-39AA-5999-25EDICNSYASS1W12CWVT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 특활비 검증 가로막는 한동훈 법무부]]></title>
-            <link>http://newstapa.org/article/x-Pkk</link>
-            <guid>http://newstapa.org/article/x-Pkk</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 특활비 검증 가로막는 한동훈 법무부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/01174353-364C-7D2D-AA97-27FC32S0DIB9ZYOT5VDH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
