@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 08:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 09:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/JRmgC</link>
+            <guid>http://newstapa.org/article/JRmgC</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25114352-7751-6F01-8326-CP0CLMKZ8POT8FF8QDN8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/LW61T</link>
+            <guid>http://newstapa.org/article/LW61T</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25173540-5999-26EF-18D9-FPBVDUYOJIMY8HERZ51Y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ZO68S</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/14170142-EEAB-8141-1282-6QP9CWLYR868H4KLIM2C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tLh9-</link>
-            <guid>http://newstapa.org/article/tLh9-</guid>
-            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/14104941-036F-FA07-D9FD-NHVW7YZDHO5WC8V3M1GX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 명절 떡값 2억 5천? 윤석열 특활비의 실체 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/3HWPY</link>
-            <guid>http://newstapa.org/article/3HWPY</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 명절 떡값 2억 5천? 윤석열 특활비의 실체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/13185333-1EEE-1710-E220-MIWVT2ADV9VZTVB8UD9D.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/JRmgC</link>
+            <guid>http://newstapa.org/article/JRmgC</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25114352-7751-6F01-8326-CP0CLMKZ8POT8FF8QDN8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['당원권 정지' 김현아, 대선용 선거사무소도 '차명 계약' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/12085108-AECB-E260-D95A-8DXYQM1SBZBB2JSB5BP4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/8k_uv</link>
-            <guid>http://newstapa.org/article/8k_uv</guid>
-            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/11140646-1C97-4D82-EE9A-UWYFJYR7PZTVK4VHDRAI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘검사 윤석열’의 세금 씀씀이...쪼개기 결제와 근무지 이탈 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/06162009-953D-FC63-F187-TT925ZRWMBAI7XSZLC5F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/LW61T</link>
+            <guid>http://newstapa.org/article/LW61T</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25173540-5999-26EF-18D9-FPBVDUYOJIMY8HERZ51Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부, 4대강식 준설로 홍수를 막겠다고? (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/Po85E</link>
             <guid>http://newstapa.org/article/Po85E</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[삼림파괴 주식회사③]한국정부, 해외서 환경파괴 대기업에 특혜 금융]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09190531-36E3-52A7-EAD0-OM1SEGA4OSM4ZU1LNVHQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[데이터] 동남아 환경파괴가 한국 발전공기업에 이르는 길① - 인도네시아편 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/ttyJu</link>
-            <guid>http://newstapa.org/article/ttyJu</guid>
-            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[데이터] 동남아 환경파괴가 한국 발전공기업에 이르는 길① - 인도네시아편]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10130536-CB39-917E-E261-WHV4PCYRG71Y1A9CHBGW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['이태원 참사' 이란 유가족 최초 인터뷰... "한국 정부는 아무것도 알려주지 않았다" (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02154810-E039-5D6A-18A9-AZ793QR04HZUHHF6F0W1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/LW61T</link>
+            <guid>http://newstapa.org/article/LW61T</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25173540-5999-26EF-18D9-FPBVDUYOJIMY8HERZ51Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/nz_Fw</link>
             <guid>http://newstapa.org/article/nz_Fw</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[누가 이태원 참사 159번째 희생자를 만들었나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/15110124-2A7A-0819-8DF2-V1K8NSMM33B9U9QKVYBR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] "이태원에 간 내 동생, '왜 갔나' 대신 '왜 못 돌아왔나' 물어주세요" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/rwmLI</link>
-            <guid>http://newstapa.org/article/rwmLI</guid>
-            <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] "이태원에 간 내 동생, '왜 갔나' 대신 '왜 못 돌아왔나' 물어주세요"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/09180424-A766-0C93-1E01-ISSU6YPPKLI98JHOLH4H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 김길자 경인여대 총장 부부 ‘유죄’...김황식 전 총리 딸 부정채용 의혹 인정 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3067,6 +3067,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101254641</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101254641</guid>
+            <pubDate>Tue, 25 Jul 2023 09:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101254641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kHF2y/btsoZdgMp9M/kwyDuPcAOqoJz0ArP22AF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101251092</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101251092</guid>
@@ -3100,13 +3107,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101188810</guid>
             <pubDate>Thu, 20 Jul 2023 12:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101188810"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bDWAfa/btsopWF8N4S/yxaws4bysXtqQU8OkOcf6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘전쟁불사’ 대통령이 보지 못한 한국전쟁 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['악마의 무기' 네이팜의 탄생과 민간인 학살 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101188783</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101188783</guid>
-            <pubDate>Thu, 20 Jul 2023 12:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101188783"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Icbcc/btsoo5DzYb4/a6zFRVj8e5TilDMe3n20R0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'악마의 무기' 네이팜의 탄생과 민간인 학살</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
