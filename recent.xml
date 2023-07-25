@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 05:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 06:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다]]></title>
+            <link>http://newstapa.org/article/ZO68S</link>
+            <guid>http://newstapa.org/article/ZO68S</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/24183848-1B8D-8902-DDB2-VNXZ2W6U20AVNUAE7N1K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현]]></title>
             <link>http://newstapa.org/article/OELW_</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 명절 떡값 2억 5천? 윤석열 특활비의 실체]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/13185333-1EEE-1710-E220-MIWVT2ADV9VZTVB8UD9D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 특활비’ 어디에 썼나…명절 앞두고 무더기 지급]]></title>
-            <link>http://newstapa.org/article/VP8F9</link>
-            <guid>http://newstapa.org/article/VP8F9</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 특활비’ 어디에 썼나…명절 앞두고 무더기 지급]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/13185413-26E3-4139-1AC7-KWX2DSLVHUE4IWIG5RZM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

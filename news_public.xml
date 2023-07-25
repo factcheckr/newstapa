@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 05:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 06:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다]]></title>
+            <link>http://newstapa.org/article/ZO68S</link>
+            <guid>http://newstapa.org/article/ZO68S</guid>
+            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/24183848-1B8D-8902-DDB2-VNXZ2W6U20AVNUAE7N1K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현]]></title>
             <link>http://newstapa.org/article/OELW_</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/11140646-1C97-4D82-EE9A-UWYFJYR7PZTVK4VHDRAI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다른 3개 지검·고검 특수활동비 기록도 증발... 검찰 ‘조직적 폐기’ 의혹]]></title>
-            <link>http://newstapa.org/article/u7Pam</link>
-            <guid>http://newstapa.org/article/u7Pam</guid>
-            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[다른 3개 지검·고검 특수활동비 기록도 증발... 검찰 ‘조직적 폐기’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/11151233-C055-CE79-67F4-CBUV678NYGYR9VO2PSOK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
