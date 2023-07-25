@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-25T09:11:38.591Z</updated>
+    <updated>2023-07-25T10:15:46.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101255229</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101255229"/>
+        <updated>2023-07-25T10:15:45.728Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101255229"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lbXqA/btsoZLdi0w4/5v9y2tWBChmqgPXKcrEbI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101254641</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101205649"/>
         <updated>2023-07-21T08:23:09.451Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101205649"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cblyuR/btsoxpO5qrf/SLCx68rwoPGH42lsQ6X281/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, 4대강식 삽질로 홍수를 막겠다고?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘전쟁불사’ 대통령이 보지 못한 한국전쟁 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101188810</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101188810"/>
-        <updated>2023-07-20T12:17:33.845Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101188810"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bDWAfa/btsopWF8N4S/yxaws4bysXtqQU8OkOcf6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘전쟁불사’ 대통령이 보지 못한 한국전쟁 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 09:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 10:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2056,11 +2056,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/23162412-CEF1-EFE6-D2A7-JJZMP7LGXW99IG3ZDXZ3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰 특활비 공개 소송 (뉴스타파 ─ 프로젝트)]]></title>
+            <title><![CDATA[검찰 예산 검증 (뉴스타파 ─ 프로젝트)]]></title>
             <link>https://newstapa.org/projects/NMjEM</link>
             <guid>https://newstapa.org/projects/NMjEM</guid>
             <pubDate>Tue, 27 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민 세금으로 책정되는 검찰의 특수활동비 예산. 하지만 그 집행 내역은 지금까지 한 번도 공개되지 않았습니다. 뉴스타파와 시민단체들이 투명한 정보 공개를 위해 소송에 나섰습니다.]]></content:encoded>
+            <content:encoded><![CDATA[국민 세금으로 책정되는 검찰의 특수활동비 등 예산. 하지만 그 집행 내역은 지금까지 한 번도 공개되지 않았습니다. 뉴스타파와 시민단체들이 사상 최초로 검찰 예산 검증에 나섰습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26102450-85F6-F5CD-2C73-DR2LKQC9T5ST70WH539H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -3067,6 +3067,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101255229</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101255229</guid>
+            <pubDate>Tue, 25 Jul 2023 10:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101255229"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lbXqA/btsoZLdi0w4/5v9y2tWBChmqgPXKcrEbI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101254641</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101254641</guid>
@@ -3100,13 +3107,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101205649</guid>
             <pubDate>Fri, 21 Jul 2023 08:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101205649"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cblyuR/btsoxpO5qrf/SLCx68rwoPGH42lsQ6X281/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, 4대강식 삽질로 홍수를 막겠다고?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘전쟁불사’ 대통령이 보지 못한 한국전쟁 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101188810</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101188810</guid>
-            <pubDate>Thu, 20 Jul 2023 12:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101188810"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bDWAfa/btsopWF8N4S/yxaws4bysXtqQU8OkOcf6K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘전쟁불사’ 대통령이 보지 못한 한국전쟁 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
