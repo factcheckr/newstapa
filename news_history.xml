@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 09:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속]]></title>
+            <link>http://newstapa.org/article/gcf7y</link>
+            <guid>http://newstapa.org/article/gcf7y</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26181102-B050-DDDE-7CE1-GRDV25R1PTCME0I4MH1V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] ‘전쟁불사’ 대통령이 보지 못한 한국전쟁]]></title>
             <link>http://newstapa.org/article/fPc16</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/16122734-AED6-E7A1-6D0E-SXYOAEVZYNWDMYA9V11M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들]]></title>
-            <link>http://newstapa.org/article/eXjjO</link>
-            <guid>http://newstapa.org/article/eXjjO</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12095416-1701-26EC-309A-I9D5HO3CJD5HUDIXIQVQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

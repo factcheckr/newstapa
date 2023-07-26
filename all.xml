@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 09:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/gcf7y</link>
+            <guid>http://newstapa.org/article/gcf7y</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26181102-B050-DDDE-7CE1-GRDV25R1PTCME0I4MH1V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/TxZDe</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업추비 검증① 검찰이 지운 ‘윤석열 식당’ 48곳 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/19163908-9ABA-4133-3E83-M5MTOY5996AH7MTJN97J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업추비 검증② ‘검사 윤석열’의 한우집 카드 쪼개기 결제... 지침 위반 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/7jsHC</link>
-            <guid>http://newstapa.org/article/7jsHC</guid>
-            <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업추비 검증② ‘검사 윤석열’의 한우집 카드 쪼개기 결제... 지침 위반 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/19163702-3834-98D3-2816-UCTY0MKS4UDW6SRNMC8A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30160453-2EC7-1308-6581-JSGV50KFN02N1EAWIYPE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/gcf7y</link>
+            <guid>http://newstapa.org/article/gcf7y</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26181102-B050-DDDE-7CE1-GRDV25R1PTCME0I4MH1V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] ‘전쟁불사’ 대통령이 보지 못한 한국전쟁 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/fPc16</link>
             <guid>http://newstapa.org/article/fPc16</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 12 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 1945년 광복 직후 미군 첫 상륙 영상 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/16122734-AED6-E7A1-6D0E-SXYOAEVZYNWDMYA9V11M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/eXjjO</link>
-            <guid>http://newstapa.org/article/eXjjO</guid>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 거리를 뒤덮은 혐오, 수요시위를 방해하는 사람들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/12095416-1701-26EC-309A-I9D5HO3CJD5HUDIXIQVQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -3067,6 +3067,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[정전협정 70년 특집 다큐] 판문점, 지켜지지 못한 약속 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101271280</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101271280</guid>
+            <pubDate>Wed, 26 Jul 2023 10:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101271280"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EVWKC/btso8c9figA/ikOlsYBSge08VSnKi4tzl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[정전협정 70년 특집 다큐] 판문점, 지켜지지 못한 약속</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101268098</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101268098</guid>
@@ -3100,13 +3107,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101251092</guid>
             <pubDate>Tue, 25 Jul 2023 06:13:28 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101251092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUaAwv/btsoRjJy0zF/dPHO20Wgvk545qNAI9r3nK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101237798</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101237798</guid>
-            <pubDate>Mon, 24 Jul 2023 09:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101237798"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qlTl8/btsoNW093dO/gxPThgMXJ1HfBzDHpKKDZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 윤석열과 관상가, 그리고 홍석현</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

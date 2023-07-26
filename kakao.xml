@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-26T09:11:33.155Z</updated>
+    <updated>2023-07-26T10:15:21.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정전협정 70년 특집 다큐] 판문점, 지켜지지 못한 약속]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101271280</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101271280"/>
+        <updated>2023-07-26T10:15:20.511Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101271280"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EVWKC/btso8c9figA/ikOlsYBSge08VSnKi4tzl1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[정전협정 70년 특집 다큐] 판문점, 지켜지지 못한 약속</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101268098</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101251092"/>
         <updated>2023-07-25T06:13:28.969Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101251092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUaAwv/btsoRjJy0zF/dPHO20Wgvk545qNAI9r3nK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101237798</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101237798"/>
-        <updated>2023-07-24T09:11:40.961Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101237798"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qlTl8/btsoNW093dO/gxPThgMXJ1HfBzDHpKKDZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 윤석열과 관상가, 그리고 홍석현</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
