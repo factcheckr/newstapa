@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-26T00:47:29.638Z</updated>
+    <updated>2023-07-26T02:13:13.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101261625</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101261625"/>
+        <updated>2023-07-26T02:13:12.114Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101261625"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSMwdd/btsoTnSOlIX/5Cxkb2YkKu3K25P7TqCilK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101255229</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101228228"/>
         <updated>2023-07-24T02:06:21.822Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101228228"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cCXh80/btsoGibvNGo/NIsucglaUyXATRTfUaAvsK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰 핵심부의 네 가지 범죄 혐의와 ‘특활비 특검’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부, 4대강식 삽질로 홍수를 막겠다고?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101205649</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101205649"/>
-        <updated>2023-07-21T08:23:09.451Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101205649"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cblyuR/btsoxpO5qrf/SLCx68rwoPGH42lsQ6X281/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 정부, 4대강식 삽질로 홍수를 막겠다고?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
