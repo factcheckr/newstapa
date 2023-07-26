@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 06:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 07:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의]]></title>
+            <link>http://newstapa.org/article/TxZDe</link>
+            <guid>http://newstapa.org/article/TxZDe</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26154704-B6BA-546A-3C8D-4LOOJOVL7QGXL80J63B1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원]]></title>
             <link>http://newstapa.org/article/5R2pQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[실체 드러나는 ‘윤석열 특활비’... 검찰의 거짓말과 동문서답]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/12145238-0FB4-C3DF-FA50-GD18LGW2DHVB467FFCWB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['국보법 위반자' 김영호는 어떻게 '미국 유학길'에 올랐을까]]></title>
-            <link>http://newstapa.org/article/KpjPS</link>
-            <guid>http://newstapa.org/article/KpjPS</guid>
-            <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['국보법 위반자' 김영호는 어떻게 '미국 유학길'에 올랐을까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/12133003-77E3-DE4F-0C49-JCFSIYD0OL36SXG0PMLU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

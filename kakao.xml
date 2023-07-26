@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-26T06:12:58.975Z</updated>
+    <updated>2023-07-26T07:20:45.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101268098</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101268098"/>
+        <updated>2023-07-26T07:20:44.415Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101268098"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/0tvcc/btso10IVAW6/BatUw8jHdLB4dAafsKFkqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'검찰 특활비' 뜯어고치는 법률개정안 첫 발의</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101261625</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101237798"/>
         <updated>2023-07-24T09:11:40.961Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101237798"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/qlTl8/btsoNW093dO/gxPThgMXJ1HfBzDHpKKDZ1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 윤석열과 관상가, 그리고 홍석현</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰 핵심부의 네 가지 범죄 혐의와 ‘특활비 특검’]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101228228</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101228228"/>
-        <updated>2023-07-24T02:06:21.822Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101228228"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cCXh80/btsoGibvNGo/NIsucglaUyXATRTfUaAvsK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰 핵심부의 네 가지 범죄 혐의와 ‘특활비 특검’</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
