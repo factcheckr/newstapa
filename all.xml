@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 05:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3067,6 +3067,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101284282</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101284282</guid>
+            <pubDate>Thu, 27 Jul 2023 05:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101284282"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kdEL5/btso9hQTDdK/aN68LdSmZSe1a0Ct9bYia1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈, 일부 범죄 인정과 일부 황당한 변명</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[정전협정 70년 특집 다큐] 판문점, 지켜지지 못한 약속 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101271280</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101271280</guid>
@@ -3100,13 +3107,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101254641</guid>
             <pubDate>Tue, 25 Jul 2023 09:11:37 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101254641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kHF2y/btsoZdgMp9M/kwyDuPcAOqoJz0ArP22AF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101251092</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101251092</guid>
-            <pubDate>Tue, 25 Jul 2023 06:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101251092"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bUaAwv/btsoRjJy0zF/dPHO20Wgvk545qNAI9r3nK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
