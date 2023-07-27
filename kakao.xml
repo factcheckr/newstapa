@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-27T09:10:45.056Z</updated>
+    <updated>2023-07-27T10:11:18.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101290097</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101290097"/>
+        <updated>2023-07-27T10:11:17.653Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290097"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Jglb6/btspeH2DgLq/y6qmqVYKtzo0u3Fw4SkVYK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살</span><em class="emph_g">pages.newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국전쟁 ‘초토화폭격’ 사진 집대성한 〈당신이 보지 못한 한국전쟁 초토화폭격〉 출간]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101286247</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101261625"/>
         <updated>2023-07-26T02:13:12.114Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101261625"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSMwdd/btsoTnSOlIX/5Cxkb2YkKu3K25P7TqCilK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101255229</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101255229"/>
-        <updated>2023-07-25T10:15:45.728Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101255229"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lbXqA/btsoZLdi0w4/5v9y2tWBChmqgPXKcrEbI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 09:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 10:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2559,6 +2559,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144226-67A0-8C86-DB52-PMB5CJ254HROJ7P81RII.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2023/07_koreanWar</link>
+            <guid>https://pages.newstapa.org/2023/07_koreanWar</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27180311-E8E2-9D04-288B-CTQ6LIQBN5PS31K8LENH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최초 공개, 검찰의 금고를 열다 (뉴스타파 ─ 데이터)]]></title>
             <link>https://pages.newstapa.org/2023/07_prosecution/</link>
             <guid>https://pages.newstapa.org/2023/07_prosecution/</guid>
@@ -3067,6 +3074,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101290097</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101290097</guid>
+            <pubDate>Thu, 27 Jul 2023 10:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290097"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Jglb6/btspeH2DgLq/y6qmqVYKtzo0u3Fw4SkVYK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살</span><em class="emph_g">pages.newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국전쟁 ‘초토화폭격’ 사진 집대성한 〈당신이 보지 못한 한국전쟁 초토화폭격〉 출간 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101286247</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101286247</guid>
@@ -3100,13 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101261625</guid>
             <pubDate>Wed, 26 Jul 2023 02:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101261625"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSMwdd/btsoTnSOlIX/5Cxkb2YkKu3K25P7TqCilK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101255229</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101255229</guid>
-            <pubDate>Tue, 25 Jul 2023 10:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101255229"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lbXqA/btsoZLdi0w4/5v9y2tWBChmqgPXKcrEbI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

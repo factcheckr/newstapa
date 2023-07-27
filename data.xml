@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 09:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 10:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,13 @@
             <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144226-67A0-8C86-DB52-PMB5CJ254HROJ7P81RII.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살]]></title>
+            <link>https://pages.newstapa.org/2023/07_koreanWar</link>
+            <guid>https://pages.newstapa.org/2023/07_koreanWar</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27180311-E8E2-9D04-288B-CTQ6LIQBN5PS31K8LENH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최초 공개, 검찰의 금고를 열다]]></title>
