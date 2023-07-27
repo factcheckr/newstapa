@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 10:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 사단의 특활비 카르텔]]></title>
+            <link>http://newstapa.org/article/DUkU0</link>
+            <guid>http://newstapa.org/article/DUkU0</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 사단의 특활비 카르텔]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27193758-671F-B58A-D1A2-ZHPWXAE065HJK7I7EXMC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘윤석열 특활비’ MB수사 포상금으로 지급 의혹]]></title>
+            <link>http://newstapa.org/article/DuaS8</link>
+            <guid>http://newstapa.org/article/DuaS8</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘윤석열 특활비’ MB수사 포상금으로 지급 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27195916-C475-BB07-8231-2ZTNQEVQIU12K1DQBH9Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 65개 검찰청 특활비 검증 착수...6개 언론 공동취재단 구성]]></title>
+            <link>http://newstapa.org/article/rM-1y</link>
+            <guid>http://newstapa.org/article/rM-1y</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전국 65개 검찰청 특활비 검증 착수...6개 언론 공동취재단 구성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27174651-14CA-6581-2A4D-LOL1CZ2CPR0XCI306YUU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명]]></title>
             <link>http://newstapa.org/article/t9-XQ</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰의 거짓말… 특활비 기록 불법 폐기 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/04133824-BFEA-9134-7F4F-575HHYVV3Q0CKYJYGJVY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 검찰의 ‘안하무법’과 사라진 윤석열 영수증]]></title>
-            <link>http://newstapa.org/article/OS0HA</link>
-            <guid>http://newstapa.org/article/OS0HA</guid>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 검찰의 ‘안하무법’과 사라진 윤석열 영수증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29123316-6A0B-26B8-453F-PGONRS06BM1C5FJBRI1X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2017년 대검 특활비 74억 집행기록 없어졌다...무단 폐기 의혹]]></title>
-            <link>http://newstapa.org/article/DCIH-</link>
-            <guid>http://newstapa.org/article/DCIH-</guid>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2017년 대검 특활비 74억 집행기록 없어졌다...무단 폐기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29121133-59E5-BDF3-A509-F2HAKYRDG3DXQADID57G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 서울지검장 시절 특활비 기록도 무더기 사라졌다]]></title>
-            <link>http://newstapa.org/article/T3gyo</link>
-            <guid>http://newstapa.org/article/T3gyo</guid>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 서울지검장 시절 특활비 기록도 무더기 사라졌다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29121123-6B58-3F5C-3313-UKDY8UAIE7BPXTDY4Y1Y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

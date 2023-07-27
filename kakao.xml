@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-27T10:11:18.655Z</updated>
+    <updated>2023-07-27T11:08:52.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘윤석열 특활비’ MB수사 포상금으로 지급 의혹]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101290868</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101290868"/>
+        <updated>2023-07-27T11:08:51.723Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290868"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bBDg39/btspfON2PKw/H0k4YUifo4jxd9YfFbzPEK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특활비’ MB수사 포상금으로 지급 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101290097</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101268098"/>
         <updated>2023-07-26T07:20:44.415Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101268098"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/0tvcc/btso10IVAW6/BatUw8jHdLB4dAafsKFkqK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'검찰 특활비' 뜯어고치는 법률개정안 첫 발의</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101261625</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101261625"/>
-        <updated>2023-07-26T02:13:12.114Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101261625"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSMwdd/btsoTnSOlIX/5Cxkb2YkKu3K25P7TqCilK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
