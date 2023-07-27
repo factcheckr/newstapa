@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 01:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 02:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/t9-XQ</link>
+            <guid>http://newstapa.org/article/t9-XQ</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27104246-E8F4-766C-7503-NPQ2S14KGPPONDRNOBK3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/gcf7y</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/19164116-CB34-05C6-12A9-GDQXM68GFF6W92N3QFHU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[업추비 검증① 검찰이 지운 ‘윤석열 식당’ 48곳 공개 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/NSXWN</link>
-            <guid>http://newstapa.org/article/NSXWN</guid>
-            <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업추비 검증① 검찰이 지운 ‘윤석열 식당’ 48곳 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/19163908-9ABA-4133-3E83-M5MTOY5996AH7MTJN97J.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/t9-XQ</link>
+            <guid>http://newstapa.org/article/t9-XQ</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27104246-E8F4-766C-7503-NPQ2S14KGPPONDRNOBK3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘윤석열 특활비’ 어디에 썼나…명절 앞두고 무더기 지급]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/13185413-26E3-4139-1AC7-KWX2DSLVHUE4IWIG5RZM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실체 드러나는 ‘윤석열 특활비’... 검찰의 거짓말과 동문서답 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/n2e4l</link>
-            <guid>http://newstapa.org/article/n2e4l</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[실체 드러나는 ‘윤석열 특활비’... 검찰의 거짓말과 동문서답]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/12145238-0FB4-C3DF-FA50-GD18LGW2DHVB467FFCWB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘검사 윤석열’의 세금 씀씀이...쪼개기 결제와 근무지 이탈 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02154810-E039-5D6A-18A9-AZ793QR04HZUHHF6F0W1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/t9-XQ</link>
+            <guid>http://newstapa.org/article/t9-XQ</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27104246-E8F4-766C-7503-NPQ2S14KGPPONDRNOBK3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/TxZDe</link>
             <guid>http://newstapa.org/article/TxZDe</guid>
@@ -510,14 +518,6 @@
             <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 서울지검장 시절 특활비 기록도 무더기 사라졌다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29121123-6B58-3F5C-3313-UKDY8UAIE7BPXTDY4Y1Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/IY5b1</link>
-            <guid>http://newstapa.org/article/IY5b1</guid>
-            <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특수활동비 290억 원 전액 ‘현금 사용’ 확인... 용처 추적 중]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29115210-102E-B082-381C-TTR910XLASV1MX6C8JW1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
