@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-27T06:13:54.701Z</updated>
+    <updated>2023-07-27T07:10:33.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국전쟁 ‘초토화폭격’ 사진 집대성한 〈당신이 보지 못한 한국전쟁 초토화폭격〉 출간]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101286247</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101286247"/>
+        <updated>2023-07-27T07:10:32.396Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101286247"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UYv9I/btso7ipziRw/mx6csj2TBKP0p0KEzfeTx1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국전쟁 ‘초토화폭격’ 사진 집대성한 〈당신이 보지 못한 한국전쟁 초토화폭격〉 출간</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101284282</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101255229"/>
         <updated>2023-07-25T10:15:45.728Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101255229"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/lbXqA/btsoZLdi0w4/5v9y2tWBChmqgPXKcrEbI1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101254641</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101254641"/>
-        <updated>2023-07-25T09:11:37.637Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101254641"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kHF2y/btsoZdgMp9M/kwyDuPcAOqoJz0ArP22AF1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
