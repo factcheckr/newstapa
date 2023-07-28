@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 02:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 02:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></title>
+            <link>http://newstapa.org/article/FBhQa</link>
+            <guid>http://newstapa.org/article/FBhQa</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/28110602-E156-84A7-CC00-6UGKN3NQ59DEAT5YERHE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 사단의 특활비 카르텔]]></title>
             <link>http://newstapa.org/article/DUkU0</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업추비 검증① 검찰이 지운 ‘윤석열 식당’ 48곳 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/19163908-9ABA-4133-3E83-M5MTOY5996AH7MTJN97J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[업추비 검증② ‘검사 윤석열’의 한우집 카드 쪼개기 결제... 지침 위반 의혹]]></title>
-            <link>http://newstapa.org/article/7jsHC</link>
-            <guid>http://newstapa.org/article/7jsHC</guid>
-            <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[업추비 검증② ‘검사 윤석열’의 한우집 카드 쪼개기 결제... 지침 위반 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/19163702-3834-98D3-2816-UCTY0MKS4UDW6SRNMC8A.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

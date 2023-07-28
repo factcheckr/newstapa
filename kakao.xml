@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-07-28T02:03:24.637Z</updated>
+    <updated>2023-07-28T02:37:03.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101298273</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101298273"/>
+        <updated>2023-07-28T02:37:02.579Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101298273"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bGwEUv/btspcwuuVVL/zWrCgelagB04YxkYAv8kok/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이정현은 처벌받았는데 이동관은 방통위원장 지명</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 사단의 특활비 카르텔 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101290924</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101290097"/>
         <updated>2023-07-27T10:11:17.653Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290097"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Jglb6/btspeH2DgLq/y6qmqVYKtzo0u3Fw4SkVYK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살</span><em class="emph_g">pages.newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국전쟁 ‘초토화폭격’ 사진 집대성한 〈당신이 보지 못한 한국전쟁 초토화폭격〉 출간]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101286247</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101286247"/>
-        <updated>2023-07-27T07:10:32.396Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101286247"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/UYv9I/btso7ipziRw/mx6csj2TBKP0p0KEzfeTx1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한국전쟁 ‘초토화폭격’ 사진 집대성한 〈당신이 보지 못한 한국전쟁 초토화폭격〉 출간</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
