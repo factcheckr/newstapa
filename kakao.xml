@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-02T08:13:14.986Z</updated>
+    <updated>2023-08-02T10:11:47.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[책으로 보는 한국전쟁 초토화 폭격]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101378478</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101378478"/>
+        <updated>2023-08-02T10:11:46.255Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101378478"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oPxDu/btspFlNl0IW/hZJKPg1UKoANzknvaggAxk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">책으로 보는 한국전쟁 초토화 폭격</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101374024</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101290898"/>
         <updated>2023-07-27T12:20:27.924Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290898"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tb4nv/btspdJUjGGF/kIkc8GYwFl4efgUNPxq6Qk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전국 65개 검찰청 특활비 검증 착수...6개 언론 공동취재단 구성</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 특활비 사용 패턴 분석, 업추비 회식 날 돈봉투도 돌렸다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101290881</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101290881"/>
-        <updated>2023-07-27T12:20:27.926Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290881"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cRiCHh/btspeIAAbsx/FFFJlCs5J0sZ5z1KaSp0j1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 특활비 사용 패턴 분석, 업추비 회식 날 돈봉투도 돌렸다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
