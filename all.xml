@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 05:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 06:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3074,6 +3074,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101374024</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101374024</guid>
+            <pubDate>Wed, 02 Aug 2023 06:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101374024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bVqnb5/btspPbWHAmB/r4JkqJ6GNUCDFI4EcZSEe1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101360048</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101360048</guid>
@@ -3107,13 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101290881</guid>
             <pubDate>Thu, 27 Jul 2023 12:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290881"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cRiCHh/btspeIAAbsx/FFFJlCs5J0sZ5z1KaSp0j1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 특활비 사용 패턴 분석, 업추비 회식 날 돈봉투도 돌렸다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 특활비’ MB수사 포상금으로 지급 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101290868</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101290868</guid>
-            <pubDate>Thu, 27 Jul 2023 11:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290868"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bBDg39/btspfON2PKw/H0k4YUifo4jxd9YfFbzPEK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특활비’ MB수사 포상금으로 지급 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>

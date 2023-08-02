@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-02T05:10:22.793Z</updated>
+    <updated>2023-08-02T06:20:33.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101374024</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101374024"/>
+        <updated>2023-08-02T06:20:32.534Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101374024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bVqnb5/btspPbWHAmB/r4JkqJ6GNUCDFI4EcZSEe1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101360048</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101290881"/>
         <updated>2023-07-27T12:20:27.926Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290881"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cRiCHh/btspeIAAbsx/FFFJlCs5J0sZ5z1KaSp0j1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 특활비 사용 패턴 분석, 업추비 회식 날 돈봉투도 돌렸다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘윤석열 특활비’ MB수사 포상금으로 지급 의혹]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101290868</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101290868"/>
-        <updated>2023-07-27T11:08:51.723Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290868"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bBDg39/btspfON2PKw/H0k4YUifo4jxd9YfFbzPEK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">‘윤석열 특활비’ MB수사 포상금으로 지급 의혹</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
