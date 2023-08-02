@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 03:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 05:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다]]></title>
+            <link>http://newstapa.org/article/y_DIe</link>
+            <guid>http://newstapa.org/article/y_DIe</guid>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/02104329-FE2F-D509-8BB6-8O7L1WBWCHRUXCRYA34H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다]]></title>
             <link>http://newstapa.org/article/I-Vz5</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/24175815-EA60-18C7-B1C4-HPVLK41XPEATW1I9LZ8Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양평 고속도로 '노선 변경 문건' 최초 작성자는 '국토부' 아닌 '의문의 업체 직원']]></title>
-            <link>http://newstapa.org/article/WW9zl</link>
-            <guid>http://newstapa.org/article/WW9zl</guid>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[양평 고속도로 '노선 변경 문건' 최초 작성자는 '국토부' 아닌 '의문의 업체 직원']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/24124843-8ADE-C877-BB05-ABCY54YFIBMSPLXI88U9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
