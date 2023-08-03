@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 10:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 11:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></title>
+            <link>http://newstapa.org/article/F56dn</link>
+            <guid>http://newstapa.org/article/F56dn</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03174327-5595-8953-1E95-9TK5NOG26YVRNWJQHPYA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대차의 13년 집회방해와 검은 옷 청년들]]></title>
+            <link>http://newstapa.org/article/AgNAK</link>
+            <guid>http://newstapa.org/article/AgNAK</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[현대차의 13년 집회방해와 검은 옷 청년들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03134401-48CD-15FB-A385-09O7KP75YKSU2FTC1QRJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언]]></title>
+            <link>http://newstapa.org/article/jIV6f</link>
+            <guid>http://newstapa.org/article/jIV6f</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03141553-D91D-E4FC-5B72-4DYP3TGEYMCEDVZ0ZBH0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황]]></title>
             <link>http://newstapa.org/article/vVATb</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 여사 일가의 양평군 땅 감정 평가액은 125억 원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25215129-ED69-2088-B6DE-MQGAJ9VK8KZAOY9H5A22.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"]]></title>
-            <link>http://newstapa.org/article/JRmgC</link>
-            <guid>http://newstapa.org/article/JRmgC</guid>
-            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국토부 용역업체 임원 "양평군이 낸 고속도로 안은 대충 손으로 그린 엉터리"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25114352-7751-6F01-8326-CP0CLMKZ8POT8FF8QDN8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></title>
-            <link>http://newstapa.org/article/LW61T</link>
-            <guid>http://newstapa.org/article/LW61T</guid>
-            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25173540-5999-26EF-18D9-FPBVDUYOJIMY8HERZ51Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다]]></title>
-            <link>http://newstapa.org/article/ZO68S</link>
-            <guid>http://newstapa.org/article/ZO68S</guid>
-            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/24183848-1B8D-8902-DDB2-VNXZ2W6U20AVNUAE7N1K.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

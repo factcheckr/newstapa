@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 10:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 11:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></title>
+            <link>http://newstapa.org/article/F56dn</link>
+            <guid>http://newstapa.org/article/F56dn</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03174327-5595-8953-1E95-9TK5NOG26YVRNWJQHPYA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대차의 13년 집회방해와 검은 옷 청년들]]></title>
+            <link>http://newstapa.org/article/AgNAK</link>
+            <guid>http://newstapa.org/article/AgNAK</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[현대차의 13년 집회방해와 검은 옷 청년들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03134401-48CD-15FB-A385-09O7KP75YKSU2FTC1QRJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언]]></title>
+            <link>http://newstapa.org/article/jIV6f</link>
+            <guid>http://newstapa.org/article/jIV6f</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03141553-D91D-E4FC-5B72-4DYP3TGEYMCEDVZ0ZBH0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></title>
             <link>http://newstapa.org/article/DFXRl</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법원, 이재용에게 “프로포폴 상당, 죄질 가볍지 않아” 벌금 7000만원 선고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28151400-F149-6233-3028-QRXHWLJUSSZ96JMJM1R7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용·홍라희 모자 40억 기부금 추적기]]></title>
-            <link>http://newstapa.org/article/cqc9E</link>
-            <guid>http://newstapa.org/article/cqc9E</guid>
-            <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재용·홍라희 모자 40억 기부금 추적기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/14162227-42C0-A444-2C0E-XPRHW9PAQEIIS1IN3EWS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['불법 없다'던 삼성 이재용, 재판에선 '프로포폴 41회 불법 투약 인정']]></title>
-            <link>http://newstapa.org/article/MfEoX</link>
-            <guid>http://newstapa.org/article/MfEoX</guid>
-            <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['불법 없다'던 삼성 이재용, 재판에선 '프로포폴 41회 불법 투약 인정']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/12174107-14EA-10E6-4637-ETQQELJ7932Y77N87BAC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] ‘롯데마트 삼겹살 갑질’ 법원도 인정, 하지만 악몽은 끝나지 않았다]]></title>
-            <link>http://newstapa.org/article/Ijofr</link>
-            <guid>http://newstapa.org/article/Ijofr</guid>
-            <pubDate>Tue, 27 Jul 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] ‘롯데마트 삼겹살 갑질’ 법원도 인정, 하지만 악몽은 끝나지 않았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/07/27154102-87CC-54E5-E3E9-Q3HR0QS6YIN2PE9L61ZU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

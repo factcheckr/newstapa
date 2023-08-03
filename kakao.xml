@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-03T10:15:12.722Z</updated>
+    <updated>2023-08-03T11:14:23.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101397885</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101397885"/>
+        <updated>2023-08-03T11:14:22.100Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101397885"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kEL6Z/btsp2buZVVw/4IhkEbS8MPenuWfgO4G4IK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">"시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대차의 13년 집회방해와 검은 옷 청년들]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101397870</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101397870"/>
+        <updated>2023-08-03T11:14:22.103Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101397870"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/czd6rv/btspUioQxQ6/k0SLJa9SeKqsKPAU7RImo1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">현대차의 13년 집회방해와 검은 옷 청년들</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101389870</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101360048"/>
         <updated>2023-08-01T09:15:37.719Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101360048"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/HfyBH/btspFj13LUv/khzttpbBMK9A1Vu5kua3n0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰도 국회도 ‘설명책임’ 의무가 있다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101298273</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101298273"/>
-        <updated>2023-07-28T02:37:02.579Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101298273"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bGwEUv/btspcwuuVVL/zWrCgelagB04YxkYAv8kok/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">이정현은 처벌받았는데 이동관은 방통위원장 지명</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 사단의 특활비 카르텔 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101290924</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101290924"/>
-        <updated>2023-07-27T12:20:27.915Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290924"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d9aTyx/btspfOUNZlh/SIPCDbPhp4SdDj824VKxPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 사단의 특활비 카르텔 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
