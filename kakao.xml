@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-03T03:16:58.630Z</updated>
+    <updated>2023-08-03T04:12:32.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101389870</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101389870"/>
+        <updated>2023-08-03T04:12:31.119Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101389870"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jFQpP/btspUgKyPEV/C4oHJMH9n6QjwsBA0zKZRk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[책으로 보는 한국전쟁 초토화 폭격]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101378478</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101290924"/>
         <updated>2023-07-27T12:20:27.915Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290924"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d9aTyx/btspfOUNZlh/SIPCDbPhp4SdDj824VKxPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 사단의 특활비 카르텔 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 65개 검찰청 특활비 검증 착수...6개 언론 공동취재단 구성]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101290898</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101290898"/>
-        <updated>2023-07-27T12:20:27.924Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290898"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tb4nv/btspdJUjGGF/kIkc8GYwFl4efgUNPxq6Qk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전국 65개 검찰청 특활비 검증 착수...6개 언론 공동취재단 구성</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

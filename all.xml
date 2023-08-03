@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 03:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 04:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/vVATb</link>
+            <guid>http://newstapa.org/article/vVATb</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03102415-F880-558A-5AFF-5IG0UX3CN4LF5NX0GUZ1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/y_DIe</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰총장 국가재정법 위반 의혹, 특활비 현금으로 뽑아 해 넘겨 썼다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/24183848-1B8D-8902-DDB2-VNXZ2W6U20AVNUAE7N1K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/OELW_</link>
-            <guid>http://newstapa.org/article/OELW_</guid>
-            <pubDate>Mon, 24 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열과 관상가, 그리고 홍석현]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/24175815-EA60-18C7-B1C4-HPVLK41XPEATW1I9LZ8Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/20172102-A284-C05F-4D47-WONG1FYJ0CY8YRDKP17T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/vVATb</link>
+            <guid>http://newstapa.org/article/vVATb</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03102415-F880-558A-5AFF-5IG0UX3CN4LF5NX0GUZ1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘검사 윤석열’의 세금 씀씀이...쪼개기 결제와 근무지 이탈 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/XpKoO</link>
             <guid>http://newstapa.org/article/XpKoO</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/03131517-B2F9-1616-A580-Y5OM6RCLEQOLRHJF6KYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/Tcnj0</link>
-            <guid>http://newstapa.org/article/Tcnj0</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02154810-E039-5D6A-18A9-AZ793QR04HZUHHF6F0W1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3074,6 +3074,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101389870</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101389870</guid>
+            <pubDate>Thu, 03 Aug 2023 04:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101389870"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jFQpP/btspUgKyPEV/C4oHJMH9n6QjwsBA0zKZRk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[책으로 보는 한국전쟁 초토화 폭격 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101378478</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101378478</guid>
@@ -3107,13 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101290924</guid>
             <pubDate>Thu, 27 Jul 2023 12:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290924"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d9aTyx/btspfOUNZlh/SIPCDbPhp4SdDj824VKxPK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 사단의 특활비 카르텔 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전국 65개 검찰청 특활비 검증 착수...6개 언론 공동취재단 구성 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101290898</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101290898</guid>
-            <pubDate>Thu, 27 Jul 2023 12:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101290898"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/tb4nv/btspdJUjGGF/kIkc8GYwFl4efgUNPxq6Qk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">전국 65개 검찰청 특활비 검증 착수...6개 언론 공동취재단 구성</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
