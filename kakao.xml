@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-07T08:14:09.174Z</updated>
+    <updated>2023-08-07T09:12:31.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101440503</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101440503"/>
+        <updated>2023-08-07T09:12:30.109Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101440503"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSGd0f/btsqh0nGhrd/FPOV9dtwjPukKDem5jtClk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대차의 집회방해와 '민간인 사찰' 의혹 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101397919</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101378478"/>
         <updated>2023-08-02T10:11:46.255Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101378478"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oPxDu/btspFlNl0IW/hZJKPg1UKoANzknvaggAxk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">책으로 보는 한국전쟁 초토화 폭격</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101374024</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101374024"/>
-        <updated>2023-08-02T06:20:32.534Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101374024"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bVqnb5/btspPbWHAmB/r4JkqJ6GNUCDFI4EcZSEe1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
