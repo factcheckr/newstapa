@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 00:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 02:02:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/tG2Ob</link>
+            <guid>http://newstapa.org/article/tG2Ob</guid>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/04173846-AE9A-4A12-71A7-YV41KSDBMC682673M7Z2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Qdozm</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26181102-B050-DDDE-7CE1-GRDV25R1PTCME0I4MH1V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/TxZDe</link>
-            <guid>http://newstapa.org/article/TxZDe</guid>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26154704-B6BA-546A-3C8D-4LOOJOVL7QGXL80J63B1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/20172102-A284-C05F-4D47-WONG1FYJ0CY8YRDKP17T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/tG2Ob</link>
+            <guid>http://newstapa.org/article/tG2Ob</guid>
+            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/04173846-AE9A-4A12-71A7-YV41KSDBMC682673M7Z2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/vVATb</link>
             <guid>http://newstapa.org/article/vVATb</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["군을 믿어서는 안 됐다"... 고 이예람 중사 부모 인터뷰]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/03180024-E26E-7DD6-9417-WH5A3HPBBGFA7Q4U5KNR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/TM7S3</link>
-            <guid>http://newstapa.org/article/TM7S3</guid>
-            <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스타파 X MBC PD수첩] 대장동 2탄 '로비의 로비의 로비']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/03131517-B2F9-1616-A580-Y5OM6RCLEQOLRHJF6KYL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3074,6 +3074,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101446445</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101446445</guid>
+            <pubDate>Tue, 08 Aug 2023 02:02:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101446445"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yFxAU/btsqrDZ1UAs/pcvmHmcE3JRvnm1ksYbpSK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가? (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101440503</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101440503</guid>
@@ -3107,13 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101389870</guid>
             <pubDate>Thu, 03 Aug 2023 04:12:31 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101389870"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/jFQpP/btspUgKyPEV/C4oHJMH9n6QjwsBA0zKZRk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'정영학 녹취록' 추가 입수, '박영수 딸 퇴직금' 구체적 논의 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[책으로 보는 한국전쟁 초토화 폭격 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101378478</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101378478</guid>
-            <pubDate>Wed, 02 Aug 2023 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101378478"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/oPxDu/btspFlNl0IW/hZJKPg1UKoANzknvaggAxk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">책으로 보는 한국전쟁 초토화 폭격</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
