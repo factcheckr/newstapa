@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 02:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 02:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2527,6 +2527,21 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/0ccb53b3868b610ea74f4898980f0cd198e611ae493c2341e1a50c831de9d7509263d37525c00e95221870cefc4f3f3d73cdd3704b05d5f7eeb64014f502e913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최초 공개, 검찰의 금고를 열다 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2023/07_prosecution/</link>
+            <guid>https://pages.newstapa.org/2023/07_prosecution/</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06134052-A739-5753-CFDA-LUXSGZA88JUK06YXIFFJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2023/07_koreanWar</link>
+            <guid>https://pages.newstapa.org/2023/07_koreanWar</guid>
+            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국전쟁 기간 민간인학살 사건을 전수조사해 제작한 특별 페이지입니다. 총 57,882명에 이르는 민간인을 학살한 주체가 과연 누구인지, 또 희생자들이 언제, 어디서, 어떻게, 왜 학살로 내몰렸는지 입체적으로 확인할 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27180311-E8E2-9D04-288B-CTQ6LIQBN5PS31K8LENH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파 데이터포털 (뉴스타파 ─ 데이터)]]></title>
             <link>https://data.newstapa.org/</link>
             <guid>https://data.newstapa.org/</guid>
@@ -2541,36 +2556,6 @@
             <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17143946-F722-B6C0-6D7C-U8PUUE3I1RSK0ECY6RMI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언론개혁 대시보드 (뉴스타파 ─ 데이터)]]></title>
-            <link>https://pages.newstapa.org/n1907/#/</link>
-            <guid>https://pages.newstapa.org/n1907/#/</guid>
-            <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 언론개혁을 위해 추적하고 수집한 정보를 대시보드 형태로 게재합니다. 독자를 속이는 '기사형 광고', 언론사의 신종 돈벌이 수단인 포럼과 컨퍼런스 정보 등을 한 눈에 볼 수 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144131-AE20-214A-DBC2-I5KPBGIW55O5ER5SMZLU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머니트레일 (뉴스타파 ─ 데이터)]]></title>
-            <link>https://moneytrail.newstapa.org/</link>
-            <guid>https://moneytrail.newstapa.org/</guid>
-            <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행정소송을 통해 확보한 20대 국회의원들의 정책 연구와 정책 자료집 결과 보고서의 일부를 공개합니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144226-67A0-8C86-DB52-PMB5CJ254HROJ7P81RII.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살 (뉴스타파 ─ 데이터)]]></title>
-            <link>https://pages.newstapa.org/2023/07_koreanWar</link>
-            <guid>https://pages.newstapa.org/2023/07_koreanWar</guid>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27180311-E8E2-9D04-288B-CTQ6LIQBN5PS31K8LENH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최초 공개, 검찰의 금고를 열다 (뉴스타파 ─ 데이터)]]></title>
-            <link>https://pages.newstapa.org/2023/07_prosecution/</link>
-            <guid>https://pages.newstapa.org/2023/07_prosecution/</guid>
-            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06134052-A739-5753-CFDA-LUXSGZA88JUK06YXIFFJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 산 : 2022년 울진 산불 (뉴스타파 ─ 데이터)]]></title>
@@ -2669,6 +2654,20 @@
             <guid>https://pages.newstapa.org/n2102/</guid>
             <pubDate>Thu, 25 Feb 2021 00:00:00 GMT</pubDate>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/02/25185431-005B-C4E9-8D57-EP64D88UCIFWVME6VHA7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언론개혁 대시보드 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/n1907/#/</link>
+            <guid>https://pages.newstapa.org/n1907/#/</guid>
+            <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144131-AE20-214A-DBC2-I5KPBGIW55O5ER5SMZLU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머니트레일 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://moneytrail.newstapa.org/</link>
+            <guid>https://moneytrail.newstapa.org/</guid>
+            <pubDate>Sat, 04 Jul 2020 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17144226-67A0-8C86-DB52-PMB5CJ254HROJ7P81RII.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[20대 국회의원 정치후원금 (뉴스타파 ─ 데이터)]]></title>
