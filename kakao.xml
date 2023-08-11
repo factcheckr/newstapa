@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-11T00:34:36.087Z</updated>
+    <updated>2023-08-11T01:41:52.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 〈공범자들〉 기간한정 무료 공개]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101493069</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101493069"/>
+        <updated>2023-08-11T01:41:51.359Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101493069"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hLTku/btsqQ9deST2/Oeo6zDYfteOnzqwWwRBX5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">영화 〈공범자들〉 기간한정 무료 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특활비 제도 개선했다? 검찰의 거짓말 증거 입수 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101481431</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101446445"/>
         <updated>2023-08-08T02:02:56.353Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101446445"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yFxAU/btsqrDZ1UAs/pcvmHmcE3JRvnm1ksYbpSK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101440503</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101440503"/>
-        <updated>2023-08-07T09:12:30.109Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101440503"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSGd0f/btsqh0nGhrd/FPOV9dtwjPukKDem5jtClk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가?</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
