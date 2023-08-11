@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-11T08:13:00.332Z</updated>
+    <updated>2023-08-11T09:10:45.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장에서] 고 이예람 중사와 특검, 그리고 418호 법정]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101503449</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101503449"/>
+        <updated>2023-08-11T09:10:44.388Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101503449"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpOcco/btsqZ1ZGNay/oImctRpnaRbtYzXcN1KCUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 고 이예람 중사와 특검, 그리고 418호 법정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 〈공범자들〉 기간한정 무료 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101493069</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101465771"/>
         <updated>2023-08-09T06:13:04.293Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101465771"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/iU1tl/btsqHSWdMsz/z0lgkRpEE3TErHQAC8dKtK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[뉴스타파 X MBC PD수첩] 위원장님의 위험한 공천 장사</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101446445</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101446445"/>
-        <updated>2023-08-08T02:02:56.353Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101446445"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/yFxAU/btsqrDZ1UAs/pcvmHmcE3JRvnm1ksYbpSK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
