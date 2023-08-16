@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 04:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 06:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<현장 포착> 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩]]></title>
+            <link>http://newstapa.org/article/zCREa</link>
+            <guid>http://newstapa.org/article/zCREa</guid>
+            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;현장 포착&gt; 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/16131225-4891-2469-2207-TF87S09QH8BLTCXLR62W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 해임,해임,해임...김효재 방통위 직무대행의 무리수]]></title>
             <link>http://newstapa.org/article/1_zPE</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/28110602-E156-84A7-CC00-6UGKN3NQ59DEAT5YERHE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 사단의 특활비 카르텔]]></title>
-            <link>http://newstapa.org/article/DUkU0</link>
-            <guid>http://newstapa.org/article/DUkU0</guid>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 사단의 특활비 카르텔]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27193758-671F-B58A-D1A2-ZHPWXAE065HJK7I7EXMC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
