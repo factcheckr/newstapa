@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-17T11:08:26.650Z</updated>
+    <updated>2023-08-17T12:17:42.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쿠팡 잠입취재] 로켓배송 '연료'가 된 사람들 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101576821</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101576821"/>
+        <updated>2023-08-17T12:17:41.720Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101576821"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bwMO8t/btsro70PgWV/spdHTjR4Sd3ZF4iWtklE01/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[쿠팡 잠입취재] 로켓배송 '연료'가 된 사람들 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠팡은 바뀌지 않는다② 당신이 잠든 사이...노동자는 병든다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101576818</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101576818"/>
+        <updated>2023-08-17T12:17:41.722Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101576818"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ce1M5w/btsrqw0ldSn/3Sf01J9BZfzIcWNxltu0jK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡은 바뀌지 않는다② 당신이 잠든 사이...노동자는 병든다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡은 바뀌지 않는다 ① '40도'의 찜통…사람이 쓰러진다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101576789</id>
@@ -32,19 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101503449"/>
         <updated>2023-08-11T09:10:44.388Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101503449"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cpOcco/btsqZ1ZGNay/oImctRpnaRbtYzXcN1KCUk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[현장에서] 고 이예람 중사와 특검, 그리고 418호 법정</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 〈공범자들〉 기간한정 무료 공개]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101493069</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101493069"/>
-        <updated>2023-08-11T01:41:51.359Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101493069"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/hLTku/btsqQ9deST2/Oeo6zDYfteOnzqwWwRBX5K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">영화 〈공범자들〉 기간한정 무료 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특활비 제도 개선했다? 검찰의 거짓말 증거 입수 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101481431</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101481431"/>
-        <updated>2023-08-10T05:10:36.666Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101481431"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/OXxQW/btsqKiBz1uO/lGO0wtb096pkdcl4mElWw1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">특활비 제도 개선했다? 검찰의 거짓말 증거 입수 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
