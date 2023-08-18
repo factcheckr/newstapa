@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-18T09:15:06.766Z</updated>
+    <updated>2023-08-18T10:11:19.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정연주 등 민주당측 방심위원만 해촉...형평성 논란]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101592297</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101592297"/>
+        <updated>2023-08-18T10:11:18.910Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101592297"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/pB6xX/btsrCyoXn7P/HQczEGyvCngcv63SWNsOZK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정연주 등 민주당측 방심위원만 해촉...형평성 논란</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['환경 논란' 용산어린이정원 확장...이번엔 '분수' 설치]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101588211</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101555200"/>
         <updated>2023-08-16T06:20:50.070Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101555200"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Op63N/btsrqzBlu7B/5hBTod0xi01cOJm6uu52H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈당신이 보지 못한 한국전쟁 초토화 폭격〉 ‘북토크’ 개최</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈현장 포착〉 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101553360</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101553360"/>
-        <updated>2023-08-16T06:20:50.071Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101553360"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/nEiPx/btsrqy91NP4/o9BQwVE8C5wBMY5aDExhBK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈현장 포착〉 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
