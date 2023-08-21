@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-21T08:19:17.656Z</updated>
+    <updated>2023-08-21T09:15:32.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101618851</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101618851"/>
+        <updated>2023-08-21T09:15:31.800Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101618851"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/86m2N/btsrIa23kw7/eg7sE4mIDRMm7ka6WmqzO1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정연주 등 민주당측 방심위원만 해촉...형평성 논란]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101592297</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101576789"/>
         <updated>2023-08-17T11:08:25.857Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101576789"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b6R4GU/btsrrSaI0b8/iFNozTDkxivxbQCjwqVgu0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡은 바뀌지 않는다 ① '40도'의 찜통…사람이 쓰러진다</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈당신이 보지 못한 한국전쟁 초토화 폭격〉 ‘북토크’ 개최]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101555200</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101555200"/>
-        <updated>2023-08-16T06:20:50.070Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101555200"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/Op63N/btsrqzBlu7B/5hBTod0xi01cOJm6uu52H1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">〈당신이 보지 못한 한국전쟁 초토화 폭격〉 ‘북토크’ 개최</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
