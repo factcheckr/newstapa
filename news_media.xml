@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 10:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 11:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2]]></title>
+            <link>http://newstapa.org/article/fGbxh</link>
+            <guid>http://newstapa.org/article/fGbxh</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24183226-EB52-D95F-AABB-E70QZ5R0ZQBNHET2GLM5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[속전속결 릴레이 해임...'이동관 방통위'에 꽃길]]></title>
+            <link>http://newstapa.org/article/3JmUM</link>
+            <guid>http://newstapa.org/article/3JmUM</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[속전속결 릴레이 해임...'이동관 방통위'에 꽃길]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24153811-5F77-7CCA-BB84-DZR5HQPNMK9VL8IS765E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2008년과 2023년, 'MB맨' 이동관과 공영방송]]></title>
+            <link>http://newstapa.org/article/ZTxbJ</link>
+            <guid>http://newstapa.org/article/ZTxbJ</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2008년과 2023년, 'MB맨' 이동관과 공영방송]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24140416-3BE8-5336-E04A-7I6VPUHQ99VBIFRMW81J.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정권 바뀔 때마다 '공영방송 뺏기'...법원이 제동 걸까]]></title>
+            <link>http://newstapa.org/article/_cPAX</link>
+            <guid>http://newstapa.org/article/_cPAX</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정권 바뀔 때마다 '공영방송 뺏기'...법원이 제동 걸까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24183311-A581-28D5-5905-31TK7BXTHSE9JHP3Y6O5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[긴급 대담] 공영방송 이사장들은 왜 해임됐나]]></title>
             <link>http://newstapa.org/article/kRbU2</link>
@@ -102,38 +134,6 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07131440-E05B-6E78-E87A-KDS5FPGMKASY7TY170MV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고]]></title>
-            <link>http://newstapa.org/article/SJP-K</link>
-            <guid>http://newstapa.org/article/SJP-K</guid>
-            <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]조선·동아일보가 실어준 '사이비 종교'의 뉴스타파 비방 광고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10170501-D6EF-8887-782E-JYES3POPGTTKR6B9H34C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개]]></title>
-            <link>http://newstapa.org/article/jJYDe</link>
-            <guid>http://newstapa.org/article/jJYDe</guid>
-            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 다큐] 정치 깡패가 된 '아스팔트 유튜버']]></title>
-            <link>http://newstapa.org/article/lJq_h</link>
-            <guid>http://newstapa.org/article/lJq_h</guid>
-            <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 다큐] 정치 깡패가 된 '아스팔트 유튜버']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/03223103-66B9-F4F8-29F6-G1VGDXIJNBLPI3ABAIIE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> '한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월]]></title>
-            <link>http://newstapa.org/article/sTtVa</link>
-            <guid>http://newstapa.org/article/sTtVa</guid>
-            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; '한 달이 일 년 같다' 윤석열의 국정 퇴행 8개월]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/12/29181200-575F-57BF-7499-D9Q2YUU3A9RTDPPDES22.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
