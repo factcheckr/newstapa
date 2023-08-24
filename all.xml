@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 01:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 02:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/txvEB</link>
+            <guid>http://newstapa.org/article/txvEB</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24103313-47F0-0774-6619-R7HX936CA819OWFNCL80.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/K7Sht</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/09132523-1A8F-0F29-76D1-MQS0GI0FT89QF58JFLYW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tG2Ob</link>
-            <guid>http://newstapa.org/article/tG2Ob</guid>
-            <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 빠뜨린 박영수 혐의...변협 회장 선거자금 '2억 원' 더 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/04173846-AE9A-4A12-71A7-YV41KSDBMC682673M7Z2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/txvEB</link>
+            <guid>http://newstapa.org/article/txvEB</guid>
+            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24103313-47F0-0774-6619-R7HX936CA819OWFNCL80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한동훈, 일부 범죄 인정과 일부 황당한 변명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27104246-E8F4-766C-7503-NPQ2S14KGPPONDRNOBK3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/TxZDe</link>
-            <guid>http://newstapa.org/article/TxZDe</guid>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['검찰 특활비' 뜯어고치는 법률개정안 첫 발의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26154704-B6BA-546A-3C8D-4LOOJOVL7QGXL80J63B1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
