@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 05:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 06:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3074,6 +3074,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101662932</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101662932</guid>
+            <pubDate>Thu, 24 Aug 2023 06:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101662932"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kHJYU/btssatAeGYW/2VAGNqqjjYC6MijxkjtGK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101650440</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101650440</guid>
@@ -3107,13 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101588211</guid>
             <pubDate>Fri, 18 Aug 2023 07:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101588211"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bbCLiw/btsrrU1Ebw2/3Nw1ro5x7Dhf6b7ctJJmXk/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">'환경 논란' 용산어린이정원 확장...이번엔 '분수' 설치</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡 잠입취재] 로켓배송 '연료'가 된 사람들 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101576821</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101576821</guid>
-            <pubDate>Thu, 17 Aug 2023 12:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101576821"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bwMO8t/btsro70PgWV/spdHTjR4Sd3ZF4iWtklE01/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[쿠팡 잠입취재] 로켓배송 '연료'가 된 사람들 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
