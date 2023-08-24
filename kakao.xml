@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-24T11:10:36.021Z</updated>
+    <updated>2023-08-24T12:16:07.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열식 방송장악, 이동관 찍고 MB시즌2 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101669093</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101669093"/>
+        <updated>2023-08-24T12:16:06.850Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669093"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSjTOF/btssbCjz5uj/rjlsfK44ZdOuCaBXcqLso0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열식 방송장악, 이동관 찍고 MB시즌2 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정권 바뀔 때마다 '공영방송 뺏기'...법원이 제동 걸까]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101669070</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101650440"/>
         <updated>2023-08-23T09:10:27.465Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101650440"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YLghg/btsr0tuqSG9/JqQaSOyQnsh6GGb6M4Po91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[긴급 대담] 공영방송 이사장들은 왜 해임됐나]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101649426</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101649426"/>
-        <updated>2023-08-23T09:10:27.466Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101649426"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cPMJVh/btsrVtPrh66/Xq73eyV8MdP2AA90kV52R0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[긴급 대담] 공영방송 이사장들은 왜 해임됐나</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
