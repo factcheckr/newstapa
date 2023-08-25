@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-25T04:12:21.538Z</updated>
+    <updated>2023-08-25T05:14:51.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101678001</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101678001"/>
+        <updated>2023-08-25T05:14:50.519Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101678001"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/gVqmM/btssf2CuuDu/yMLPufQhDTPAfTuLUx12g0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열식 방송장악, 이동관 찍고 MB시즌2 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101669093</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101662932"/>
         <updated>2023-08-24T06:12:50.895Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101662932"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kHJYU/btssatAeGYW/2VAGNqqjjYC6MijxkjtGK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101650440</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101650440"/>
-        <updated>2023-08-23T09:10:27.465Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101650440"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/YLghg/btsr0tuqSG9/JqQaSOyQnsh6GGb6M4Po91/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
