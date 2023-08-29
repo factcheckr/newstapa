@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-29T06:13:26.145Z</updated>
+    <updated>2023-08-29T07:14:40.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101725966</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101725966"/>
+        <updated>2023-08-29T07:14:39.301Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101725966"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GG5az/btssAKofI4t/NKdhEAYPaOTvk8lgmrTcnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라”]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101678001</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101669043"/>
         <updated>2023-08-24T11:10:34.820Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669043"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d8DzZ9/btsr5fwHAbd/ucNgaWZXowOy2NOvP0Sxi0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">속전속결 릴레이 해임...'이동관 방통위'에 꽃길</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101662932</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101662932"/>
-        <updated>2023-08-24T06:12:50.895Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101662932"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/kHJYU/btssatAeGYW/2VAGNqqjjYC6MijxkjtGK1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열 해수부, ‘일본 오염수 방류 반대’ 어민 목소리 문서 삭제 정황</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
