@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-30T08:20:54.588Z</updated>
+    <updated>2023-08-30T10:11:46.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101748410</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101748410"/>
+        <updated>2023-08-30T10:11:45.199Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101748410"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EShtI/btssxGAOgoy/WYsXVMp2dkIQ4xUi7Bre4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[가습기 살균제 참사 12주기 특집] 아이들의 시간</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101725966</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101669056"/>
         <updated>2023-08-24T11:10:34.815Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669056"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QmbJn/btsr64g6bNj/KNDbHGpcAYPiDKUMzYU7r1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2008년과 2023년, 'MB맨' 이동관과 공영방송</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속전속결 릴레이 해임...'이동관 방통위'에 꽃길]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101669043</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101669043"/>
-        <updated>2023-08-24T11:10:34.820Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669043"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d8DzZ9/btsr5fwHAbd/ucNgaWZXowOy2NOvP0Sxi0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">속전속결 릴레이 해임...'이동관 방통위'에 꽃길</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

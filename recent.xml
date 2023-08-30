@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 10:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간]]></title>
+            <link>http://newstapa.org/article/G1iJz</link>
+            <guid>http://newstapa.org/article/G1iJz</guid>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/30185916-CE5D-B8E6-626D-ATFB47VT70349ANP3VYN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다]]></title>
             <link>http://newstapa.org/article/9QR9A</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡은 바뀌지 않는다 ② 당신이 잠든 사이...노동자는 병든다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/16170616-F200-B8F5-4A8F-Q0V938T9TUUBFBE8R3MU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<현장 포착> 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩]]></title>
-            <link>http://newstapa.org/article/zCREa</link>
-            <guid>http://newstapa.org/article/zCREa</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;현장 포착&gt; 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/16131225-4891-2469-2207-TF87S09QH8BLTCXLR62W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

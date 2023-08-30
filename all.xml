@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 10:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/G1iJz</link>
+            <guid>http://newstapa.org/article/G1iJz</guid>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/30185916-CE5D-B8E6-626D-ATFB47VT70349ANP3VYN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/9QR9A</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡은 바뀌지 않는다 ② 당신이 잠든 사이...노동자는 병든다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/16170616-F200-B8F5-4A8F-Q0V938T9TUUBFBE8R3MU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<현장 포착> 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/zCREa</link>
-            <guid>http://newstapa.org/article/zCREa</guid>
-            <pubDate>Wed, 16 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;현장 포착&gt; 황보승희 의원, 관용차·비서 동원해 자녀 입시 학원 라이딩]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/16131225-4891-2469-2207-TF87S09QH8BLTCXLR62W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180502-E0B5-BF80-1E83-H4MCII7ANV4P6QM643A9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/G1iJz</link>
+            <guid>http://newstapa.org/article/G1iJz</guid>
+            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/30185916-CE5D-B8E6-626D-ATFB47VT70349ANP3VYN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['환경 논란' 용산어린이정원 확장...이번엔 '분수' 설치 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/U8chs</link>
             <guid>http://newstapa.org/article/U8chs</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03172010-05B2-78F9-8A3A-XUAAWACOPPEM7G6S6JTO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/ge1AK</link>
-            <guid>http://newstapa.org/article/ge1AK</guid>
-            <pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[병원에 남은 마지막 이태원 참사 생존자... 정부의 무대책]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/21131529-0F27-15B2-2452-FKU17B836UAT3CQD3WM1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 김길자 경인여대 총장 부부 ‘유죄’...김황식 전 총리 딸 부정채용 의혹 인정 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3074,6 +3074,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101748410</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101748410</guid>
+            <pubDate>Wed, 30 Aug 2023 10:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101748410"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EShtI/btssxGAOgoy/WYsXVMp2dkIQ4xUi7Bre4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[가습기 살균제 참사 12주기 특집] 아이들의 시간</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101725966</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101725966</guid>
@@ -3107,13 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101669056</guid>
             <pubDate>Thu, 24 Aug 2023 11:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669056"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QmbJn/btsr64g6bNj/KNDbHGpcAYPiDKUMzYU7r1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2008년과 2023년, 'MB맨' 이동관과 공영방송</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[속전속결 릴레이 해임...'이동관 방통위'에 꽃길 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101669043</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101669043</guid>
-            <pubDate>Thu, 24 Aug 2023 11:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669043"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/d8DzZ9/btsr5fwHAbd/ucNgaWZXowOy2NOvP0Sxi0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">속전속결 릴레이 해임...'이동관 방통위'에 꽃길</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
