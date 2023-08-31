@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-08-31T11:09:41.793Z</updated>
+    <updated>2023-08-31T12:24:43.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[긴급르포] 오염수 방류 후쿠시마를 가다 〈주간 뉴스타파〉]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101770027</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101770027"/>
+        <updated>2023-08-31T12:24:42.722Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101770027"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/KTXVK/btssB1ryLYD/wfpu0mmu4I40aUioPAyhw0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[긴급르포] 오염수 방류 후쿠시마를 가다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101748410</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101669070"/>
         <updated>2023-08-24T11:10:34.812Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669070"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/eah1o8/btsr9QXbb3N/ctRVH2ftNtWsw8Y6KdPFXK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">정권 바뀔 때마다 '공영방송 뺏기'...법원이 제동 걸까</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2008년과 2023년, 'MB맨' 이동관과 공영방송]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101669056</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101669056"/>
-        <updated>2023-08-24T11:10:34.815Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669056"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/QmbJn/btsr64g6bNj/KNDbHGpcAYPiDKUMzYU7r1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">2008년과 2023년, 'MB맨' 이동관과 공영방송</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
