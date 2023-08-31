@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 10:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 11:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] <긴급르포> 오염수 방류 후쿠시마를 가다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/L6EjB</link>
+            <guid>http://newstapa.org/article/L6EjB</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] &lt;긴급르포&gt; 오염수 방류 후쿠시마를 가다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/31182814-24F5-BA28-7DC5-QHUC5C9S9CRYJFZOBWUS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/G1iJz</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡은 바뀌지 않는다 ① '40도'의 찜통... 사람이 쓰러진다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/17174314-D6B2-4F15-5300-VMBGY43VR2CCAODD5922.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡은 바뀌지 않는다 ② 당신이 잠든 사이...노동자는 병든다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/F_rGs</link>
-            <guid>http://newstapa.org/article/F_rGs</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡은 바뀌지 않는다 ② 당신이 잠든 사이...노동자는 병든다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/16170616-F200-B8F5-4A8F-Q0V938T9TUUBFBE8R3MU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180502-E0B5-BF80-1E83-H4MCII7ANV4P6QM643A9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] <긴급르포> 오염수 방류 후쿠시마를 가다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/L6EjB</link>
+            <guid>http://newstapa.org/article/L6EjB</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] &lt;긴급르포&gt; 오염수 방류 후쿠시마를 가다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/31182814-24F5-BA28-7DC5-QHUC5C9S9CRYJFZOBWUS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/G1iJz</link>
             <guid>http://newstapa.org/article/G1iJz</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;현장에서&gt; 이태원 참사 특별법이 필요한 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/06163432-88EE-FF11-C13F-E6V84N4KPGPSXL8K6D3I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/wUUiS</link>
-            <guid>http://newstapa.org/article/wUUiS</guid>
-            <pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘의회는 민원 해결 창구' 김미나 창원시의원의 슬기로운 의정 생활]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03172010-05B2-78F9-8A3A-XUAAWACOPPEM7G6S6JTO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 김길자 경인여대 총장 부부 ‘유죄’...김황식 전 총리 딸 부정채용 의혹 인정 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/16183023-9ADE-1EC8-EC89-UQZ4UQZM1PKC64D2F41H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] <긴급르포> 오염수 방류 후쿠시마를 가다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/L6EjB</link>
+            <guid>http://newstapa.org/article/L6EjB</guid>
+            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] &lt;긴급르포&gt; 오염수 방류 후쿠시마를 가다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/31182814-24F5-BA28-7DC5-QHUC5C9S9CRYJFZOBWUS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/fGbxh</link>
             <guid>http://newstapa.org/article/fGbxh</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 참을 수 없는 '삼성 본색' 언론의 가벼움, 그들이 몰랐던 진실의 무거움]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/10142043-7F86-0B9B-DAEA-SQRG7ZIAU8L71E6KBBAH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/poKQK</link>
-            <guid>http://newstapa.org/article/poKQK</guid>
-            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박찬대 더불어민주당 의원, '언론 보도 무마' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07131440-E05B-6E78-E87A-KDS5FPGMKASY7TY170MV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 예산 검증 (뉴스타파 ─ 프로젝트)]]></title>
