@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-09-06T07:15:39.780Z</updated>
+    <updated>2023-09-06T08:14:11.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰에 이어 법무부도 ‘상호’ 지우고 업추비 공개... 뉴스타파 소송 제기]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101856488</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101856488"/>
+        <updated>2023-09-06T08:14:10.867Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101856488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uVh1n/btstbd5PPFl/BfyqiZbxm5nND1NoHF0G30/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰에 이어 법무부도 ‘상호’ 지우고 업추비 공개... 뉴스타파 소송 제기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101791532</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101678001"/>
         <updated>2023-08-25T05:14:50.519Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101678001"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/gVqmM/btssf2CuuDu/yMLPufQhDTPAfTuLUx12g0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열식 방송장악, 이동관 찍고 MB시즌2 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101669093</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101669093"/>
-        <updated>2023-08-24T12:16:06.850Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101669093"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bSjTOF/btssbCjz5uj/rjlsfK44ZdOuCaBXcqLso0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">윤석열식 방송장악, 이동관 찍고 MB시즌2 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>
