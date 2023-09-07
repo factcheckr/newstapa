@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-09-07T05:10:25.763Z</updated>
+    <updated>2023-09-07T06:18:06.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101874741</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101874741"/>
+        <updated>2023-09-07T06:18:05.080Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101874741"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cgIWxy/btstg41WAqL/PM8T8ROAF0NblM7PkroS1k/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰에 이어 법무부도 ‘상호’ 지우고 업추비 공개... 뉴스타파 소송 제기]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101856488</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101725966"/>
         <updated>2023-08-29T07:14:39.301Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101725966"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GG5az/btssAKofI4t/NKdhEAYPaOTvk8lgmrTcnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라”]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101678001</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101678001"/>
-        <updated>2023-08-25T05:14:50.519Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101678001"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/gVqmM/btssf2CuuDu/yMLPufQhDTPAfTuLUx12g0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">한동훈 장관의 ‘패소할 결심’... 지극히 당연한 판결 “미국 출장비 공개해라”</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
     </entry>
 </feed>
