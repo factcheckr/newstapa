@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 07:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 08:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위]]></title>
+            <link>http://newstapa.org/article/6VYNx</link>
+            <guid>http://newstapa.org/article/6VYNx</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165052-56BD-25F0-3FD6-U73WQWJECQW0VGNI4XH5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일]]></title>
+            <link>http://newstapa.org/article/xan9t</link>
+            <guid>http://newstapa.org/article/xan9t</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165029-3E83-41E3-3157-LT0EA3P40NS718F5Q0FG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다]]></title>
             <link>http://newstapa.org/article/HW03Q</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[긴급 대담] 공영방송 이사장들은 왜 해임됐나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/23161549-DEAA-2F74-E8ED-X3675TXPEVY4W0CW1MRM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소]]></title>
-            <link>http://newstapa.org/article/vZzc3</link>
-            <guid>http://newstapa.org/article/vZzc3</guid>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/21153915-DE5B-4302-8ADE-76KHJAUHF9L72751ZCM6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정연주 등 민주당측 방심위원만 해촉...형평성 논란]]></title>
-            <link>http://newstapa.org/article/kCZLT</link>
-            <guid>http://newstapa.org/article/kCZLT</guid>
-            <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정연주 등 민주당측 방심위원만 해촉...형평성 논란]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/18173729-A0C6-D889-FF97-5E658BIZHDL6FCA0L8N3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

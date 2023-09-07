@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 07:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 08:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/6VYNx</link>
+            <guid>http://newstapa.org/article/6VYNx</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165052-56BD-25F0-3FD6-U73WQWJECQW0VGNI4XH5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/xan9t</link>
+            <guid>http://newstapa.org/article/xan9t</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165029-3E83-41E3-3157-LT0EA3P40NS718F5Q0FG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/HW03Q</link>
@@ -120,20 +136,28 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/23161549-DEAA-2F74-E8ED-X3675TXPEVY4W0CW1MRM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/vZzc3</link>
-            <guid>http://newstapa.org/article/vZzc3</guid>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/21153915-DE5B-4302-8ADE-76KHJAUHF9L72751ZCM6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/n0A3I</link>
+            <guid>http://newstapa.org/article/n0A3I</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165442-8038-4766-9B70-W280KQPGKBHUW0KCJGKL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정연주 등 민주당측 방심위원만 해촉...형평성 논란 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kCZLT</link>
-            <guid>http://newstapa.org/article/kCZLT</guid>
-            <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정연주 등 민주당측 방심위원만 해촉...형평성 논란]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/18173729-A0C6-D889-FF97-5E658BIZHDL6FCA0L8N3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/xan9t</link>
+            <guid>http://newstapa.org/article/xan9t</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165029-3E83-41E3-3157-LT0EA3P40NS718F5Q0FG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/6VYNx</link>
+            <guid>http://newstapa.org/article/6VYNx</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165052-56BD-25F0-3FD6-U73WQWJECQW0VGNI4XH5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -238,30 +262,6 @@
             <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파 X MBC 'PD수첩'] 의원님의 위험한 공천 장사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/09132523-1A8F-0F29-76D1-MQS0GI0FT89QF58JFLYW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/y_DIe</link>
-            <guid>http://newstapa.org/article/y_DIe</guid>
-            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/02104329-FE2F-D509-8BB6-8O7L1WBWCHRUXCRYA34H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/I-Vz5</link>
-            <guid>http://newstapa.org/article/I-Vz5</guid>
-            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25153720-BB31-7E28-0226-DIY24GSFRA2Y14RT00G7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/FBhQa</link>
-            <guid>http://newstapa.org/article/FBhQa</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/28110602-E156-84A7-CC00-6UGKN3NQ59DEAT5YERHE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
