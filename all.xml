@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 09:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/n0A3I</link>
+            <guid>http://newstapa.org/article/n0A3I</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165442-8038-4766-9B70-W280KQPGKBHUW0KCJGKL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/6VYNx</link>
@@ -128,22 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/23162117-B893-E210-1DD1-1PJYHBJF1NORUILQT095.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[긴급 대담] 공영방송 이사장들은 왜 해임됐나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kRbU2</link>
-            <guid>http://newstapa.org/article/kRbU2</guid>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[긴급 대담] 공영방송 이사장들은 왜 해임됐나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/23161549-DEAA-2F74-E8ED-X3675TXPEVY4W0CW1MRM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/n0A3I</link>
-            <guid>http://newstapa.org/article/n0A3I</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165442-8038-4766-9B70-W280KQPGKBHUW0KCJGKL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/xan9t</link>
             <guid>http://newstapa.org/article/xan9t</guid>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165052-56BD-25F0-3FD6-U73WQWJECQW0VGNI4XH5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/n0A3I</link>
+            <guid>http://newstapa.org/article/n0A3I</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165442-8038-4766-9B70-W280KQPGKBHUW0KCJGKL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -3074,6 +3074,27 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101879957</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101879957</guid>
+            <pubDate>Thu, 07 Sep 2023 09:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101879957"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/bzQYOh/btstk4HrTZk/mMRz0sbxFtUNpk9KRLKWq1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[<무편집 공개> 김만배-신학림 72분 녹음파일 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101878957</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101878957</guid>
+            <pubDate>Thu, 07 Sep 2023 09:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101878957"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/ekewjd/btstk3PcKJ3/kCBACTUvhbgkVX57DMaRM1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">&lt;무편집 공개&gt; 김만배-신학림 72분 녹음파일</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위 - 뉴스타파 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101878923</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101878923</guid>
+            <pubDate>Thu, 07 Sep 2023 09:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101878923"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/orHyb/btstmGeVznZ/M9IArgQI8qHUWOWHjCJE31/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">뉴스타파 '김만배 음성파일' 보도 경위 - 뉴스타파</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101874741</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101874741</guid>
@@ -3093,27 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101791532</guid>
             <pubDate>Fri, 01 Sep 2023 10:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101791532"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GZocJ/btssUaUrI4C/zdfHQenxk00lK1G8dq2cR1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[긴급르포] 오염수 방류 후쿠시마를 가다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101770027</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101770027</guid>
-            <pubDate>Thu, 31 Aug 2023 12:24:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101770027"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/KTXVK/btssB1ryLYD/wfpu0mmu4I40aUioPAyhw0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[긴급르포] 오염수 방류 후쿠시마를 가다 〈주간 뉴스타파〉</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101748410</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101748410</guid>
-            <pubDate>Wed, 30 Aug 2023 10:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101748410"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/EShtI/btssxGAOgoy/WYsXVMp2dkIQ4xUi7Bre4K/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[가습기 살균제 참사 12주기 특집] 아이들의 시간</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101725966</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101725966</guid>
-            <pubDate>Tue, 29 Aug 2023 07:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101725966"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GG5az/btssAKofI4t/NKdhEAYPaOTvk8lgmrTcnK/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
