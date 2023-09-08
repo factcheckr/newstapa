@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 00:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 01:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/C9UW0</link>
+            <guid>http://newstapa.org/article/C9UW0</guid>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08103702-8CA7-0F37-B823-ULJR7USYIRROPXV7UYGV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/n0A3I</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24103313-47F0-0774-6619-R7HX936CA819OWFNCL80.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/K7Sht</link>
-            <guid>http://newstapa.org/article/K7Sht</guid>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/23162117-B893-E210-1DD1-1PJYHBJF1NORUILQT095.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/C9UW0</link>
+            <guid>http://newstapa.org/article/C9UW0</guid>
+            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08103702-8CA7-0F37-B823-ULJR7USYIRROPXV7UYGV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 특활비 내부 공문 입수② 오남용 방조한 검찰, 자정 능력 의문]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/09201105-5402-691E-9C28-WS5FYB3ADFVOYP0982WZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파 X MBC 'PD수첩'] 의원님의 위험한 공천 장사 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/KQZ6l</link>
-            <guid>http://newstapa.org/article/KQZ6l</guid>
-            <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스타파 X MBC 'PD수첩'] 의원님의 위험한 공천 장사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/09132523-1A8F-0F29-76D1-MQS0GI0FT89QF58JFLYW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ② 권력이 아닌 국민이 기본권을 침해한다는 주장 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
