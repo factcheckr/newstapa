@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2023-09-08T01:44:36.680Z</updated>
+    <updated>2023-09-08T02:17:52.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/101888081</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/101888081"/>
+        <updated>2023-09-08T02:17:52.001Z</updated>
+        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101888081"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cVVoiy/btstkpST6Tg/5oYubpTKRlGyvXCMgtkHik/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/101879957</id>
@@ -39,12 +46,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/101856488"/>
         <updated>2023-09-06T08:14:10.867Z</updated>
         <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101856488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uVh1n/btstbd5PPFl/BfyqiZbxm5nND1NoHF0G30/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰에 이어 법무부도 ‘상호’ 지우고 업추비 공개... 뉴스타파 소송 제기</span><em class="emph_g">newstapa.org</em></span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/101791532</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/101791532"/>
-        <updated>2023-09-01T10:11:18.120Z</updated>
-        <content type="html"><![CDATA[<a class="link_item" href="/_xkxkxjXl/101791532"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GZocJ/btssUaUrI4C/zdfHQenxk00lK1G8dq2cR1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥</span><em class="emph_g">www.youtube.com</em></span></a>]]></content>
     </entry>
 </feed>

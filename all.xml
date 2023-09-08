@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 01:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 02:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3074,6 +3074,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/101888081</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/101888081</guid>
+            <pubDate>Fri, 08 Sep 2023 02:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101888081"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/cVVoiy/btstkpST6Tg/5oYubpTKRlGyvXCMgtkHik/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/101879957</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/101879957</guid>
@@ -3107,13 +3114,6 @@
             <guid>https://pf.kakao.com/_xkxkxjXl/101856488</guid>
             <pubDate>Wed, 06 Sep 2023 08:14:10 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101856488"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/uVh1n/btstbd5PPFl/BfyqiZbxm5nND1NoHF0G30/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">검찰에 이어 법무부도 ‘상호’ 지우고 업추비 공개... 뉴스타파 소송 제기</span><em class="emph_g">newstapa.org</em></span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/101791532</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/101791532</guid>
-            <pubDate>Fri, 01 Sep 2023 10:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a class="link_item" href="/_xkxkxjXl/101791532"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/GZocJ/btssUaUrI4C/zdfHQenxk00lK1G8dq2cR1/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥</span><em class="emph_g">www.youtube.com</em></span></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
