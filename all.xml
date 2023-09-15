@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 08:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 09:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/UwQRP</link>
+            <guid>http://newstapa.org/article/UwQRP</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/15163936-F64B-317C-B172-4Q5LNIZRNEHU7D2AGGRV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초유의 뉴스타파 압수수색 "역사에 남을 치욕적 언론 현장" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ES0hl</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165052-56BD-25F0-3FD6-U73WQWJECQW0VGNI4XH5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/xan9t</link>
-            <guid>http://newstapa.org/article/xan9t</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165029-3E83-41E3-3157-LT0EA3P40NS718F5Q0FG.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/UwQRP</link>
+            <guid>http://newstapa.org/article/UwQRP</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/15163936-F64B-317C-B172-4Q5LNIZRNEHU7D2AGGRV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파]검찰 특활비의 비밀... 햄버거와 공기청정기 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/25105853-BB3F-2DC9-7BB0-39VKQ8PE9LK1PGKRUK86.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/fGbxh</link>
-            <guid>http://newstapa.org/article/fGbxh</guid>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24183226-EB52-D95F-AABB-E70QZ5R0ZQBNHET2GLM5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/UwQRP</link>
+            <guid>http://newstapa.org/article/UwQRP</guid>
+            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/15163936-F64B-317C-B172-4Q5LNIZRNEHU7D2AGGRV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[초유의 뉴스타파 압수수색 "역사에 남을 치욕적 언론 현장" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26164127-6DDD-4FFF-3CCD-C1JXUVKPWXAYV0NXX9U6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑪ 전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/C4dXi</link>
-            <guid>http://newstapa.org/article/C4dXi</guid>
-            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계] ⑪ 전익수 반박, “특검 수사 잘못… 사건 개입한 적 없다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/15111805-B206-CEE7-C3B2-PFYKPKKJ3QX8UWO3UWJM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 집단 판결 불이행… 지청장·검사장 지시·관여 확인 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
