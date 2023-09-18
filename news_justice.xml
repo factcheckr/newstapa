@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 23:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 00:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 수사기록에 적힌 조우형의 일관된 ‘거짓말’]]></title>
+            <link>http://newstapa.org/article/5X4X4</link>
+            <guid>http://newstapa.org/article/5X4X4</guid>
+            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 수사기록에 적힌 조우형의 일관된 ‘거짓말’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13105023-C5D8-D7A9-47FF-RQ84S2FKJTNXP094YYEX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비"]]></title>
             <link>http://newstapa.org/article/UwQRP</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, '윤석열 식당' 이름·결제 시간 가린 ‘백지 영수증’ 줬다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/29124512-E885-D72B-7D6A-K38TAG079JQEPH58O2AU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화]]></title>
-            <link>http://newstapa.org/article/VLXaX</link>
-            <guid>http://newstapa.org/article/VLXaX</guid>
-            <pubDate>Mon, 26 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 해석 개헌] ① 대법관 제청권 무력화, 재판관 선출권 무력화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26164127-6DDD-4FFF-3CCD-C1JXUVKPWXAYV0NXX9U6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
