@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 07:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 08:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조우형, 대장동 사업권 인수 추진...단순 브로커 아니었다]]></title>
+            <link>http://newstapa.org/article/LU7iR</link>
+            <guid>http://newstapa.org/article/LU7iR</guid>
+            <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조우형, 대장동 사업권 인수 추진...단순 브로커 아니었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/20160715-78B9-5B47-9FDD-GJPTL4UH8GR7T77YKPGG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“천화동인 6호 조우형, 국가에 26억 안 내려고 존재 숨겼다”]]></title>
             <link>http://newstapa.org/article/_85TO</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일] "박영수 딸에 '호화 생활비' 명목 11억 빌려줘"...김만배 검찰 진술 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/07135223-79B3-4F53-C1D2-4UPP8MCBWM5HID1MQWFM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이예람 중사 사건 재판 지상 중계]⑫ 전익수 재판부, “처벌할 수 없지만 매우 부적절한 행위”]]></title>
-            <link>http://newstapa.org/article/V3IIe</link>
-            <guid>http://newstapa.org/article/V3IIe</guid>
-            <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이예람 중사 사건 재판 지상 중계]⑫ 전익수 재판부, “처벌할 수 없지만 매우 부적절한 행위”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/03201926-FF0C-59C8-282D-U6MID8P8CGKFR3D7RZ9L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

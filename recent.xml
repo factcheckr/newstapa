@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 07:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 08:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조우형, 대장동 사업권 인수 추진...단순 브로커 아니었다]]></title>
+            <link>http://newstapa.org/article/LU7iR</link>
+            <guid>http://newstapa.org/article/LU7iR</guid>
+            <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조우형, 대장동 사업권 인수 추진...단순 브로커 아니었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/20160715-78B9-5B47-9FDD-GJPTL4UH8GR7T77YKPGG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“천화동인 6호 조우형, 국가에 26억 안 내려고 존재 숨겼다”]]></title>
             <link>http://newstapa.org/article/_85TO</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 특활비, 고위 검사들의 퇴임 전 몰아쓰기 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14125054-3F8E-4669-61EE-H5DAKEXPZC8KGA89HBNE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로커 조우형, 대검 중수부의 100% 수사 대상이었다]]></title>
-            <link>http://newstapa.org/article/wpAsW</link>
-            <guid>http://newstapa.org/article/wpAsW</guid>
-            <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[브로커 조우형, 대검 중수부의 100% 수사 대상이었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13171054-D046-B56B-53C0-YO0RU4MYK8J5D0G8SC9Y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
