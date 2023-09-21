@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 10:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 11:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은?]]></title>
+            <link>http://newstapa.org/article/dcBvo</link>
+            <guid>http://newstapa.org/article/dcBvo</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182917-5A8E-D2A2-EC66-JEVAWQGVTKW30GT3RRAK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 또 법원 판결 무시.. 특활비 기록 무더기 ‘은폐’]]></title>
+            <link>http://newstapa.org/article/l6qSD</link>
+            <guid>http://newstapa.org/article/l6qSD</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 또 법원 판결 무시.. 특활비 기록 무더기 ‘은폐’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21183212-0C9A-0C7D-C789-5OUNSEZT6YA6H05628PW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></title>
+            <link>http://newstapa.org/article/l4L6F</link>
+            <guid>http://newstapa.org/article/l4L6F</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></title>
             <link>http://newstapa.org/article/95S33</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08103702-8CA7-0F37-B823-ULJR7USYIRROPXV7UYGV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일]]></title>
-            <link>http://newstapa.org/article/xan9t</link>
-            <guid>http://newstapa.org/article/xan9t</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[무편집 공개] 김만배-신학림 72분 녹음파일]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165029-3E83-41E3-3157-LT0EA3P40NS718F5Q0FG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위]]></title>
-            <link>http://newstapa.org/article/6VYNx</link>
-            <guid>http://newstapa.org/article/6VYNx</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 '김만배 음성파일' 보도 경위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165052-56BD-25F0-3FD6-U73WQWJECQW0VGNI4XH5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></title>
-            <link>http://newstapa.org/article/n0A3I</link>
-            <guid>http://newstapa.org/article/n0A3I</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165442-8038-4766-9B70-W280KQPGKBHUW0KCJGKL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
