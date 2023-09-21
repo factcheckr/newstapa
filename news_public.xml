@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 04:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 05:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></title>
+            <link>http://newstapa.org/article/95S33</link>
+            <guid>http://newstapa.org/article/95S33</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140613-8EDB-412D-6E57-4WZ5M3IN9LZSLD1BBVEY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 예산검증 공동취재단, 전국 67개 검찰청 특수활동비 원문공개]]></title>
+            <link>http://newstapa.org/article/kdjwu</link>
+            <guid>http://newstapa.org/article/kdjwu</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 예산검증 공동취재단, 전국 67개 검찰청 특수활동비 원문공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140013-A7C7-5DE4-4EA6-CXEFUMVO4PF6KM5PQUCV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가: 1부 검찰, 독립언론을 침탈하다]]></title>
             <link>http://newstapa.org/article/7mclN</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '김만배-신학림 72분 대화' 음성파일 전체 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07165442-8038-4766-9B70-W280KQPGKBHUW0KCJGKL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다]]></title>
-            <link>http://newstapa.org/article/HW03Q</link>
-            <guid>http://newstapa.org/article/HW03Q</guid>
-            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[재산공개 30년] 공직자 평균 재산 30년간 9억 늘었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/07134729-3831-7367-CBE8-TBCITS99TTQAWNKAKJUA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰에 이어 법무부도 ‘음식점 상호’ 지우고 업추비 공개... 뉴스타파·시민단체 행정소송 제기]]></title>
-            <link>http://newstapa.org/article/1IYP_</link>
-            <guid>http://newstapa.org/article/1IYP_</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰에 이어 법무부도 ‘음식점 상호’ 지우고 업추비 공개... 뉴스타파·시민단체 행정소송 제기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/06132516-3762-14C5-73EE-721UHNQ2LCWQHG41A8RQ.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

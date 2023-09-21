@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 04:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 05:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></title>
+            <link>http://newstapa.org/article/95S33</link>
+            <guid>http://newstapa.org/article/95S33</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140613-8EDB-412D-6E57-4WZ5M3IN9LZSLD1BBVEY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 예산검증 공동취재단, 전국 67개 검찰청 특수활동비 원문공개]]></title>
+            <link>http://newstapa.org/article/kdjwu</link>
+            <guid>http://newstapa.org/article/kdjwu</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 예산검증 공동취재단, 전국 67개 검찰청 특수활동비 원문공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140013-A7C7-5DE4-4EA6-CXEFUMVO4PF6KM5PQUCV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조우형, 대장동 사업권 인수 추진...단순 브로커 아니었다]]></title>
             <link>http://newstapa.org/article/LU7iR</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[특활비 부정 의혹: 수사 안 하는 총무과 등 비수사 부서에 무더기 지급]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14124051-442D-DDBC-2EAB-7VM9DLEH8ZBBMDRM1GB6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송인택 검사장의 마지막 '특활비 파티']]></title>
-            <link>http://newstapa.org/article/q4F1D</link>
-            <guid>http://newstapa.org/article/q4F1D</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[송인택 검사장의 마지막 '특활비 파티']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14123150-CDE5-50DC-C554-TJW3SYCQE0IBD6PCWN1W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특활비, 고위 검사들의 퇴임 전 몰아쓰기 의혹]]></title>
-            <link>http://newstapa.org/article/U75ks</link>
-            <guid>http://newstapa.org/article/U75ks</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특활비, 고위 검사들의 퇴임 전 몰아쓰기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14125054-3F8E-4669-61EE-H5DAKEXPZC8KGA89HBNE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
