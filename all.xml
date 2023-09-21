@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2525,6 +2525,14 @@
             <pubDate>Sat, 31 Mar 2012 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민성공 시대를 열겠다던 이명박 17대 대통령. 그러나 그의 퇴임 이후 한국 사회 곳곳에서 부정부패의 흔적이 발견됩니다. 이명박 전 대통령이 남기고 간 유산을 뉴스타파가 추적했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/0ccb53b3868b610ea74f4898980f0cd198e611ae493c2341e1a50c831de9d7509263d37525c00e95221870cefc4f3f3d73cdd3704b05d5f7eeb64014f502e913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰의 금고를 열다 시즌2 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2023/09_prosecution/</link>
+            <guid>https://pages.newstapa.org/2023/09_prosecution/</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파를 포함한 6개 언론사 공동취재단이 전국 67개 검찰청의 예산 자료를 입수했습니다. 수십만 장에 달하는 원문 자료와 그 분석 결과를 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140013-A7C7-5DE4-4EA6-CXEFUMVO4PF6KM5PQUCV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최초 공개, 검찰의 금고를 열다 (뉴스타파 ─ 데이터)]]></title>

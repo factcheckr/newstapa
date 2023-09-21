@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰의 금고를 열다 시즌2]]></title>
+            <link>https://pages.newstapa.org/2023/09_prosecution/</link>
+            <guid>https://pages.newstapa.org/2023/09_prosecution/</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파를 포함한 6개 언론사 공동취재단이 전국 67개 검찰청의 예산 자료를 입수했습니다. 수십만 장에 달하는 원문 자료와 그 분석 결과를 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140013-A7C7-5DE4-4EA6-CXEFUMVO4PF6KM5PQUCV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최초 공개, 검찰의 금고를 열다]]></title>
             <link>https://pages.newstapa.org/2023/07_prosecution/</link>
