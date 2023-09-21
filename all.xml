@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 11:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 12:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NCU09</link>
+            <guid>http://newstapa.org/article/NCU09</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’ (뉴스타파 ─ 뉴스)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14124644-488A-A306-F002-7PLL1PZQTPCPEUOXBFG6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰, 집단 판결 불이행… 지청장·검사장 지시·관여 확인 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/C7Xbc</link>
-            <guid>http://newstapa.org/article/C7Xbc</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 집단 판결 불이행… 지청장·검사장 지시·관여 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13215357-5E1E-4D21-EB00-OBVT3JYFG2DD6RFBZKH1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/dcBvo</link>
             <guid>http://newstapa.org/article/dcBvo</guid>
@@ -158,6 +158,14 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/NCU09</link>
+            <guid>http://newstapa.org/article/NCU09</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[브로커 조우형, 대검 중수부의 100% 수사 대상이었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13171054-D046-B56B-53C0-YO0RU4MYK8J5D0G8SC9Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/C9UW0</link>
-            <guid>http://newstapa.org/article/C9UW0</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08103702-8CA7-0F37-B823-ULJR7USYIRROPXV7UYGV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -408,6 +408,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21183212-0C9A-0C7D-C789-5OUNSEZT6YA6H05628PW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/NCU09</link>
+            <guid>http://newstapa.org/article/NCU09</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’ (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/95S33</link>
             <guid>http://newstapa.org/article/95S33</guid>
@@ -510,14 +518,6 @@
             <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25153720-BB31-7E28-0226-DIY24GSFRA2Y14RT00G7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 사단의 특활비 카르텔 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/DUkU0</link>
-            <guid>http://newstapa.org/article/DUkU0</guid>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 사단의 특활비 카르텔]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27193758-671F-B58A-D1A2-ZHPWXAE065HJK7I7EXMC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>

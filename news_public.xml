@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 11:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 12:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></title>
+            <link>http://newstapa.org/article/NCU09</link>
+            <guid>http://newstapa.org/article/NCU09</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[브로커 조우형, 대검 중수부의 100% 수사 대상이었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13171054-D046-B56B-53C0-YO0RU4MYK8J5D0G8SC9Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면]]></title>
-            <link>http://newstapa.org/article/C9UW0</link>
-            <guid>http://newstapa.org/article/C9UW0</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[재산공개 30년] 고위공직자 재산을 시민의 눈높이로 끌어낸 7장면]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08103702-8CA7-0F37-B823-ULJR7USYIRROPXV7UYGV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

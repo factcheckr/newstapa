@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 11:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 12:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></title>
+            <link>http://newstapa.org/article/NCU09</link>
+            <guid>http://newstapa.org/article/NCU09</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파]검찰 특활비의 비밀... 햄버거와 공기청정기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14124644-488A-A306-F002-7PLL1PZQTPCPEUOXBFG6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 집단 판결 불이행… 지청장·검사장 지시·관여 확인]]></title>
-            <link>http://newstapa.org/article/C7Xbc</link>
-            <guid>http://newstapa.org/article/C7Xbc</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 집단 판결 불이행… 지청장·검사장 지시·관여 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13215357-5E1E-4D21-EB00-OBVT3JYFG2DD6RFBZKH1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
