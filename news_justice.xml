@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 02:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 03:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산저축은행 로비 자금 일부는 조우형 돈이었다]]></title>
+            <link>http://newstapa.org/article/0sWgw</link>
+            <guid>http://newstapa.org/article/0sWgw</guid>
+            <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산저축은행 로비 자금 일부는 조우형 돈이었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21160919-4737-664A-B7F0-QMU7ZYLFW74J9GINK003.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></title>
             <link>http://newstapa.org/article/l4L6F</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[업추비 검증② ‘검사 윤석열’의 한우집 카드 쪼개기 결제... 지침 위반 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/19163702-3834-98D3-2816-UCTY0MKS4UDW6SRNMC8A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 주진우 법률비서관에 승소... <죄수와 검사> 소송 다 이겼다]]></title>
-            <link>http://newstapa.org/article/dMQnG</link>
-            <guid>http://newstapa.org/article/dMQnG</guid>
-            <pubDate>Thu, 13 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 주진우 법률비서관에 승소... &lt;죄수와 검사&gt; 소송 다 이겼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/13153624-D1AE-73AD-E54D-FY9LCTON1NQJO2D1LMKE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
