@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 00:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 01:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 특활비로 기밀 수사? “검사님 국정조사 격려금, 경조사비”]]></title>
+            <link>http://newstapa.org/article/-lbdT</link>
+            <guid>http://newstapa.org/article/-lbdT</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 특활비로 기밀 수사? “검사님 국정조사 격려금, 경조사비”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/23102207-B6B2-72BC-7886-S62D7BLDAVO6FTT4J8MF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은?]]></title>
             <link>http://newstapa.org/article/dcBvo</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한동훈 장관의 거짓말... 검찰 업추비 영수증 구매내역도 가렸다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/02104329-FE2F-D509-8BB6-8O7L1WBWCHRUXCRYA34H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다]]></title>
-            <link>http://newstapa.org/article/I-Vz5</link>
-            <guid>http://newstapa.org/article/I-Vz5</guid>
-            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰도 국회도 ‘설명책임’ 의무가 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25153720-BB31-7E28-0226-DIY24GSFRA2Y14RT00G7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
