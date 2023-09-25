@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 07:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></title>
+            <link>http://newstapa.org/article/K0RcQ</link>
+            <guid>http://newstapa.org/article/K0RcQ</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164859-1C24-8C7C-FA59-Z2WV3H63FES1KV2V4ZO2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></title>
+            <link>http://newstapa.org/article/q_dQi</link>
+            <guid>http://newstapa.org/article/q_dQi</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164938-173D-F664-09B1-YPY0AR89VGGKTC6JYKAF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 기고] 뉴스타파 강제수사, 한국 검찰과 윤 대통령의 어리석음]]></title>
             <link>http://newstapa.org/article/iGj7F</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] '헛소문'이라더니...언론재단 이사장 직행한 김효재]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/18154343-9ABA-F90D-BEF0-97VHGOROYLYC3TWTGE33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 수사기록에 적힌 조우형의 일관된 ‘거짓말’]]></title>
-            <link>http://newstapa.org/article/5X4X4</link>
-            <guid>http://newstapa.org/article/5X4X4</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 수사기록에 적힌 조우형의 일관된 ‘거짓말’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13105023-C5D8-D7A9-47FF-RQ84S2FKJTNXP094YYEX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비"]]></title>
-            <link>http://newstapa.org/article/UwQRP</link>
-            <guid>http://newstapa.org/article/UwQRP</guid>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/15163936-F64B-317C-B172-4Q5LNIZRNEHU7D2AGGRV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

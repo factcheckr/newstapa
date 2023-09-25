@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 07:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></title>
+            <link>http://newstapa.org/article/K0RcQ</link>
+            <guid>http://newstapa.org/article/K0RcQ</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164859-1C24-8C7C-FA59-Z2WV3H63FES1KV2V4ZO2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></title>
+            <link>http://newstapa.org/article/q_dQi</link>
+            <guid>http://newstapa.org/article/q_dQi</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164938-173D-F664-09B1-YPY0AR89VGGKTC6JYKAF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></title>
             <link>http://newstapa.org/article/F56dn</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['임원이 멋대로 하도급 대금 삭감'...대우조선 대외비 문건 무더기 입수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/11174805-CBDC-9C00-FA83-KFYHAPWQTL52WSF8IT6F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약]]></title>
-            <link>http://newstapa.org/article/h4Wee</link>
-            <guid>http://newstapa.org/article/h4Wee</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재용, '준법 약속' 직후에도 프로포폴 불법 투약]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/24094031-C06C-89CA-A075-X7BD2N8JFUZEZ90K2OIA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원, 이재용에게 “프로포폴 상당, 죄질 가볍지 않아” 벌금 7000만원 선고]]></title>
-            <link>http://newstapa.org/article/MDN2j</link>
-            <guid>http://newstapa.org/article/MDN2j</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법원, 이재용에게 “프로포폴 상당, 죄질 가볍지 않아” 벌금 7000만원 선고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/10/28151400-F149-6233-3028-QRXHWLJUSSZ96JMJM1R7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

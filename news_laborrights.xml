@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 07:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 08:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></title>
+            <link>http://newstapa.org/article/K0RcQ</link>
+            <guid>http://newstapa.org/article/K0RcQ</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164859-1C24-8C7C-FA59-Z2WV3H63FES1KV2V4ZO2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></title>
+            <link>http://newstapa.org/article/q_dQi</link>
+            <guid>http://newstapa.org/article/q_dQi</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164938-173D-F664-09B1-YPY0AR89VGGKTC6JYKAF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 물류센터, 퇴사 직원에게 '회사 비방금지' 서약서 강요]]></title>
             <link>http://newstapa.org/article/z5n3s</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스포츠혁신 4년③ 스포츠 혁신의 시간은 거꾸로 간다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/23150615-4A0F-CFFE-ECAB-9UE92YZN8LCHHZURN7HY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></title>
-            <link>http://newstapa.org/article/vwc1o</link>
-            <guid>http://newstapa.org/article/vwc1o</guid>
-            <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/16151904-6C9C-B02C-4014-0NKUMOJK8NTAH9WQDMHF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 정부는 무시하고, 경찰은 짓밟았다]]></title>
-            <link>http://newstapa.org/article/HEnRK</link>
-            <guid>http://newstapa.org/article/HEnRK</guid>
-            <pubDate>Thu, 15 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 정부는 무시하고, 경찰은 짓밟았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/15185022-10DD-2415-9DD3-XIOEHHPF7J68YVMKQEFS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
