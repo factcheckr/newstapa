@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한동훈 장관, 법원 판결 한 달이 지나도 ‘본인 미국 출장비’ 미공개]]></title>
+            <link>http://newstapa.org/article/EdX2C</link>
+            <guid>http://newstapa.org/article/EdX2C</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동훈 장관, 법원 판결 한 달이 지나도 ‘본인 미국 출장비’ 미공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25112452-1B3F-6493-A464-KS6BMKNJMO81R7YF55AY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰 특활비로 기밀 수사? “검사님 국정조사 격려금, 경조사비”]]></title>
             <link>http://newstapa.org/article/-lbdT</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[송인택 검사장의 마지막 '특활비 파티']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14123150-CDE5-50DC-C554-TJW3SYCQE0IBD6PCWN1W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특활비, 고위 검사들의 퇴임 전 몰아쓰기 의혹]]></title>
-            <link>http://newstapa.org/article/U75ks</link>
-            <guid>http://newstapa.org/article/U75ks</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특활비, 고위 검사들의 퇴임 전 몰아쓰기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14125054-3F8E-4669-61EE-H5DAKEXPZC8KGA89HBNE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
