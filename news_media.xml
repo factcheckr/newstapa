@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 10:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 11:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></title>
+            <link>http://newstapa.org/article/TCUg1</link>
+            <guid>http://newstapa.org/article/TCUg1</guid>
+            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27184208-6419-0E29-7DEC-6ZRLHBXQJM95ID3OBT9B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전세계 탐사보도 기자들, 뉴스타파 지지에 한목소리]]></title>
             <link>http://newstapa.org/article/2ja9B</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/28110602-E156-84A7-CC00-6UGKN3NQ59DEAT5YERHE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까?]]></title>
-            <link>http://newstapa.org/article/tLh9-</link>
-            <guid>http://newstapa.org/article/tLh9-</guid>
-            <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/14104941-036F-FA07-D9FD-NHVW7YZDHO5WC8V3M1GX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
