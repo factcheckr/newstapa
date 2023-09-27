@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 05:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 06:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전세계 탐사보도 기자들, 뉴스타파 지지에 한목소리]]></title>
+            <link>http://newstapa.org/article/2ja9B</link>
+            <guid>http://newstapa.org/article/2ja9B</guid>
+            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 탐사보도 기자들, 뉴스타파 지지에 한목소리]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27140608-611D-DF74-53B4-ADADP9AW8YCPWC9M43N9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외 기고] 뉴스타파 강제수사, 한국 검찰과 윤 대통령의 어리석음]]></title>
             <link>http://newstapa.org/article/iGj7F</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 이동관 특보는 탄핵이 두려웠을까?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/14104941-036F-FA07-D9FD-NHVW7YZDHO5WC8V3M1GX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진']]></title>
-            <link>http://newstapa.org/article/0EPdU</link>
-            <guid>http://newstapa.org/article/0EPdU</guid>
-            <pubDate>Thu, 08 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 정부, MB 시절로 '전속력 후진']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/08180502-E0B5-BF80-1E83-H4MCII7ANV4P6QM643A9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

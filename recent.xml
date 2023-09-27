@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 05:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 06:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전세계 탐사보도 기자들, 뉴스타파 지지에 한목소리]]></title>
+            <link>http://newstapa.org/article/2ja9B</link>
+            <guid>http://newstapa.org/article/2ja9B</guid>
+            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[전세계 탐사보도 기자들, 뉴스타파 지지에 한목소리]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27140608-611D-DF74-53B4-ADADP9AW8YCPWC9M43N9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></title>
             <link>http://newstapa.org/article/K0RcQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가: 1부 검찰, 독립언론을 침탈하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/19115438-9F1F-3559-E63A-JA689XPAJTD6X0XIRAOF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '헛소문'이라더니...언론재단 이사장 직행한 김효재]]></title>
-            <link>http://newstapa.org/article/hWaxR</link>
-            <guid>http://newstapa.org/article/hWaxR</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '헛소문'이라더니...언론재단 이사장 직행한 김효재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/18154343-9ABA-F90D-BEF0-97VHGOROYLYC3TWTGE33.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
