@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 06:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 07:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응]]></title>
+            <link>http://newstapa.org/article/7py2A</link>
+            <guid>http://newstapa.org/article/7py2A</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05154850-01CE-47DF-0AF0-WEO9CACVPBEUOS3NKQ6B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></title>
             <link>http://newstapa.org/article/TCUg1</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전국 42개 검찰청 특활비 기록 무단 폐기…남은 공소시효 1년]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14124345-3018-D079-D12A-7G4V1PQ0GQ2UK129OS74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특활비 부정 사용: 검사실 공기청정기 렌탈비로 특활비 지출]]></title>
-            <link>http://newstapa.org/article/CS2_p</link>
-            <guid>http://newstapa.org/article/CS2_p</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[특활비 부정 사용: 검사실 공기청정기 렌탈비로 특활비 지출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14123935-7206-101F-C04F-WK3BD4RQAE4O069QTUDN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

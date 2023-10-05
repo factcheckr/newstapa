@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 06:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 07:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/7py2A</link>
+            <guid>http://newstapa.org/article/7py2A</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05154850-01CE-47DF-0AF0-WEO9CACVPBEUOS3NKQ6B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["그때는 틀리고 지금은 맞는다"... 검찰, 7년간 덮었던 공무원 뇌물 사건 기소 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/vwInh</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/NCU09</link>
-            <guid>http://newstapa.org/article/NCU09</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/7py2A</link>
+            <guid>http://newstapa.org/article/7py2A</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05154850-01CE-47DF-0AF0-WEO9CACVPBEUOS3NKQ6B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전국 42개 검찰청 특활비 기록 무단 폐기…남은 공소시효 1년]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14124345-3018-D079-D12A-7G4V1PQ0GQ2UK129OS74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특활비 부정 사용: 검사실 공기청정기 렌탈비로 특활비 지출 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/CS2_p</link>
-            <guid>http://newstapa.org/article/CS2_p</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[특활비 부정 사용: 검사실 공기청정기 렌탈비로 특활비 지출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14123935-7206-101F-C04F-WK3BD4RQAE4O069QTUDN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["그때는 틀리고 지금은 맞는다"... 검찰, 7년간 덮었던 공무원 뇌물 사건 기소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03104316-53BB-1B2A-C430-00W537CWMKT15S22601P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/7py2A</link>
+            <guid>http://newstapa.org/article/7py2A</guid>
+            <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05154850-01CE-47DF-0AF0-WEO9CACVPBEUOS3NKQ6B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/TCUg1</link>
             <guid>http://newstapa.org/article/TCUg1</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 해임,해임,해임...김효재 방통위 직무대행의 무리수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/14170317-0204-373D-3BF4-T6EOIMHVFST6XTRXUZCD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/FBhQa</link>
-            <guid>http://newstapa.org/article/FBhQa</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이정현은 처벌받았는데 이동관은 방통위원장 지명]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/28110602-E156-84A7-CC00-6UGKN3NQ59DEAT5YERHE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 예산 검증 (뉴스타파 ─ 프로젝트)]]></title>
