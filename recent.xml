@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 05:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 06:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27140608-611D-DF74-53B4-ADADP9AW8YCPWC9M43N9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Global journalists "Stand with Newstapa"]]></title>
+            <link>http://newstapa.org/article/0rmYc</link>
+            <guid>http://newstapa.org/article/0rmYc</guid>
+            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[Global journalists "Stand with Newstapa"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/10135535-2436-AE04-62DF-UUKJK941H0XTJDE1I106.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></title>
             <link>http://newstapa.org/article/K0RcQ</link>
             <guid>http://newstapa.org/article/K0RcQ</guid>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산저축은행 로비 자금 일부는 조우형 돈이었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21160919-4737-664A-B7F0-QMU7ZYLFW74J9GINK003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은?]]></title>
-            <link>http://newstapa.org/article/dcBvo</link>
-            <guid>http://newstapa.org/article/dcBvo</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182917-5A8E-D2A2-EC66-JEVAWQGVTKW30GT3RRAK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
