@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 05:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 06:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2078,6 +2078,14 @@
             <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상관의 성추행과 2차 가해 끝에 스스로 목숨을 끊은 고 이예람 중사. 뉴스타파가 이예람 중사 사건의 전말을 추적하고 재판 과정을 분석했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26102700-8A51-7B19-622C-X4LFE0E1OE3YIMIN46OF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 보지 못한 한국전쟁 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/projects/30-Dx</link>
+            <guid>https://newstapa.org/projects/30-Dx</guid>
+            <pubDate>Fri, 23 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국전쟁 정전 이후 70년의 시간이 흘렀습니다. 뉴스타파는 미국 국립문서기록청(NARA) 등에서 입수한 자료를 바탕으로, 전쟁의 참상과 진실을 직시하는 다큐멘터리 &lt;당신이 보지 못한 한국전쟁&gt; 을 제작했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/11150706-ED11-27EA-10BB-Q1A1TIHMU3VD06G7ACWT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대장동 X파일 (뉴스타파 ─ 프로젝트)]]></title>
