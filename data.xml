@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 04:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 05:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 예산 검증 특수능력 테스트]]></title>
+            <link>https://pages.newstapa.org/2023/superPowerTest/</link>
+            <guid>https://pages.newstapa.org/2023/superPowerTest/</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[먹칠 투성이의 자료에서 숨겨진 문자를 찾아내고, 검찰이 특활비를 어떤 방식으로 관리해 왔는지 직접 확인해볼 수 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12140102-855A-6DC6-0D85-L9HDJ5HB0GY0KEJ9V9GN.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[검찰의 금고를 열다 시즌2]]></title>
             <link>https://pages.newstapa.org/2023/09_prosecution/</link>
