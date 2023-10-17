@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 04:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 05:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의]]></title>
+            <link>http://newstapa.org/article/8p0W1</link>
+            <guid>http://newstapa.org/article/8p0W1</guid>
+            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/17110248-9B4B-DB56-3446-8LH2J0YNI31LFJXCG4NJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산저축은행 협력자들 줄줄이 처벌...조우형은 왜 빠졌을까]]></title>
             <link>http://newstapa.org/article/Bm4xO</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조우형, 대검 수사 대상이었던 '부산저축은행 차명 회사' 운영 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27094157-562B-FBEA-F209-WE3R53CV57FETWAS1GDY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></title>
-            <link>http://newstapa.org/article/TCUg1</link>
-            <guid>http://newstapa.org/article/TCUg1</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27184208-6419-0E29-7DEC-6ZRLHBXQJM95ID3OBT9B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

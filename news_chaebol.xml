@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 04:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 05:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의]]></title>
+            <link>http://newstapa.org/article/8p0W1</link>
+            <guid>http://newstapa.org/article/8p0W1</guid>
+            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/17110248-9B4B-DB56-3446-8LH2J0YNI31LFJXCG4NJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></title>
             <link>http://newstapa.org/article/K0RcQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 13 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공적자금 4조 원 쏟아부을 때, 대우조선 직원은 8천만 원 뒷돈 수수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/12112441-24CB-D227-2110-QQR2PYY536V94E21BAQF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['임원이 멋대로 하도급 대금 삭감'...대우조선 대외비 문건 무더기 입수]]></title>
-            <link>http://newstapa.org/article/7mmjn</link>
-            <guid>http://newstapa.org/article/7mmjn</guid>
-            <pubDate>Wed, 12 Oct 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['임원이 멋대로 하도급 대금 삭감'...대우조선 대외비 문건 무더기 입수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/11174805-CBDC-9C00-FA83-KFYHAPWQTL52WSF8IT6F.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
