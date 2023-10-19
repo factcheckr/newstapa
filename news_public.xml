@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 04:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 05:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김형준 전 검사 '특활비 유용 의혹', 공수처에 고발장 접수]]></title>
+            <link>http://newstapa.org/article/Z0l2U</link>
+            <guid>http://newstapa.org/article/Z0l2U</guid>
+            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김형준 전 검사 '특활비 유용 의혹', 공수처에 고발장 접수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/19133754-D3A5-9876-826C-6WWAIW67H0ODWKBAOTNF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰 특활비 먹칠 벗기니... 수사기밀은 없고 오남용만 있었다]]></title>
             <link>http://newstapa.org/article/yfwXB</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></title>
-            <link>http://newstapa.org/article/NCU09</link>
-            <guid>http://newstapa.org/article/NCU09</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
