@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 06:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 07:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조우형 측근 음성파일 공개 ① "검사와 커피 얘기는 나도 들었다" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/1Lb2b</link>
+            <guid>http://newstapa.org/article/1Lb2b</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조우형 측근 음성파일 공개 ① "검사와 커피 얘기는 나도 들었다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/25154237-B0D8-8656-6DA4-EZ13DA9IQO9Q99NB8XSV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조우형 측근 음성파일 공개 ② "대장동까지 당연히 불길 옮겨갈 줄" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/WhPSG</link>
+            <guid>http://newstapa.org/article/WhPSG</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조우형 측근 음성파일 공개 ② "대장동까지 당연히 불길 옮겨갈 줄"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/25154309-7914-28B0-C1E7-5E56YTL48P6LRT5GZ8U5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권력만 잡으면 '가짜뉴스' 잡기 혈안...비판 언론 옥죄기 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/nDi0f</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“높으신 분들이 쓴 돈” 통제 밖 고삐없는 검찰 특활비]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12121556-36D6-D09D-3FD5-SH9S0LBXYY7CZCMZ8KZ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 예산 감시 '크라우드 소싱 프로젝트' 제안 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ZysKT</link>
-            <guid>http://newstapa.org/article/ZysKT</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 예산 감시 '크라우드 소싱 프로젝트' 제안]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12153755-BA47-29C4-9325-9BRO0Q7GU3UOIDZVXE97.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 3부 '역린'을 건드리다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/x35ae</link>
-            <guid>http://newstapa.org/article/x35ae</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 3부 '역린'을 건드리다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/11100617-07B3-3E6F-2350-GQAKI08AQ8AIF0LTXZZW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘윤석열 해운대 횟집 만찬’ 소송...‘거짓말인가, 얻어먹고 다녔나’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182917-5A8E-D2A2-EC66-JEVAWQGVTKW30GT3RRAK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조우형 측근 음성파일 공개 ① "검사와 커피 얘기는 나도 들었다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/1Lb2b</link>
+            <guid>http://newstapa.org/article/1Lb2b</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조우형 측근 음성파일 공개 ① "검사와 커피 얘기는 나도 들었다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/25154237-B0D8-8656-6DA4-EZ13DA9IQO9Q99NB8XSV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조우형 측근 음성파일 공개 ② "대장동까지 당연히 불길 옮겨갈 줄" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/WhPSG</link>
+            <guid>http://newstapa.org/article/WhPSG</guid>
+            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조우형 측근 음성파일 공개 ② "대장동까지 당연히 불길 옮겨갈 줄"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/25154309-7914-28B0-C1E7-5E56YTL48P6LRT5GZ8U5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 4부 검사 비리를 폭로하다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/Gpdh9</link>
             <guid>http://newstapa.org/article/Gpdh9</guid>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“천화동인 6호 조우형, 국가에 26억 안 내려고 존재 숨겼다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/19131021-2CE2-F24F-CF92-0J2QNRYKV2FC51X6PC7Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 수사기록에 적힌 조우형의 일관된 ‘거짓말’ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/5X4X4</link>
-            <guid>http://newstapa.org/article/5X4X4</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 수사기록에 적힌 조우형의 일관된 ‘거짓말’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13105023-C5D8-D7A9-47FF-RQ84S2FKJTNXP094YYEX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/UwQRP</link>
-            <guid>http://newstapa.org/article/UwQRP</guid>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남욱의 일관된 진술 "2011년 조우형 사건 때 김만배가 로비"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/15163936-F64B-317C-B172-4Q5LNIZRNEHU7D2AGGRV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰 특활비 먹칠 벗기니... 수사기밀은 없고 오남용만 있었다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
