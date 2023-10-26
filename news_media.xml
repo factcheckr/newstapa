@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 06:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체]]></title>
+            <link>http://newstapa.org/article/9N68I</link>
+            <guid>http://newstapa.org/article/9N68I</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26141636-C5B6-5EF3-3AE8-1L5F1ED4ZPLMGP23706B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권력만 잡으면 '가짜뉴스' 잡기 혈안...비판 언론 옥죄기]]></title>
             <link>http://newstapa.org/article/nDi0f</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정권 바뀔 때마다 '공영방송 뺏기'...법원이 제동 걸까]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24183311-A581-28D5-5905-31TK7BXTHSE9JHP3Y6O5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급 대담] 공영방송 이사장들은 왜 해임됐나]]></title>
-            <link>http://newstapa.org/article/kRbU2</link>
-            <guid>http://newstapa.org/article/kRbU2</guid>
-            <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[긴급 대담] 공영방송 이사장들은 왜 해임됐나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/23161549-DEAA-2F74-E8ED-X3675TXPEVY4W0CW1MRM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

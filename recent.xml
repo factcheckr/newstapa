@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 05:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 06:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체]]></title>
+            <link>http://newstapa.org/article/9N68I</link>
+            <guid>http://newstapa.org/article/9N68I</guid>
+            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26141636-C5B6-5EF3-3AE8-1L5F1ED4ZPLMGP23706B.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조우형 측근 음성파일 공개 ① "검사와 커피 얘기는 나도 들었다"]]></title>
             <link>http://newstapa.org/article/1Lb2b</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고양지청 특활비, 검사들의 격려금·포상금 부정 사용]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12121422-52BB-B3ED-72DF-PDQZR7V72OB83EYZLMLD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“높으신 분들이 쓴 돈” 통제 밖 고삐없는 검찰 특활비]]></title>
-            <link>http://newstapa.org/article/JXeiV</link>
-            <guid>http://newstapa.org/article/JXeiV</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“높으신 분들이 쓴 돈” 통제 밖 고삐없는 검찰 특활비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12121556-36D6-D09D-3FD5-SH9S0LBXYY7CZCMZ8KZ0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
