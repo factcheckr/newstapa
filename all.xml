@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 15:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 16:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12120354-E81E-C425-0CBD-3IQS7S3KRVF03R6H0RLA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[알립니다] <'당원권 정지' 김현아, 대선용 선거사무소도 '차명계약' 의혹> 관련 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/L_3tI</link>
-            <guid>http://newstapa.org/article/L_3tI</guid>
-            <pubDate>Sun, 29 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[알립니다] &lt;'당원권 정지' 김현아, 대선용 선거사무소도 '차명계약' 의혹&gt; 관련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/27140715-D70A-543F-A1BC-54EGLUM12JGQKDUVB73O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘윤석열 해운대 횟집 만찬’ 소송...‘거짓말인가, 얻어먹고 다녔나’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/ek09-</link>
             <guid>http://newstapa.org/article/ek09-</guid>
@@ -262,6 +254,14 @@
             <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 특활비로 기밀 수사? “검사님 국정조사 격려금, 경조사비”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/23102207-B6B2-72BC-7886-S62D7BLDAVO6FTT4J8MF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/dcBvo</link>
+            <guid>http://newstapa.org/article/dcBvo</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 파도 파도 괴담, 검찰 특활비 오남용의 끝은?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182917-5A8E-D2A2-EC66-JEVAWQGVTKW30GT3RRAK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
