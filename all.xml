@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 10:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 11:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/CxDK3</link>
+            <guid>http://newstapa.org/article/CxDK3</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31183810-2FBD-62E2-A57F-5UI6LHJKTRU9A4WJFAG2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김만배 음성파일 공개 "검찰 일 해주고, 조우형 돈 받았다" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/TGy6b</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/17110248-9B4B-DB56-3446-8LH2J0YNI31LFJXCG4NJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[부산저축은행 협력자들 줄줄이 처벌...조우형은 왜 빠졌을까 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Bm4xO</link>
-            <guid>http://newstapa.org/article/Bm4xO</guid>
-            <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산저축은행 협력자들 줄줄이 처벌...조우형은 왜 빠졌을까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/16111505-AB2A-C848-A4CB-XTXDG4D22GDOHL3T1BA9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/CxDK3</link>
+            <guid>http://newstapa.org/article/CxDK3</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31183810-2FBD-62E2-A57F-5UI6LHJKTRU9A4WJFAG2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 특활비 부정: 그들이 처음으로 잘못을 인정했다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27144818-D062-E533-1CA0-AW31TEUBIYFJ6VGSN3PE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한동훈 장관, 법원 판결 한 달이 지나도 ‘본인 미국 출장비’ 미공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/EdX2C</link>
-            <guid>http://newstapa.org/article/EdX2C</guid>
-            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 장관, 법원 판결 한 달이 지나도 ‘본인 미국 출장비’ 미공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25112452-1B3F-6493-A464-KS6BMKNJMO81R7YF55AY.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/CxDK3</link>
+            <guid>http://newstapa.org/article/CxDK3</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31183810-2FBD-62E2-A57F-5UI6LHJKTRU9A4WJFAG2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김만배 음성파일 공개 "검찰 일 해주고, 조우형 돈 받았다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조우형, 대검 수사 대상이었던 '부산저축은행 차명 회사' 운영 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27094157-562B-FBEA-F209-WE3R53CV57FETWAS1GDY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["조우형 빼줘라"...검찰 '수사 무마' 정황 녹음파일 공개 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/MhYZ9</link>
-            <guid>http://newstapa.org/article/MhYZ9</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["조우형 빼줘라"...검찰 '수사 무마' 정황 녹음파일 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27144818-D062-E533-1CA0-AW31TEUBIYFJ6VGSN3PE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰 특활비 먹칠 벗기니... 수사기밀은 없고 오남용만 있었다 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
