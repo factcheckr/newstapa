@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 06:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 특활비 부정: 그들이 처음으로 잘못을 인정했다]]></title>
+            <link>http://newstapa.org/article/TdQVC</link>
+            <guid>http://newstapa.org/article/TdQVC</guid>
+            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 특활비 부정: 그들이 처음으로 잘못을 인정했다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31144725-3592-3626-885E-M5ZLQ9RUR75CKM31HAOT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<한동수 법정 증언> "윤석열, 검찰총장 때 '검찰의 역사는 빨갱이 색출의 역사' 발언"]]></title>
             <link>http://newstapa.org/article/59kuw</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산저축은행 로비 자금 일부는 조우형 돈이었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21160919-4737-664A-B7F0-QMU7ZYLFW74J9GINK003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></title>
-            <link>http://newstapa.org/article/l4L6F</link>
-            <guid>http://newstapa.org/article/l4L6F</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기밀 수사에 쓴다더니... 특활비로 휴대폰 요금 냈다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21182802-87B2-5321-6899-NAEXP9IW9SP0KBODW17Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
