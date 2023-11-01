@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></title>
+            <link>http://newstapa.org/article/pWjXe</link>
+            <guid>http://newstapa.org/article/pWjXe</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/01110959-66C7-8B86-4E82-DSIDMA9XY6UVREK7GZU8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타']]></title>
             <link>http://newstapa.org/article/CxDK3</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27184208-6419-0E29-7DEC-6ZRLHBXQJM95ID3OBT9B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["조우형 빼줘라"...검찰 '수사 무마' 정황 녹음파일 공개]]></title>
-            <link>http://newstapa.org/article/MhYZ9</link>
-            <guid>http://newstapa.org/article/MhYZ9</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["조우형 빼줘라"...검찰 '수사 무마' 정황 녹음파일 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27144818-D062-E533-1CA0-AW31TEUBIYFJ6VGSN3PE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

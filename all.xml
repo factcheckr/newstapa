@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/pWjXe</link>
+            <guid>http://newstapa.org/article/pWjXe</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/01110959-66C7-8B86-4E82-DSIDMA9XY6UVREK7GZU8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/CxDK3</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/18101345-3E7F-3E2F-C7A8-Y2PGH7N6GQWYQGBOSTRL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/8p0W1</link>
-            <guid>http://newstapa.org/article/8p0W1</guid>
-            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/17110248-9B4B-DB56-3446-8LH2J0YNI31LFJXCG4NJ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/pWjXe</link>
+            <guid>http://newstapa.org/article/pWjXe</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/01110959-66C7-8B86-4E82-DSIDMA9XY6UVREK7GZU8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27184208-6419-0E29-7DEC-6ZRLHBXQJM95ID3OBT9B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["조우형 빼줘라"...검찰 '수사 무마' 정황 녹음파일 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/MhYZ9</link>
-            <guid>http://newstapa.org/article/MhYZ9</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["조우형 빼줘라"...검찰 '수사 무마' 정황 녹음파일 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27144818-D062-E533-1CA0-AW31TEUBIYFJ6VGSN3PE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/03104316-53BB-1B2A-C430-00W537CWMKT15S22601P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/pWjXe</link>
+            <guid>http://newstapa.org/article/pWjXe</guid>
+            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/01110959-66C7-8B86-4E82-DSIDMA9XY6UVREK7GZU8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이태원 참사 댓글 69만 건이 악플과 혐오... 삭제, 차단은 584건 뿐 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/jc6j6</link>
             <guid>http://newstapa.org/article/jc6j6</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[속전속결 릴레이 해임...'이동관 방통위'에 꽃길]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24153811-5F77-7CCA-BB84-DZR5HQPNMK9VL8IS765E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2008년과 2023년, 'MB맨' 이동관과 공영방송 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/ZTxbJ</link>
-            <guid>http://newstapa.org/article/ZTxbJ</guid>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2008년과 2023년, 'MB맨' 이동관과 공영방송]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24140416-3BE8-5336-E04A-7I6VPUHQ99VBIFRMW81J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 예산 검증 (뉴스타파 ─ 프로젝트)]]></title>
