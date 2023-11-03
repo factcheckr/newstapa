@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 05:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 06:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></title>
+            <link>http://newstapa.org/article/CQMtH</link>
+            <guid>http://newstapa.org/article/CQMtH</guid>
+            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03143519-9F09-70CF-30DB-65RVFGVTFYT9PCOC55E7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></title>
             <link>http://newstapa.org/article/pWjXe</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05154850-01CE-47DF-0AF0-WEO9CACVPBEUOS3NKQ6B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></title>
-            <link>http://newstapa.org/article/TCUg1</link>
-            <guid>http://newstapa.org/article/TCUg1</guid>
-            <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27184208-6419-0E29-7DEC-6ZRLHBXQJM95ID3OBT9B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

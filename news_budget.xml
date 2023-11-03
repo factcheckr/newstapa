@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 05:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 06:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></title>
+            <link>http://newstapa.org/article/CQMtH</link>
+            <guid>http://newstapa.org/article/CQMtH</guid>
+            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03143519-9F09-70CF-30DB-65RVFGVTFYT9PCOC55E7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰 특활비 먹칠 벗기니... 수사기밀은 없고 오남용만 있었다]]></title>
             <link>http://newstapa.org/article/yfwXB</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 특활비, 고위 검사들의 퇴임 전 몰아쓰기 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14125054-3F8E-4669-61EE-H5DAKEXPZC8KGA89HBNE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰에 이어 법무부도 ‘음식점 상호’ 지우고 업추비 공개... 뉴스타파·시민단체 행정소송 제기]]></title>
-            <link>http://newstapa.org/article/1IYP_</link>
-            <guid>http://newstapa.org/article/1IYP_</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰에 이어 법무부도 ‘음식점 상호’ 지우고 업추비 공개... 뉴스타파·시민단체 행정소송 제기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/06132516-3762-14C5-73EE-721UHNQ2LCWQHG41A8RQ.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
