@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 06:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 07:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이강길 경찰 진술서 공개 "대검 중수부가 부산저축은행 자료 요구" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/1MKbT</link>
+            <guid>http://newstapa.org/article/1MKbT</guid>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이강길 경찰 진술서 공개 "대검 중수부가 부산저축은행 자료 요구"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/06160124-161F-B2A5-0F91-ZDHJW21OH127U5Z04W0E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 끝내 처벌 못한 '조직적 무능'...세월호 해경 지휘부 '무죄' 확정 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/1j5Fi</link>
@@ -128,14 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26185036-08AA-D22F-998A-VVU84YFFZLBXQEMDEYRZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/9N68I</link>
-            <guid>http://newstapa.org/article/9N68I</guid>
-            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26141636-C5B6-5EF3-3AE8-1L5F1ED4ZPLMGP23706B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/CQMtH</link>
             <guid>http://newstapa.org/article/CQMtH</guid>
@@ -184,11 +184,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/23163034-227A-F620-5CCE-FJLLP98ZBMPF371KSKWS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 4부 검사 비리를 폭로하다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <title><![CDATA[4부: 검사 비리를 폭로하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가] (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/Gpdh9</link>
             <guid>http://newstapa.org/article/Gpdh9</guid>
             <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 4부 검사 비리를 폭로하다]]></content:encoded>
+            <content:encoded><![CDATA[4부: 검사 비리를 폭로하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/20181100-BF71-B5DB-CA98-6I3DE9DZGZSQ5VE040JC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -240,11 +240,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12121556-36D6-D09D-3FD5-SH9S0LBXYY7CZCMZ8KZ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 3부 '역린'을 건드리다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <title><![CDATA[3부: '역린'을 건드리다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가] (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/x35ae</link>
             <guid>http://newstapa.org/article/x35ae</guid>
             <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 3부 '역린'을 건드리다]]></content:encoded>
+            <content:encoded><![CDATA[3부: '역린'을 건드리다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/11100617-07B3-3E6F-2350-GQAKI08AQ8AIF0LTXZZW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -262,6 +262,14 @@
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 김기현 '막말' 및 박성중 '허위사실 유포'에 법적 대응]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05154850-01CE-47DF-0AF0-WEO9CACVPBEUOS3NKQ6B.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이강길 경찰 진술서 공개 "대검 중수부가 부산저축은행 자료 요구" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/1MKbT</link>
+            <guid>http://newstapa.org/article/1MKbT</guid>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이강길 경찰 진술서 공개 "대검 중수부가 부산저축은행 자료 요구"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/06160124-161F-B2A5-0F91-ZDHJW21OH127U5Z04W0E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조우형 경찰 진술서 18쪽 공개 "대검 중수부가 대장동 수사했다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -336,11 +344,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/25154309-7914-28B0-C1E7-5E56YTL48P6LRT5GZ8U5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 4부 검사 비리를 폭로하다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <title><![CDATA[4부: 검사 비리를 폭로하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가] (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/Gpdh9</link>
             <guid>http://newstapa.org/article/Gpdh9</guid>
             <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 4부 검사 비리를 폭로하다]]></content:encoded>
+            <content:encoded><![CDATA[4부: 검사 비리를 폭로하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/20181100-BF71-B5DB-CA98-6I3DE9DZGZSQ5VE040JC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 05 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 대장동 수사무마 녹취 추가 공개.. '50억 클럽' 김수남 새 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05164611-D4B4-505E-8792-RXTSCB26OT9FQ17CRHYH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["그때는 틀리고 지금은 맞는다"... 검찰, 7년간 덮었던 공무원 뇌물 사건 기소 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/vwInh</link>
-            <guid>http://newstapa.org/article/vwInh</guid>
-            <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["그때는 틀리고 지금은 맞는다"... 검찰, 7년간 덮었던 공무원 뇌물 사건 기소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/04133837-6A2B-FDD0-3162-FMOG5VCV890PVLVFILMM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다” (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1960,11 +1960,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/24220206-880D-331A-5B8A-2YSE0RHEUEQM1WOR6R1P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 3부 '역린'을 건드리다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <title><![CDATA[3부: '역린'을 건드리다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가] (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/x35ae</link>
             <guid>http://newstapa.org/article/x35ae</guid>
             <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가 : 3부 '역린'을 건드리다]]></content:encoded>
+            <content:encoded><![CDATA[3부: '역린'을 건드리다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/11100617-07B3-3E6F-2350-GQAKI08AQ8AIF0LTXZZW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1976,11 +1976,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/05154850-01CE-47DF-0AF0-WEO9CACVPBEUOS3NKQ6B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <title><![CDATA[2부: 검사 윤석열의 치부를 폭로하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가] (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/TCUg1</link>
             <guid>http://newstapa.org/article/TCUg1</guid>
             <pubDate>Wed, 27 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가? : 2부 검사 윤석열의 치부를 폭로하다]]></content:encoded>
+            <content:encoded><![CDATA[2부: 검사 윤석열의 치부를 폭로하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/27184208-6419-0E29-7DEC-6ZRLHBXQJM95ID3OBT9B.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -2000,11 +2000,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25133128-2A86-174B-C471-1X2WRDKRMMTZNLGD8W4S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가: 1부 검찰, 독립언론을 침탈하다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <title><![CDATA[1부: 검찰, 독립언론을 침탈하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가] (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/7mclN</link>
             <guid>http://newstapa.org/article/7mclN</guid>
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집] 윤석열 정권은 왜 뉴스타파를 죽이려 드는가: 1부 검찰, 독립언론을 침탈하다]]></content:encoded>
+            <content:encoded><![CDATA[1부: 검찰, 독립언론을 침탈하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/19115438-9F1F-3559-E63A-JA689XPAJTD6X0XIRAOF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
