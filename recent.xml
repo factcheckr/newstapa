@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 08:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 09:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[독재자의 은행] ① 중미의 개발은행이 부패와 권위주의를 조장한 방법]]></title>
+            <link>http://newstapa.org/article/2ENCy</link>
+            <guid>http://newstapa.org/article/2ENCy</guid>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[독재자의 은행] ① 중미의 개발은행이 부패와 권위주의를 조장한 방법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03155745-413D-2328-5BED-G22P6DQBATQK497KCUH7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[독재자의 은행] ② 수상한 계약자들: 중미경제통합은행과 한국, 그 틈새를 노리다]]></title>
+            <link>http://newstapa.org/article/vQX1O</link>
+            <guid>http://newstapa.org/article/vQX1O</guid>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[독재자의 은행] ② 수상한 계약자들: 중미경제통합은행과 한국, 그 틈새를 노리다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/05115107-503E-9A89-117A-Z0PWG5IRLP2L5NQD7J72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이강길 경찰 진술서 공개 "대검 중수부가 부산저축은행 자료 요구"]]></title>
             <link>http://newstapa.org/article/1MKbT</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;한동수 법정 증언&gt; "윤석열, 검찰총장 때 '검찰의 역사는 빨갱이 색출의 역사' 발언"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31100517-F0EA-2B37-08E8-MAEER0SUGLFU7R97U2OL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이태원 참사 1주기 : 무책임, 무시 그리고 흩어진 목소리]]></title>
-            <link>http://newstapa.org/article/wnWT7</link>
-            <guid>http://newstapa.org/article/wnWT7</guid>
-            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 1주기 : 무책임, 무시 그리고 흩어진 목소리]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26130759-B872-4C2A-DFB7-GNVHLWJ4EB9PFKN9DHTC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 댓글 69만 건이 악플과 혐오... 삭제, 차단은 584건 뿐]]></title>
-            <link>http://newstapa.org/article/jc6j6</link>
-            <guid>http://newstapa.org/article/jc6j6</guid>
-            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 댓글 69만 건이 악플과 혐오... 삭제, 차단은 584건 뿐]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26185036-08AA-D22F-998A-VVU84YFFZLBXQEMDEYRZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
