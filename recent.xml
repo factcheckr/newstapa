@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 05:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 06:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 끝내 처벌 못한 '조직적 무능'...세월호 해경 지휘부 '무죄' 확정]]></title>
+            <link>http://newstapa.org/article/1j5Fi</link>
+            <guid>http://newstapa.org/article/1j5Fi</guid>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 끝내 처벌 못한 '조직적 무능'...세월호 해경 지휘부 '무죄' 확정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/06141954-AC25-9CC6-7196-0A6JC7VSGJ0P4FRE81Z3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></title>
             <link>http://newstapa.org/article/CQMtH</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] '인덱싱 이론'과 검-정-언 복합체]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26141636-C5B6-5EF3-3AE8-1L5F1ED4ZPLMGP23706B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조우형 측근 음성파일 공개 ① "검사와 커피 얘기는 나도 들었다"]]></title>
-            <link>http://newstapa.org/article/1Lb2b</link>
-            <guid>http://newstapa.org/article/1Lb2b</guid>
-            <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조우형 측근 음성파일 공개 ① "검사와 커피 얘기는 나도 들었다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/25154237-B0D8-8656-6DA4-EZ13DA9IQO9Q99NB8XSV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
