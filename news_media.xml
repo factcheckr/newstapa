@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 09:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 10:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></title>
+            <link>http://newstapa.org/article/99IIY</link>
+            <guid>http://newstapa.org/article/99IIY</guid>
+            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/10185644-83F5-6D88-98B7-AWY837F6H7KYG3M2YDP4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></title>
             <link>http://newstapa.org/article/pWjXe</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24183226-EB52-D95F-AABB-E70QZ5R0ZQBNHET2GLM5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속전속결 릴레이 해임...'이동관 방통위'에 꽃길]]></title>
-            <link>http://newstapa.org/article/3JmUM</link>
-            <guid>http://newstapa.org/article/3JmUM</guid>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[속전속결 릴레이 해임...'이동관 방통위'에 꽃길]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24153811-5F77-7CCA-BB84-DZR5HQPNMK9VL8IS765E.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

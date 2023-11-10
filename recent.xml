@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 09:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 10:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></title>
+            <link>http://newstapa.org/article/99IIY</link>
+            <guid>http://newstapa.org/article/99IIY</guid>
+            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/10185644-83F5-6D88-98B7-AWY837F6H7KYG3M2YDP4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대장동 일당과 유착한 경찰들...조우형의 뇌물 자금도 덮어줬다]]></title>
             <link>http://newstapa.org/article/cSDvu</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 부모를 빼앗긴 아기들, 해외 입양 비즈니스의 그늘]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/02191019-7F58-368C-AF4A-HZMB8QO7GNXD9KSSX3JX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]① 입양기관의 새빨간 거짓말과 피해자들]]></title>
-            <link>http://newstapa.org/article/k292M</link>
-            <guid>http://newstapa.org/article/k292M</guid>
-            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]① 입양기관의 새빨간 거짓말과 피해자들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/02161715-6B93-0ADE-02D7-FV65DGD0LCE8G75QZLT9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
