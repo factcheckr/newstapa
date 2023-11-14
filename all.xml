@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 07:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 08:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2054,6 +2054,14 @@
             <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24183226-EB52-D95F-AABB-E70QZ5R0ZQBNHET2GLM5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국독립언론네트워크 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/projects/-Tr19</link>
+            <guid>https://newstapa.org/projects/-Tr19</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국독립언론네트워크(KINN)는 재단법인 뉴스타파함께센터가 기획한 독립언론들의 네트워크입니다. 세상을 더 나은 방향으로 바꾸려는 독립언론들의 취재 결과물을 소개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14170344-BFD7-C49B-4103-FUBXPLT2Z8THZPGW4Y1S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 예산 검증 (뉴스타파 ─ 프로젝트)]]></title>
