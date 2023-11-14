@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 08:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 09:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dVi2s</link>
+            <guid>http://newstapa.org/article/dVi2s</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14163648-D9C5-56A7-83B5-1C968BVSCI2LHTD0H9XM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Y05Ht</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03160045-41E2-937A-2816-D47RLK9SOBMAI990F7BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조우형 경찰 진술서 18쪽 공개 "대검 중수부가 대장동 수사했다" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/_arg7</link>
-            <guid>http://newstapa.org/article/_arg7</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[조우형 경찰 진술서 18쪽 공개 "대검 중수부가 대장동 수사했다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03130834-B5EE-2C2A-0AA1-TIZTTRROV9V82FZJXVMQ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/dVi2s</link>
+            <guid>http://newstapa.org/article/dVi2s</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14163648-D9C5-56A7-83B5-1C968BVSCI2LHTD0H9XM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰 특활비 먹칠 벗기니... 수사기밀은 없고 오남용만 있었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12122013-93C6-7AD8-3C36-BGLNBL1UIXK2X4NXKWKJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5년 8개월 고양지청 특수활동비 869건 전수조사 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/DQ2DM</link>
-            <guid>http://newstapa.org/article/DQ2DM</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[5년 8개월 고양지청 특수활동비 869건 전수조사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12120354-E81E-C425-0CBD-3IQS7S3KRVF03R6H0RLA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/14162802-0D56-9DBA-D314-NN2G7Y0RT1WRTD0G8XMM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/dVi2s</link>
+            <guid>http://newstapa.org/article/dVi2s</guid>
+            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14163648-D9C5-56A7-83B5-1C968BVSCI2LHTD0H9XM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 부모를 빼앗긴 아기들, 해외 입양 비즈니스의 그늘 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/r8G4m</link>
             <guid>http://newstapa.org/article/r8G4m</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 고 이예람 중사와 특검, 그리고 418호 법정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/11151922-6249-6698-7E2C-GQ0374FQDJYDKYCFQ13E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/F56dn</link>
-            <guid>http://newstapa.org/article/F56dn</guid>
-            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03174327-5595-8953-1E95-9TK5NOG26YVRNWJQHPYA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 끝내 처벌 못한 '조직적 무능'...세월호 해경 지휘부 '무죄' 확정 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
