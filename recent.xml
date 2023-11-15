@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 04:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 05:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] “2억원 웃돈 기대, 탁 트인 한강 조망" 기사... 사기 아파트 광고였다]]></title>
+            <link>http://newstapa.org/article/3EV6I</link>
+            <guid>http://newstapa.org/article/3EV6I</guid>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] “2억원 웃돈 기대, 탁 트인 한강 조망" 기사... 사기 아파트 광고였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14174347-CFF5-672C-BB85-GBRA5LN0M45V97QTK1WR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 불법 ‘기사형 광고’ 매년 만 건 넘어…매경 3년 연속 1위]]></title>
+            <link>http://newstapa.org/article/G0VDY</link>
+            <guid>http://newstapa.org/article/G0VDY</guid>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 불법 ‘기사형 광고’ 매년 만 건 넘어…매경 3년 연속 1위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/15095143-91DE-5002-DD13-BZXJ6T5PCRQMY02O34RS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소]]></title>
             <link>http://newstapa.org/article/dVi2s</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이강길 경찰 진술서 공개 "대검 중수부가 부산저축은행 자료 요구"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/06160124-161F-B2A5-0F91-ZDHJW21OH127U5Z04W0E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 끝내 처벌 못한 '조직적 무능'...세월호 해경 지휘부 '무죄' 확정]]></title>
-            <link>http://newstapa.org/article/1j5Fi</link>
-            <guid>http://newstapa.org/article/1j5Fi</guid>
-            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 끝내 처벌 못한 '조직적 무능'...세월호 해경 지휘부 '무죄' 확정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/06141954-AC25-9CC6-7196-0A6JC7VSGJ0P4FRE81Z3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></title>
-            <link>http://newstapa.org/article/CQMtH</link>
-            <guid>http://newstapa.org/article/CQMtH</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03160045-41E2-937A-2816-D47RLK9SOBMAI990F7BC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

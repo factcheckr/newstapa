@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 04:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 05:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] “2억원 웃돈 기대, 탁 트인 한강 조망" 기사... 사기 아파트 광고였다]]></title>
+            <link>http://newstapa.org/article/3EV6I</link>
+            <guid>http://newstapa.org/article/3EV6I</guid>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] “2억원 웃돈 기대, 탁 트인 한강 조망" 기사... 사기 아파트 광고였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14174347-CFF5-672C-BB85-GBRA5LN0M45V97QTK1WR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] 불법 ‘기사형 광고’ 매년 만 건 넘어…매경 3년 연속 1위]]></title>
+            <link>http://newstapa.org/article/G0VDY</link>
+            <guid>http://newstapa.org/article/G0VDY</guid>
+            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 불법 ‘기사형 광고’ 매년 만 건 넘어…매경 3년 연속 1위]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/15095143-91DE-5002-DD13-BZXJ6T5PCRQMY02O34RS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></title>
             <link>http://newstapa.org/article/99IIY</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[사실은 이렇습니다] 박성중 의원은 뉴스타파함께재단에 대한 허위주장 유포를 중단하고 사과하라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08182339-B93B-2CD6-B1F2-84PLT0CFSBYDVFD1GES8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] <긴급르포> 오염수 방류 후쿠시마를 가다]]></title>
-            <link>http://newstapa.org/article/L6EjB</link>
-            <guid>http://newstapa.org/article/L6EjB</guid>
-            <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] &lt;긴급르포&gt; 오염수 방류 후쿠시마를 가다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/31182814-24F5-BA28-7DC5-QHUC5C9S9CRYJFZOBWUS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2]]></title>
-            <link>http://newstapa.org/article/fGbxh</link>
-            <guid>http://newstapa.org/article/fGbxh</guid>
-            <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열식 방송장악, 이동관 찍고 MB시즌2]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/24183226-EB52-D95F-AABB-E70QZ5R0ZQBNHET2GLM5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
