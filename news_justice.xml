@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 10:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 11:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열은 정말 몰랐나? 경찰 '대장동 수사기록'에 담긴 진실]]></title>
+            <link>http://newstapa.org/article/jdF4r</link>
+            <guid>http://newstapa.org/article/jdF4r</guid>
+            <pubDate>Thu, 16 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열은 정말 몰랐나? 경찰 '대장동 수사기록'에 담긴 진실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/16181914-E825-DDD7-5CC3-O83CAE1O6MK94YAR2XTK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구]]></title>
             <link>http://newstapa.org/article/Y05Ht</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[4부: 검사 범죄를 폭로하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/20181100-BF71-B5DB-CA98-6I3DE9DZGZSQ5VE040JC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이철수 "대검 중수부가 조우형 봐준 건 오래된 검찰 게이트다"]]></title>
-            <link>http://newstapa.org/article/WZo2W</link>
-            <guid>http://newstapa.org/article/WZo2W</guid>
-            <pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이철수 "대검 중수부가 조우형 봐준 건 오래된 검찰 게이트다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/18101345-3E7F-3E2F-C7A8-Y2PGH7N6GQWYQGBOSTRL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
