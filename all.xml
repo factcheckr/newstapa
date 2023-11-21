@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 08:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 09:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/E9ufY</link>
+            <guid>http://newstapa.org/article/E9ufY</guid>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/21165907-3B3F-EA8A-C82A-P9LSXYXB3UUIDMC8KQEV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낙동강 인근 거주지역 공기에서 2년 연속 녹조 독소 검출 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Y-La9</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호반2세들, 페이퍼컴퍼니 통해 경영권 승계 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/08114145-BBD2-3679-4B6D-ZG90E79CCP88MW05K025.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[독재자의 은행] ① 중미의 개발은행이 부패와 권위주의를 조장한 방법 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/2ENCy</link>
-            <guid>http://newstapa.org/article/2ENCy</guid>
-            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[독재자의 은행] ① 중미의 개발은행이 부패와 권위주의를 조장한 방법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03155745-413D-2328-5BED-G22P6DQBATQK497KCUH7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["대통령실 주변 집회·시위 가능"...항소심도 경찰 패소, 시민단체 승소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/02182942-DD34-F204-33DD-EH7ZVOOM39GOONUBK25K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/E9ufY</link>
+            <guid>http://newstapa.org/article/E9ufY</guid>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/21165907-3B3F-EA8A-C82A-P9LSXYXB3UUIDMC8KQEV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] “2억원 웃돈 기대, 탁 트인 한강 조망" 기사... 사기 아파트 광고였다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/3EV6I</link>
             <guid>http://newstapa.org/article/3EV6I</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정권과 정치검찰의 ‘독립언론 침탈’ 폭거를 규탄하며 어떤 탄압에도 권력감시를 멈추지 않겠습니다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14140203-D155-B1B4-EB5D-OKX7HN1PK60S1E1317G5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실은 이렇습니다] 박성중 의원은 뉴스타파함께재단에 대한 허위주장 유포를 중단하고 사과하라 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/PrUJs</link>
-            <guid>http://newstapa.org/article/PrUJs</guid>
-            <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[사실은 이렇습니다] 박성중 의원은 뉴스타파함께재단에 대한 허위주장 유포를 중단하고 사과하라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/08182339-B93B-2CD6-B1F2-84PLT0CFSBYDVFD1GES8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국독립언론네트워크 (뉴스타파 ─ 프로젝트)]]></title>
