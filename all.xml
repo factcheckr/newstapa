@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 11:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 12:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특집 다큐] <윤석열 정권은 왜 방송을 죽이려 드는가?> 제1부 방송장악 기술자 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/h68QR</link>
+            <guid>http://newstapa.org/article/h68QR</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 다큐] &lt;윤석열 정권은 왜 방송을 죽이려 드는가?&gt; 제1부 방송장악 기술자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30192205-F240-8999-3B15-4A9A5J5QPMSM6UZVLDK5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/E6jRh</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14163648-D9C5-56A7-83B5-1C968BVSCI2LHTD0H9XM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Y05Ht</link>
-            <guid>http://newstapa.org/article/Y05Ht</guid>
-            <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14160430-3E51-6A3E-EBC5-Y2GPB51PZFUSB5SH7FYL.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[특집 다큐] <윤석열 정권은 왜 방송을 죽이려 드는가?> 제1부 방송장악 기술자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/h68QR</link>
+            <guid>http://newstapa.org/article/h68QR</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 다큐] &lt;윤석열 정권은 왜 방송을 죽이려 드는가?&gt; 제1부 방송장악 기술자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30192205-F240-8999-3B15-4A9A5J5QPMSM6UZVLDK5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 부자가 지배하는 나라... 공직자 재산 30년 치 분석 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 특활비 부정: 그들이 처음으로 잘못을 인정했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31144725-3592-3626-885E-M5ZLQ9RUR75CKM31HAOT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<한동수 법정 증언> "윤석열, 검찰총장 때 '검찰의 역사는 빨갱이 색출의 역사' 발언" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/59kuw</link>
-            <guid>http://newstapa.org/article/59kuw</guid>
-            <pubDate>Mon, 30 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;한동수 법정 증언&gt; "윤석열, 검찰총장 때 '검찰의 역사는 빨갱이 색출의 역사' 발언"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31100517-F0EA-2B37-08E8-MAEER0SUGLFU7R97U2OL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정영학 검찰 진술 "김만배가 부산저축은행 대출 수사 막았다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/02182942-DD34-F204-33DD-EH7ZVOOM39GOONUBK25K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특집 다큐] <윤석열 정권은 왜 방송을 죽이려 드는가?> 제1부 방송장악 기술자 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/h68QR</link>
+            <guid>http://newstapa.org/article/h68QR</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 다큐] &lt;윤석열 정권은 왜 방송을 죽이려 드는가?&gt; 제1부 방송장악 기술자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30192205-F240-8999-3B15-4A9A5J5QPMSM6UZVLDK5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/E6jRh</link>
             <guid>http://newstapa.org/article/E6jRh</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[1부: 검찰, 독립언론을 침탈하다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/19115438-9F1F-3559-E63A-JA689XPAJTD6X0XIRAOF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] '헛소문'이라더니...언론재단 이사장 직행한 김효재 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/hWaxR</link>
-            <guid>http://newstapa.org/article/hWaxR</guid>
-            <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '헛소문'이라더니...언론재단 이사장 직행한 김효재]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/18154343-9ABA-F90D-BEF0-97VHGOROYLYC3TWTGE33.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국독립언론네트워크 (뉴스타파 ─ 프로젝트)]]></title>
