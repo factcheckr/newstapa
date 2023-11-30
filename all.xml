@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 08:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 09:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/E6jRh</link>
+            <guid>http://newstapa.org/article/E6jRh</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30171954-2E76-2C65-C8B5-OBME6P4H5EQG1OYCJ18H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정영학 검찰 진술 "김만배가 부산저축은행 대출 수사 막았다" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/xTRmk</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14160430-3E51-6A3E-EBC5-Y2GPB51PZFUSB5SH7FYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/99IIY</link>
-            <guid>http://newstapa.org/article/99IIY</guid>
-            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/10185644-83F5-6D88-98B7-AWY837F6H7KYG3M2YDP4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 부자가 지배하는 나라... 공직자 재산 30년 치 분석 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/02182942-DD34-F204-33DD-EH7ZVOOM39GOONUBK25K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/E6jRh</link>
+            <guid>http://newstapa.org/article/E6jRh</guid>
+            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30171954-2E76-2C65-C8B5-OBME6P4H5EQG1OYCJ18H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/E9ufY</link>
             <guid>http://newstapa.org/article/E9ufY</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] '헛소문'이라더니...언론재단 이사장 직행한 김효재]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/18154343-9ABA-F90D-BEF0-97VHGOROYLYC3TWTGE33.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정권과 정치검찰의 ‘독립언론 침탈’ 폭거를 규탄하며 어떤 탄압에도 권력감시를 멈추지 않겠습니다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/KAkXF</link>
-            <guid>http://newstapa.org/article/KAkXF</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정권과 정치검찰의 ‘독립언론 침탈’ 폭거를 규탄하며 어떤 탄압에도 권력감시를 멈추지 않겠습니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/14140203-D155-B1B4-EB5D-OKX7HN1PK60S1E1317G5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국독립언론네트워크 (뉴스타파 ─ 프로젝트)]]></title>
