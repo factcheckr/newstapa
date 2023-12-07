@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 10:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 11:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태]]></title>
+            <link>http://newstapa.org/article/VjXHQ</link>
+            <guid>http://newstapa.org/article/VjXHQ</guid>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07185205-D25F-8B2D-E68F-PJZQQ0EL93K265FTF9U1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호텔 중식당 사용 등 검사들의 법카 매뉴얼 위반 확인]]></title>
+            <link>http://newstapa.org/article/fe-Ln</link>
+            <guid>http://newstapa.org/article/fe-Ln</guid>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[호텔 중식당 사용 등 검사들의 법카 매뉴얼 위반 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07173927-486C-8103-C355-DQVY2S1N1VYZ0SHP7QR7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></title>
+            <link>http://newstapa.org/article/mBvAQ</link>
+            <guid>http://newstapa.org/article/mBvAQ</guid>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07174022-D395-9CEE-3286-WE0RH2S7M0UBOORZ56C4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></title>
             <link>http://newstapa.org/article/0WbHM</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[초법적 '특활비 저수지' 전국 55개 검찰청에서 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/08105121-DF13-1ED8-D604-95VVW50Q91EQAQS7CJIW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></title>
-            <link>http://newstapa.org/article/CQMtH</link>
-            <guid>http://newstapa.org/article/CQMtH</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03160045-41E2-937A-2816-D47RLK9SOBMAI990F7BC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></title>
-            <link>http://newstapa.org/article/pWjXe</link>
-            <guid>http://newstapa.org/article/pWjXe</guid>
-            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/01110959-66C7-8B86-4E82-DSIDMA9XY6UVREK7GZU8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타']]></title>
-            <link>http://newstapa.org/article/CxDK3</link>
-            <guid>http://newstapa.org/article/CxDK3</guid>
-            <pubDate>Tue, 31 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동수가 본 윤석열과 검찰... '빨갱이와 쿠데타']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31183810-2FBD-62E2-A57F-5UI6LHJKTRU9A4WJFAG2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 10:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 11:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태]]></title>
+            <link>http://newstapa.org/article/VjXHQ</link>
+            <guid>http://newstapa.org/article/VjXHQ</guid>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07185205-D25F-8B2D-E68F-PJZQQ0EL93K265FTF9U1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></title>
+            <link>http://newstapa.org/article/mBvAQ</link>
+            <guid>http://newstapa.org/article/mBvAQ</guid>
+            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07174022-D395-9CEE-3286-WE0RH2S7M0UBOORZ56C4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰총장의 비밀... 세금으로 만든 ‘현금 저수지’]]></title>
             <link>http://newstapa.org/article/Liy3M</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></title>
-            <link>http://newstapa.org/article/95S33</link>
-            <guid>http://newstapa.org/article/95S33</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰의 ‘까만 먹칠’과 6개 언론의 ‘숨은 글씨 찾기’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140613-8EDB-412D-6E57-4WZ5M3IN9LZSLD1BBVEY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 집단 판결 불이행… 지청장·검사장 지시·관여 확인]]></title>
-            <link>http://newstapa.org/article/C7Xbc</link>
-            <guid>http://newstapa.org/article/C7Xbc</guid>
-            <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 집단 판결 불이행… 지청장·검사장 지시·관여 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/13215357-5E1E-4D21-EB00-OBVT3JYFG2DD6RFBZKH1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
