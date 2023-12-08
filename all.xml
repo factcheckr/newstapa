@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 08:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 09:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 세금으로 소맥 49병 ‘폭음 회식’… 카드 영수증 조작으로 은폐 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/weI72</link>
+            <guid>http://newstapa.org/article/weI72</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 세금으로 소맥 49병 ‘폭음 회식’… 카드 영수증 조작으로 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/08135648-CD85-36AC-0BB2-G0XQB54WAHE3WR07GZSJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/VjXHQ</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/23182328-3F7D-2636-9877-C4Z145KN672JYAWK6UQX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[재산공개 30년] ‘재산과 이념’의 함수...정당별 의원들의 재산 흐름은 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QM7rz</link>
-            <guid>http://newstapa.org/article/QM7rz</guid>
-            <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[재산공개 30년] ‘재산과 이념’의 함수...정당별 의원들의 재산 흐름은]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/23182400-5869-BB02-C208-XL63B5IZSEBZ8DDZS7U8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[검찰, 세금으로 소맥 49병 ‘폭음 회식’… 카드 영수증 조작으로 은폐 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/weI72</link>
+            <guid>http://newstapa.org/article/weI72</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 세금으로 소맥 49병 ‘폭음 회식’… 카드 영수증 조작으로 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/08135648-CD85-36AC-0BB2-G0XQB54WAHE3WR07GZSJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기밀 유지 제도 악용... 검찰총장실로 흘러간 특활비 돈다발]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/09102024-B806-3186-2EAD-529HMARGAX4KZN1530X7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초법적 '특활비 저수지' 전국 55개 검찰청에서 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Tzl8D</link>
-            <guid>http://newstapa.org/article/Tzl8D</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[초법적 '특활비 저수지' 전국 55개 검찰청에서 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/08105121-DF13-1ED8-D604-95VVW50Q91EQAQS7CJIW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[호텔 중식당 사용 등 검사들의 법카 매뉴얼 위반 확인 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/31144725-3592-3626-885E-M5ZLQ9RUR75CKM31HAOT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰, 세금으로 소맥 49병 ‘폭음 회식’… 카드 영수증 조작으로 은폐 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/weI72</link>
+            <guid>http://newstapa.org/article/weI72</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 세금으로 소맥 49병 ‘폭음 회식’… 카드 영수증 조작으로 은폐]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/08135648-CD85-36AC-0BB2-G0XQB54WAHE3WR07GZSJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/VjXHQ</link>
             <guid>http://newstapa.org/article/VjXHQ</guid>
@@ -510,14 +518,6 @@
             <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 또 법원 판결 무시.. 특활비 기록 무더기 ‘은폐’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21183212-0C9A-0C7D-C789-5OUNSEZT6YA6H05628PW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/NCU09</link>
-            <guid>http://newstapa.org/article/NCU09</guid>
-            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['내가 결재하고 내가 가져가는' 지청장의 셀프 특활비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21202236-5857-75FC-3D7C-F4UZUQAKO87Q3OV8EPCH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“저는 서울신문 이종락 상무입니다” (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
