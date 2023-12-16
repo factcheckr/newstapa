@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://newstapa.org/category/%EC%9E%AC%EB%B2%8C</id>
-    <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
-    <updated>2023-12-16T18:11:02.073Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://newstapa.org/category/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 16 Dec 2023 19:09:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“저는 서울신문 이종락 상무입니다”]]></title>
+            <link>http://newstapa.org/article/k7rzu</link>
+            <guid>http://newstapa.org/article/k7rzu</guid>
+            <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“저는 서울신문 이종락 상무입니다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/28100528-9145-3D35-F4A4-4EW0WVCANVSNKY7K4WF0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호반2세들, 페이퍼컴퍼니 통해 경영권 승계 정황]]></title>
+            <link>http://newstapa.org/article/2WPtA</link>
+            <guid>http://newstapa.org/article/2WPtA</guid>
+            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[호반2세들, 페이퍼컴퍼니 통해 경영권 승계 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/28100548-077C-0B05-7F1D-Q9D7JZOYDEBBL3PWGSML.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 호반과 골프장, 그리고 탈세 의혹]]></title>
+            <link>http://newstapa.org/article/GJCot</link>
+            <guid>http://newstapa.org/article/GJCot</guid>
+            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 호반과 골프장, 그리고 탈세 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/19180022-3810-C220-FC93-IBQL75JR1YOJSDWAZSER.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의]]></title>
+            <link>http://newstapa.org/article/8p0W1</link>
+            <guid>http://newstapa.org/article/8p0W1</guid>
+            <pubDate>Tue, 17 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['임원 심기경호' 현대차, 뉴스타파 '위장집회' 보도 후 해고노동자와 합의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/17110248-9B4B-DB56-3446-8LH2J0YNI31LFJXCG4NJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></title>
+            <link>http://newstapa.org/article/K0RcQ</link>
+            <guid>http://newstapa.org/article/K0RcQ</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ① "미희 설렁탕집 들어간다"...사찰 증거 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164859-1C24-8C7C-FA59-Z2WV3H63FES1KV2V4ZO2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></title>
+            <link>http://newstapa.org/article/q_dQi</link>
+            <guid>http://newstapa.org/article/q_dQi</guid>
+            <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164938-173D-F664-09B1-YPY0AR89VGGKTC6JYKAF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></title>
+            <link>http://newstapa.org/article/F56dn</link>
+            <guid>http://newstapa.org/article/F56dn</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 현대차의 집회방해와 '민간인 사찰' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03174327-5595-8953-1E95-9TK5NOG26YVRNWJQHPYA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대차의 13년 집회방해와 검은 옷 청년들]]></title>
+            <link>http://newstapa.org/article/AgNAK</link>
+            <guid>http://newstapa.org/article/AgNAK</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[현대차의 13년 집회방해와 검은 옷 청년들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03134401-48CD-15FB-A385-09O7KP75YKSU2FTC1QRJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언]]></title>
+            <link>http://newstapa.org/article/jIV6f</link>
+            <guid>http://newstapa.org/article/jIV6f</guid>
+            <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["시위자·기자 동선 보고"...현대차 용역의 '사찰' 증언]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/03141553-D91D-E4FC-5B72-4DYP3TGEYMCEDVZ0ZBH0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></title>
+            <link>http://newstapa.org/article/DFXRl</link>
+            <guid>http://newstapa.org/article/DFXRl</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[효성 조현상, 또 다른 벤츠 딜러사도 차명 소유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/26171959-B6F0-E302-42D9-3KJG51PHRWR0RWWC9XM6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></title>
+            <link>http://newstapa.org/article/MlcU1</link>
+            <guid>http://newstapa.org/article/MlcU1</guid>
+            <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07162519-13AF-DB38-1362-G6S9WRFKIJ1ZPPU3K4XF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성']]></title>
+            <link>http://newstapa.org/article/ON-nB</link>
+            <guid>http://newstapa.org/article/ON-nB</guid>
+            <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03182206-AE2D-04DA-EB92-WGL35WD336VS7G6ZHK15.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></title>
+            <link>http://newstapa.org/article/z5s-l</link>
+            <guid>http://newstapa.org/article/z5s-l</guid>
+            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/22175746-8595-26BE-6A35-N6JF2FOQY3B7SFVUM3F1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></title>
+            <link>http://newstapa.org/article/gWaZp</link>
+            <guid>http://newstapa.org/article/gWaZp</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195452-40C9-0C11-4F2B-3J96OHG51JNXCM9P1JP3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백]]></title>
+            <link>http://newstapa.org/article/E-rbn</link>
+            <guid>http://newstapa.org/article/E-rbn</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ① 안전 관리자의 고백]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16200553-750C-5D72-FBD0-89BV7R6NR85HSDQC8SZM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[글로벌 삼성의 위험한 공장 ② 7년 악취의 비밀]]></title>
+            <link>http://newstapa.org/article/S3jfg</link>
+            <guid>http://newstapa.org/article/S3jfg</guid>
+            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장 ② 7년 악취의 비밀]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195656-0C37-6A7C-C2C9-31W2H9MTRFYV1NX7GFS3.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
