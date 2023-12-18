@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 06:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 07:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2020년 남부지검 특활비 집행 언제 가장 많았을까]]></title>
+            <link>http://newstapa.org/article/P7Z9S</link>
+            <guid>http://newstapa.org/article/P7Z9S</guid>
+            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 남부지검 특활비 집행 언제 가장 많았을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/18160600-230A-F6D9-2FA3-6BXY2NZYB6M0417TMGAS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김건희 새 녹취록 공개... 도이치 통정매매 직접 했다]]></title>
             <link>http://newstapa.org/article/ACmup</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회 예산 심의 시작... 시민사회단체 “검찰 특활비 폐지” 촉구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14160430-3E51-6A3E-EBC5-Y2GPB51PZFUSB5SH7FYL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 검찰총장의 비밀... 세금으로 만든 ‘현금 저수지’]]></title>
-            <link>http://newstapa.org/article/Liy3M</link>
-            <guid>http://newstapa.org/article/Liy3M</guid>
-            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 검찰총장의 비밀... 세금으로 만든 ‘현금 저수지’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/09131246-8B65-399A-C37F-1XHEVMW0I7Q7PS4Y3HFQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
