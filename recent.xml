@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 01:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 02:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국제 언론단체 CPJ, 한국 당국에 뉴스타파 탄압 즉각 중단 촉구]]></title>
+            <link>http://newstapa.org/article/RB9xl</link>
+            <guid>http://newstapa.org/article/RB9xl</guid>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국제 언론단체 CPJ, 한국 당국에 뉴스타파 탄압 즉각 중단 촉구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19110020-A4DF-D4F9-CF31-UWR8FDT0LKFSG0OVBXCJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] TV조선이 ‘띄운’ 지역주택아파트, 분양 사기였다]]></title>
+            <link>http://newstapa.org/article/mm5c7</link>
+            <guid>http://newstapa.org/article/mm5c7</guid>
+            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] TV조선이 ‘띄운’ 지역주택아파트, 분양 사기였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19110055-8D38-27EF-E224-EUYBDVL8NKZ71UZR4QCM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 중앙지검장 때 '삼성 노조 파괴범' 방어한 김홍일]]></title>
             <link>http://newstapa.org/article/N-Tbj</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07174022-D395-9CEE-3286-WE0RH2S7M0UBOORZ56C4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></title>
-            <link>http://newstapa.org/article/0WbHM</link>
-            <guid>http://newstapa.org/article/0WbHM</guid>
-            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/06165506-73B0-012D-F6CD-8XZVDJP5BT2M2ZNS3EMX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]④해외입양 기관, 수수료 웃돈 취득·장부 허위 기재 의혹]]></title>
-            <link>http://newstapa.org/article/3H1oz</link>
-            <guid>http://newstapa.org/article/3H1oz</guid>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]④해외입양 기관, 수수료 웃돈 취득·장부 허위 기재 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/01150934-4433-A7B6-A814-JVEVHPRE1GRZCHK3P0ED.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
