@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 07:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 08:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외입양과 돈]⑥기부금의 비밀⋯ 사실상 아이 송출 대가였다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/T5_46</link>
+            <guid>http://newstapa.org/article/T5_46</guid>
+            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해외입양과 돈]⑥기부금의 비밀⋯ 사실상 아이 송출 대가였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/20141730-E4F7-0816-60C0-2VM7HPCZ7E3BT8FUIHCU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 파바·스벅·아웃백에서 “특수활동했다” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/xeOdW</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 방통위원장 후보자는 왜 조우형을 도왔을까]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/12231100-BAD5-2B85-A56C-EOX7TE4KHNPIASREC874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['허위 인터뷰' 수사 검찰, '허위 사실'로 압수수색 영장 받았다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/WmDMb</link>
-            <guid>http://newstapa.org/article/WmDMb</guid>
-            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['허위 인터뷰' 수사 검찰, '허위 사실'로 압수수색 영장 받았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/08184018-CAA1-11E8-1D16-8HRFQYY29AJ92NDUYPK4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 파바·스벅·아웃백에서 “특수활동했다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195808-B21B-A60C-ED43-ZHPFXA7XLKL853VUK025.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[해외입양과 돈]⑥기부금의 비밀⋯ 사실상 아이 송출 대가였다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/T5_46</link>
+            <guid>http://newstapa.org/article/T5_46</guid>
+            <pubDate>Wed, 20 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해외입양과 돈]⑥기부금의 비밀⋯ 사실상 아이 송출 대가였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/20141730-E4F7-0816-60C0-2VM7HPCZ7E3BT8FUIHCU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해외입양과 돈]⑤입양 기관 내부 문서 3000쪽 최초 입수...아이를 거래했다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/FpDm-</link>
             <guid>http://newstapa.org/article/FpDm-</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/28163300-4EED-D3DC-699F-P0UUOIQYO5NFXEUN0LOP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] <쿠팡 잠입취재> 로켓 배송 '연료'가 된 사람들 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/hIy_P</link>
-            <guid>http://newstapa.org/article/hIy_P</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] &lt;쿠팡 잠입취재&gt; 로켓 배송 '연료'가 된 사람들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/17194327-0AC7-06DB-B44D-ECTR1L45YR95XFI1X6T3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낙동강 인근 거주지역 공기에서 2년 연속 녹조 독소 검출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
