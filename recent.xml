@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 10:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 11:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 김건희 녹취록 추가 공개…‘선수’와 직접 소통, 시세 조종 알았다]]></title>
+            <link>http://newstapa.org/article/j115L</link>
+            <guid>http://newstapa.org/article/j115L</guid>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 녹취록 추가 공개…‘선수’와 직접 소통, 시세 조종 알았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21174214-BEF4-285D-9B78-PFS9Y9T0RU8PC2HVYEW0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숱한 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액]]></title>
             <link>http://newstapa.org/article/WTYSm</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;김건희 녹취록&gt; ① '유죄 선고' 도이치 통정매매, 김건희가 직접 했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/13183531-FF61-5ABE-1E05-NIDCKZSK6TA73UUWRDDZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<김건희 녹취록> ② 김건희, 도이치 ‘0차 작전’ 때도 직접 통정매매했다]]></title>
-            <link>http://newstapa.org/article/uA6IX</link>
-            <guid>http://newstapa.org/article/uA6IX</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;김건희 녹취록&gt; ② 김건희, 도이치 ‘0차 작전’ 때도 직접 통정매매했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/13173531-E4BE-301F-D666-1K15K9OF5AMFVTLK26W9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

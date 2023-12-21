@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 10:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 11:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 김건희 녹취록 추가 공개…‘선수’와 직접 소통, 시세 조종 알았다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/j115L</link>
+            <guid>http://newstapa.org/article/j115L</guid>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 녹취록 추가 공개…‘선수’와 직접 소통, 시세 조종 알았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21174214-BEF4-285D-9B78-PFS9Y9T0RU8PC2HVYEW0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숱한 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/WTYSm</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/13183531-FF61-5ABE-1E05-NIDCKZSK6TA73UUWRDDZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<김건희 녹취록> ② 김건희, 도이치 ‘0차 작전’ 때도 직접 통정매매했다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/uA6IX</link>
-            <guid>http://newstapa.org/article/uA6IX</guid>
-            <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;김건희 녹취록&gt; ② 김건희, 도이치 ‘0차 작전’ 때도 직접 통정매매했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/13173531-E4BE-301F-D666-1K15K9OF5AMFVTLK26W9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 김건희 녹취록 추가 공개…‘선수’와 직접 소통, 시세 조종 알았다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/j115L</link>
+            <guid>http://newstapa.org/article/j115L</guid>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 김건희 녹취록 추가 공개…‘선수’와 직접 소통, 시세 조종 알았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21174214-BEF4-285D-9B78-PFS9Y9T0RU8PC2HVYEW0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[숱한 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/06165506-73B0-012D-F6CD-8XZVDJP5BT2M2ZNS3EMX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 다큐] <윤석열 정권은 왜 방송을 죽이려 드는가?> 제1부 방송장악 기술자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/h68QR</link>
-            <guid>http://newstapa.org/article/h68QR</guid>
-            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 다큐] &lt;윤석열 정권은 왜 방송을 죽이려 드는가?&gt; 제1부 방송장악 기술자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30192205-F240-8999-3B15-4A9A5J5QPMSM6UZVLDK5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 중앙지검장 때 '삼성 노조 파괴범' 방어한 김홍일 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
