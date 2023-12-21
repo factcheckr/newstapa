@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 07:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 08:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숱은 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액]]></title>
+            <link>http://newstapa.org/article/WTYSm</link>
+            <guid>http://newstapa.org/article/WTYSm</guid>
+            <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[숱은 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21170114-15F9-396B-EC44-DRZVZ5JFD2ZI5MEJGUS9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김상열 회장, 재단 통해 세금 탈루 의혹]]></title>
             <link>http://newstapa.org/article/Ry8T9</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;김건희 녹취록&gt; ② 김건희, 도이치 ‘0차 작전’ 때도 직접 통정매매했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/13173531-E4BE-301F-D666-1K15K9OF5AMFVTLK26W9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소액주주 상륙작전]]></title>
-            <link>http://newstapa.org/article/dByDX</link>
-            <guid>http://newstapa.org/article/dByDX</guid>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[소액주주 상륙작전]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/13130235-5230-0423-CD44-Q8N05YL39ZFF0K3354DD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
