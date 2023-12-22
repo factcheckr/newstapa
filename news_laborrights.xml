@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 08:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 09:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외입양과 돈]⑦20만평 캠핑장을 낳은 해외입양 사업]]></title>
+            <link>http://newstapa.org/article/CO_Qd</link>
+            <guid>http://newstapa.org/article/CO_Qd</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해외입양과 돈]⑦20만평 캠핑장을 낳은 해외입양 사업]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/22170711-2A21-0BB2-F190-RND77RZ0TP18X543UG10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외입양과 돈]⑥기부금의 비밀⋯ 사실상 아이 송출 대가였다]]></title>
             <link>http://newstapa.org/article/T5_46</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡은 바뀌지 않는다③ 쿠팡이 창조한 노동 지옥]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/01183135-5303-7CFE-F52F-LEEM7EEG0S8ZT5HEWR2H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다]]></title>
-            <link>http://newstapa.org/article/9QR9A</link>
-            <guid>http://newstapa.org/article/9QR9A</guid>
-            <pubDate>Tue, 29 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡, 밤 새는 야간 노동자에게 시급 덜 준다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/28163300-4EED-D3DC-699F-P0UUOIQYO5NFXEUN0LOP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
