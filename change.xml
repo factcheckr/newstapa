@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 07:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 08:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]관광학회 '논문 조작' 교수들, '임용 취소', '정직' 등 무더기 중징계]]></title>
+            <link>https://www.newstapa.org/article/c-NiQ</link>
+            <guid>https://www.newstapa.org/article/c-NiQ</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023.12.22]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21032345-D1E1-CADA-C241-L9WMFU2SG0RHZLSEIQYJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소]]></title>
             <link>https://www.newstapa.org/article/vZzc3</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.13]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/12161245-6636-4FB9-FC60-5HQYRPFFPEL8QAX1M26L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]'직원 폭행' 협성대 박명래 총장, 사건 10개월 만에 해임]]></title>
-            <link>https://www.newstapa.org/article/op4gx</link>
-            <guid>https://www.newstapa.org/article/op4gx</guid>
-            <pubDate>Fri, 06 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.06]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/06154441-6F1A-6899-5691-GTEA2ZQ1P0HNCYUP7HQQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

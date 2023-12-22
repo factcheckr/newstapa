@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 07:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 08:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화]관광학회 '논문 조작' 교수들, '임용 취소', '정직' 등 무더기 중징계]]></title>
+            <link>http://newstapa.org/article/c-NiQ</link>
+            <guid>http://newstapa.org/article/c-NiQ</guid>
+            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화]관광학회 '논문 조작' 교수들, '임용 취소', '정직' 등 무더기 중징계]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21032345-D1E1-CADA-C241-L9WMFU2SG0RHZLSEIQYJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 김길자 경인여대 총장 부부 ‘유죄’...김황식 전 총리 딸 부정채용 의혹 인정]]></title>
             <link>http://newstapa.org/article/DK4ze</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 한동훈 처가와 '산호세 허위스펙 네트워크']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30174705-6CC9-4ECD-12E8-RNOMF4954U6JKL0XYERV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 처가 4명 연루 '허위 스펙 네트워크' 분석]]></title>
-            <link>http://newstapa.org/article/n5XnJ</link>
-            <guid>http://newstapa.org/article/n5XnJ</guid>
-            <pubDate>Thu, 30 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈 처가 4명 연루 '허위 스펙 네트워크' 분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30160453-2EC7-1308-6581-JSGV50KFN02N1EAWIYPE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
