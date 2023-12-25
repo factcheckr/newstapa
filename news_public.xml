@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Dec 2023 00:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 01:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></title>
+            <link>http://newstapa.org/article/Ol-US</link>
+            <guid>http://newstapa.org/article/Ol-US</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195010-5257-5F3A-422D-MJ96ASVUQQG4OPYXFD2H.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청부민원② 류희림 위원장 동생 "형 후배가 민원 신청 부탁...직원도 동원"]]></title>
+            <link>http://newstapa.org/article/TM1jN</link>
+            <guid>http://newstapa.org/article/TM1jN</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원② 류희림 위원장 동생 "형 후배가 민원 신청 부탁...직원도 동원"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24191915-9769-E1D9-EB71-CHR9R023KI8JTXKFK87I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청부민원③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></title>
+            <link>http://newstapa.org/article/OhJu5</link>
+            <guid>http://newstapa.org/article/OhJu5</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195257-585D-1905-CEF0-VMCJLJUTDT27KNJ42C10.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 김건희 녹취록 추가 공개…‘선수’와 직접 소통, 시세 조종 알았다]]></title>
             <link>http://newstapa.org/article/j115L</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07185205-D25F-8B2D-E68F-PJZQQ0EL93K265FTF9U1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호텔 중식당 사용 등 검사들의 법카 매뉴얼 위반 확인]]></title>
-            <link>http://newstapa.org/article/fe-Ln</link>
-            <guid>http://newstapa.org/article/fe-Ln</guid>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[호텔 중식당 사용 등 검사들의 법카 매뉴얼 위반 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07173927-486C-8103-C355-DQVY2S1N1VYZ0SHP7QR7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></title>
-            <link>http://newstapa.org/article/mBvAQ</link>
-            <guid>http://newstapa.org/article/mBvAQ</guid>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07174022-D395-9CEE-3286-WE0RH2S7M0UBOORZ56C4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></title>
-            <link>http://newstapa.org/article/0WbHM</link>
-            <guid>http://newstapa.org/article/0WbHM</guid>
-            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/06165506-73B0-012D-F6CD-8XZVDJP5BT2M2ZNS3EMX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
