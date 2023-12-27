@@ -4,23 +4,31 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Dec 2023 11:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 12:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[청부민원 ① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></title>
+            <title><![CDATA[청부민원⑥ 방심위 내부 부글부글 "국기문란 행위자는 류희림"]]></title>
+            <link>http://newstapa.org/article/wKoDd</link>
+            <guid>http://newstapa.org/article/wKoDd</guid>
+            <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑥ 방심위 내부 부글부글 "국기문란 행위자는 류희림"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/27203527-CCC9-00CE-2FEE-JQPHY54JHXVCQWZKB6DF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></title>
             <link>http://newstapa.org/article/Ol-US</link>
             <guid>http://newstapa.org/article/Ol-US</guid>
             <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원 ① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></content:encoded>
+            <content:encoded><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195010-5257-5F3A-422D-MJ96ASVUQQG4OPYXFD2H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청부민원 ③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></title>
+            <title><![CDATA[청부민원③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></title>
             <link>http://newstapa.org/article/OhJu5</link>
             <guid>http://newstapa.org/article/OhJu5</guid>
             <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원 ③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></content:encoded>
+            <content:encoded><![CDATA[청부민원③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195257-585D-1905-CEF0-VMCJLJUTDT27KNJ42C10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[권력만 잡으면 '가짜뉴스' 잡기 혈안...비판 언론 옥죄기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/24220206-880D-331A-5B8A-2YSE0RHEUEQM1WOR6R1P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3부: '역린'을 건드리다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></title>
-            <link>http://newstapa.org/article/x35ae</link>
-            <guid>http://newstapa.org/article/x35ae</guid>
-            <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3부: '역린'을 건드리다 [윤석열 정권은 왜 뉴스타파를 죽이려 드는가]]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/11100617-07B3-3E6F-2350-GQAKI08AQ8AIF0LTXZZW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
