@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 05:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 06:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령실, "재판 져도 다시 비공개"...직원 명단 공개 소송 2심 시작]]></title>
+            <link>http://newstapa.org/article/D7TXC</link>
+            <guid>http://newstapa.org/article/D7TXC</guid>
+            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대통령실, "재판 져도 다시 비공개"...직원 명단 공개 소송 2심 시작]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/27164347-8019-9402-2965-BNO173Q015Q2RMTBCIVF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원⑦ 류희림 '청부민원' 모르쇠한 김홍일, "가짜뉴스는 잡겠다"]]></title>
             <link>http://newstapa.org/article/LGK89</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, 파바·스벅·아웃백에서 “특수활동했다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19130239-DB9B-6DFB-1C54-8U89EGA4CKFRIHTVA27C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파바' 한정판 케이크에 '스벅' 프리퀀시까지… 특수활동에 안 쓰는 검찰 특수활동비]]></title>
-            <link>http://newstapa.org/article/R9Avq</link>
-            <guid>http://newstapa.org/article/R9Avq</guid>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['파바' 한정판 케이크에 '스벅' 프리퀀시까지… 특수활동에 안 쓰는 검찰 특수활동비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19102714-AB24-7B9C-10BF-FBFKZDNYD6LJD1YWFT8T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
