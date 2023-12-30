@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 10:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 11:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원⑩ 쏟아지는 류희림 규탄 성명..."류희림이야말로 수사대상"]]></title>
+            <link>http://newstapa.org/article/Qmolr</link>
+            <guid>http://newstapa.org/article/Qmolr</guid>
+            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑩ 쏟아지는 류희림 규탄 성명..."류희림이야말로 수사대상"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/30200342-F5E2-28DD-5420-MYR4XRX57M2EHP92BGRW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원⑨ '류희림 청부' 의심 민원 전수분석...'조직적 공모' 흔적 드러나]]></title>
             <link>http://newstapa.org/article/8CKwx</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[패밀리레스토랑·해산물식당서 단체 기밀수사?...검찰 특활비로 회식비 유용 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19100255-F4E6-77DD-BBAC-ADWBULVR4Q98C23Z8EVO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진주지청 특활비 영수증, 70% 이상 검찰청사 근처 식당·커피숍]]></title>
-            <link>http://newstapa.org/article/9Dwce</link>
-            <guid>http://newstapa.org/article/9Dwce</guid>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[진주지청 특활비 영수증, 70% 이상 검찰청사 근처 식당·커피숍]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19102824-F860-B7EB-EA8B-MK7Q2YYQU07CL3GK4NCK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
