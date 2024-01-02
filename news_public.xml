@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 08:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 09:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/26184923-1896-74BB-6036-EDF58BYC5TJJZGZXENFD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></title>
-            <link>http://newstapa.org/article/Ol-US</link>
-            <guid>http://newstapa.org/article/Ol-US</guid>
-            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195010-5257-5F3A-422D-MJ96ASVUQQG4OPYXFD2H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[청부민원② 류희림 위원장 동생 "형 후배가 민원 신청 부탁...직원도 동원"]]></title>
             <link>http://newstapa.org/article/TM1jN</link>
             <guid>http://newstapa.org/article/TM1jN</guid>
             <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원② 류희림 위원장 동생 "형 후배가 민원 신청 부탁...직원도 동원"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24191915-9769-E1D9-EB71-CHR9R023KI8JTXKFK87I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></title>
+            <link>http://newstapa.org/article/Ol-US</link>
+            <guid>http://newstapa.org/article/Ol-US</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195010-5257-5F3A-422D-MJ96ASVUQQG4OPYXFD2H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청부민원③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></title>
