@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 04:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 05:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국힘 의원 14명 ‘세금 유용 의혹’ 증거 차고 넘치는데… 검찰은 무혐의, 공수처는 조사도 안 해]]></title>
+            <link>http://newstapa.org/article/9XXlk</link>
+            <guid>http://newstapa.org/article/9XXlk</guid>
+            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국힘 의원 14명 ‘세금 유용 의혹’ 증거 차고 넘치는데… 검찰은 무혐의, 공수처는 조사도 안 해]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/03114553-ADC3-3F45-DC77-HRMISAKD7Q1007IFPKLL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숱한 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액]]></title>
             <link>http://newstapa.org/article/WTYSm</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“높으신 분들이 쓴 돈” 통제 밖 고삐없는 검찰 특활비]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12121556-36D6-D09D-3FD5-SH9S0LBXYY7CZCMZ8KZ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 예산 감시 '크라우드 소싱 프로젝트' 제안]]></title>
-            <link>http://newstapa.org/article/ZysKT</link>
-            <guid>http://newstapa.org/article/ZysKT</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 예산 감시 '크라우드 소싱 프로젝트' 제안]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12153755-BA47-29C4-9325-9BRO0Q7GU3UOIDZVXE97.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
