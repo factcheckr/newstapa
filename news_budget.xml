@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 04:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 05:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['특활비 함부로 쓰지마라'... 기재부, 특수활동비 집행지침 개정·강화]]></title>
+            <link>http://newstapa.org/article/lymez</link>
+            <guid>http://newstapa.org/article/lymez</guid>
+            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['특활비 함부로 쓰지마라'... 기재부, 특수활동비 집행지침 개정·강화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04110802-5C74-5FEB-0E0C-GJPFTY8I9HLMQWL8YIYN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국힘 의원 14명 ‘세금 유용 의혹’ 증거 차고 넘치는데… 검찰은 무혐의, 공수처는 조사도 안 해]]></title>
             <link>http://newstapa.org/article/9XXlk</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[고양지청 특활비 전체 기록은 검찰 기밀 수사의 '민낯']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/11194236-4FBD-0FD2-8167-6U2KU9NV83PXATKL7U5O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“높으신 분들이 쓴 돈” 통제 밖 고삐없는 검찰 특활비]]></title>
-            <link>http://newstapa.org/article/JXeiV</link>
-            <guid>http://newstapa.org/article/JXeiV</guid>
-            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“높으신 분들이 쓴 돈” 통제 밖 고삐없는 검찰 특활비]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/12121556-36D6-D09D-3FD5-SH9S0LBXYY7CZCMZ8KZ0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

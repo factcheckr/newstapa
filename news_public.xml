@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 04:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 05:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['특활비 함부로 쓰지마라'... 기재부, 특수활동비 집행지침 개정·강화]]></title>
+            <link>http://newstapa.org/article/lymez</link>
+            <guid>http://newstapa.org/article/lymez</guid>
+            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['특활비 함부로 쓰지마라'... 기재부, 특수활동비 집행지침 개정·강화]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04110802-5C74-5FEB-0E0C-GJPFTY8I9HLMQWL8YIYN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국힘 의원 14명 ‘세금 유용 의혹’ 증거 차고 넘치는데… 검찰은 무혐의, 공수처는 조사도 안 해]]></title>
             <link>http://newstapa.org/article/9XXlk</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[숱한 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21171747-D637-5A08-E5AB-5DUM0J3UBEAKK6UALN17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 파바·스벅·아웃백에서 “특수활동했다”]]></title>
-            <link>http://newstapa.org/article/xeOdW</link>
-            <guid>http://newstapa.org/article/xeOdW</guid>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 파바·스벅·아웃백에서 “특수활동했다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19130239-DB9B-6DFB-1C54-8U89EGA4CKFRIHTVA27C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
