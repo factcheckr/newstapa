@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 04:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 05:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] ‘세금 도둑’에게 국회사무처를 맡겼다]]></title>
+            <link>http://newstapa.org/article/58q9g</link>
+            <guid>http://newstapa.org/article/58q9g</guid>
+            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] ‘세금 도둑’에게 국회사무처를 맡겼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04151732-7698-A1D1-6583-Z68VCQJOVKE3J0J630IP.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 희대의 '청부 민원' 의혹, '3각 공모' 재구성]]></title>
             <link>http://newstapa.org/article/ttlot</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원② 류희림 위원장 동생 "형 후배가 민원 신청 부탁...직원도 동원"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24191915-9769-E1D9-EB71-CHR9R023KI8JTXKFK87I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></title>
-            <link>http://newstapa.org/article/Ol-US</link>
-            <guid>http://newstapa.org/article/Ol-US</guid>
-            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195010-5257-5F3A-422D-MJ96ASVUQQG4OPYXFD2H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
