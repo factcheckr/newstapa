@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 국제협업</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 14:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 15:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></title>
+            <link>http://newstapa.org/article/j3liV</link>
+            <guid>http://newstapa.org/article/j3liV</guid>
+            <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/08155713-9D7C-E956-2AE1-6YC31SIO77OESJFCTTET.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[해외입양과 돈]⑦20만평 캠핑장을 낳은 해외입양 사업]]></title>
             <link>http://newstapa.org/article/CO_Qd</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 한국 정부, 친환경 가면 쓴 대기업에 특혜 펑펑]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09180716-68F8-65BD-B3F7-80Z20E7G9FOIEIUA0KEQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[삼림파괴 주식회사③]한국정부, 해외서 환경파괴 대기업에 특혜 금융]]></title>
-            <link>http://newstapa.org/article/fbMxc</link>
-            <guid>http://newstapa.org/article/fbMxc</guid>
-            <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[삼림파괴 주식회사③]한국정부, 해외서 환경파괴 대기업에 특혜 금융]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/09190531-36E3-52A7-EAD0-OM1SEGA4OSM4ZU1LNVHQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
