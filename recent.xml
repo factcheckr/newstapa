@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 09:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 10:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원⑬ "꼼수 쓰다가 도망"...'청부민원' 회의장에 돌아오지 않는 류희림]]></title>
+            <link>http://newstapa.org/article/6nV4V</link>
+            <guid>http://newstapa.org/article/6nV4V</guid>
+            <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑬ "꼼수 쓰다가 도망"...'청부민원' 회의장에 돌아오지 않는 류희림]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/09170909-01B2-7738-7FEE-MRUIPOCM3CKDX6AWL6OW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] “칼춤 추자”, “교도소 후기 쓴다”...법정에 선 ‘익명의 협박자들’]]></title>
             <link>http://newstapa.org/article/OjuLl</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023년 뉴스타파 회원의 밤 '선언과 약속']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/28181348-F1E1-0E89-D9F5-XUOBBIECX2AICAPKY62T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실, "재판 져도 다시 비공개"...직원 명단 공개 소송 2심 시작]]></title>
-            <link>http://newstapa.org/article/D7TXC</link>
-            <guid>http://newstapa.org/article/D7TXC</guid>
-            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령실, "재판 져도 다시 비공개"...직원 명단 공개 소송 2심 시작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/27164347-8019-9402-2965-BNO173Q015Q2RMTBCIVF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
