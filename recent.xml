@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 07:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 08:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원⑭ 과거 판결문 "청부민원은 용납 못할 심각한 비리"]]></title>
+            <link>http://newstapa.org/article/eSW_M</link>
+            <guid>http://newstapa.org/article/eSW_M</guid>
+            <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑭ 과거 판결문 "청부민원은 용납 못할 심각한 비리"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/10135016-6899-9E37-935B-PP15TSK8ZVCAAMS40SE8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원⑬ "꼼수 쓰다가 도망"...'청부민원' 회의장에 돌아오지 않는 류희림]]></title>
             <link>http://newstapa.org/article/6nV4V</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원⑧ 류희림 방심위원장의 거짓말…사퇴 촉구 잇따라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/28232734-9E02-AB28-1C09-4RP9GQTTC39BDMPGO1QT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 뉴스타파 회원의 밤 '선언과 약속']]></title>
-            <link>http://newstapa.org/article/XpAcK</link>
-            <guid>http://newstapa.org/article/XpAcK</guid>
-            <pubDate>Thu, 28 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 뉴스타파 회원의 밤 '선언과 약속']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/28181348-F1E1-0E89-D9F5-XUOBBIECX2AICAPKY62T.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
