@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 08:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 09:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원⑮ 류희림 동생 민원 발각 뒤 일제히 민원 제출 멈춰]]></title>
+            <link>http://newstapa.org/article/QC1e_</link>
+            <guid>http://newstapa.org/article/QC1e_</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑮ 류희림 동생 민원 발각 뒤 일제히 민원 제출 멈춰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/11174631-0145-CC8A-0A53-HOOP0Q9DUWXY18FWU8SW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원⑭ 과거 판결문 "청부민원은 용납 못할 심각한 비리"]]></title>
             <link>http://newstapa.org/article/eSW_M</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 27 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원⑥ 방심위 내부 부글부글 "국기문란 행위자는 류희림"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/27203527-CCC9-00CE-2FEE-JQPHY54JHXVCQWZKB6DF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원⑤ '류희림 사퇴' 촉구 봇물...국민의힘은 '제보자 검찰 고발']]></title>
-            <link>http://newstapa.org/article/vUNjX</link>
-            <guid>http://newstapa.org/article/vUNjX</guid>
-            <pubDate>Tue, 26 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원⑤ '류희림 사퇴' 촉구 봇물...국민의힘은 '제보자 검찰 고발']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/26194350-4A56-FF88-AB05-44A9N4OO10T57NLDUB88.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
