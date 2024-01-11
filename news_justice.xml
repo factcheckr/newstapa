@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 10:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 11:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, "김건희 모녀 도이치로 23억 수익"]]></title>
+            <link>http://newstapa.org/article/T6fPJ</link>
+            <guid>http://newstapa.org/article/T6fPJ</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, "김건희 모녀 도이치로 23억 수익"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/11175522-6A6C-B2E9-0CFB-WZK2MYNGA8GSEVIC5V51.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도이치로 10억 넘게 번 김건희 유형 '쩐주' 다 봐줬다]]></title>
+            <link>http://newstapa.org/article/U0n6H</link>
+            <guid>http://newstapa.org/article/U0n6H</guid>
+            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도이치로 10억 넘게 번 김건희 유형 '쩐주' 다 봐줬다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/11175628-1A2C-F36D-4AC3-OPYSOY38G5JU8E1NTOVW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] “칼춤 추자”, “교도소 후기 쓴다”...법정에 선 ‘익명의 협박자들’]]></title>
             <link>http://newstapa.org/article/OjuLl</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/10185644-83F5-6D88-98B7-AWY837F6H7KYG3M2YDP4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대장동 일당과 유착한 경찰들...조우형의 뇌물 자금도 덮어줬다]]></title>
-            <link>http://newstapa.org/article/cSDvu</link>
-            <guid>http://newstapa.org/article/cSDvu</guid>
-            <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대장동 일당과 유착한 경찰들...조우형의 뇌물 자금도 덮어줬다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/10102817-F162-AFB5-79B2-AESUX7TU44Q21338GMEO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산저축은행 대출 담당자 "대장동은 사업성 검토 없이 대출금부터 내줬다"]]></title>
-            <link>http://newstapa.org/article/G4Gc2</link>
-            <guid>http://newstapa.org/article/G4Gc2</guid>
-            <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산저축은행 대출 담당자 "대장동은 사업성 검토 없이 대출금부터 내줬다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/08174114-827D-9870-9CC4-J1MUIM6AWWKG8GDY5LAE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
