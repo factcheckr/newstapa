@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 13:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 14:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원⑰ '청부 민원' 조사는 뒷전, 공익신고자 색출에 나선 검경]]></title>
+            <link>http://newstapa.org/article/Tz6a3</link>
+            <guid>http://newstapa.org/article/Tz6a3</guid>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑰ '청부 민원' 조사는 뒷전, 공익신고자 색출에 나선 검경]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/15224339-3F29-3393-565E-NEBXQVA76DEFWGXRN54O.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원⑯ "폭력적 해촉 의결"...방심위 직원 149명 '류희림 청부의혹' 실명 신고]]></title>
             <link>http://newstapa.org/article/aSVS5</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원⑫ '아들과 친인척' 민원만 21건, 류희림은 정말 몰랐을까]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04205055-0F97-3631-AB08-FVROTZSBF6CO9FZTKLSQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['특활비 함부로 쓰지마라'... 기재부, 특수활동비 집행지침 개정·강화]]></title>
-            <link>http://newstapa.org/article/lymez</link>
-            <guid>http://newstapa.org/article/lymez</guid>
-            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['특활비 함부로 쓰지마라'... 기재부, 특수활동비 집행지침 개정·강화]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04110802-5C74-5FEB-0E0C-GJPFTY8I9HLMQWL8YIYN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
