@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 01:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 02:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[류희림 '청부민원' 의혹]]></title>
+            <link>https://newstapa.org/projects/luSZ1</link>
+            <guid>https://newstapa.org/projects/luSZ1</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[류희림 방송통신심의위원회 위원장이 가족과 지인 등을 동원해 방심위에 뉴스타파 인용 보도 관련 방송의 심의를 요청한 ‘청부민원’ 의혹에 대해 추적 보도합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/15112420-F06D-317C-5F7C-KUBBH48JLYWSSSOX1UTE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국독립언론네트워크]]></title>
             <link>https://newstapa.org/projects/-Tr19</link>
