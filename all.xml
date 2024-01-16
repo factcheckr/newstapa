@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 09:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 10:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원⑱ "경찰수사·내부감찰·언론보도 삼각동맹 본질은 류희림 구하기" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/WTmgk</link>
+            <guid>http://newstapa.org/article/WTmgk</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑱ "경찰수사·내부감찰·언론보도 삼각동맹 본질은 류희림 구하기"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/16180708-48E8-5416-C17C-89GC4A8U31HMLZJHEG67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/cdy_Z</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/08174240-5C5D-3616-BC27-DLWSK18A5ZEO13PSLI4A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 희대의 '청부 민원' 의혹, '3각 공모' 재구성 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ttlot</link>
-            <guid>http://newstapa.org/article/ttlot</guid>
-            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 희대의 '청부 민원' 의혹, '3각 공모' 재구성]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04193430-B06B-4C13-00EA-9S7T7TEZC7Q1ZGSTW04F.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[청부민원⑱ "경찰수사·내부감찰·언론보도 삼각동맹 본질은 류희림 구하기" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/WTmgk</link>
+            <guid>http://newstapa.org/article/WTmgk</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원⑱ "경찰수사·내부감찰·언론보도 삼각동맹 본질은 류희림 구하기"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/16180708-48E8-5416-C17C-89GC4A8U31HMLZJHEG67.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['특활비 함부로 쓰지마라'... 기재부, 특수활동비 집행지침 개정·강화]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04110802-5C74-5FEB-0E0C-GJPFTY8I9HLMQWL8YIYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국힘 의원 14명 ‘세금 유용 의혹’ 증거 차고 넘치는데… 검찰은 무혐의, 공수처는 조사도 안 해 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/9XXlk</link>
-            <guid>http://newstapa.org/article/9XXlk</guid>
-            <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국힘 의원 14명 ‘세금 유용 의혹’ 증거 차고 넘치는데… 검찰은 무혐의, 공수처는 조사도 안 해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/03114553-ADC3-3F45-DC77-HRMISAKD7Q1007IFPKLL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, "김건희 모녀 도이치로 23억 수익" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
