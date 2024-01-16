@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 07:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 08:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/cdy_Z</link>
+            <guid>http://newstapa.org/article/cdy_Z</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/16165405-BBCD-D2A5-2DBE-MZYH1PEXK4WUKTL4ON1E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령비서실 상대 행정소송 잇따라 승소...'특수활동비 내역·수의계약 업체 공개하라' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/87nmc</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04193430-B06B-4C13-00EA-9S7T7TEZC7Q1ZGSTW04F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청부민원⑪ 국민의힘·방심위·방통위 '3각 공모' 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/dWLpZ</link>
-            <guid>http://newstapa.org/article/dWLpZ</guid>
-            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원⑪ 국민의힘·방심위·방통위 '3각 공모' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/04185906-7432-3F98-8BE3-2O621GTXP644M9FINO3O.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/cdy_Z</link>
+            <guid>http://newstapa.org/article/cdy_Z</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/16165405-BBCD-D2A5-2DBE-MZYH1PEXK4WUKTL4ON1E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 대통령비서실 상대 행정소송 잇따라 승소...'특수활동비 내역·수의계약 업체 공개하라' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국힘 의원 14명 ‘세금 유용 의혹’ 증거 차고 넘치는데… 검찰은 무혐의, 공수처는 조사도 안 해]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/03114553-ADC3-3F45-DC77-HRMISAKD7Q1007IFPKLL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 다큐]<윤석열 정권은 왜 방송을 죽이려 드는가> 제2부 청부민원, 셀프심의, 그리고 방송장악 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/BaOGU</link>
-            <guid>http://newstapa.org/article/BaOGU</guid>
-            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 다큐]&lt;윤석열 정권은 왜 방송을 죽이려 드는가&gt; 제2부 청부민원, 셀프심의, 그리고 방송장악]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/30205746-4911-8110-F724-N04DSVDA876F05RQV01S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, "김건희 모녀 도이치로 23억 수익" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/10185644-83F5-6D88-98B7-AWY837F6H7KYG3M2YDP4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/cdy_Z</link>
+            <guid>http://newstapa.org/article/cdy_Z</guid>
+            <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘특활비 기록 불법 폐기’ 남은 공소시효 4개월… 시민단체, 검찰에 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/16165405-BBCD-D2A5-2DBE-MZYH1PEXK4WUKTL4ON1E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 대통령비서실 상대 행정소송 잇따라 승소...'특수활동비 내역·수의계약 업체 공개하라' (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/87nmc</link>
             <guid>http://newstapa.org/article/87nmc</guid>
@@ -510,14 +518,6 @@
             <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[초법적 '특활비 저수지' 전국 55개 검찰청에서 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/08105121-DF13-1ED8-D604-95VVW50Q91EQAQS7CJIW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다” (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/CQMtH</link>
-            <guid>http://newstapa.org/article/CQMtH</guid>
-            <pubDate>Fri, 03 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특활비 부정사용 연속 폭로 이후... 한동훈 “특활비 지침 공개하겠다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/03160045-41E2-937A-2816-D47RLK9SOBMAI990F7BC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알앤원과 알앤투, 900억 원대 수상한 기부 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
