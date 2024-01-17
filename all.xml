@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 07:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 08:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[덴마크 '입양 중단' 발표...입양인 그룹 "잘된 일" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/LQ2Fr</link>
+            <guid>http://newstapa.org/article/LQ2Fr</guid>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덴마크 '입양 중단' 발표...입양인 그룹 "잘된 일"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/17155758-FD07-14B5-DDC5-49QT74YGURN9GR9GX19Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원⑱ "경찰수사·내부감찰·언론보도 삼각동맹 본질은 류희림 구하기" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/WTmgk</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/09150430-64FD-ABFF-663F-O147DSRWQQSM372M8M4A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] ‘세금 도둑’에게 국회사무처를 맡겼다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/58q9g</link>
-            <guid>http://newstapa.org/article/58q9g</guid>
-            <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] ‘세금 도둑’에게 국회사무처를 맡겼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/08174240-5C5D-3616-BC27-DLWSK18A5ZEO13PSLI4A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청부민원⑱ "경찰수사·내부감찰·언론보도 삼각동맹 본질은 류희림 구하기" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195656-0C37-6A7C-C2C9-31W2H9MTRFYV1NX7GFS3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[덴마크 '입양 중단' 발표...입양인 그룹 "잘된 일" (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/LQ2Fr</link>
+            <guid>http://newstapa.org/article/LQ2Fr</guid>
+            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[덴마크 '입양 중단' 발표...입양인 그룹 "잘된 일"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/17155758-FD07-14B5-DDC5-49QT74YGURN9GR9GX19Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해외입양과 돈]⑧'차명 매입'과 소송으로 얼룩진 새싹동산 청려수련원 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/usW6y</link>
             <guid>http://newstapa.org/article/usW6y</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현대차 가짜집회 카톡방] ② '02-3464-2000 현대차 보안팀'에 사찰 내용 보고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/25164938-173D-F664-09B1-YPY0AR89VGGKTC6JYKAF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 물류센터, 퇴사 직원에게 '회사 비방금지' 서약서 강요 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/z5n3s</link>
-            <guid>http://newstapa.org/article/z5n3s</guid>
-            <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡 물류센터, 퇴사 직원에게 '회사 비방금지' 서약서 강요]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/15162910-235A-945D-655E-5WT2YKTATB36MW2G974F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낙동강 인근 거주지역 공기에서 2년 연속 녹조 독소 검출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
