@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 09:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 10:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원㉓ 윤석열이 완성한 '6대1' 방심위, '대통령 욕설 논란' 보도 징계 예고]]></title>
+            <link>http://newstapa.org/article/CfOs1</link>
+            <guid>http://newstapa.org/article/CfOs1</guid>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원㉓ 윤석열이 완성한 '6대1' 방심위, '대통령 욕설 논란' 보도 징계 예고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/23181122-7D5F-72D2-2304-38QNGVIYVYD17U10WL4Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청부민원㉒ '셀프 연봉 인상' 류희림, 하루만에 들통난 거짓말]]></title>
+            <link>http://newstapa.org/article/-j0dW</link>
+            <guid>http://newstapa.org/article/-j0dW</guid>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원㉒ '셀프 연봉 인상' 류희림, 하루만에 들통난 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/23181928-E2F1-4A44-D4A3-VTRXM9U1OCZZSBSB5MPZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원㉑ 1차 타깃은 방송사 뉴스, 2차는 PD수첩 등...시기별로 목표물 할당 정황]]></title>
             <link>http://newstapa.org/article/McKYb</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[알앤원과 알앤투, 900억 원대 수상한 기부]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/12131443-EDBE-EF8E-C58A-YSWOXR5UYA5Y0G8BD7DM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] “김건희 모녀 도이치로 23억 벌었다” 검찰 수사기록 공개]]></title>
-            <link>http://newstapa.org/article/Fiz0a</link>
-            <guid>http://newstapa.org/article/Fiz0a</guid>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] “김건희 모녀 도이치로 23억 벌었다” 검찰 수사기록 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/11175553-A08E-F92F-A961-0TB529YMJD5H3D0E7HBN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, "김건희 모녀 도이치로 23억 수익"]]></title>
-            <link>http://newstapa.org/article/T6fPJ</link>
-            <guid>http://newstapa.org/article/T6fPJ</guid>
-            <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, "김건희 모녀 도이치로 23억 수익"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/11175522-6A6C-B2E9-0CFB-WZK2MYNGA8GSEVIC5V51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
