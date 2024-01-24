@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 05:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 06:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰]]></title>
+            <link>http://newstapa.org/article/8A_CG</link>
+            <guid>http://newstapa.org/article/8A_CG</guid>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/24145433-4609-9B11-9756-ZIHSI2RN96ZZCH960KSM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 국회 언제 바꿀래? 청년·여성 2024 총선 챌린지]]></title>
             <link>http://newstapa.org/article/u3G7R</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원⑰ '청부 민원' 조사는 뒷전, 공익신고자 색출에 나선 검경]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/15224339-3F29-3393-565E-NEBXQVA76DEFWGXRN54O.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원⑯ "폭력적 해촉 의결"...방심위 직원 149명 '류희림 청부의혹' 실명 신고]]></title>
-            <link>http://newstapa.org/article/aSVS5</link>
-            <guid>http://newstapa.org/article/aSVS5</guid>
-            <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원⑯ "폭력적 해촉 의결"...방심위 직원 149명 '류희림 청부의혹' 실명 신고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/12214742-1EE6-4D2B-C5CF-H2UJVIIPP1DVZCSLWI75.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
