@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 00:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 01:56:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 법카 돌려쓰기 실태③ 단 14초 차 결제...검찰이 결제시각 가린 이유]]></title>
+            <link>http://newstapa.org/article/rytBv</link>
+            <guid>http://newstapa.org/article/rytBv</guid>
+            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태③ 단 14초 차 결제...검찰이 결제시각 가린 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094056-83F4-612A-890A-IA5G3E0VIV0TH9USU60Y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰이라는 ‘특활비 이권 카르텔’]]></title>
             <link>http://newstapa.org/article/nunbJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 최초 검증, 전국 검사들의 법카 사용 실태]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07185205-D25F-8B2D-E68F-PJZQQ0EL93K265FTF9U1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></title>
-            <link>http://newstapa.org/article/mBvAQ</link>
-            <guid>http://newstapa.org/article/mBvAQ</guid>
-            <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한 끼에 10만 원 넘는 고위 검사들의 '법카 생활']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07174022-D395-9CEE-3286-WE0RH2S7M0UBOORZ56C4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
