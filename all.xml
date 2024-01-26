@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 08:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 09:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10162738-89A3-8220-BB04-SPJQJ29LRD44FRE987WG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA["인천의 뉴스타파 되겠다" 독립언론 <뉴스하다>의 분투기 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/c0IFr</link>
+            <guid>http://newstapa.org/article/c0IFr</guid>
+            <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["인천의 뉴스타파 되겠다" 독립언론 &lt;뉴스하다&gt;의 분투기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/26180542-0638-2CB9-B7C0-SRP2WOXXFZSIMER660AF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[청부민원㉓ 윤석열이 완성한 '6대1' 방심위, '대통령 욕설 논란' 보도 징계 예고 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/CfOs1</link>
             <guid>http://newstapa.org/article/CfOs1</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 가짜뉴스라고? 옥석을 가려보자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/10185644-83F5-6D88-98B7-AWY837F6H7KYG3M2YDP4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/pWjXe</link>
-            <guid>http://newstapa.org/article/pWjXe</guid>
-            <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[박민 KBS 사장 후보, 청문회 앞두고 여당 의원 방문해 깍듯 인사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/01110959-66C7-8B86-4E82-DSIDMA9XY6UVREK7GZU8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[류희림 '청부민원' 의혹 (뉴스타파 ─ 프로젝트)]]></title>
