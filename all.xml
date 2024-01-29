@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 05:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 06:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완순이 그리는 것 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/_p4Pm</link>
+            <guid>http://newstapa.org/article/_p4Pm</guid>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[완순이 그리는 것]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/29141525-8E36-B526-D1D3-H88C12RL9456V3KWQF6S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/IZlar</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상품권으로 둔갑한 특활비… 사적 유용 의혹에도 검찰은 ‘묵묵부답’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18151026-FFF0-D4EA-E363-EVJ0IWN2MF05PWP83JI0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허술한 검찰 특활비 ‘자체 지침’… 예산 유용 ‘면죄부’ 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/eOTUd</link>
-            <guid>http://newstapa.org/article/eOTUd</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허술한 검찰 특활비 ‘자체 지침’… 예산 유용 ‘면죄부’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18112526-D00A-DF1B-A44E-3J0VTURM05KKYSQ1F0QT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30174705-6CC9-4ECD-12E8-RNOMF4954U6JKL0XYERV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[완순이 그리는 것 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/_p4Pm</link>
+            <guid>http://newstapa.org/article/_p4Pm</guid>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[완순이 그리는 것]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/29141525-8E36-B526-D1D3-H88C12RL9456V3KWQF6S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파, 국방부 상대 '6·25전쟁 참전자 증언록' 정보공개소송 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/croOd</link>
             <guid>http://newstapa.org/article/croOd</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[노병의 외출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04192701-A92A-BAC1-C1DF-GPZIWJQQUM3CCTGLNMJ4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장' (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/5IEW6</link>
-            <guid>http://newstapa.org/article/5IEW6</guid>
-            <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[못 다 쓴 에필로그 : 42년 만의 '민주훈장']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/09/08142110-3ED5-538E-1F82-YULU6KEI503PLFR0B491.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] <진단명: 리베이트 중독> 보도 제약사, 3년여 만에 공정위 제재 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -2549,6 +2549,14 @@
             <pubDate>Sat, 31 Mar 2012 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민성공 시대를 열겠다던 이명박 17대 대통령. 그러나 그의 퇴임 이후 한국 사회 곳곳에서 부정부패의 흔적이 발견됩니다. 이명박 전 대통령이 남기고 간 유산을 뉴스타파가 추적했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/0ccb53b3868b610ea74f4898980f0cd198e611ae493c2341e1a50c831de9d7509263d37525c00e95221870cefc4f3f3d73cdd3704b05d5f7eeb64014f502e913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 국회 언제 바꿀래? 청년·여성 2024 총선 챌린지 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2024/dashboard/</link>
+            <guid>https://pages.newstapa.org/2024/dashboard/</guid>
+            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 21대 총선에서 지역구 당선자 비율은 청년이 2.4%, 여성이 11.5%로 OECD 최하위 수준입니다. 우리 국회, 이번엔 바꿀 수 있을까요? 청년과 여성의 국회 도전 상황을 알려드립니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/29150630-D4AE-5D1F-4253-LVIED73KE4283A7EMIC5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 예산 검증 특수능력 테스트 (뉴스타파 ─ 데이터)]]></title>
