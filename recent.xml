@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 02:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치]]></title>
+            <link>http://newstapa.org/article/IZlar</link>
+            <guid>http://newstapa.org/article/IZlar</guid>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/29104610-27F4-0C62-48F0-P310N2126Q9S6TW3BRQH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] '청부민원' 의혹 한 달...류희림, ‘긴급심의’로 '정치심의' 밀어 붙이나?]]></title>
             <link>http://newstapa.org/article/P8WXP</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[허술한 검찰 특활비 ‘자체 지침’… 예산 유용 ‘면죄부’ 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18112526-D00A-DF1B-A44E-3J0VTURM05KKYSQ1F0QT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원⑳ 류희림, YTN 시절 수십차례 부인·가족 사업 홍보 ... 상습적 '이해충돌']]></title>
-            <link>http://newstapa.org/article/c-Z9K</link>
-            <guid>http://newstapa.org/article/c-Z9K</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원⑳ 류희림, YTN 시절 수십차례 부인·가족 사업 홍보 ... 상습적 '이해충돌']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18145701-37AB-8ED7-6866-DN9CEYI92038URP2XRUH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

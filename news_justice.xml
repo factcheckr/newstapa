@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 01:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 02:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치]]></title>
+            <link>http://newstapa.org/article/IZlar</link>
+            <guid>http://newstapa.org/article/IZlar</guid>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/29104610-27F4-0C62-48F0-P310N2126Q9S6TW3BRQH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 고위 검사들의 ‘법카 돌려쓰기’ 부정 실태 첫 확인]]></title>
             <link>http://newstapa.org/article/-dNY_</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[정영학 검찰 진술 "김만배가 부산저축은행 대출 수사 막았다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/28155547-3F58-9D04-3868-DB5E4S9NI8BFMZ4M1IJW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남욱의 법정 증언 "조우형 사건 통해 김만배의 힘 확인"]]></title>
-            <link>http://newstapa.org/article/DsYot</link>
-            <guid>http://newstapa.org/article/DsYot</guid>
-            <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[남욱의 법정 증언 "조우형 사건 통해 김만배의 힘 확인"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/24162555-6C2C-0793-8B1B-Z0WMVUI8ZVMO5JULW6A2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
