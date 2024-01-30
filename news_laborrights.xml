@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 08:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 09:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<현장에서> 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다]]></title>
+            <link>http://newstapa.org/article/vYrK_</link>
+            <guid>http://newstapa.org/article/vYrK_</guid>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;현장에서&gt; 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/30172433-563A-A0C6-FD6E-BMUVSKIQKA1Z8BO7XDPR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 ‘부당해고’ 소송 1심만 3년 5개월째...법원의 수상한 선고 연기]]></title>
             <link>http://newstapa.org/article/jXP5T</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해외입양과 돈]③ 입양 기관의 벽 너머 가려진 '엄마의 이름']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/02164414-13C0-6835-6056-UFHG0HJLNHNJGDL94QEZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이태원 참사 1주기 : 무책임, 무시 그리고 흩어진 목소리]]></title>
-            <link>http://newstapa.org/article/wnWT7</link>
-            <guid>http://newstapa.org/article/wnWT7</guid>
-            <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 1주기 : 무책임, 무시 그리고 흩어진 목소리]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/10/26130759-B872-4C2A-DFB7-GNVHLWJ4EB9PFKN9DHTC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
