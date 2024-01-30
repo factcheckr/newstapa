@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 07:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 08:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정보공개 청구권 제한보다 알 권리 침해 요소 제거가 먼저다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/XsCal</link>
+            <guid>http://newstapa.org/article/XsCal</guid>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정보공개 청구권 제한보다 알 권리 침해 요소 제거가 먼저다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/30170150-49E8-09DA-7A72-Q4XS5FYT7KNATCZ15DKL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡 ‘부당해고’ 소송 1심만 3년 5개월째...법원의 수상한 선고 연기 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/jXP5T</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18144933-FCFE-51BC-ADD3-3SSUK3MTMU326B44ADWT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검사들의 ‘회식비’, ‘맛집 밥값’... 끝없는 특활비 유용 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/oqX0H</link>
-            <guid>http://newstapa.org/article/oqX0H</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검사들의 ‘회식비’, ‘맛집 밥값’... 끝없는 특활비 유용 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18142314-2E7E-9957-48FD-BSIQT6NCGGXMEPWTR1RR.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정보공개 청구권 제한보다 알 권리 침해 요소 제거가 먼저다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/XsCal</link>
+            <guid>http://newstapa.org/article/XsCal</guid>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정보공개 청구권 제한보다 알 권리 침해 요소 제거가 먼저다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/30170150-49E8-09DA-7A72-Q4XS5FYT7KNATCZ15DKL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원⑳ 류희림, YTN 시절 수십차례 부인·가족 사업 홍보 ... 상습적 '이해충돌']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18145701-37AB-8ED7-6866-DN9CEYI92038URP2XRUH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원⑲ 윤석열, 반년새 야권 방심위원만 5명째 해촉...방심위 합의제 기능 상실 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/iJ9bX</link>
-            <guid>http://newstapa.org/article/iJ9bX</guid>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원⑲ 윤석열, 반년새 야권 방심위원만 5명째 해촉...방심위 합의제 기능 상실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/17174708-2FA6-193A-1974-KSN1OAT4TTA8MLZZ5U5H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠팡 ‘부당해고’ 소송 1심만 3년 5개월째...법원의 수상한 선고 연기 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
