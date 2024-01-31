@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 06:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 07:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤석열의 해석 개헌]④ 대통령의 일제 천황주의 용어 소환]]></title>
+            <link>http://newstapa.org/article/elQjX</link>
+            <guid>http://newstapa.org/article/elQjX</guid>
+            <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열의 해석 개헌]④ 대통령의 일제 천황주의 용어 소환]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/31155113-1014-A243-5FF6-9IUHWWOSOW2YJHEPE2CO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘조직적 세금 유용’ 국힘 의원들 재수사하라…시민단체 항고장 제출]]></title>
             <link>http://newstapa.org/article/IFBLT</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 07 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호텔 중식당 사용 등 검사들의 법카 매뉴얼 위반 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/07173927-486C-8103-C355-DQVY2S1N1VYZ0SHP7QR7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></title>
-            <link>http://newstapa.org/article/0WbHM</link>
-            <guid>http://newstapa.org/article/0WbHM</guid>
-            <pubDate>Wed, 06 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['윤석열 특활비'의 흔적... 원전 수사와 이천 화재 참사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/06165506-73B0-012D-F6CD-8XZVDJP5BT2M2ZNS3EMX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
