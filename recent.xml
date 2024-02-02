@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 10:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 11:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청부민원㉔ "부끄럽지 않게 일하고 싶다" 방심위 직원 이야기]]></title>
+            <link>http://newstapa.org/article/tmTls</link>
+            <guid>http://newstapa.org/article/tmTls</guid>
+            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[청부민원㉔ "부끄럽지 않게 일하고 싶다" 방심위 직원 이야기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/02183932-D7C0-3527-A470-YMIGV60LC61X1Z49AO03.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></title>
             <link>http://newstapa.org/article/0MWvx</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태② 검찰 ‘음악 동호회 회식’도 특경비로 부정 사용]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094130-630B-AB49-16C0-UGPXN7SEZIMVO4IN185R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 법카 돌려쓰기 실태③ 단 14초 차 결제...검찰이 결제시각 가린 이유]]></title>
-            <link>http://newstapa.org/article/rytBv</link>
-            <guid>http://newstapa.org/article/rytBv</guid>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태③ 단 14초 차 결제...검찰이 결제시각 가린 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094056-83F4-612A-890A-IA5G3E0VIV0TH9USU60Y.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
