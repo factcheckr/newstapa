@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 06:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 07:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></title>
+            <link>http://newstapa.org/article/0MWvx</link>
+            <guid>http://newstapa.org/article/0MWvx</guid>
+            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/02121216-CA9D-4608-594C-ZHVOZ7PJ8NTD35O96C11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Y노믹스 3년 : 공정도 혁신도 없다]]></title>
             <link>http://newstapa.org/article/V5N_F</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태③ 단 14초 차 결제...검찰이 결제시각 가린 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094056-83F4-612A-890A-IA5G3E0VIV0TH9USU60Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰]]></title>
-            <link>http://newstapa.org/article/8A_CG</link>
-            <guid>http://newstapa.org/article/8A_CG</guid>
-            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/24145433-4609-9B11-9756-ZIHSI2RN96ZZCH960KSM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

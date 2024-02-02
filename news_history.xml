@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Feb 2024 06:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 07:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></title>
+            <link>http://newstapa.org/article/0MWvx</link>
+            <guid>http://newstapa.org/article/0MWvx</guid>
+            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/02121216-CA9D-4608-594C-ZHVOZ7PJ8NTD35O96C11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완순이 그리는 것]]></title>
             <link>http://newstapa.org/article/_p4Pm</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30111915-88A1-643F-6F32-UZQNBF074OESVC9ZR5MJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노병의 외출]]></title>
-            <link>http://newstapa.org/article/DYvbS</link>
-            <guid>http://newstapa.org/article/DYvbS</guid>
-            <pubDate>Mon, 07 Nov 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[노병의 외출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/11/04192701-A92A-BAC1-C1DF-GPZIWJQQUM3CCTGLNMJ4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
