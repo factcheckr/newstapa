@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 00:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 01:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘고발사주’ 실행 4일 전, 손준성 윤석열 총장 만나 오찬]]></title>
+            <link>http://newstapa.org/article/xdiTj</link>
+            <guid>http://newstapa.org/article/xdiTj</guid>
+            <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘고발사주’ 실행 4일 전, 손준성 윤석열 총장 만나 오찬]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/05164702-22B7-A54F-A2BC-886MGT1J5X2YSPB2L59W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원㉔ "부끄럽지 않게 일하고 싶다" 방심위 직원 이야기]]></title>
             <link>http://newstapa.org/article/tmTls</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태① ‘수사 활동 지원’에 썼다더니… 검사들의 술·밥값 지출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25103329-C363-BAAA-48A7-6DTGJEGW26KJ3WD893AW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 법카 돌려쓰기 실태② 검찰 ‘음악 동호회 회식’도 특경비로 부정 사용]]></title>
-            <link>http://newstapa.org/article/XJK2O</link>
-            <guid>http://newstapa.org/article/XJK2O</guid>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태② 검찰 ‘음악 동호회 회식’도 특경비로 부정 사용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094130-630B-AB49-16C0-UGPXN7SEZIMVO4IN185R.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
