@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 07:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 08:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세대 다양성 국회 ②국회가 외면한 '청년 민생'은 바로 이것]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153731-4EEE-9109-2EA9-I2CCB0N6VISP76I0LXJ5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세대 다양성 국회 ③'젊은 국회'를 상상하다]]></title>
+            <link>http://newstapa.org/article/MGwTE</link>
+            <guid>http://newstapa.org/article/MGwTE</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세대 다양성 국회 ③'젊은 국회'를 상상하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153739-125F-A465-C944-M2RLIYASHMA1U00P6TWP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 고위 검사들의 ‘법카 돌려쓰기’ 부정 실태 첫 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094019-1F17-136D-C418-RU7HQ7STKJ3A5SCV5ED9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 법카 돌려쓰기 실태① ‘수사 활동 지원’에 썼다더니… 검사들의 술·밥값 지출]]></title>
-            <link>http://newstapa.org/article/TW1nu</link>
-            <guid>http://newstapa.org/article/TW1nu</guid>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태① ‘수사 활동 지원’에 썼다더니… 검사들의 술·밥값 지출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25103329-C363-BAAA-48A7-6DTGJEGW26KJ3WD893AW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
