@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 06:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 07:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해외입양과 돈⑩]해외입양기관 부동산 전수조사, 아이 팔아 부동산 재벌 됐나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/14170544-ACBC-9953-C7D9-8XU88HOWP0M2NV5FXJDG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세대 다양성 국회 ②국회가 외면한 '청년 민생'은 바로 이것 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/gt6vx</link>
+            <guid>http://newstapa.org/article/gt6vx</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세대 다양성 국회 ②국회가 외면한 '청년 민생'은 바로 이것]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153731-4EEE-9109-2EA9-I2CCB0N6VISP76I0LXJ5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격 (뉴스타파 ─ 뉴스)]]></title>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/30172433-563A-A0C6-FD6E-BMUVSKIQKA1Z8BO7XDPR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정보공개 청구권 제한보다 알 권리 침해 요소 제거가 먼저다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/XsCal</link>
-            <guid>http://newstapa.org/article/XsCal</guid>
-            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정보공개 청구권 제한보다 알 권리 침해 요소 제거가 먼저다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/30170150-49E8-09DA-7A72-Q4XS5FYT7KNATCZ15DKL.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세대 다양성 국회 ②국회가 외면한 '청년 민생'은 바로 이것 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/gt6vx</link>
+            <guid>http://newstapa.org/article/gt6vx</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세대 다양성 국회 ②국회가 외면한 '청년 민생'은 바로 이것]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153731-4EEE-9109-2EA9-I2CCB0N6VISP76I0LXJ5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태① ‘수사 활동 지원’에 썼다더니… 검사들의 술·밥값 지출]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25103329-C363-BAAA-48A7-6DTGJEGW26KJ3WD893AW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 법카 돌려쓰기 실태② 검찰 ‘음악 동호회 회식’도 특경비로 부정 사용 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/XJK2O</link>
-            <guid>http://newstapa.org/article/XJK2O</guid>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 법카 돌려쓰기 실태② 검찰 ‘음악 동호회 회식’도 특경비로 부정 사용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094130-630B-AB49-16C0-UGPXN7SEZIMVO4IN185R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘고발사주’ 실행 4일 전, 손준성 윤석열 총장 만나 오찬 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
