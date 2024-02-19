@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 00:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 01:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘썼는데 정보는 없다, 있다는 걸 입증해 봐라’...문재인·박근혜 때와 달라진 윤석열 대통령실의 소송 대처법]]></title>
+            <link>http://newstapa.org/article/iiAMB</link>
+            <guid>http://newstapa.org/article/iiAMB</guid>
+            <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘썼는데 정보는 없다, 있다는 걸 입증해 봐라’...문재인·박근혜 때와 달라진 윤석열 대통령실의 소송 대처법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/16105150-EA7B-9377-FB21-CWCMARO34WLO0YGUS0KB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격]]></title>
             <link>http://newstapa.org/article/WfNzJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[숱한 불법, 부정 사용과 오남용에도... 내년 검찰 특수활동비 10%만 감액]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21171747-D637-5A08-E5AB-5DUM0J3UBEAKK6UALN17.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 파바·스벅·아웃백에서 “특수활동했다”]]></title>
-            <link>http://newstapa.org/article/xeOdW</link>
-            <guid>http://newstapa.org/article/xeOdW</guid>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 파바·스벅·아웃백에서 “특수활동했다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19130239-DB9B-6DFB-1C54-8U89EGA4CKFRIHTVA27C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

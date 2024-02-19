@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 00:37:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 01:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘썼는데 정보는 없다, 있다는 걸 입증해 봐라’...문재인·박근혜 때와 달라진 윤석열 대통령실의 소송 대처법]]></title>
+            <link>http://newstapa.org/article/iiAMB</link>
+            <guid>http://newstapa.org/article/iiAMB</guid>
+            <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘썼는데 정보는 없다, 있다는 걸 입증해 봐라’...문재인·박근혜 때와 달라진 윤석열 대통령실의 소송 대처법]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/16105150-EA7B-9377-FB21-CWCMARO34WLO0YGUS0KB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] <총선 기획 3부작> 1부 : 세대 다양성 국회]]></title>
             <link>http://newstapa.org/article/fHO1C</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[Y노믹스 3년 : 공정도 혁신도 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/01185526-43DE-13C9-87C0-HTLLW5LYQ1M6AM56I0P1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인턴에 ‘횡령’ 누명 씌운 유동수 의원실 보좌관, 6년 만에 벌금형]]></title>
-            <link>http://newstapa.org/article/vHiKH</link>
-            <guid>http://newstapa.org/article/vHiKH</guid>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인턴에 ‘횡령’ 누명 씌운 유동수 의원실 보좌관, 6년 만에 벌금형]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/01165849-2C2E-4834-4119-GHY83FQMAOCMVMCUMTRX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
