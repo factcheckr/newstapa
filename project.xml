@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 06:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 07:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 예산 검증]]></title>
+            <link>https://newstapa.org/projects/NMjEM</link>
+            <guid>https://newstapa.org/projects/NMjEM</guid>
+            <pubDate>Tue, 27 Apr 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민 세금으로 책정되는 검찰의 특수활동비 등 예산. 하지만 그 집행 내역은 지금까지 한 번도 공개되지 않았습니다. 뉴스타파와 시민단체들이 사상 최초로 검찰 예산 검증에 나섰습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26102450-85F6-F5CD-2C73-DR2LKQC9T5ST70WH539H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류희림 '청부민원' 의혹]]></title>
             <link>https://newstapa.org/projects/luSZ1</link>
@@ -16,20 +24,28 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/15112420-F06D-317C-5F7C-KUBBH48JLYWSSSOX1UTE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김건희 주가조작 의혹]]></title>
+            <link>https://newstapa.org/projects/zo-fc</link>
+            <guid>https://newstapa.org/projects/zo-fc</guid>
+            <pubDate>Mon, 17 Feb 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 최초 보도한 김건희 여사의 도이치모터스 주가조작 사건 연루 의혹을 추적하고 보도합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/21152231-3CF6-2BED-74E8-GLW05DE1ZQYRL7RO7CYU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외입양과 돈]]></title>
+            <link>https://newstapa.org/projects/FtSU1</link>
+            <guid>https://newstapa.org/projects/FtSU1</guid>
+            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국은 자국 아이를 해외로 가장 오래, 가장 많이 입양 보낸 국가입니다. 뉴스타파는 해외입양 피해자와 수익자, 책임자를 찾고 구조적 문제를 규명하는 &lt;해외입양과 돈&gt; 프로젝트를 진행합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/21152112-6023-0AAF-F282-29SD5940E3M5IK07GLRJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국독립언론네트워크]]></title>
             <link>https://newstapa.org/projects/-Tr19</link>
             <guid>https://newstapa.org/projects/-Tr19</guid>
             <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국독립언론네트워크(KINN)는 재단법인 뉴스타파함께센터가 기획한 독립언론들의 네트워크입니다. 세상을 더 나은 방향으로 바꾸려는 독립언론들의 취재 결과물을 소개합니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14170344-BFD7-C49B-4103-FUBXPLT2Z8THZPGW4Y1S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 예산 검증]]></title>
-            <link>https://newstapa.org/projects/NMjEM</link>
-            <guid>https://newstapa.org/projects/NMjEM</guid>
-            <pubDate>Tue, 27 Apr 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민 세금으로 책정되는 검찰의 특수활동비 등 예산. 하지만 그 집행 내역은 지금까지 한 번도 공개되지 않았습니다. 뉴스타파와 시민단체들이 사상 최초로 검찰 예산 검증에 나섰습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/26102450-85F6-F5CD-2C73-DR2LKQC9T5ST70WH539H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[히든머니 프로젝트]]></title>
