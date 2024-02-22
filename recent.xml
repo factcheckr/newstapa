@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 04:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 05:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[최초 증언] “검찰총장님이 내리신 특활비를 받았습니다”]]></title>
+            <link>http://newstapa.org/article/lm8An</link>
+            <guid>http://newstapa.org/article/lm8An</guid>
+            <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[최초 증언] “검찰총장님이 내리신 특활비를 받았습니다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/22101140-6F70-3C0B-E96E-AFVIZHO20UZ8LYPBRHK3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텃밭 몰린 '용와대' 출신...문재인 정부 때와 비교해보니]]></title>
             <link>http://newstapa.org/article/aAIQ6</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원㉔ "부끄럽지 않게 일하고 싶다" 방심위 직원 이야기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/02183932-D7C0-3527-A470-YMIGV60LC61X1Z49AO03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></title>
-            <link>http://newstapa.org/article/0MWvx</link>
-            <guid>http://newstapa.org/article/0MWvx</guid>
-            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/02121216-CA9D-4608-594C-ZHVOZ7PJ8NTD35O96C11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
