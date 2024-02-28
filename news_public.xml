@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 08:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 09:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발]]></title>
+            <link>http://newstapa.org/article/-lf8E</link>
+            <guid>http://newstapa.org/article/-lf8E</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28165751-9088-3277-0647-1DDSUS5Q6Y7WHJ3G74N5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 김건희-도이치 챗봇 공개, "야, 너두 도이치 뉴스 이해할 수 있어!"]]></title>
             <link>http://newstapa.org/article/2iclM</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 특활비 검증② ‘초법적’ 세금 집행… 윤석열 ‘70억 현금 저수지’의 실체]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08104648-CE43-E76C-4C3B-0PGAORCZF75QUDVC1JC8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 특활비 검증③ 특활비 감찰 당일 3억 6천만 원 대량 살포]]></title>
-            <link>http://newstapa.org/article/YSA5R</link>
-            <guid>http://newstapa.org/article/YSA5R</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 특활비 검증③ 특활비 감찰 당일 3억 6천만 원 대량 살포]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/07162716-95C5-0DCA-71B2-ACPUH79OWDN3QD5BA6YL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

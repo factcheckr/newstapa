@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 08:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 09:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불법 의혹' 쿠팡 블랙리스트에 올라보니... 실제로 계속 '취업 불가' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0g8_K</link>
+            <guid>http://newstapa.org/article/0g8_K</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['불법 의혹' 쿠팡 블랙리스트에 올라보니... 실제로 계속 '취업 불가']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28164416-0C38-CB4A-DEA7-WUH76AVKVBBT77KT4PE9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/-lf8E</link>
+            <guid>http://newstapa.org/article/-lf8E</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28165751-9088-3277-0647-1DDSUS5Q6Y7WHJ3G74N5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 김건희-도이치 챗봇 공개, "야, 너두 도이치 뉴스 이해할 수 있어!" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/2iclM</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/14170544-ACBC-9953-C7D9-8XU88HOWP0M2NV5FXJDG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/WfNzJ</link>
-            <guid>http://newstapa.org/article/WfNzJ</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08150322-BC9B-F301-820C-SLSI46T6BTW6X4XAI2VL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 특활비 검증 ① ‘70억’… 총장 윤석열의 특활비 ‘현금 저수지’ 규모 추산됐다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/5gm_0</link>
-            <guid>http://newstapa.org/article/5gm_0</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 특활비 검증 ① ‘70억’… 총장 윤석열의 특활비 ‘현금 저수지’ 규모 추산됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08103909-AFC7-1F43-8AF1-EKX3FIE5CPG9RN16T0YR.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/-lf8E</link>
+            <guid>http://newstapa.org/article/-lf8E</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28165751-9088-3277-0647-1DDSUS5Q6Y7WHJ3G74N5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 김건희-도이치 챗봇 공개, "야, 너두 도이치 뉴스 이해할 수 있어!" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08104648-CE43-E76C-4C3B-0PGAORCZF75QUDVC1JC8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 특활비 검증③ 특활비 감찰 당일 3억 6천만 원 대량 살포 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/YSA5R</link>
-            <guid>http://newstapa.org/article/YSA5R</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 특활비 검증③ 특활비 감찰 당일 3억 6천만 원 대량 살포]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/07162716-95C5-0DCA-71B2-ACPUH79OWDN3QD5BA6YL.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/-lf8E</link>
+            <guid>http://newstapa.org/article/-lf8E</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28165751-9088-3277-0647-1DDSUS5Q6Y7WHJ3G74N5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최초 증언] “검찰총장님이 내리신 특활비를 받았습니다” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 중앙지검장 때 '삼성 노조 파괴범' 방어한 김홍일]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/18165424-E437-711F-CAFD-4EUUWMJAG47U8G1RYG61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2020년 남부지검 특활비 집행 언제 가장 많았을까 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/P7Z9S</link>
-            <guid>http://newstapa.org/article/P7Z9S</guid>
-            <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 남부지검 특활비 집행 언제 가장 많았을까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/18160600-230A-F6D9-2FA3-6BXY2NZYB6M0417TMGAS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 비대위원장의 대검 간부 시절 특활비 규모 공개될까 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195656-0C37-6A7C-C2C9-31W2H9MTRFYV1NX7GFS3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['불법 의혹' 쿠팡 블랙리스트에 올라보니... 실제로 계속 '취업 불가' (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/0g8_K</link>
+            <guid>http://newstapa.org/article/0g8_K</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['불법 의혹' 쿠팡 블랙리스트에 올라보니... 실제로 계속 '취업 불가']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28164416-0C38-CB4A-DEA7-WUH76AVKVBBT77KT4PE9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해외입양과 돈⑩]해외입양기관 부동산 전수조사, 아이 팔아 부동산 재벌 됐나 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/h3Mnx</link>
             <guid>http://newstapa.org/article/h3Mnx</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 부모를 빼앗긴 아기들, 해외 입양 비즈니스의 그늘]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/02191019-7F58-368C-AF4A-HZMB8QO7GNXD9KSSX3JX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]① 입양기관의 새빨간 거짓말과 피해자들 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/k292M</link>
-            <guid>http://newstapa.org/article/k292M</guid>
-            <pubDate>Thu, 02 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]① 입양기관의 새빨간 거짓말과 피해자들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/02161715-6B93-0ADE-02D7-FV65DGD0LCE8G75QZLT9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<현장에서> 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
