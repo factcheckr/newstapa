@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 10:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 11:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2565,6 +2565,14 @@
             <pubDate>Sat, 31 Mar 2012 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민성공 시대를 열겠다던 이명박 17대 대통령. 그러나 그의 퇴임 이후 한국 사회 곳곳에서 부정부패의 흔적이 발견됩니다. 이명박 전 대통령이 남기고 간 유산을 뉴스타파가 추적했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2019/12/0ccb53b3868b610ea74f4898980f0cd198e611ae493c2341e1a50c831de9d7509263d37525c00e95221870cefc4f3f3d73cdd3704b05d5f7eeb64014f502e913.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 챗봇 '김건희와 주가조작' (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/2024/kkhchat/</link>
+            <guid>https://pages.newstapa.org/2024/kkhchat/</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 여사의 주가조작 연루 의혹과 관련해, 뉴스타파 기사를 바탕으로 사용자의 질문에 답하는 챗봇을 제작했습니다. 궁금한 점이 있다면 자유롭게 물어보세요!]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28193148-F0BD-3D47-EE42-9259QDWUHYIS3LI8TFF2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리 국회 언제 바꿀래? 청년·여성 2024 총선 챌린지 (뉴스타파 ─ 데이터)]]></title>
