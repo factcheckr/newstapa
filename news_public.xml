@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 00:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 01:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 김건희-도이치 챗봇 공개, "야, 너두 도이치 뉴스 이해할 수 있어!"]]></title>
+            <link>http://newstapa.org/article/2iclM</link>
+            <guid>http://newstapa.org/article/2iclM</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 김건희-도이치 챗봇 공개, "야, 너두 도이치 뉴스 이해할 수 있어!"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28101202-4E7F-2665-94AF-8U0UAU53T06Y9GH107QT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 비대위원장의 대검 간부 시절 특활비 규모 공개될까]]></title>
             <link>http://newstapa.org/article/8qbXh</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 특활비 검증③ 특활비 감찰 당일 3억 6천만 원 대량 살포]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/07162716-95C5-0DCA-71B2-ACPUH79OWDN3QD5BA6YL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 특활비 검증 ④ 직무배제 기간에도 '윤석열 결재' 특활비 집행됐다]]></title>
-            <link>http://newstapa.org/article/avfYu</link>
-            <guid>http://newstapa.org/article/avfYu</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 특활비 검증 ④ 직무배제 기간에도 '윤석열 결재' 특활비 집행됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08133446-70B2-2537-E5FB-3QFKPRPRK00GTXM52MQX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
