@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 보건복지</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 10:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 11:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다]]></title>
+            <link>http://newstapa.org/article/KrOlK</link>
+            <guid>http://newstapa.org/article/KrOlK</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29183635-50EE-FD04-5272-LO9AUVWPSZVIDTWQCCJK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] <진단명: 리베이트 중독> 보도 제약사, 3년여 만에 공정위 제재]]></title>
             <link>http://newstapa.org/article/ZOwKs</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국 언론이 만든 '치외법권' 희망브리지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/26145746-392B-B9AA-61A9-M0ZJ8XUFR9L2N9GAYNNS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희망브리지, 무자격 재향군인회와 33억 마스크 거래]]></title>
-            <link>http://newstapa.org/article/Jjk_4</link>
-            <guid>http://newstapa.org/article/Jjk_4</guid>
-            <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[희망브리지, 무자격 재향군인회와 33억 마스크 거래]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/20143131-A166-0A04-57E4-0W3WN6DIMGDFVBOD77PJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

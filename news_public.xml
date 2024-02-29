@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 10:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 11:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] <총선 기획 3부작> 2부 : 성평등 국회]]></title>
+            <link>http://newstapa.org/article/TIfsV</link>
+            <guid>http://newstapa.org/article/TIfsV</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] &lt;총선 기획 3부작&gt; 2부 : 성평등 국회]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29114931-0D21-9DCB-48C6-NAYZOZ7TT0C3MIDEHBKG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성평등 국회 ①여성 19%, 국회는 여성을 대표하지 못한다]]></title>
+            <link>http://newstapa.org/article/QB7SE</link>
+            <guid>http://newstapa.org/article/QB7SE</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성평등 국회 ①여성 19%, 국회는 여성을 대표하지 못한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29190816-B850-3DFD-CAED-Y4XYY23GSCO7E374K4Z4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성평등 국회 ③여성 공천 30%...더 나은 민주주의의 시작]]></title>
+            <link>http://newstapa.org/article/P_BqX</link>
+            <guid>http://newstapa.org/article/P_BqX</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성평등 국회 ③여성 공천 30%...더 나은 민주주의의 시작]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28103132-7B8D-FC0C-7705-WTRXUAGBBX4O4SRHJN2R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[선관위, 국민의힘 김현아 후보 '허위사실 유포 조사' 착수]]></title>
             <link>http://newstapa.org/article/fQnNJ</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세대 다양성 국회 ①청년 영입 외치더니...청년 법안은 푸대접]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153742-4B89-D3D3-8239-6N4U3TLR7MOLT6KHQGF1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세대 다양성 국회 ②국회가 외면한 '청년 민생'은 바로 이것]]></title>
-            <link>http://newstapa.org/article/gt6vx</link>
-            <guid>http://newstapa.org/article/gt6vx</guid>
-            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세대 다양성 국회 ②국회가 외면한 '청년 민생'은 바로 이것]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153731-4EEE-9109-2EA9-I2CCB0N6VISP76I0LXJ5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세대 다양성 국회 ③'젊은 국회'를 상상하다]]></title>
-            <link>http://newstapa.org/article/MGwTE</link>
-            <guid>http://newstapa.org/article/MGwTE</guid>
-            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세대 다양성 국회 ③'젊은 국회'를 상상하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153739-125F-A465-C944-M2RLIYASHMA1U00P6TWP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격]]></title>
-            <link>http://newstapa.org/article/WfNzJ</link>
-            <guid>http://newstapa.org/article/WfNzJ</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] ‘윤석열 특수활동비’와 대통령의 자격]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08150322-BC9B-F301-820C-SLSI46T6BTW6X4XAI2VL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

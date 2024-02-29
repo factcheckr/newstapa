@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 10:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 11:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] <총선 기획 3부작> 2부 : 성평등 국회]]></title>
+            <link>http://newstapa.org/article/TIfsV</link>
+            <guid>http://newstapa.org/article/TIfsV</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] &lt;총선 기획 3부작&gt; 2부 : 성평등 국회]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29114931-0D21-9DCB-48C6-NAYZOZ7TT0C3MIDEHBKG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성평등 국회 ①여성 19%, 국회는 여성을 대표하지 못한다]]></title>
+            <link>http://newstapa.org/article/QB7SE</link>
+            <guid>http://newstapa.org/article/QB7SE</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성평등 국회 ①여성 19%, 국회는 여성을 대표하지 못한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29190816-B850-3DFD-CAED-Y4XYY23GSCO7E374K4Z4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다]]></title>
+            <link>http://newstapa.org/article/KrOlK</link>
+            <guid>http://newstapa.org/article/KrOlK</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29183635-50EE-FD04-5272-LO9AUVWPSZVIDTWQCCJK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성평등 국회 ③여성 공천 30%...더 나은 민주주의의 시작]]></title>
+            <link>http://newstapa.org/article/P_BqX</link>
+            <guid>http://newstapa.org/article/P_BqX</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[성평등 국회 ③여성 공천 30%...더 나은 민주주의의 시작]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28103132-7B8D-FC0C-7705-WTRXUAGBBX4O4SRHJN2R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 방치된 '가습기 살균제 인체 무해' 기사들...경향, 20년 만에 정정 보도]]></title>
             <link>http://newstapa.org/article/pKDOm</link>
@@ -102,38 +134,6 @@
             <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[최초 증언] “검찰총장님이 내리신 특활비를 받았습니다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/22101140-6F70-3C0B-E96E-AFVIZHO20UZ8LYPBRHK3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텃밭 몰린 '용와대' 출신...문재인 정부 때와 비교해보니]]></title>
-            <link>http://newstapa.org/article/aAIQ6</link>
-            <guid>http://newstapa.org/article/aAIQ6</guid>
-            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[텃밭 몰린 '용와대' 출신...문재인 정부 때와 비교해보니]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/20134653-E518-BD7D-AF4E-88RV8BCF689JI7MFDWAC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘썼는데 정보는 없다, 있다는 걸 입증해 봐라’...문재인·박근혜 때와 달라진 윤석열 대통령실의 소송 대처법]]></title>
-            <link>http://newstapa.org/article/iiAMB</link>
-            <guid>http://newstapa.org/article/iiAMB</guid>
-            <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘썼는데 정보는 없다, 있다는 걸 입증해 봐라’...문재인·박근혜 때와 달라진 윤석열 대통령실의 소송 대처법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/16105150-EA7B-9377-FB21-CWCMARO34WLO0YGUS0KB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] <총선 기획 3부작> 1부 : 세대 다양성 국회]]></title>
-            <link>http://newstapa.org/article/fHO1C</link>
-            <guid>http://newstapa.org/article/fHO1C</guid>
-            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] &lt;총선 기획 3부작&gt; 1부 : 세대 다양성 국회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15195057-94CB-8DF0-D803-AF7SCQ94P8IOOFR1DU4A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세대 다양성 국회 ①청년 영입 외치더니...청년 법안은 푸대접]]></title>
-            <link>http://newstapa.org/article/8YE7u</link>
-            <guid>http://newstapa.org/article/8YE7u</guid>
-            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세대 다양성 국회 ①청년 영입 외치더니...청년 법안은 푸대접]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/15153742-4B89-D3D3-8239-6N4U3TLR7MOLT6KHQGF1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
