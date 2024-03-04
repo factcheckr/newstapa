@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 재벌</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 00:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 01:59:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호반그룹의 리베이트와 은닉재산의 저수지는 재단?]]></title>
+            <link>http://newstapa.org/article/-nEut</link>
+            <guid>http://newstapa.org/article/-nEut</guid>
+            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[호반그룹의 리베이트와 은닉재산의 저수지는 재단?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29152602-C9A8-8A8A-EB56-BED6EGPZQEG3J9SU3JHA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알앤원과 알앤투, 900억 원대 수상한 기부]]></title>
             <link>http://newstapa.org/article/mN9za</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 삼성의 위험한 공장④ 이전된 위험]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/22175746-8595-26BE-6A35-N6JF2FOQY3B7SFVUM3F1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></title>
-            <link>http://newstapa.org/article/gWaZp</link>
-            <guid>http://newstapa.org/article/gWaZp</guid>
-            <pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 40년 삼성맨의 분노 "삼성, 베트남 공장 유해물질 방출 은폐"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195452-40C9-0C11-4F2B-3J96OHG51JNXCM9P1JP3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

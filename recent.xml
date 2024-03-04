@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 00:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 01:59:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호반그룹의 리베이트와 은닉재산의 저수지는 재단?]]></title>
+            <link>http://newstapa.org/article/-nEut</link>
+            <guid>http://newstapa.org/article/-nEut</guid>
+            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[호반그룹의 리베이트와 은닉재산의 저수지는 재단?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29152602-C9A8-8A8A-EB56-BED6EGPZQEG3J9SU3JHA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후방 땅]]></title>
             <link>http://newstapa.org/article/KrCYv</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원㉕ "총선은 여론전"... 선거 앞두고 바빠진 공언련과 류희림 방심위]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/23190324-64CA-7FE0-6873-ZFYKW541XMFJK6USG3Y1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, '김현아 돈봉투' 시의원들 '공천헌금' 피의자로 전환]]></title>
-            <link>http://newstapa.org/article/tvnmt</link>
-            <guid>http://newstapa.org/article/tvnmt</guid>
-            <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, '김현아 돈봉투' 시의원들 '공천헌금' 피의자로 전환]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/22163425-40F3-EC73-27E5-BZOE2T092UKPWK34EA0L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
