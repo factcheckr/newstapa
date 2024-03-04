@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 09:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 11:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 보도에도 '청부 의심 민원' 쇄도... 방심위 자문위원, 류희림 조카까지 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0iuNo</link>
+            <guid>http://newstapa.org/article/0iuNo</guid>
+            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 보도에도 '청부 의심 민원' 쇄도... 방심위 자문위원, 류희림 조카까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/04181518-F4B9-3EBA-02FD-4VN6N551JER4V0PU0KCK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['공천 취소' 국힘 김현아...'정치자금법 위반 수사' 사건의 전말 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/0vZ-t</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/27174901-A525-EA3A-1B4F-4QPM36Q0OXTM5U2M77NA.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[한동훈이 공천 막은 김현아 전 의원, 허위사실 유포로 선관위에 신고당해 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/sfpiY</link>
-            <guid>http://newstapa.org/article/sfpiY</guid>
-            <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한동훈이 공천 막은 김현아 전 의원, 허위사실 유포로 선관위에 신고당해]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/26151458-8BFE-38A4-BA5B-EX5DYA47E7XSM9Q0CVD3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴스타파 보도에도 '청부 의심 민원' 쇄도... 방심위 자문위원, 류희림 조카까지 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/0iuNo</link>
+            <guid>http://newstapa.org/article/0iuNo</guid>
+            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파 보도에도 '청부 의심 민원' 쇄도... 방심위 자문위원, 류희림 조카까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/04181518-F4B9-3EBA-02FD-4VN6N551JER4V0PU0KCK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['공천 취소' 국힘 김현아...'정치자금법 위반 수사' 사건의 전말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[최초 증언] “검찰총장님이 내리신 특활비를 받았습니다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/22101140-6F70-3C0B-E96E-AFVIZHO20UZ8LYPBRHK3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텃밭 몰린 '용와대' 출신...문재인 정부 때와 비교해보니 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/aAIQ6</link>
-            <guid>http://newstapa.org/article/aAIQ6</guid>
-            <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[텃밭 몰린 '용와대' 출신...문재인 정부 때와 비교해보니]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/20134653-E518-BD7D-AF4E-88RV8BCF689JI7MFDWAC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
