@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 02:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 03:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방심위 '가짜뉴스 센터'에 들어온 뉴스타파 겨냥 '청부 의심' 민원들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Py3K9</link>
+            <guid>http://newstapa.org/article/Py3K9</guid>
+            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[방심위 '가짜뉴스 센터'에 들어온 뉴스타파 겨냥 '청부 의심' 민원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/06192811-19BD-4AC0-7EEA-TUI7Z6AOW71VTZGJ45H3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청부민원㉘ 법원 판결 무시하는 ‘무법천지’ 류희림 방심위 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/M3owR</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28164416-0C38-CB4A-DEA7-WUH76AVKVBBT77KT4PE9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/-lf8E</link>
-            <guid>http://newstapa.org/article/-lf8E</guid>
-            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28165751-9088-3277-0647-1DDSUS5Q6Y7WHJ3G74N5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[방심위 '가짜뉴스 센터'에 들어온 뉴스타파 겨냥 '청부 의심' 민원들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/Py3K9</link>
+            <guid>http://newstapa.org/article/Py3K9</guid>
+            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[방심위 '가짜뉴스 센터'에 들어온 뉴스타파 겨냥 '청부 의심' 민원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/06192811-19BD-4AC0-7EEA-TUI7Z6AOW71VTZGJ45H3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청부민원㉘ 법원 판결 무시하는 ‘무법천지’ 류희림 방심위 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘근거 없는 허위주장’이라는 대검찰청의 허위주장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/26153938-E02D-1B97-25A1-2M5ETJVZ8OCLPU2EXGPO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원㉕ "총선은 여론전"... 선거 앞두고 바빠진 공언련과 류희림 방심위 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/c7eYW</link>
-            <guid>http://newstapa.org/article/c7eYW</guid>
-            <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원㉕ "총선은 여론전"... 선거 앞두고 바빠진 공언련과 류희림 방심위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/23190324-64CA-7FE0-6873-ZFYKW541XMFJK6USG3Y1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
