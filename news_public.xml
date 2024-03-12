@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 08:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 09:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> 국힘 장진영 후보, 父 부동산 투기 의혹…본인은 흑석동 건물 매입]]></title>
+            <link>http://newstapa.org/article/KcjNZ</link>
+            <guid>http://newstapa.org/article/KcjNZ</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 국힘 장진영 후보, 父 부동산 투기 의혹…본인은 흑석동 건물 매입]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/12174949-5376-B685-1267-1W0X88SQ1ZG8WM10D5MB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크]민주당에 음주운전 가산점?...양당 후보 음주운전 전력 따져보니]]></title>
             <link>http://newstapa.org/article/W00Xj</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[선관위, 국민의힘 김현아 후보 '허위사실 유포 조사' 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28171333-DA57-11DF-3A53-B5F769SIEVHMAX6DK4PI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원㉖ 윤석열 대통령이 해촉 재가한 김유진 방심위원 업무 복귀]]></title>
-            <link>http://newstapa.org/article/NoAw1</link>
-            <guid>http://newstapa.org/article/NoAw1</guid>
-            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원㉖ 윤석열 대통령이 해촉 재가한 김유진 방심위원 업무 복귀]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28171422-95D8-0B34-3CFD-PG34YEDVTUSIZI95IJEZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
