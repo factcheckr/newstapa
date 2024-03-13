@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 23:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 00:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['쿠팡 블랙리스트'가 합법이라고?... 불법 의혹 짙은 이유 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/G-qe2</link>
+            <guid>http://newstapa.org/article/G-qe2</guid>
+            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['쿠팡 블랙리스트'가 합법이라고?... 불법 의혹 짙은 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/12170917-629C-D536-A378-5CJOOM8BPPBJ1TF4MM5C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 국힘 장진영 후보, 父 부동산 투기 의혹…본인은 흑석동 건물 매입 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/KcjNZ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] &lt;총선 기획 3부작&gt; 2부 : 성평등 국회]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29114931-0D21-9DCB-48C6-NAYZOZ7TT0C3MIDEHBKG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성평등 국회 ①여성 19%, 국회는 여성을 대표하지 못한다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QB7SE</link>
-            <guid>http://newstapa.org/article/QB7SE</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[성평등 국회 ①여성 19%, 국회는 여성을 대표하지 못한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29190816-B850-3DFD-CAED-Y4XYY23GSCO7E374K4Z4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 국힘 장진영 후보, 父 부동산 투기 의혹…본인은 흑석동 건물 매입 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195656-0C37-6A7C-C2C9-31W2H9MTRFYV1NX7GFS3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['쿠팡 블랙리스트'가 합법이라고?... 불법 의혹 짙은 이유 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/G-qe2</link>
+            <guid>http://newstapa.org/article/G-qe2</guid>
+            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['쿠팡 블랙리스트'가 합법이라고?... 불법 의혹 짙은 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/12170917-629C-D536-A378-5CJOOM8BPPBJ1TF4MM5C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] <총선 기획 3부작> 2부 : 성평등 국회 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/TIfsV</link>
             <guid>http://newstapa.org/article/TIfsV</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해외입양과 돈]④해외입양 기관, 수수료 웃돈 취득·장부 허위 기재 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/01150934-4433-A7B6-A814-JVEVHPRE1GRZCHK3P0ED.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 노르웨이 유가족 최초 인터뷰...또 확인된 '무책임한 대한민국' (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/ojpC9</link>
-            <guid>http://newstapa.org/article/ojpC9</guid>
-            <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 노르웨이 유가족 최초 인터뷰...또 확인된 '무책임한 대한민국']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/16124814-01F4-1BD6-EB8A-NEXAUJ8HHIQ64KCFNRSH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<현장에서> 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
