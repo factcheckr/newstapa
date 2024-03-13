@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 07:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 08:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정우택 녹음파일ⓛ “돈 돌려 받았다고 인터뷰해라”... 사업가 회유, 언론공작 의혹 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/MunlO</link>
+            <guid>http://newstapa.org/article/MunlO</guid>
+            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정우택 녹음파일ⓛ “돈 돌려 받았다고 인터뷰해라”... 사업가 회유, 언론공작 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/13165006-9AAA-B365-1462-1I7FQ94DGOTAPIK4K3SI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['쿠팡 블랙리스트'가 합법이라고?... 불법 의혹 짙은 이유 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/G-qe2</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29160822-4183-3EFD-284D-5KS8CTFIO0UYIEFQ13N5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] <총선 기획 3부작> 2부 : 성평등 국회 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/TIfsV</link>
-            <guid>http://newstapa.org/article/TIfsV</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] &lt;총선 기획 3부작&gt; 2부 : 성평등 국회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29114931-0D21-9DCB-48C6-NAYZOZ7TT0C3MIDEHBKG.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정우택 녹음파일ⓛ “돈 돌려 받았다고 인터뷰해라”... 사업가 회유, 언론공작 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/MunlO</link>
+            <guid>http://newstapa.org/article/MunlO</guid>
+            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정우택 녹음파일ⓛ “돈 돌려 받았다고 인터뷰해라”... 사업가 회유, 언론공작 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/13165006-9AAA-B365-1462-1I7FQ94DGOTAPIK4K3SI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 국힘 장진영 후보, 父 부동산 투기 의혹…본인은 흑석동 건물 매입 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[성평등 국회 ③여성 공천 30%...더 나은 민주주의의 시작]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28103132-7B8D-FC0C-7705-WTRXUAGBBX4O4SRHJN2R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선관위, 국민의힘 김현아 후보 '허위사실 유포 조사' 착수 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/fQnNJ</link>
-            <guid>http://newstapa.org/article/fQnNJ</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[선관위, 국민의힘 김현아 후보 '허위사실 유포 조사' 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/28171333-DA57-11DF-3A53-B5F769SIEVHMAX6DK4PI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
