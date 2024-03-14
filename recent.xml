@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 05:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 06:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정우택 녹음파일② “염치불고하고 부탁하자, 의원님께 필요한 건 현금”]]></title>
+            <link>http://newstapa.org/article/Mas4e</link>
+            <guid>http://newstapa.org/article/Mas4e</guid>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정우택 녹음파일② “염치불고하고 부탁하자, 의원님께 필요한 건 현금”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/14141328-2509-025B-3609-UI5UX3UGP3Q6ALCAEI96.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정우택 녹음파일① “돈 돌려받았다고 인터뷰해라”... 사업가 회유, 언론공작 의혹]]></title>
             <link>http://newstapa.org/article/MunlO</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[호반그룹의 리베이트와 은닉재산의 저수지는 재단?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29152602-C9A8-8A8A-EB56-BED6EGPZQEG3J9SU3JHA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후방 땅]]></title>
-            <link>http://newstapa.org/article/KrCYv</link>
-            <guid>http://newstapa.org/article/KrCYv</guid>
-            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[후방 땅]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/29160822-4183-3EFD-284D-5KS8CTFIO0UYIEFQ13N5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
