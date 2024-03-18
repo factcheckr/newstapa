@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 07:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 08:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장진영, 99% 빚 내 양평땅 개발…'父 찬스 대출' 의혹]]></title>
+            <link>http://newstapa.org/article/AozUO</link>
+            <guid>http://newstapa.org/article/AozUO</guid>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[장진영, 99% 빚 내 양평땅 개발…'父 찬스 대출' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/18165031-49C2-9CEC-6E45-EALK0URZCJ35H6J2PH3H.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<총선 기획 3부작> 3부 : 정치 전쟁]]></title>
             <link>http://newstapa.org/article/U_C_Y</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[방심위 '가짜뉴스 센터'에 들어온 뉴스타파 겨냥 '청부 의심' 민원들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/06192811-19BD-4AC0-7EEA-TUI7Z6AOW71VTZGJ45H3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원㉘ 법원 판결 무시하는 ‘무법천지’ 류희림 방심위]]></title>
-            <link>http://newstapa.org/article/M3owR</link>
-            <guid>http://newstapa.org/article/M3owR</guid>
-            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원㉘ 법원 판결 무시하는 ‘무법천지’ 류희림 방심위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/06153007-A130-D43D-BBB1-CKR8FCCK9KTGJ8PPZ1AU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
