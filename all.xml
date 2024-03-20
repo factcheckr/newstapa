@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 08:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 09:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장영하 국민의힘 성남 수정구 후보, '대선 허위폭로' 피고인 신분 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/anp_m</link>
+            <guid>http://newstapa.org/article/anp_m</guid>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[장영하 국민의힘 성남 수정구 후보, '대선 허위폭로' 피고인 신분]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/20172822-198D-2751-30EB-DJNLPKBADRZRGO760FMO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정우택 녹음파일④ “네 민원 잊지 않고 해결할게” 정우택 보좌관의 약속 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/bvFSR</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/07175305-DBE5-648D-C960-PH0CHW8KC8GUWOIKBBBU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도이치 선수 문건 ② 김건희, 주가조작 선수와 의문의 수천만 원 돈거래 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/FEdv3</link>
-            <guid>http://newstapa.org/article/FEdv3</guid>
-            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치 선수 문건 ② 김건희, 주가조작 선수와 의문의 수천만 원 돈거래]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/07175203-DDF4-B667-574C-GBEXO0E8GNHGMV4O4C57.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[장영하 국민의힘 성남 수정구 후보, '대선 허위폭로' 피고인 신분 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/anp_m</link>
+            <guid>http://newstapa.org/article/anp_m</guid>
+            <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[장영하 국민의힘 성남 수정구 후보, '대선 허위폭로' 피고인 신분]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/20172822-198D-2751-30EB-DJNLPKBADRZRGO760FMO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정우택 녹음파일④ “네 민원 잊지 않고 해결할게” 정우택 보좌관의 약속 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도이치 선수 문건 ② 김건희, 주가조작 선수와 의문의 수천만 원 돈거래]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/07175203-DDF4-B667-574C-GBEXO0E8GNHGMV4O4C57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치 선수 문건 ③ 다른 '쩐주' 진술서 "권오수, 김건희 이름대며 빠지지 말라 설득했다" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/QMHGe</link>
-            <guid>http://newstapa.org/article/QMHGe</guid>
-            <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치 선수 문건 ③ 다른 '쩐주' 진술서 "권오수, 김건희 이름대며 빠지지 말라 설득했다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/07175240-8DC5-0E06-1062-2F5YQ7NQN6LVBSCI5H61.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘특활비 민원실 격려 지급’ 이원석 검찰총장, 공수처에 고발 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
