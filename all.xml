@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 10:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 11:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2054,6 +2054,14 @@
             <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] “2억원 웃돈 기대, 탁 트인 한강 조망" 기사... 사기 아파트 광고였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14174347-CFF5-672C-BB85-GBRA5LN0M45V97QTK1WR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자유언론실천선언 50년 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/projects/Njb_g</link>
+            <guid>https://newstapa.org/projects/Njb_g</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1974년 10월 24일, 박정희 독재정권에 맞서 180여 명의 언론인이 '자유언론실천선언'을 발표했습니다. 자유언론실천선언 50주년을 맞아 정권에 맞서다 해직된 언론인들의 글을 연재합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22191058-5852-F9F1-B921-FP5PHVX6XLV2NTQTUQW9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 예산 검증 (뉴스타파 ─ 프로젝트)]]></title>
