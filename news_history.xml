@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 09:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 10:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶]]></title>
+            <link>http://newstapa.org/article/vZPNc</link>
+            <guid>http://newstapa.org/article/vZPNc</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22152933-4D14-5113-B3BC-COB3LZ1NDWGKCEWHRYJ6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></title>
             <link>http://newstapa.org/article/0MWvx</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></title>
-            <link>http://newstapa.org/article/XIrAd</link>
-            <guid>http://newstapa.org/article/XIrAd</guid>
-            <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30111915-88A1-643F-6F32-UZQNBF074OESVC9ZR5MJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 09:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 10:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/XDaD1</link>
+            <guid>http://newstapa.org/article/XDaD1</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22150615-5C5F-279F-8730-KIKVVK9DBGKS2QATD7TD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 천연기념물 장수하늘소 발견 '조작'한 곤충학자들...법정 구속 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/1U37p</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/14181351-310F-46D4-5B50-0HRZYG0EQLGKBOIXXSM9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도이치 선수 문건 ④ 선수 자필 메모에 “김건희 65만 주”…도이치 주식 더 샀나? (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gbm3G</link>
-            <guid>http://newstapa.org/article/gbm3G</guid>
-            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치 선수 문건 ④ 선수 자필 메모에 “김건희 65만 주”…도이치 주식 더 샀나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/14110614-8DDE-C4F2-C1E6-9V4GCTA23JYMWJ585YMY.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/XDaD1</link>
+            <guid>http://newstapa.org/article/XDaD1</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22150615-5C5F-279F-8730-KIKVVK9DBGKS2QATD7TD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정우택 녹음파일⑥ '정우택 돈봉투' 기사 삭제?...한동훈이 퍼뜨린 가짜뉴스 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[도이치 선수 문건 ④ 선수 자필 메모에 “김건희 65만 주”…도이치 주식 더 샀나?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/14110614-8DDE-C4F2-C1E6-9V4GCTA23JYMWJ585YMY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치 선수 문건 ⑤ 검찰, 김건희 봐주려고 공소장 날짜 바꿨나? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/4C3Ib</link>
-            <guid>http://newstapa.org/article/4C3Ib</guid>
-            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치 선수 문건 ⑤ 검찰, 김건희 봐주려고 공소장 날짜 바꿨나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/14181512-09B4-9AEB-8ADB-YQEAAWNNDCOGZ6MD0RIT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검사 출신 총선 후보들의 특활비 오남용 의혹 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30174705-6CC9-4ECD-12E8-RNOMF4954U6JKL0XYERV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/vZPNc</link>
+            <guid>http://newstapa.org/article/vZPNc</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22152933-4D14-5113-B3BC-COB3LZ1NDWGKCEWHRYJ6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/0MWvx</link>
             <guid>http://newstapa.org/article/0MWvx</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/XIrAd</link>
-            <guid>http://newstapa.org/article/XIrAd</guid>
-            <pubDate>Sat, 28 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김복동' 일본 상영회를 기념하며... 송원근 감독이 일본 관객들에게 보내는 편지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/30111915-88A1-643F-6F32-UZQNBF074OESVC9ZR5MJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10170501-D6EF-8887-782E-JYES3POPGTTKR6B9H34C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/vZPNc</link>
+            <guid>http://newstapa.org/article/vZPNc</guid>
+            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22152933-4D14-5113-B3BC-COB3LZ1NDWGKCEWHRYJ6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[KINN] 방치된 '가습기 살균제 인체 무해' 기사들...경향, 20년 만에 정정 보도 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/pKDOm</link>
             <guid>http://newstapa.org/article/pKDOm</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[KINN] “2억원 웃돈 기대, 탁 트인 한강 조망" 기사... 사기 아파트 광고였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/14174347-CFF5-672C-BB85-GBRA5LN0M45V97QTK1WR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 불법 ‘기사형 광고’ 매년 만 건 넘어…매경 3년 연속 1위 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/G0VDY</link>
-            <guid>http://newstapa.org/article/G0VDY</guid>
-            <pubDate>Wed, 15 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 불법 ‘기사형 광고’ 매년 만 건 넘어…매경 3년 연속 1위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/15095143-91DE-5002-DD13-BZXJ6T5PCRQMY02O34RS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 예산 검증 (뉴스타파 ─ 프로젝트)]]></title>
