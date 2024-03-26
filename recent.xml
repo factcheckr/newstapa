@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 08:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> "건국 이승만, 영웅 백선엽"... 6개월 장관 박민식]]></title>
+            <link>http://newstapa.org/article/fb53Z</link>
+            <guid>http://newstapa.org/article/fb53Z</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; "건국 이승만, 영웅 백선엽"... 6개월 장관 박민식]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/26172927-5C7B-2A07-4E0F-Z0P77DY656E11AYR566C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 검증 있으나 마나, 국민 분열 '막말' 후보들]]></title>
             <link>http://newstapa.org/article/GO1Pq</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[장진영, 99% 빚 내 양평땅 개발…'父 찬스 대출' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/18165031-49C2-9CEC-6E45-EALK0URZCJ35H6J2PH3H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<총선 기획 3부작> 3부 : 정치 전쟁]]></title>
-            <link>http://newstapa.org/article/U_C_Y</link>
-            <guid>http://newstapa.org/article/U_C_Y</guid>
-            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;총선 기획 3부작&gt; 3부 : 정치 전쟁]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/15184542-246F-36C9-9F28-FS0WXYRTSHRPOEE1BVUT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
