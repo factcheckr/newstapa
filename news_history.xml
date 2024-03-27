@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 02:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 03:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까]]></title>
+            <link>http://newstapa.org/article/a27xo</link>
+            <guid>http://newstapa.org/article/a27xo</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27104729-9E69-0D01-4143-41H9XIQK8Z9W9B2F9YYV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶]]></title>
             <link>http://newstapa.org/article/vZPNc</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21170108-5AB3-2145-9138-XLCOY3NKKTYJKUUJVZX9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개]]></title>
-            <link>http://newstapa.org/article/jJYDe</link>
-            <guid>http://newstapa.org/article/jJYDe</guid>
-            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

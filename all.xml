@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 02:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 03:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/a27xo</link>
+            <guid>http://newstapa.org/article/a27xo</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27104729-9E69-0D01-4143-41H9XIQK8Z9W9B2F9YYV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> "건국 이승만, 영웅 백선엽"... 6개월 장관 박민식 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/fb53Z</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22101605-C26D-7402-2C9C-F1JT2PTP46JN2G15TRRZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장진영, 99% 빚 내 양평땅 개발…'父 찬스 대출' 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/AozUO</link>
-            <guid>http://newstapa.org/article/AozUO</guid>
-            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[장진영, 99% 빚 내 양평땅 개발…'父 찬스 대출' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/18165031-49C2-9CEC-6E45-EALK0URZCJ35H6J2PH3H.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/a27xo</link>
+            <guid>http://newstapa.org/article/a27xo</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27104729-9E69-0D01-4143-41H9XIQK8Z9W9B2F9YYV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> "건국 이승만, 영웅 백선엽"... 6개월 장관 박민식 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[장진영, 99% 빚 내 양평땅 개발…'父 찬스 대출' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/18165031-49C2-9CEC-6E45-EALK0URZCJ35H6J2PH3H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<총선 기획 3부작> 3부 : 정치 전쟁 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/U_C_Y</link>
-            <guid>http://newstapa.org/article/U_C_Y</guid>
-            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;총선 기획 3부작&gt; 3부 : 정치 전쟁]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/15184542-246F-36C9-9F28-FS0WXYRTSHRPOEE1BVUT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검사 출신 총선 후보들의 특활비 오남용 의혹 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30174705-6CC9-4ECD-12E8-RNOMF4954U6JKL0XYERV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/a27xo</link>
+            <guid>http://newstapa.org/article/a27xo</guid>
+            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27104729-9E69-0D01-4143-41H9XIQK8Z9W9B2F9YYV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/vZPNc</link>
             <guid>http://newstapa.org/article/vZPNc</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21170108-5AB3-2145-9138-XLCOY3NKKTYJKUUJVZX9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 다큐영화 <족벌-두 신문 이야기 2023> 공개 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/jJYDe</link>
-            <guid>http://newstapa.org/article/jJYDe</guid>
-            <pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파 다큐영화 &lt;족벌-두 신문 이야기 2023&gt; 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/27173935-6770-7A07-F8C5-M79SGL5M91O7WU8NG4BG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
