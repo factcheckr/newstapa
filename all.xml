@@ -4,16 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 08:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 09:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/10Kxj</link>
+            <guid>http://newstapa.org/article/10Kxj</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29145940-A92E-D5C8-DC62-DYL1FK3TXNQTKEEFRVKR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 정치는 4년간 무엇을 했습니까 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/A0oxa</link>
             <guid>http://newstapa.org/article/A0oxa</guid>
             <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리 정치는 4년간 무엇을 했습니까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29154056-8795-B5F5-A97D-6PWVNC4A66XF2XX3VZY2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29171816-3B72-0359-8201-IEWEJHD1LM7K1A53BTZP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회 (뉴스타파 ─ 뉴스)]]></title>
@@ -128,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21112137-2373-BD23-86C3-A2KIIX8QAF7AQMROS66E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Qa2xR</link>
-            <guid>http://newstapa.org/article/Qa2xR</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21181929-6670-3CD0-6583-BCMSP512SC4SXL4FC8I1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우리 정치는 4년간 무엇을 했습니까 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/A0oxa</link>
             <guid>http://newstapa.org/article/A0oxa</guid>
             <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리 정치는 4년간 무엇을 했습니까]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29154056-8795-B5F5-A97D-6PWVNC4A66XF2XX3VZY2.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29171816-3B72-0359-8201-IEWEJHD1LM7K1A53BTZP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30174705-6CC9-4ECD-12E8-RNOMF4954U6JKL0XYERV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/10Kxj</link>
+            <guid>http://newstapa.org/article/10Kxj</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29145940-A92E-D5C8-DC62-DYL1FK3TXNQTKEEFRVKR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/a27xo</link>
             <guid>http://newstapa.org/article/a27xo</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일본 전역에 울려 퍼진 김복동의 외침 “일본 정부는 사죄하라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/31184759-E0E3-6E31-011F-XDK7HUNEJH1XKV4S7T9H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/gVH7x</link>
-            <guid>http://newstapa.org/article/gVH7x</guid>
-            <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“나, 양금덕”... 강제동원 피해 15년의 기록]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/21170108-5AB3-2145-9138-XLCOY3NKKTYJKUUJVZX9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/10170501-D6EF-8887-782E-JYES3POPGTTKR6B9H34C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/10Kxj</link>
+            <guid>http://newstapa.org/article/10Kxj</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29145940-A92E-D5C8-DC62-DYL1FK3TXNQTKEEFRVKR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/X3Cl1</link>
             <guid>http://newstapa.org/article/X3Cl1</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30171954-2E76-2C65-C8B5-OBME6P4H5EQG1OYCJ18H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/E9ufY</link>
-            <guid>http://newstapa.org/article/E9ufY</guid>
-            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/21165907-3B3F-EA8A-C82A-P9LSXYXB3UUIDMC8KQEV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자유언론실천선언 50년 (뉴스타파 ─ 프로젝트)]]></title>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 08:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 09:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></title>
+            <link>http://newstapa.org/article/10Kxj</link>
+            <guid>http://newstapa.org/article/10Kxj</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29145940-A92E-D5C8-DC62-DYL1FK3TXNQTKEEFRVKR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회]]></title>
             <link>http://newstapa.org/article/X3Cl1</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["방호원 불러" 방통위, 취재 허가해놓고 뉴스타파 쫓아냈다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/30171954-2E76-2C65-C8B5-OBME6P4H5EQG1OYCJ18H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용]]></title>
-            <link>http://newstapa.org/article/E9ufY</link>
-            <guid>http://newstapa.org/article/E9ufY</guid>
-            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 묻지도 따지지도 않는 ‘기사형 광고’, 사기성 사업에 악용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/21165907-3B3F-EA8A-C82A-P9LSXYXB3UUIDMC8KQEV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
