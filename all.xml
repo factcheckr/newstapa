@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 06:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 07:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 정치는 4년간 무엇을 했습니까 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/A0oxa</link>
+            <guid>http://newstapa.org/article/A0oxa</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리 정치는 4년간 무엇을 했습니까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29154056-8795-B5F5-A97D-6PWVNC4A66XF2XX3VZY2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/X3Cl1</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21181929-6670-3CD0-6583-BCMSP512SC4SXL4FC8I1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[총선후보 검증] 박균택, 부하검사와 격려만찬 때 특활비 지급 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/__Hw3</link>
-            <guid>http://newstapa.org/article/__Hw3</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[총선후보 검증] 박균택, 부하검사와 격려만찬 때 특활비 지급]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21181855-DBCA-BB61-0EB5-6170U3O8IC5HPHWPNW62.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우리 정치는 4년간 무엇을 했습니까 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/A0oxa</link>
+            <guid>http://newstapa.org/article/A0oxa</guid>
+            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[우리 정치는 4년간 무엇을 했습니까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29154056-8795-B5F5-A97D-6PWVNC4A66XF2XX3VZY2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[총선후보 검증] 박균택, 부하검사와 격려만찬 때 특활비 지급]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21181855-DBCA-BB61-0EB5-6170U3O8IC5HPHWPNW62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['父 투기 의혹' 장진영 후보, 거짓 해명했나? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/ffJyA</link>
-            <guid>http://newstapa.org/article/ffJyA</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['父 투기 의혹' 장진영 후보, 거짓 해명했나?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21151826-00E0-9B47-47AF-N9KMLLH2GJQMIXJ9SMS8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검사 출신 총선 후보들의 특활비 오남용 의혹 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
