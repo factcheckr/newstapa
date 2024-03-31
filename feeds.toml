@@ -245,6 +245,8 @@ entrySelector = "div > div.wrap_post"
 titleSelector = "div:nth-child(2) > div.post_txt > strong > span"
 linkSelector = "div:nth-child(2) > div.post_txt > p > a"
 contentSelector = "div:nth-child(2) > div.post_txt > p > span"
+dateSelector = "div.post_profile > div.wrap_info > span > a"
+dateFormat = "M월 d일 yyyy a hh:mm"
 waitUntil = "networkidle"
 
 [daumnews]
