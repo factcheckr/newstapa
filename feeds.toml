@@ -250,7 +250,7 @@ waitUntil = "networkidle"
 [daumnews]
 title = "뉴스타파 ─ 다음뉴스"
 url = "https://v.daum.net/channel/3272/contents"
-entrySelector = "ol.list_column > li"
+entrySelector = "div:nth-child(6) > div > div > div.inner_box > ol.list_column > li"
 titleSelector = "a > div.cont_thumb > strong"
 linkSelector = "a"
 contentSelector = "a > div.wrap_thumb > span"
