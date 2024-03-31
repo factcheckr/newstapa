@@ -244,7 +244,7 @@ url = "https://pf.kakao.com/_xkxkxjXl/posts"
 entrySelector = "div > div.wrap_post"
 titleSelector = "div:nth-child(2) > div.post_txt > strong > span"
 linkSelector = "div:nth-child(2) > div.post_txt > p > a"
-contentSelector = "div:nth-child(2) > div.post_txt > p > span > span > span:nth-child(1)"
+contentSelector = "div:nth-child(2) > div.post_txt > p"
 waitUntil = "networkidle"
 
 [daumnews]
