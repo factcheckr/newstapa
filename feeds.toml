@@ -240,7 +240,7 @@ waitUntil = "networkidle"
 
 [kakao]
 title = "뉴스타파 ─ 카카오톡 채널"
-url = "https://pf.kakao.com/_xkxkxjXl"
+url = "https://pf.kakao.com/_xkxkxjXl/posts"
 entrySelector = "ul.list_news li"
 titleSelector = "span.txt_g"
 linkSelector = "a.link_item"
