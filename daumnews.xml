@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 01:55:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나]]></title>
+            <link>https://v.daum.net/v/20240401100003482</link>
+            <guid>https://v.daum.net/v/20240401100003482</guid>
+            <pubDate>Mon, 01 Apr 2024 01:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401100003482" class="link_column" data-tiara-layer="[현장에서]_뉴스타파는_왜_수사받고_있나_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 뉴스타파는 왜 수사받고 있나</strong><span class="info_txt"><span class="txt_info">55분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유]]></title>
             <link>https://v.daum.net/v/20240329194003733</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240315153003078" class="link_column" data-tiara-layer="정우택_녹음파일③_청탁_직접_챙기는_정우택_목소리_&quot;그게_잘돼야는데_그치?&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">정우택 녹음파일③ 청탁 직접 챙기는 정우택 목소리 "그게 잘돼야는데 그치?"</strong><span class="info_txt"><span class="txt_info">2024. 3. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F15%2Fnewstapa%2F20240315212803325qkra.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F15%2Fnewstapa%2F20240315212803325qkra.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 도이치 선수 문건과 검찰의 '김건희 봐주기' 의혹]]></title>
-            <link>https://v.daum.net/v/20240314200517063</link>
-            <guid>https://v.daum.net/v/20240314200517063</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240314200517063" class="link_column" data-tiara-layer="[주간_뉴스타파]_도이치_선수_문건과_검찰의_'김건희_봐주기'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 도이치 선수 문건과 검찰의 '김건희 봐주기' 의혹</strong><span class="info_txt"><span class="txt_info">2024. 3. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F14%2Fnewstapa%2F20240314200519351aggz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F14%2Fnewstapa%2F20240314200519351aggz.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

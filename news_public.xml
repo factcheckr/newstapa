@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 01:55:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나]]></title>
+            <link>http://newstapa.org/article/5tEh1</link>
+            <guid>http://newstapa.org/article/5tEh1</guid>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/31164012-04DF-D797-266A-SU6UY3U478EDILS5EAP3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 행정부가 할 수 있는 일 없다... 4개월 장관 방문규]]></title>
             <link>http://newstapa.org/article/gDbIN</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[총선후보 검증] 양부남, 특활비로 연말 잔치 및 전별금 전용 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21112137-2373-BD23-86C3-A2KIIX8QAF7AQMROS66E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹]]></title>
-            <link>http://newstapa.org/article/Qa2xR</link>
-            <guid>http://newstapa.org/article/Qa2xR</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21181929-6670-3CD0-6583-BCMSP512SC4SXL4FC8I1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

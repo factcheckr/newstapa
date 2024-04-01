@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 01:55:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5tEh1</link>
+            <guid>http://newstapa.org/article/5tEh1</guid>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/31164012-04DF-D797-266A-SU6UY3U478EDILS5EAP3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/9y-eR</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22153720-1966-A378-8A27-7K4597P034NHFK18GQBD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정우택 녹음파일⑥ '정우택 돈봉투' 기사 삭제?...한동훈이 퍼뜨린 가짜뉴스 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/nP-j4</link>
-            <guid>http://newstapa.org/article/nP-j4</guid>
-            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정우택 녹음파일⑥ '정우택 돈봉투' 기사 삭제?...한동훈이 퍼뜨린 가짜뉴스]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22103704-07D8-CCDF-2E38-TPWFENCYMIFBE3FHVC52.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/5tEh1</link>
+            <guid>http://newstapa.org/article/5tEh1</guid>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/31164012-04DF-D797-266A-SU6UY3U478EDILS5EAP3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 행정부가 할 수 있는 일 없다... 4개월 장관 방문규 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[총선후보 검증] 양부남, 특활비로 연말 잔치 및 전별금 전용 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21112137-2373-BD23-86C3-A2KIIX8QAF7AQMROS66E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/Qa2xR</link>
-            <guid>http://newstapa.org/article/Qa2xR</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21181929-6670-3CD0-6583-BCMSP512SC4SXL4FC8I1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3294,6 +3294,14 @@
             <content:encoded><![CDATA[<span><span>더불어민주당 양부남 후보(광주 서구 을)가 광주지검장 재직 시절, 자신의 인사 발령 직후 수십 명의 검사들에게 특수활동비를 나눠주는 등 특활비를 전별금 성격으로 유용한 정황이 드러났습니다. <br></span><span>또 연말에 2천만 원이 넘는 특활비를 몰아서 집행한 정황도 확인됐습니다. 기밀 수사에 써야 할 특활비를 사실상 연말 격려금으로 지급한 게 아니냐는 의혹이 나옵니다.<br></span><span><br></span><span>양부남 후보는 "정확이 기억나지는 않지만 당시 규정에 따라 사용했을 것", "국민 눈높이에 맞게 특활비를 사용할 수 있도록 제도를 근본적으로 따져보겠다" 라는 입장을 밝혔습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/Wzf7y3BtQzw" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/Wzf7y3BtQzw</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/COCwF" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/COCwF</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240401100003482</link>
+            <guid>https://v.daum.net/v/20240401100003482</guid>
+            <pubDate>Mon, 01 Apr 2024 01:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401100003482" class="link_column" data-tiara-layer="[현장에서]_뉴스타파는_왜_수사받고_있나_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 뉴스타파는 왜 수사받고 있나</strong><span class="info_txt"><span class="txt_info">55분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240329194003733</link>
             <guid>https://v.daum.net/v/20240329194003733</guid>
@@ -3524,14 +3532,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240315153003078" class="link_column" data-tiara-layer="정우택_녹음파일③_청탁_직접_챙기는_정우택_목소리_&quot;그게_잘돼야는데_그치?&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">정우택 녹음파일③ 청탁 직접 챙기는 정우택 목소리 "그게 잘돼야는데 그치?"</strong><span class="info_txt"><span class="txt_info">2024. 3. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F15%2Fnewstapa%2F20240315212803325qkra.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F15%2Fnewstapa%2F20240315212803325qkra.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 도이치 선수 문건과 검찰의 '김건희 봐주기' 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240314200517063</link>
-            <guid>https://v.daum.net/v/20240314200517063</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240314200517063" class="link_column" data-tiara-layer="[주간_뉴스타파]_도이치_선수_문건과_검찰의_'김건희_봐주기'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 도이치 선수 문건과 검찰의 '김건희 봐주기' 의혹</strong><span class="info_txt"><span class="txt_info">2024. 3. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F14%2Fnewstapa%2F20240314200519351aggz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F14%2Fnewstapa%2F20240314200519351aggz.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
