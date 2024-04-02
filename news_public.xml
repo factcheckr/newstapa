@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 00:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 01:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정']]></title>
+            <link>http://newstapa.org/article/AVc-4</link>
+            <guid>http://newstapa.org/article/AVc-4</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/02085711-F07E-B18F-0AE0-GGLB31CDNOH840WNKFKD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["고발사주 진범 잡아야" 피해자들, 윤석열 한동훈 김건희 공수처에 고발]]></title>
             <link>http://newstapa.org/article/zZEha</link>
@@ -16,11 +24,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01195547-750F-595B-2995-KXIPA0YA3Q3ZZLDICGFX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사]]></title>
+            <title><![CDATA[<22대 총선 후보 검증> 현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사]]></title>
             <link>http://newstapa.org/article/8j8OL</link>
             <guid>http://newstapa.org/article/8j8OL</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사]]></content:encoded>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01174518-6AA0-1F61-0886-XXAAJ111KF6I18KO3TYV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22150615-5C5F-279F-8730-KIKVVK9DBGKS2QATD7TD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정우택 녹음파일⑥ '정우택 돈봉투' 기사 삭제?...한동훈이 퍼뜨린 가짜뉴스]]></title>
-            <link>http://newstapa.org/article/nP-j4</link>
-            <guid>http://newstapa.org/article/nP-j4</guid>
-            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[정우택 녹음파일⑥ '정우택 돈봉투' 기사 삭제?...한동훈이 퍼뜨린 가짜뉴스]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22103704-07D8-CCDF-2E38-TPWFENCYMIFBE3FHVC52.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
