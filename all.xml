@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 06:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 07:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NNYaF</link>
+            <guid>http://newstapa.org/article/NNYaF</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01175435-1F92-4191-FC67-QPLOVVG01QWNLJMFXWTP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/AVc-4</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/26172927-5C7B-2A07-4E0F-Z0P77DY656E11AYR566C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<22대 총선 후보 검증> 검증 있으나 마나, 국민 분열 '막말' 후보들 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/GO1Pq</link>
-            <guid>http://newstapa.org/article/GO1Pq</guid>
-            <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 검증 있으나 마나, 국민 분열 '막말' 후보들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/25181106-5525-33A5-3754-MZJU5SHBUCOUT9I4RO56.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<22대 총선 후보 검증> ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/NNYaF</link>
+            <guid>http://newstapa.org/article/NNYaF</guid>
+            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01175435-1F92-4191-FC67-QPLOVVG01QWNLJMFXWTP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 윤석열 정부 장관 출신 7명 22대 총선 출마]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/25134937-498F-3876-5FA1-AH361EN8LLZG83YYLFZM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/XDaD1</link>
-            <guid>http://newstapa.org/article/XDaD1</guid>
-            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22150615-5C5F-279F-8730-KIKVVK9DBGKS2QATD7TD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3154,6 +3154,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104727812</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104727812</guid>
+            <pubDate>Tue, 02 Apr 2024 07:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>국민의힘 원희룡 후보(인천 계양을)의 거짓말과 특혜 의혹이 잇따라 드러나고 있습니다. 제주특별자치도지사 재직 시절, 도시공원 개발 사업과 제주2공항 사업 추진 과정에서 불거진 의혹입니다.<br></span><span><br></span><span>원희룡 후보는 2018년 제주도지사 재직 시절, 제주시 오등봉공원 부지를 '제주도에서 직접 매입해 개발하겠다' 라고 약속했습니다. 하지만 원 후보는 약속과 달리 2017년부터 비밀 TF를 꾸리고 민간 개발을 추진하고 있었습니다. 이후 오등봉공원 부지는 민간특례사업 추진 대상지로 결정됐습니다. <br></span><span><br></span><span>오등봉공원 사업 추진 과정에서도 논란이 끊이지 않았습니다. 최종 사업자로 선정된 호반건설은 여러 감점 사유에도 불구하고 감점 처리를 받지 않았습니다. 원희룡 지사의 보좌관 출신 인물이 사업자 심사에 참여해 특혜 논란이 일어나기도 했습니다.<br></span><span><br></span><span>또 2021년 제주도민 전체 여론조사에서 제주2공항 반대 여론이 높았음에도, 원희룡 지사는 '여론조사 결과를 그대로 전달하겠다' 라는 말을 뒤집고 국토부에 '찬성' 입장을 전달했습니다. 2공항 건설 예정지를 대상으로 한 별도 여론조사가 근거였는데, 사실상 '꼼수'를 동원해 제주도민의 민의를 왜곡했다는 비판이 나옵니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/NNYaF" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/NNYaF</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정' (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/104719627</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/104719627</guid>
@@ -3287,18 +3294,19 @@
             <content:encoded><![CDATA[<span><span>국민들의 공분 속에 2년 전 이해충돌방지법이 시행됐지만 여전히 제도는 구멍투성이입니다. 허점을 비집고 공익인지 사익인지 모를 의정 활동을 벌이다 여론의 비판을 받은 '회장님 의원'들이 22대 총선에 다시 도전장을 내밀었습니다.<br></span><span><br></span><span>21대 국회에서 '단군 이래 최악의 이해충돌'이라는 비판을 받은 박덕흠 의원은 4선에 도전합니다. 자신의 관계사들이 피감 공공기관으로부터 1000억 원에 이르는 사업을 수주한 사실이 물의를 빚었습니다. 뉴스타파가 살펴보니 상황은 달라진게 없었습니다. 여전히 박 의원은 건설사 회장님이고, 공공기관 사업수주는 계속되고 있습니다.<br></span><span><br></span><span>관계사에게 이익이 돌아가는 법안을 셀프 발의하고 심사했던 한무경 의원도 재선에 도전합니다. 뉴스타파가 한 의원 관계사들에 대한 정부 R&amp;D 예산 지원 내역을 조사해봤더니 국회의원이 되기 전보다 최대 2배 지원 사업 건수가 늘은 것으로 나타났습니다.<br></span><span><br></span><span>공직자윤리법에 있는 백지신탁 의무를 끝까지 거부해 물의를 빚었던 홍철호 전 의원도 3선에 도전합니다. 유명 치킨 프랜차이즈의 공동창업자인 홍 전 의원은 일감 몰아주기라는 편법을 통해 연매출 1300억 원의 기업을 30대 초반 자녀에게 물려줬습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/XDaD1" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/XDaD1</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[변화] 천연 기념물 장수하늘소 발견 '조작'한 곤충학자들... 법정 구속 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104584297</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104584297</guid>
-            <pubDate>Sun, 31 Mar 2024 05:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>지난 2019년, 강원도 춘천에서 천연기념물인 장수하늘소 유충을 발견했다는 소식이 나왔습니다. 춘천에서 장수하늘소가 발견된 것은 82년만이었습니다. 유충을 발견한 곤충학자들은 큰 상과 명예를 얻었습니다.<br></span><span>그런데 당시 밝혀진 발견 과정에는 미심쩍은 부분이 많았습니다. 뉴스타파는 전문가들과 함께 검증한 결과, 장수하늘소 유충 발견이 '조작됐을 가능성이 높다' 라고 보도했습니다. <br></span><span><br></span><span>최근 법원은 장수하늘소 유충을 발견했다고 알린 곤충학자 2명의 '조작' 혐의를 유죄로 판결하고 법정 구속했습니다. 뉴스타파 보도 내용이 사실로 인정된 것입니다. <br></span><span>재판부는 "피고인들이 조작해 발표한 사안은 국내 곤충학계에서는 매우 중대한 것", "천연기념물 장수하늘소를 좋아하는 국민들에게도 큰 충격을 준 조작 사건" 이라고 판시했습니다.<br></span><span><br></span><span>🎬 자연시사 다큐멘터리 [욕망의 곤충, 장수하늘소] 보러가기 : </span></span><a href="https://youtu.be/bkC1pV1DVnA" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/bkC1pV1DVnA</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/1U37p" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/1U37p</span></a>]]></content:encoded>
+            <title><![CDATA[<22대 총선 후보 검증> ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240402160003184</link>
+            <guid>https://v.daum.net/v/20240402160003184</guid>
+            <pubDate>Tue, 02 Apr 2024 07:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240402160003184" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_‘비리_의혹’_‘말_바꿈’_오등봉·제2공항,_‘원희룡_꼼수’_논란_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F02%2Fnewstapa%2F20240402160005389ebjl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F02%2Fnewstapa%2F20240402160005389ebjl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정' (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240402100003727</link>
             <guid>https://v.daum.net/v/20240402100003727</guid>
             <pubDate>Tue, 02 Apr 2024 01:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240402100003727" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'재산_축소_신고'_장진영_국힘_후보,_뉴스타파_취재_직후_'급_수정'_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정'</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F02%2Fnewstapa%2F20240402110533014stjm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240402100003727" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'재산_축소_신고'_장진영_국힘_후보,_뉴스타파_취재_직후_'급_수정'_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정'</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F02%2Fnewstapa%2F20240402110533014stjm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F02%2Fnewstapa%2F20240402110533014stjm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3306,7 +3314,7 @@
             <link>https://v.daum.net/v/20240401200003942</link>
             <guid>https://v.daum.net/v/20240401200003942</guid>
             <pubDate>Mon, 01 Apr 2024 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401200003942" class="link_column" data-tiara-layer="&quot;고발사주_진범_잡아야&quot;_피해자들,_윤석열_한동훈_김건희_공수처에_고발_alltab"><div class="cont_thumb"><strong class="tit_txt">"고발사주 진범 잡아야" 피해자들, 윤석열 한동훈 김건희 공수처에 고발</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401200006102rhoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401200003942" class="link_column" data-tiara-layer="&quot;고발사주_진범_잡아야&quot;_피해자들,_윤석열_한동훈_김건희_공수처에_고발_alltab"><div class="cont_thumb"><strong class="tit_txt">"고발사주 진범 잡아야" 피해자들, 윤석열 한동훈 김건희 공수처에 고발</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401200006102rhoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401200006102rhoy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3314,7 +3322,7 @@
             <link>https://v.daum.net/v/20240401175502041</link>
             <guid>https://v.daum.net/v/20240401175502041</guid>
             <pubDate>Mon, 01 Apr 2024 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401175502041" class="link_column" data-tiara-layer="현경병_국민의힘_노원갑_후보,_2022년_'불법_공천헌금'_사건_재수사_alltab"><div class="cont_thumb"><strong class="tit_txt">현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401175511098gbhe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401175502041" class="link_column" data-tiara-layer="현경병_국민의힘_노원갑_후보,_2022년_'불법_공천헌금'_사건_재수사_alltab"><div class="cont_thumb"><strong class="tit_txt">현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401175511098gbhe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401175511098gbhe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3354,7 +3362,7 @@
             <link>https://v.daum.net/v/20240329160503778</link>
             <guid>https://v.daum.net/v/20240329160503778</guid>
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240329160503778" class="link_column" data-tiara-layer="우리_정치는_4년간_무엇을_했습니까_alltab"><div class="cont_thumb"><strong class="tit_txt">우리 정치는 4년간 무엇을 했습니까</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329160507810wuvc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240329160503778" class="link_column" data-tiara-layer="우리_정치는_4년간_무엇을_했습니까_alltab"><div class="cont_thumb"><strong class="tit_txt">우리 정치는 4년간 무엇을 했습니까</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329160507810wuvc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329160507810wuvc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3394,7 +3402,7 @@
             <link>https://v.daum.net/v/20240327160004308</link>
             <guid>https://v.daum.net/v/20240327160004308</guid>
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240327160004308" class="link_column" data-tiara-layer="22대_국회도_'종부세_납부_집단'이_과잉_대표,_국민_10배_alltab"><div class="cont_thumb"><strong class="tit_txt">22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327160005547iktl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240327160004308" class="link_column" data-tiara-layer="22대_국회도_'종부세_납부_집단'이_과잉_대표,_국민_10배_alltab"><div class="cont_thumb"><strong class="tit_txt">22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327160005547iktl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327160005547iktl.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3524,14 +3532,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240319163503614" class="link_column" data-tiara-layer="정우택_녹음파일④_“네_민원_잊지_않고_해결할게”_정우택_보좌관의_약속_alltab"><div class="cont_thumb"><strong class="tit_txt">정우택 녹음파일④ “네 민원 잊지 않고 해결할게” 정우택 보좌관의 약속</strong><span class="info_txt"><span class="txt_info">2024. 3. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F19%2Fnewstapa%2F20240319165229795gxvq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F19%2Fnewstapa%2F20240319165229795gxvq.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 지역구 공천 분석> 청년은 험지로, 다선은 양지로 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240318180004247</link>
-            <guid>https://v.daum.net/v/20240318180004247</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240318180004247" class="link_column" data-tiara-layer="<22대_총선_지역구_공천_분석>_청년은_험지로,_다선은_양지로_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 지역구 공천 분석&gt; 청년은 험지로, 다선은 양지로</strong><span class="info_txt"><span class="txt_info">2024. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F18%2Fnewstapa%2F20240318180005362cgri.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F18%2Fnewstapa%2F20240318180005362cgri.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
