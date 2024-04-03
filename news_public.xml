@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 08:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입]]></title>
+            <link>http://newstapa.org/article/0NBhg</link>
+            <guid>http://newstapa.org/article/0NBhg</guid>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03143836-3DDC-5195-B94D-P9DBAN0CT37IY98V5HL6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹]]></title>
             <link>http://newstapa.org/article/LXmJT</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 수상한 '양평고속도로', 원희룡 4가지 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27174850-F530-0624-9C71-VDWYMBN8S6IA2ZK4DRQ3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배]]></title>
-            <link>http://newstapa.org/article/mD-zm</link>
-            <guid>http://newstapa.org/article/mD-zm</guid>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27160325-91B4-699D-4FF7-42BZ0ISLRT4V4B6Y4FS9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
