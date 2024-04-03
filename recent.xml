@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 00:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 01:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> 국힘 장진영, 알고보니 '무등록 개발업자'..."처벌 대상"]]></title>
+            <link>http://newstapa.org/article/7zD0r</link>
+            <guid>http://newstapa.org/article/7zD0r</guid>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 국힘 장진영, 알고보니 '무등록 개발업자'..."처벌 대상"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03101413-7746-6D93-9CF8-SHTYY69ABAYIBF2992GM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란]]></title>
             <link>http://newstapa.org/article/NNYaF</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘이승만기념관’이 이승만의 과오를 기록할 수 있을까]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27104729-9E69-0D01-4143-41H9XIQK8Z9W9B2F9YYV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> "건국 이승만, 영웅 백선엽"... 6개월 장관 박민식]]></title>
-            <link>http://newstapa.org/article/fb53Z</link>
-            <guid>http://newstapa.org/article/fb53Z</guid>
-            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; "건국 이승만, 영웅 백선엽"... 6개월 장관 박민식]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/26172927-5C7B-2A07-4E0F-Z0P77DY656E11AYR566C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
