@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 06:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 07:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6개 야당, 검찰 특수활동비 국정조사 및 특검에 찬성]]></title>
+            <link>http://newstapa.org/article/0Hg05</link>
+            <guid>http://newstapa.org/article/0Hg05</guid>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[6개 야당, 검찰 특수활동비 국정조사 및 특검에 찬성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03155716-71A5-E5EB-C29B-7SGEVDRBRWBSVXZ3MLV6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["조직 비밀 누설하면 처벌"... 류희림 방심위, 협박 공문 내부망에 공개]]></title>
             <link>http://newstapa.org/article/tESHv</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 수상한 '양평고속도로', 원희룡 4가지 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27174850-F530-0624-9C71-VDWYMBN8S6IA2ZK4DRQ3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배]]></title>
-            <link>http://newstapa.org/article/mD-zm</link>
-            <guid>http://newstapa.org/article/mD-zm</guid>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27160325-91B4-699D-4FF7-42BZ0ISLRT4V4B6Y4FS9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
