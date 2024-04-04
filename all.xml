@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 02:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 03:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/jgV2S</link>
+            <guid>http://newstapa.org/article/jgV2S</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03142126-2BE8-EFC1-5807-WC27NXBWUTGY5XC5AM88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/0NBhg</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28184133-B190-38FF-0D2D-4E8VK7Z178ZOGJV66LJT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QXcZj</link>
-            <guid>http://newstapa.org/article/QXcZj</guid>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28172222-5761-7DF4-D391-ICWSQQ650NHBMV354CPA.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/jgV2S</link>
+            <guid>http://newstapa.org/article/jgV2S</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03142126-2BE8-EFC1-5807-WC27NXBWUTGY5XC5AM88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회의원 후보 '가상자산' 첫 신고… 66명이 10억 9500만 원 보유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28160745-023D-78F0-0483-FXONT635O8NGWVOJ302T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 수상한 '양평고속도로', 원희룡 4가지 거짓말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/BQOIK</link>
-            <guid>http://newstapa.org/article/BQOIK</guid>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 수상한 '양평고속도로', 원희룡 4가지 거짓말]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/27174850-F530-0624-9C71-VDWYMBN8S6IA2ZK4DRQ3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3294,11 +3294,19 @@
             <content:encoded><![CDATA[<span><span>최근 보수 언론 등에서 '이승만 띄우기'가 이어지는 가운데, 일부 민간 단체 주도로 '이승만기념관' 건립이 추진되고 있습니다. 여기에 윤석열 대통령과 오세훈 서울시장 등이 후원금을 기부하면서 이승만기념관은 마치 국가적 사업처럼 추진되는 모양새입니다.<br></span><span><br></span><span>이승만기념관 추진 세력은 '기념관을 만들어서 이승만의 공과를 모두 기록할 것'이라고 주장하고 있습니다. 그러나 현재 기념관을 추진하는 주체와 추진 방식 등을 봤을 때, 이승만의 과오를 축소하거나 왜곡할 수 있다는 우려가 나옵니다. 서울기록원장을 지낸 조영삼 뉴스타파 전문위원의 기고입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/a27xo" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/a27xo</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240404120003864</link>
+            <guid>https://v.daum.net/v/20240404120003864</guid>
+            <pubDate>Thu, 04 Apr 2024 03:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240404120003864" class="link_column" data-tiara-layer="정치자금_절반_‘지역구_관리’에_쓰고_지역_출마한_비례의원들_alltab"><div class="cont_thumb"><strong class="tit_txt">정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404120004716gmjm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404120004716gmjm.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[<22대 총선 후보 검증> 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240403180003432</link>
             <guid>https://v.daum.net/v/20240403180003432</guid>
             <pubDate>Wed, 03 Apr 2024 09:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403180003432" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_국민의힘_서천호_후보의_'약속_사면'_의혹..._사면_5개월_전_'총선용'_집_구입_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403180006709jabz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403180003432" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_국민의힘_서천호_후보의_'약속_사면'_의혹..._사면_5개월_전_'총선용'_집_구입_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403180006709jabz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403180006709jabz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3306,7 +3314,7 @@
             <link>https://v.daum.net/v/20240403164503518</link>
             <guid>https://v.daum.net/v/20240403164503518</guid>
             <pubDate>Wed, 03 Apr 2024 08:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403164503518" class="link_column" data-tiara-layer="위기_때마다_‘살포된’_현금_특활비…_총장_윤석열의_‘세금_사유화’_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403164505114hsog.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403164503518" class="link_column" data-tiara-layer="위기_때마다_‘살포된’_현금_특활비…_총장_윤석열의_‘세금_사유화’_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403164505114hsog.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403164505114hsog.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3314,7 +3322,7 @@
             <link>https://v.daum.net/v/20240403160503372</link>
             <guid>https://v.daum.net/v/20240403160503372</guid>
             <pubDate>Wed, 03 Apr 2024 07:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403160503372" class="link_column" data-tiara-layer="6개_야당,_검찰_특수활동비_국정조사_및_특검에_찬성_alltab"><div class="cont_thumb"><strong class="tit_txt">6개 야당, 검찰 특수활동비 국정조사 및 특검에 찬성</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403160504726umdr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403160503372" class="link_column" data-tiara-layer="6개_야당,_검찰_특수활동비_국정조사_및_특검에_찬성_alltab"><div class="cont_thumb"><strong class="tit_txt">6개 야당, 검찰 특수활동비 국정조사 및 특검에 찬성</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403160504726umdr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403160504726umdr.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3322,7 +3330,7 @@
             <link>https://v.daum.net/v/20240403143003874</link>
             <guid>https://v.daum.net/v/20240403143003874</guid>
             <pubDate>Wed, 03 Apr 2024 06:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403143003874" class="link_column" data-tiara-layer="&quot;조직_비밀_누설하면_처벌&quot;..._류희림_방심위,_협박_공문_내부망에_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">"조직 비밀 누설하면 처벌"... 류희림 방심위, 협박 공문 내부망에 공개</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403143006900obea.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403143003874" class="link_column" data-tiara-layer="&quot;조직_비밀_누설하면_처벌&quot;..._류희림_방심위,_협박_공문_내부망에_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">"조직 비밀 누설하면 처벌"... 류희림 방심위, 협박 공문 내부망에 공개</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403143006900obea.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F03%2Fnewstapa%2F20240403143006900obea.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3524,14 +3532,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240321200520813" class="link_column" data-tiara-layer="[총선후보_검증]_양부남,_특활비로_연말_잔치_및_전별금_전용_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[총선후보 검증] 양부남, 특활비로 연말 잔치 및 전별금 전용 의혹</strong><span class="info_txt"><span class="txt_info">2024. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200850003rmxf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200850003rmxf.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240321200504802</link>
-            <guid>https://v.daum.net/v/20240321200504802</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240321200504802" class="link_column" data-tiara-layer="[총선후보_검증]_이성윤,_서울고검장_시절_특활비_몰아쓰기_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[총선후보 검증] 이성윤, 서울고검장 시절 특활비 몰아쓰기 의혹</strong><span class="info_txt"><span class="txt_info">2024. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200906473bdld.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200906473bdld.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

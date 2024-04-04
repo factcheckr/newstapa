@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 02:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 03:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들]]></title>
+            <link>http://newstapa.org/article/jgV2S</link>
+            <guid>http://newstapa.org/article/jgV2S</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03142126-2BE8-EFC1-5807-WC27NXBWUTGY5XC5AM88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입]]></title>
             <link>http://newstapa.org/article/0NBhg</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28184133-B190-38FF-0D2D-4E8VK7Z178ZOGJV66LJT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의]]></title>
-            <link>http://newstapa.org/article/QXcZj</link>
-            <guid>http://newstapa.org/article/QXcZj</guid>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28172222-5761-7DF4-D391-ICWSQQ650NHBMV354CPA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
