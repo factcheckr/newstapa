@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 10:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 11:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/8guEO</link>
+            <guid>http://newstapa.org/article/8guEO</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/04181040-3F77-3E5C-5643-MEXQ7JJFKIY1PCLXDSCC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/jgV2S</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29171816-3B72-0359-8201-IEWEJHD1LM7K1A53BTZP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/X3Cl1</link>
-            <guid>http://newstapa.org/article/X3Cl1</guid>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28184133-B190-38FF-0D2D-4E8VK7Z178ZOGJV66LJT.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/8guEO</link>
+            <guid>http://newstapa.org/article/8guEO</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/04181040-3F77-3E5C-5643-MEXQ7JJFKIY1PCLXDSCC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28172222-5761-7DF4-D391-ICWSQQ650NHBMV354CPA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회의원 후보 '가상자산' 첫 신고… 66명이 10억 9500만 원 보유 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/s9ZWO</link>
-            <guid>http://newstapa.org/article/s9ZWO</guid>
-            <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국회의원 후보 '가상자산' 첫 신고… 66명이 10억 9500만 원 보유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28160745-023D-78F0-0483-FXONT635O8NGWVOJ302T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3162,6 +3162,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국민의 국회 vs 로비스트의 국회 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104765257</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104765257</guid>
+            <pubDate>Thu, 04 Apr 2024 11:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>22대 총선을 앞두고 각 정당마다 민생 문제, 기후 문제를 해결하겠다는 공약을 내고 있습니다. 또 이 문제들을 해결하기 위해 이른바 '경제 전문가' 후보들을 앞세우고 있는데요.<br></span><span><br></span><span>과연 '경제 전문가' 후보들은 우리 사회에 닥친 문제들을 해결할 수 있을까요? 뉴스타파 검증 결과, 이들은 국민의 미래보다는 삼성·현대 등 재벌 기업, 기획재정부 등 관료 사회를 대변할 가능성이 높아 보였습니다. <br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/Oke__EZpbs8" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/Oke__EZpbs8</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/8guEO" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/8guEO</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/104759431</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/104759431</guid>
@@ -3295,18 +3302,19 @@
             <content:encoded><![CDATA[<span><span>원희룡 전 국토교통부 장관이 이번 22대 총선에서 인천 계양을 지역 국민의힘 후보로 출마했습니다. 뉴스타파는 여권의 차기 대선 주자로 꼽히는 원희룡 후보의 발언을 총 세 차례에 걸쳐 검증합니다. 첫 번째 검증 대상은 지난해 큰 논란을 일으켰던 '서울-양평 고속도로 사업' 관련 발언입니다.<br></span><span><br></span><span>지난해 5월 국토부가 고속도로 노선을 변경하면서 이른바 '대통령 처가 특혜 의혹'이 불거지자, 원희룡 당시 장관은 돌연 사업 백지화를 선언했습니다. 그리고 '변경된 노선 주변에 개발 호재는 없다', '사업과 관련된 모든 자료를 공개하겠다' 라며 의혹을 반박하고 나섰는데요.<br></span><span><br></span><span>그러나 취재 결과, 당시 원희룡 장관의 발언은 사실과 다른 부분이 많았습니다. 뉴스타파 저널리즘스쿨 2기생이자 오랫동안 제주도에서 '원희룡 지사'를 감시해온 박소희 펠로우가 원희룡 후보의 발언을 검증했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/BwSnjHIBCUc" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/BwSnjHIBCUc</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/BQOIK" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/BQOIK</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104645542</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104645542</guid>
-            <pubDate>Sun, 31 Mar 2024 05:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>22대 총선에 출마한 후보 952명 중 259명(약 27%)이 최근 5년간 종합부동산세를 납부한 경력이 있는 것으로 확인됐습니다. 주택을 소유한 국민들 중 종부세 납부 의무자 비율(2.7%)의 10배에 달하는 수치입니다.<br></span><span><br></span><span>정당별로 살펴보면 국민의힘 113명(44.5%), 더불어민주당 55명(22.4%), 개혁신당 13명(24.5%), 새로운미래 8명(20.5%)이 종부세를 납부한 경험이 있었습니다. 반면 10명이 넘는 후보자가 등록한 정당 중에서 녹색정의당, 진보당, 우리공화당은 최근 5년간 종부세 납부 대상자였던 후보가 한 명도 없었습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/mD-zm" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/mD-zm</span></a>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240404200004042</link>
+            <guid>https://v.daum.net/v/20240404200004042</guid>
+            <pubDate>Thu, 04 Apr 2024 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240404200004042" class="link_column" data-tiara-layer="[주간_뉴스타파]_국민의_국회_vs_로비스트의_국회_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404200013564rcku.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404200013564rcku.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240404120003864</link>
             <guid>https://v.daum.net/v/20240404120003864</guid>
             <pubDate>Thu, 04 Apr 2024 03:12:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240404120003864" class="link_column" data-tiara-layer="정치자금_절반_‘지역구_관리’에_쓰고_지역_출마한_비례의원들_alltab"><div class="cont_thumb"><strong class="tit_txt">정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404120004716gmjm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240404120003864" class="link_column" data-tiara-layer="정치자금_절반_‘지역구_관리’에_쓰고_지역_출마한_비례의원들_alltab"><div class="cont_thumb"><strong class="tit_txt">정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404120004716gmjm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404120004716gmjm.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3370,7 +3378,7 @@
             <link>https://v.daum.net/v/20240401200003942</link>
             <guid>https://v.daum.net/v/20240401200003942</guid>
             <pubDate>Mon, 01 Apr 2024 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401200003942" class="link_column" data-tiara-layer="&quot;고발사주_진범_잡아야&quot;_피해자들,_윤석열_한동훈_김건희_공수처에_고발_alltab"><div class="cont_thumb"><strong class="tit_txt">"고발사주 진범 잡아야" 피해자들, 윤석열 한동훈 김건희 공수처에 고발</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401200006102rhoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401200003942" class="link_column" data-tiara-layer="&quot;고발사주_진범_잡아야&quot;_피해자들,_윤석열_한동훈_김건희_공수처에_고발_alltab"><div class="cont_thumb"><strong class="tit_txt">"고발사주 진범 잡아야" 피해자들, 윤석열 한동훈 김건희 공수처에 고발</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401200006102rhoy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401200006102rhoy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3394,7 +3402,7 @@
             <link>https://v.daum.net/v/20240329194003733</link>
             <guid>https://v.daum.net/v/20240329194003733</guid>
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240329194003733" class="link_column" data-tiara-layer="[난중칼럼]_정치_검찰이_망상에_빠진_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] 정치 검찰이 망상에 빠진 이유</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329194004425qmlz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240329194003733" class="link_column" data-tiara-layer="[난중칼럼]_정치_검찰이_망상에_빠진_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] 정치 검찰이 망상에 빠진 이유</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329194004425qmlz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329194004425qmlz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3426,7 +3434,7 @@
             <link>https://v.daum.net/v/20240328200503366</link>
             <guid>https://v.daum.net/v/20240328200503366</guid>
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240328200503366" class="link_column" data-tiara-layer="[주간_뉴스타파]_국힘에_불리하면_징계?_폭주하는_선거방송심의위원회_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201240907zuvn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240328200503366" class="link_column" data-tiara-layer="[주간_뉴스타파]_국힘에_불리하면_징계?_폭주하는_선거방송심의위원회_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회</strong><span class="info_txt"><span class="txt_info">2024. 3. 28.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201240907zuvn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201240907zuvn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3434,7 +3442,7 @@
             <link>https://v.daum.net/v/20240328200004253</link>
             <guid>https://v.daum.net/v/20240328200004253</guid>
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240328200004253" class="link_column" data-tiara-layer="'류희림_청부_민원'_보도_징계.._'입틀막'_선방위_심의_alltab"><div class="cont_thumb"><strong class="tit_txt">'류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201244427jqki.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240328200004253" class="link_column" data-tiara-layer="'류희림_청부_민원'_보도_징계.._'입틀막'_선방위_심의_alltab"><div class="cont_thumb"><strong class="tit_txt">'류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의</strong><span class="info_txt"><span class="txt_info">2024. 3. 28.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201244427jqki.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201244427jqki.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3532,14 +3540,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240321200529819" class="link_column" data-tiara-layer="[주간_뉴스타파]_검사_출신_총선_후보들의_특활비_오남용_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 검사 출신 총선 후보들의 특활비 오남용 의혹</strong><span class="info_txt"><span class="txt_info">2024. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200845583qvzw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200845583qvzw.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[총선후보 검증] 양부남, 특활비로 연말 잔치 및 전별금 전용 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240321200520813</link>
-            <guid>https://v.daum.net/v/20240321200520813</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240321200520813" class="link_column" data-tiara-layer="[총선후보_검증]_양부남,_특활비로_연말_잔치_및_전별금_전용_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[총선후보 검증] 양부남, 특활비로 연말 잔치 및 전별금 전용 의혹</strong><span class="info_txt"><span class="txt_info">2024. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200850003rmxf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F21%2Fnewstapa%2F20240321200850003rmxf.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
