@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년③] 흑산도 특종의 인연]]></title>
+            <link>http://newstapa.org/article/wrTW0</link>
+            <guid>http://newstapa.org/article/wrTW0</guid>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년③] 흑산도 특종의 인연]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05145531-97D2-F5AC-22AC-S46GQAOO7LLBSJKYTNW8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["조직 비밀 누설하면 처벌"... 류희림 방심위, 협박 공문 내부망에 공개]]></title>
             <link>http://newstapa.org/article/tESHv</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['허위 인터뷰' 수사 검찰, '허위 사실'로 압수수색 영장 받았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/08184018-CAA1-11E8-1D16-8HRFQYY29AJ92NDUYPK4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 다큐] <윤석열 정권은 왜 방송을 죽이려 드는가?> 제1부 방송장악 기술자]]></title>
-            <link>http://newstapa.org/article/h68QR</link>
-            <guid>http://newstapa.org/article/h68QR</guid>
-            <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 다큐] &lt;윤석열 정권은 왜 방송을 죽이려 드는가?&gt; 제1부 방송장악 기술자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/07181620-9D02-FF82-19D9-5OEIAJ2HSONOJ7TC3VJ3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

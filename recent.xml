@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> '등록 후 정보 수정' 총선 후보 30명 공개]]></title>
+            <link>http://newstapa.org/article/iqNle</link>
+            <guid>http://newstapa.org/article/iqNle</guid>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '등록 후 정보 수정' 총선 후보 30명 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05173101-F5CF-C14D-2FA0-C3HMUF81EF2U5ECXOXDD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고]]></title>
+            <link>http://newstapa.org/article/T_G25</link>
+            <guid>http://newstapa.org/article/T_G25</guid>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05155514-C802-C74B-859B-LC24C3J4KDRCH4IPMDFZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증]]></title>
             <link>http://newstapa.org/article/f6Bk7</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/31164012-04DF-D797-266A-SU6UY3U478EDILS5EAP3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유]]></title>
-            <link>http://newstapa.org/article/9y-eR</link>
-            <guid>http://newstapa.org/article/9y-eR</guid>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29193216-DEE9-422E-7575-ZPORE2YXOWC3L8KT0MN4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 행정부가 할 수 있는 일 없다... 4개월 장관 방문규]]></title>
-            <link>http://newstapa.org/article/gDbIN</link>
-            <guid>http://newstapa.org/article/gDbIN</guid>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 행정부가 할 수 있는 일 없다... 4개월 장관 방문규]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29174609-139D-1CDA-B814-YX8MAG4VLJL1AAA40SL6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
