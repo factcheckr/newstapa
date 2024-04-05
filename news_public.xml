@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 06:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 07:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증]]></title>
+            <link>http://newstapa.org/article/f6Bk7</link>
+            <guid>http://newstapa.org/article/f6Bk7</guid>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05154829-1867-E2EB-C110-AGUSXDXLZH3GURALC0W2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '4대강 전도사' 원희룡, 수상한 업추비와 막말 전력]]></title>
             <link>http://newstapa.org/article/QwAWN</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[우리 정치는 4년간 무엇을 했습니까]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29171816-3B72-0359-8201-IEWEJHD1LM7K1A53BTZP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회]]></title>
-            <link>http://newstapa.org/article/X3Cl1</link>
-            <guid>http://newstapa.org/article/X3Cl1</guid>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28184133-B190-38FF-0D2D-4E8VK7Z178ZOGJV66LJT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

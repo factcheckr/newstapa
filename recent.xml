@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 06:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 07:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증]]></title>
+            <link>http://newstapa.org/article/f6Bk7</link>
+            <guid>http://newstapa.org/article/f6Bk7</guid>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05154829-1867-E2EB-C110-AGUSXDXLZH3GURALC0W2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '4대강 전도사' 원희룡, 수상한 업추비와 막말 전력]]></title>
             <link>http://newstapa.org/article/QwAWN</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 행정부가 할 수 있는 일 없다... 4개월 장관 방문규]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29174609-139D-1CDA-B814-YX8MAG4VLJL1AAA40SL6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></title>
-            <link>http://newstapa.org/article/10Kxj</link>
-            <guid>http://newstapa.org/article/10Kxj</guid>
-            <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29145940-A92E-D5C8-DC62-DYL1FK3TXNQTKEEFRVKR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
