@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Apr 2024 04:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Apr 2024 05:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국힘 장진영, '뉴스타파 기사 삭제' 가처분 2건 모두 패소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/QmBkV</link>
+            <guid>http://newstapa.org/article/QmBkV</guid>
+            <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국힘 장진영, '뉴스타파 기사 삭제' 가처분 2건 모두 패소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/06123528-BBBC-5A24-75A9-OKN62IBJPSXGHUMBT585.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '등록 후 정보 수정' 총선 후보 30명 공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/iqNle</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01195547-750F-595B-2995-KXIPA0YA3Q3ZZLDICGFX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<22대 총선 후보 검증> 현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/8j8OL</link>
-            <guid>http://newstapa.org/article/8j8OL</guid>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01174518-6AA0-1F61-0886-XXAAJ111KF6I18KO3TYV.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국힘 장진영, '뉴스타파 기사 삭제' 가처분 2건 모두 패소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/QmBkV</link>
+            <guid>http://newstapa.org/article/QmBkV</guid>
+            <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국힘 장진영, '뉴스타파 기사 삭제' 가처분 2건 모두 패소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/06123528-BBBC-5A24-75A9-OKN62IBJPSXGHUMBT585.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '등록 후 정보 수정' 총선 후보 30명 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01174518-6AA0-1F61-0886-XXAAJ111KF6I18KO3TYV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/5tEh1</link>
-            <guid>http://newstapa.org/article/5tEh1</guid>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/31164012-04DF-D797-266A-SU6UY3U478EDILS5EAP3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3302,11 +3302,19 @@
             <content:encoded><![CDATA[<span><span>방송통신심의위원회(방심위) 류희림 위원장의 이른바 '청부 민원' 의혹에 이어, 최근 선거방송심의위원회(선방위) 역시 중립성을 잃었다는 의혹을 받고 있습니다. 정부·여당에 비판적인 보도에 대해 '무차별 징계'를 이어가고 있기 때문인데요.<br></span><span><br></span><span>뉴스타파는 22대 총선을 앞두고 쏟아지고 있는 선방위의 징계 내용을 분석했습니다. 또 선방위의 문제를 가장 잘 알고 있는 김준희 방심위 노조 위원장, 탁동삼 방심위 연구위원과 함께 방심위·선방위가 '폭주'하고 있는 원인을 짚어 봤습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/mcG27br3nx4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/mcG27br3nx4</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/X3Cl1" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/X3Cl1</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국힘 장진영, '뉴스타파 기사 삭제' 가처분 2건 모두 패소 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240406133003660</link>
+            <guid>https://v.daum.net/v/20240406133003660</guid>
+            <pubDate>Sat, 06 Apr 2024 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240406133003660" class="link_column" data-tiara-layer="국힘_장진영,_'뉴스타파_기사_삭제'_가처분_2건_모두_패소_alltab"><div class="cont_thumb"><strong class="tit_txt">국힘 장진영, '뉴스타파 기사 삭제' 가처분 2건 모두 패소</strong><span class="info_txt"><span class="txt_info">40분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F06%2Fnewstapa%2F20240406133007260jxtm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F06%2Fnewstapa%2F20240406133007260jxtm.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년③] 흑산도 특종의 인연 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240405181004834</link>
             <guid>https://v.daum.net/v/20240405181004834</guid>
             <pubDate>Fri, 05 Apr 2024 10:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405181004834" class="link_column" data-tiara-layer="[자유언론실천선언_50년③]_흑산도_특종의_인연_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년③] 흑산도 특종의 인연</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405181006154aubz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405181004834" class="link_column" data-tiara-layer="[자유언론실천선언_50년③]_흑산도_특종의_인연_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년③] 흑산도 특종의 인연</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405181006154aubz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405181006154aubz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3314,7 +3322,7 @@
             <link>https://v.daum.net/v/20240405180003582</link>
             <guid>https://v.daum.net/v/20240405180003582</guid>
             <pubDate>Fri, 05 Apr 2024 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405180003582" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'등록_후_정보_수정'_총선_후보_30명_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '등록 후 정보 수정' 총선 후보 30명 공개</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405180004531sisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405180003582" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'등록_후_정보_수정'_총선_후보_30명_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '등록 후 정보 수정' 총선 후보 30명 공개</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405180004531sisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405180004531sisl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3322,7 +3330,7 @@
             <link>https://v.daum.net/v/20240405170003803</link>
             <guid>https://v.daum.net/v/20240405170003803</guid>
             <pubDate>Fri, 05 Apr 2024 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405170003803" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_김상욱_국민의힘_후보_‘부동산_투기’_의혹,_재산_허위_축소_신고_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405170003803" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_김상욱_국민의힘_후보_‘부동산_투기’_의혹,_재산_허위_축소_신고_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3330,7 +3338,7 @@
             <link>https://v.daum.net/v/20240405154003009</link>
             <guid>https://v.daum.net/v/20240405154003009</guid>
             <pubDate>Fri, 05 Apr 2024 07:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405154003009" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_검사_출신_박균택·주진우,_퇴임_직후_소득세_수십배_급증_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405154005138vaiu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405154003009" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_검사_출신_박균택·주진우,_퇴임_직후_소득세_수십배_급증_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405154005138vaiu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405154005138vaiu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3532,14 +3540,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240325191003154" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_검증_있으나_마나,_국민_분열_'막말'_후보들_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 검증 있으나 마나, 국민 분열 '막말' 후보들</strong><span class="info_txt"><span class="txt_info">2024. 3. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F26%2Fnewstapa%2F20240326105221455nkfp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F26%2Fnewstapa%2F20240326105221455nkfp.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 윤석열 정부 장관 출신 7명 22대 총선 출마 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240325151503952</link>
-            <guid>https://v.daum.net/v/20240325151503952</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240325151503952" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_윤석열_정부_장관_출신_7명_22대_총선_출마_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 윤석열 정부 장관 출신 7명 22대 총선 출마</strong><span class="info_txt"><span class="txt_info">2024. 3. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F25%2Fnewstapa%2F20240325151505172wjzq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F25%2Fnewstapa%2F20240325151505172wjzq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
