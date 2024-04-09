@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 04:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 05:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<22대 총선 후보 검증> '공직자 신고' 때와 재산 달라진 총선 후보 15명]]></title>
+            <link>http://newstapa.org/article/rWKjo</link>
+            <guid>http://newstapa.org/article/rWKjo</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '공직자 신고' 때와 재산 달라진 총선 후보 15명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09134728-F7DC-0471-77EB-7TPY0NLT7SLB4CO6BI22.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열이 류희림을 '날리지' 않는 진짜 이유]]></title>
             <link>http://newstapa.org/article/JQ7ir</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01175435-1F92-4191-FC67-QPLOVVG01QWNLJMFXWTP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정']]></title>
-            <link>http://newstapa.org/article/AVc-4</link>
-            <guid>http://newstapa.org/article/AVc-4</guid>
-            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/02085711-F07E-B18F-0AE0-GGLB31CDNOH840WNKFKD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
