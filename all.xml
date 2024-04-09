@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 07:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 08:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/PoddE</link>
+            <guid>http://newstapa.org/article/PoddE</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09160534-5D2F-FB0F-4883-QE974KN1GPHQGA7SCTGM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 수사당국, 바트볼드 전 몽골 총리 뉴욕 호화 부동산 몰수소송 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/JWviG</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03135350-DD8A-04FC-2579-TUNZLX60RR2F6LE97S0W.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<22대 총선 후보 검증> 국힘 장진영, 알고보니 '무등록 개발업자'..."처벌 대상" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/7zD0r</link>
-            <guid>http://newstapa.org/article/7zD0r</guid>
-            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 국힘 장진영, 알고보니 '무등록 개발업자'..."처벌 대상"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03101413-7746-6D93-9CF8-SHTYY69ABAYIBF2992GM.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/PoddE</link>
+            <guid>http://newstapa.org/article/PoddE</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09160534-5D2F-FB0F-4883-QE974KN1GPHQGA7SCTGM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '공직자 신고' 때와 재산 달라진 총선 후보 15명 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; ‘비리 의혹’ ‘말 바꿈’ 오등봉·제2공항, ‘원희룡 꼼수’ 논란]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/01175435-1F92-4191-FC67-QPLOVVG01QWNLJMFXWTP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/AVc-4</link>
-            <guid>http://newstapa.org/article/AVc-4</guid>
-            <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '재산 축소 신고' 장진영 국힘 후보, 뉴스타파 취재 직후 '급 수정']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/02085711-F07E-B18F-0AE0-GGLB31CDNOH840WNKFKD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3162,6 +3162,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104818464</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104818464</guid>
+            <pubDate>Tue, 09 Apr 2024 08:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>이번 22대 총선에 출마한 지역구 후보 중 여성은 15.1%(92명), 청년은 4.9%(30명)에 불과합니다. 21대 총선 때보다 더 줄어든 수치입니다. 비례대표 역시 여성·청년 후보 대부분이 당선권 밖으로 밀려나 있습니다. 국회의 다양성이 오히려 더 후퇴할 수 있다는 우려가 나옵니다.<br></span><span><br></span><span>국회의 다양성이 중요하다는 주장에 대해, '국회의원은 다양성보다 능력이 우선' 이라는 반박이 나오기도 합니다. 하지만 통계를 살펴보면 국회의 다양성은 생각보다 국민들의 삶에 큰 영향을 미칩니다. 이번 22대 총선을 취재해온 홍주환 기자의 칼럼입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/PoddE" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/PoddE</span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미 수사당국, 바트볼드 전 몽골 총리 뉴욕 호화 부동산 몰수소송 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104818207</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104818207</guid>
+            <pubDate>Tue, 09 Apr 2024 08:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>뉴스타파는 지난 2021년 바트볼드 전 몽골 총리가 삼성물산 전 직원 등 한국인 명의를 빌려 해외에 호화 부동산을 사들였다는 의혹을 제기했습니다.<br></span><span><br></span><span>최근 미국 법무부, 연방수사국(FBI)등 수사 당국은 당시 뉴스타파가 언급한 바트볼드의 부동산 일부에 대해 몰수 소송을 제기했습니다. 미 법무부는 바트볼드 전 총리가 자국의 광물 판매 수익금을 한국인 명의의 유령 회사로 빼돌려, 1400만 달러(우리 돈 약 190억 원) 가량의 미국 고급 부동산을 사들였다고 밝혔습니다. <br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/JWviG" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/JWviG</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['공직자 신고' 때와 재산 달라진 총선 후보 15명 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/104815508</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/104815508</guid>
@@ -3288,32 +3302,26 @@
             <content:encoded><![CDATA[<span><span>1975년 3월 6일, 박정희 독재 정권에 맞서 조선일보 기자들이 제작거부 농성에 들어갔습니다. 농성투쟁 과정에서 33명의 기자가 해직됐고, 해직 기자들은 생계를 위해 뿔뿔이 흩어져야만 했습니다.<br></span><span><br></span><span>그러나 해직 이후 고향에 돌아온 기자들에게도 검찰·경찰의 감시는 끊이지 않았습니다. 당시 검찰은 독재 정권에 충성하는 세력, 민주화 이후 반드시 개혁해야 할 세력으로 악명이 높았습니다. 일명 '검찰공화국'이라 불리는 지금의 상황이 아이러니하게 느껴지는 이유입니다. 신홍범 조선자유언론수호투쟁위원회(조선투위) 위원의 글입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/10Kxj" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/10Kxj</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[현장영상] 봉지욱 기자 검찰 출석 “지금 검찰은 대통령이 말한 깡패집단” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104680205</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104680205</guid>
-            <pubDate>Sun, 31 Mar 2024 05:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>지난 3월 28일 오전 10시, 뉴스타파 봉지욱 기자가 서울중앙지검에 출석해 조사를 받았습니다. 지난 2022년 JTBC 재직 당시 봉기자가 보도했던 ‘부산저축은행 수사무마 의혹’ 보도가 윤석열 대통령의 명예를 훼손했다는 혐의입니다. 지난해 9월 14일 봉지욱 기자에 대한 압수수색 이후 6개월여 만입니다. <br></span><span><br></span><span>검찰 출석 전, 봉지욱 기자는 취재를 나온 기자들 앞에서 입장을 발표했습니다. “검찰이 지난 6개월 간 새롭게 밝혀낸 사실이 있는지” 물으며, ”대장동 관련 보도를 이어갈수록 검찰이 대장동 브로커 조우형 씨를 봐준 정황들이 계속해서 나오고 있다”고 주장했습니다. 또 대선 당시 윤석열 후보를 정당하게 검증한 기자들을 압박하는 현 검찰의 행태를 비판하며, “비판 언론을 수사권으로 겁박하고 보복하는 지금의 검찰이 윤 대통령이 검사시절 말한 깡패집단”이라고 지적했습니다. <br></span><span><br></span><span>당시 현장의 목소리 직접 확인해보겠습니다.<br></span><span><br></span><span>🎬 봉지욱 기자 검찰 출석 현장 보러가기 : </span></span><a href="https://youtu.be/XN2gnfyDp-U" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/XN2gnfyDp-U</span></a><span><span><br></span><span>👉 뉴스타파 후원하러 가기 : </span></span><a href="https://newstapa.org/donate" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/donate</span></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리 정치는 4년간 무엇을 했습니까 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104677791</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104677791</guid>
-            <pubDate>Sun, 31 Mar 2024 05:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>제 22대 총선이 약 10일 앞으로 다가왔습니다. 총선을 앞두고 각 정당의 공약이 쏟아지는 가운데, 뉴스타파는 21대 국회가 해결해야 했으나 끝내 해결하지 못한 문제의 당사자들을 만났습니다. <br></span><span><br></span><span>전세사기 피해자, 산업재해 사망자의 유가족, 수백억 대 손해배상을 맞은 하청 노동자, 선거제도 개혁을 바라는 국회의원 등 각각의 사연을 가지고 모인 사람들. 그러나 이들이 정치권에 던지는 질문은 하나였습니다. "우리 정치는 지난 4년간 무엇을 했습니까". 우리 사회의 주요 문제 당사자들의 이야기를 뉴스타파가 전합니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/SDnU8S1G8wU" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/SDnU8S1G8wU</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/A0oxa" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/A0oxa</span></a>]]></content:encoded>
+            <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240409162002891</link>
+            <guid>https://v.daum.net/v/20240409162002891</guid>
+            <pubDate>Tue, 09 Apr 2024 08:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240409162002891" class="link_column" data-tiara-layer="[현장에서]_다양성_'최악'_앞둔_22대_국회..._국회의원은_'능력'만_있으면_된다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다?</strong><span class="info_txt"><span class="txt_info">53분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F09%2Fnewstapa%2F20240409162004625qgjq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F09%2Fnewstapa%2F20240409162004625qgjq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[미 수사당국, 바트볼드 전 몽골 총리 뉴욕 호화 부동산 몰수소송 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240409161003502</link>
             <guid>https://v.daum.net/v/20240409161003502</guid>
             <pubDate>Tue, 09 Apr 2024 07:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240409161003502" class="link_column" data-tiara-layer="미_수사당국,_바트볼드_전_몽골_총리_뉴욕_호화_부동산_몰수소송_alltab"><div class="cont_thumb"><strong class="tit_txt">미 수사당국, 바트볼드 전 몽골 총리 뉴욕 호화 부동산 몰수소송</strong><span class="info_txt"><span class="txt_info">2분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240409161003502" class="link_column" data-tiara-layer="미_수사당국,_바트볼드_전_몽골_총리_뉴욕_호화_부동산_몰수소송_alltab"><div class="cont_thumb"><strong class="tit_txt">미 수사당국, 바트볼드 전 몽골 총리 뉴욕 호화 부동산 몰수소송</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> '공직자 신고' 때와 재산 달라진 총선 후보 15명 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240409140003405</link>
             <guid>https://v.daum.net/v/20240409140003405</guid>
             <pubDate>Tue, 09 Apr 2024 05:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240409140003405" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'공직자_신고'_때와_재산_달라진_총선_후보_15명_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '공직자 신고' 때와 재산 달라진 총선 후보 15명</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F09%2Fnewstapa%2F20240409140005380hczz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240409140003405" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'공직자_신고'_때와_재산_달라진_총선_후보_15명_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '공직자 신고' 때와 재산 달라진 총선 후보 15명</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F09%2Fnewstapa%2F20240409140005380hczz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F09%2Fnewstapa%2F20240409140005380hczz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3321,7 +3329,7 @@
             <link>https://v.daum.net/v/20240408193003003</link>
             <guid>https://v.daum.net/v/20240408193003003</guid>
             <pubDate>Mon, 08 Apr 2024 11:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240408193003003" class="link_column" data-tiara-layer="윤석열이_류희림을_'날리지'_않는_진짜_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열이 류희림을 '날리지' 않는 진짜 이유</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F08%2Fnewstapa%2F20240408193012714chgg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240408193003003" class="link_column" data-tiara-layer="윤석열이_류희림을_'날리지'_않는_진짜_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열이 류희림을 '날리지' 않는 진짜 이유</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F08%2Fnewstapa%2F20240408193012714chgg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F08%2Fnewstapa%2F20240408193012714chgg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3353,7 +3361,7 @@
             <link>https://v.daum.net/v/20240405170003803</link>
             <guid>https://v.daum.net/v/20240405170003803</guid>
             <pubDate>Fri, 05 Apr 2024 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405170003803" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_김상욱_국민의힘_후보_‘부동산_투기’_의혹,_재산_허위_축소_신고_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405170003803" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_김상욱_국민의힘_후보_‘부동산_투기’_의혹,_재산_허위_축소_신고_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3401,7 +3409,7 @@
             <link>https://v.daum.net/v/20240403164503518</link>
             <guid>https://v.daum.net/v/20240403164503518</guid>
             <pubDate>Wed, 03 Apr 2024 08:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403164503518" class="link_column" data-tiara-layer="위기_때마다_‘살포된’_현금_특활비…_총장_윤석열의_‘세금_사유화’_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404155159130vfbp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403164503518" class="link_column" data-tiara-layer="위기_때마다_‘살포된’_현금_특활비…_총장_윤석열의_‘세금_사유화’_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404155159130vfbp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404155159130vfbp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3531,14 +3539,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240327180004436" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_수상한_'양평고속도로',_원희룡_4가지_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 수상한 '양평고속도로', 원희룡 4가지 거짓말</strong><span class="info_txt"><span class="txt_info">2024. 3. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327184035908iryt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327184035908iryt.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240327160004308</link>
-            <guid>https://v.daum.net/v/20240327160004308</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240327160004308" class="link_column" data-tiara-layer="22대_국회도_'종부세_납부_집단'이_과잉_대표,_국민_10배_alltab"><div class="cont_thumb"><strong class="tit_txt">22대 국회도 '종부세 납부 집단'이 과잉 대표, 국민 10배</strong><span class="info_txt"><span class="txt_info">2024. 3. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327160005547iktl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327160005547iktl.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
