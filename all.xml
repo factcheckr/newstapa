@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 10:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 11:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 <김정은의 헤어질 결심?> (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/bChIE</link>
+            <guid>http://newstapa.org/article/bChIE</guid>
+            <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 &lt;김정은의 헤어질 결심?&gt;]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/11150107-8560-30EF-F045-45IUXATG78TKWLXX0TGG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/gRktR</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/02155445-392A-DA8E-685A-6VEVCQAOQTID98FVKDOK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6개 야당, 검찰 특수활동비 국정조사 및 특검에 찬성 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/0Hg05</link>
-            <guid>http://newstapa.org/article/0Hg05</guid>
-            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[6개 야당, 검찰 특수활동비 국정조사 및 특검에 찬성]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03155716-71A5-E5EB-C29B-7SGEVDRBRWBSVXZ3MLV6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/05/26145746-392B-B9AA-61A9-M0ZJ8XUFR9L2N9GAYNNS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 <김정은의 헤어질 결심?> (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/bChIE</link>
+            <guid>http://newstapa.org/article/bChIE</guid>
+            <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 &lt;김정은의 헤어질 결심?&gt;]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/11150107-8560-30EF-F045-45IUXATG78TKWLXX0TGG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'" (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/8k_uv</link>
             <guid>http://newstapa.org/article/8k_uv</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[문재인정부 외교 평가]② 대일외교, '큰 그림'이 부족했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/16123757-FF64-4E9A-83C6-8JD3ZEXFCVKLT5CLFEYM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/KLMh7</link>
-            <guid>http://newstapa.org/article/KLMh7</guid>
-            <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[문재인정부 외교 평가]①남북관계 '화해-갈등' 격차 역대급]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/16114339-3530-AD63-98CD-PJUPU2BKJRJS3MFC16HS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 미 수사당국, 바트볼드 전 몽골 총리 뉴욕 호화 부동산 몰수소송 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3162,11 +3162,18 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 <김정은의 헤어질 결심?> (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104843567</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104843567</guid>
+            <pubDate>Thu, 11 Apr 2024 11:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>윤석열 정부가 총선에서 준엄한 심판을 받았습니다. 이제 지난 2년 동안의 실정 가운데 무엇을 어떻게 바꿔야할지 고민할 때입니다. <br></span><span><br></span><span>바꿔야할 것 중 하나는 윤석열 정부의 외교 안보 정책입니다.  윤석열 정부 출범 이후 남한이 한미일 동맹에만 올인하자, 북한은 미국이나 남한과의 관계 개선을 포기하고 북러관계에 치중하고 있습니다. 그 결과 김정은 북한 노동당 총비서가 이미 남북관계에 대해 “더 이상 동족관계가 아닌 두 교전국 관계”라고 못박았을 정도에 이르렀습니다. 미국에서는 계속해서 한반도 전쟁위기설이 나오고 있습니다. <br></span><span><br></span><span>뉴스타파가 국내외 전문가들과 함께 한반도 상황을 짚어본 2부작 다큐 &lt;2024 위기의 한반도&gt; 1부, &lt;김정은의 헤어질 결심&gt;에서는 윤석열 정부 이후 고조되어 가고 있는 한반도의 위기 상황을 객관적으로 살펴봅니다. <br></span><span>평화운동가이기도 한 임재성 변호사가 국내외 전문가들을 만나 깊은 이야기를 나눴습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/-JM672KKipg" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/-JM672KKipg</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/bChIE" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/bChIE</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/104841987</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/104841987</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>뉴스타파는 22대 총선을 앞두고 '국회의 대표성을 높이기 위해 청년과 여성의 국회 진출이 늘어냐아 한다는 취지의 기획 보도'를 하고 특별 페이지를 만들어 청년과 여성의 비율을 모니터링했습니다. 어제 끝난 총선에서 청년과 여성의 진출 비율은 어땠을까요? <br></span><span><br></span><span>22대 총선의 청년 당선자는 14명으로 21대보다 1명 늘어나는데 그쳤고, 여성 당선자는 60명으로 21대보다 3명 늘었습니다. 비율로 따지면 각각 4.3%와 20%입니다. 늘어난 것 자체는 긍정적이지만 아직도 유권자 비율에는 한참 못 미치는 수치입니다.  <br></span><span><br></span><span>전문가들은 '50대 중후반 남성 중심의 국회 구도는 이번에도 바뀌지 않았다며 22대 국회에서도 청년이나 여성의제가 중요하게 다루어질 것으로 보기 어렵다'는 의견을 내놨습니다. <br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/gRktR" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/gRktR</span></a>]]></content:encoded>
+            <content:encoded><![CDATA[<span><span>뉴스타파는 22대 총선을 앞두고 '국회의 대표성을 높이기 위해 청년과 여성의 국회 진출이 늘어냐아 한다는 취지의 기획 보도'를 하고 특별 페이지를 만들어 청년과 여성의 비율을 모니터링했습니다. 어제 끝난 총선에서 청년과 여성의 진출 비율은 어땠을까요? <br></span><span><br></span><span>22대 총선의 청년 당선자는 14명으로 21대보다 1명 늘어나는데 그쳤고, 여성 당선자는 60명으로 21대보다 3명 늘었습니다. 비율로 따지면 각각 4.7%와 20%입니다. 늘어난 것 자체는 긍정적이지만 아직도 유권자 비율에는 한참 못 미치는 수치입니다.  <br></span><span><br></span><span>전문가들은 '50대 중후반 남성 중심의 국회 구도는 이번에도 바뀌지 않았다며 22대 국회에서도 청년이나 여성의제가 중요하게 다루어질 것으로 보기 어렵다'는 의견을 내놨습니다. <br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/gRktR" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/gRktR</span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘진짜저널리즘’ 실천과 연대를 제안하며 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3295,19 +3302,20 @@
             <content:encoded><![CDATA[<span><span>우리나라 헌법 21조는 모든 국민들의 언론·출판의 자유를 보장하고 있습니다. 그런데 최근 들어 언론사와 언론인을 대상으로 한 명예훼손 수사가 이어지고 있습니다. 명예훼손을 이유로 펼쳐지는 검찰 수사가 언론 자유를 침해한다는 지적이 나옵니다.<br></span><span><br></span><span>뉴스타파 역시 지난해부터 검찰의 수사 대상에 올랐습니다. 2022년 '김만배 녹취록' 보도로 윤석열 대통령(당시 후보)의 명예를 훼손했다는 혐의입니다. 대통령 후보자에 대한 의혹을 제기한 것이 과연 명예훼손에 해당할까요? 뉴스타파를 향한 검찰 수사의 법적 타당성을 따져 봤습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/5tEh1" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/5tEh1</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104682111</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104682111</guid>
-            <pubDate>Sun, 31 Mar 2024 05:05:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>최근 스웨덴의 민주주의 다양성연구소는 '한국의 민주주의 지수가 2021년 17위에서 2023년 47위로 떨어졌다' 라고 발표했습니다. 윤석열 정부 들어 한국의 민주주의 후퇴가 급격하게 진행됐고, 한국이 '독재화 과정'에 접어들었다는 지적입니다.<br></span><span><br></span><span>윤석열 정부 출범 이후 정부와 검찰, 방송 심의기관 등이 공모해 언론을 '입틀막'하는 일이 빈번하게 일어나고 있습니다. 뉴스타파 '김만배 녹취록' 보도에 대한 수사 역시 마찬가지입니다. 하지만 검찰이 당초 내세웠던 강제수사 구실은 그 실체가 하나도 드러나지 않았습니다. 뉴스타파 김용진 대표의 칼럼입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/9y-eR" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/9y-eR</span></a>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 <김정은의 헤어질 결심?> (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240411200502987</link>
+            <guid>https://v.daum.net/v/20240411200502987</guid>
+            <pubDate>Thu, 11 Apr 2024 11:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411200502987" class="link_column" data-tiara-layer="[주간_뉴스타파]_‘2024_위기의_한반도’_1부_<김정은의_헤어질_결심?>_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 &lt;김정은의 헤어질 결심?&gt;</strong><span class="info_txt"><span class="txt_info">10분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F11%2Fnewstapa%2F20240411200510952wuev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F11%2Fnewstapa%2F20240411200510952wuev.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240411174003262</link>
             <guid>https://v.daum.net/v/20240411174003262</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1712830286829&amp;Signature=GVB1fmkwm2ImbrR5mg17Q1IJtxc%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1712830286829&Signature=GVB1fmkwm2ImbrR5mg17Q1IJtxc%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1712834155390&amp;Signature=nyKJk4XErBYiWAdNHeVXAtPDap4%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1712834155390&Signature=nyKJk4XErBYiWAdNHeVXAtPDap4%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3337,7 +3345,7 @@
             <link>https://v.daum.net/v/20240408193003003</link>
             <guid>https://v.daum.net/v/20240408193003003</guid>
             <pubDate>Mon, 08 Apr 2024 11:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240408193003003" class="link_column" data-tiara-layer="윤석열이_류희림을_'날리지'_않는_진짜_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열이 류희림을 '날리지' 않는 진짜 이유</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F08%2Fnewstapa%2F20240408193012714chgg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240408193003003" class="link_column" data-tiara-layer="윤석열이_류희림을_'날리지'_않는_진짜_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열이 류희림을 '날리지' 않는 진짜 이유</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F08%2Fnewstapa%2F20240408193012714chgg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F08%2Fnewstapa%2F20240408193012714chgg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3393,7 +3401,7 @@
             <link>https://v.daum.net/v/20240404200004042</link>
             <guid>https://v.daum.net/v/20240404200004042</guid>
             <pubDate>Thu, 04 Apr 2024 11:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240404200004042" class="link_column" data-tiara-layer="[주간_뉴스타파]_국민의_국회_vs_로비스트의_국회_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404200013564rcku.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240404200004042" class="link_column" data-tiara-layer="[주간_뉴스타파]_국민의_국회_vs_로비스트의_국회_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회</strong><span class="info_txt"><span class="txt_info">2024. 4. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404200013564rcku.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404200013564rcku.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3531,14 +3539,6 @@
             <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240328200004253" class="link_column" data-tiara-layer="'류희림_청부_민원'_보도_징계.._'입틀막'_선방위_심의_alltab"><div class="cont_thumb"><strong class="tit_txt">'류희림 청부 민원' 보도 징계.. '입틀막' 선방위 심의</strong><span class="info_txt"><span class="txt_info">2024. 3. 28.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201244427jqki.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F28%2Fnewstapa%2F20240328201244427jqki.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[국회의원 후보 '가상자산' 첫 신고… 66명이 10억 9500만 원 보유 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240327191003579</link>
-            <guid>https://v.daum.net/v/20240327191003579</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240327191003579" class="link_column" data-tiara-layer="국회의원_후보_'가상자산'_첫_신고…_66명이_10억_9500만_원_보유_alltab"><div class="cont_thumb"><strong class="tit_txt">국회의원 후보 '가상자산' 첫 신고… 66명이 10억 9500만 원 보유</strong><span class="info_txt"><span class="txt_info">2024. 3. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327191004985nvnw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F27%2Fnewstapa%2F20240327191004985nvnw.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
