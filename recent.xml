@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 06:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 07:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조국혁신당에 누가 표를 주었나? 광주서 최다, 경북서 최소 득표]]></title>
+            <link>http://newstapa.org/article/Ma1sC</link>
+            <guid>http://newstapa.org/article/Ma1sC</guid>
+            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조국혁신당에 누가 표를 주었나? 광주서 최다, 경북서 최소 득표]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/12153533-FE8A-D59B-A25F-Q7X09QE6P7QUT7MBLCAB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 <김정은의 헤어질 결심?>]]></title>
             <link>http://newstapa.org/article/bChIE</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/03143836-3DDC-5195-B94D-P9DBAN0CT37IY98V5HL6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹]]></title>
-            <link>http://newstapa.org/article/LXmJT</link>
-            <guid>http://newstapa.org/article/LXmJT</guid>
-            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/02155445-392A-DA8E-685A-6VEVCQAOQTID98FVKDOK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
