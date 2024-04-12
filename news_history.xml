@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 08:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 09:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다]]></title>
+            <link>http://newstapa.org/article/ZWkg9</link>
+            <guid>http://newstapa.org/article/ZWkg9</guid>
+            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/12141420-769E-D453-7EBF-DTE1K1PI2843TKL7LJ5A.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년③] 흑산도 특종의 인연]]></title>
             <link>http://newstapa.org/article/wrTW0</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18181642-C79C-6D01-6349-HUEVVLRCCRV6L9CUTQK1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 제주 4·3 당시 영상 ‘제주도의 메이데이’ 공개]]></title>
-            <link>http://newstapa.org/article/BoSEW</link>
-            <guid>http://newstapa.org/article/BoSEW</guid>
-            <pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 제주 4·3 당시 영상 ‘제주도의 메이데이’ 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05180557-0F5A-8BF3-0EB6-G9LNKVG19I54ZYQL7E91.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
