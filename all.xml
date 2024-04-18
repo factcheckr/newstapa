@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 10:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 11:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dzpDf</link>
+            <guid>http://newstapa.org/article/dzpDf</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18142512-E5D1-835B-AFB2-49FSJYAG0S6ILPQDQV42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/fnCdS</link>
+            <guid>http://newstapa.org/article/fnCdS</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18094333-7101-96B2-FDAA-ZQDBQOOIOUGB0HT1OY9S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집 기획] ‘2024 위기의 한반도’ 2부 <김정은의 전쟁할 결심?> (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/CEqB6</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05155514-C802-C74B-859B-LC24C3J4KDRCH4IPMDFZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/f6Bk7</link>
-            <guid>http://newstapa.org/article/f6Bk7</guid>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05154829-1867-E2EB-C110-AGUSXDXLZH3GURALC0W2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> '4대강 전도사' 원희룡, 수상한 업추비와 막말 전력 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/QwAWN</link>
-            <guid>http://newstapa.org/article/QwAWN</guid>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '4대강 전도사' 원희룡, 수상한 업추비와 막말 전력]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05110102-DBD6-A1C8-9BC7-7AI8JATI8K32EYPWH9HQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조국혁신당에 누가 표를 주었나? 광주서 최다, 경북서 최소 득표 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/01150934-4433-A7B6-A814-JVEVHPRE1GRZCHK3P0ED.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/dzpDf</link>
+            <guid>http://newstapa.org/article/dzpDf</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18142512-E5D1-835B-AFB2-49FSJYAG0S6ILPQDQV42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/fnCdS</link>
+            <guid>http://newstapa.org/article/fnCdS</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18094333-7101-96B2-FDAA-ZQDBQOOIOUGB0HT1OY9S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[<현장에서> 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/vYrK_</link>
             <guid>http://newstapa.org/article/vYrK_</guid>
@@ -1270,22 +1286,6 @@
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[길 잃은 별들의 길이 되어... 이태원 진실버스]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20124005-067E-7650-9197-GAISBMHKPQ56LU3RXB04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<세월호, 사실과 기록>, 사참위·검찰 특수단 기록물 추가 공개 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/1yUHp</link>
-            <guid>http://newstapa.org/article/1yUHp</guid>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;세월호, 사실과 기록&gt;, 사참위·검찰 특수단 기록물 추가 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/14141243-181D-C17E-F2E9-VA3DPKEPC6TUW2NLGFDM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 '재난통신망' 기록 폐기..."얼마나 무책임한가" (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/R9tTo</link>
-            <guid>http://newstapa.org/article/R9tTo</guid>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 '재난통신망' 기록 폐기..."얼마나 무책임한가"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/14104440-2BE2-05ED-32B7-TVQEGUM9N81AA09GTKMU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]관광학회 '논문 조작' 교수들, '임용 취소', '정직' 등 무더기 중징계 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3162,6 +3162,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[세월호 참사 10년...이제는 알게 된 것들 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104929224</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104929224</guid>
+            <pubDate>Thu, 18 Apr 2024 11:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>세월호 참사가 일어난 2014년 4월 16일로부터 10년이 흘렀습니다. 지난 10년간 검·경의 수사와 국회 국정조사, 특별조사위원회 조사를 통해 여러 기록과 사실 관계가 드러났습니다. 그 결과, 이제는 세월호 진상 규명의 두 축인 '침몰 원인'과 '구조 실패 이유'를 합리적으로 설명할 수 있게 됐습니다.<br></span><span><br></span><span>그러나 대다수 국민들은 아직까지 세월호 침몰의 원인이 '밝혀지지 않았다' 라고 생각하고 있습니다. 10년의 시간이 흘렀음에도 우리 사회가 세월호 참사에 대해 정확히 알지 못하는 이유는 무엇일까요. 세월호 참사에 대해 '이제는 알게 된 것들'과 지난 10년간의 진상 규명 과정을 뉴스타파가 짚어 봤습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/AEvbm-Ercg8" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/AEvbm-Ercg8</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/dzpDf" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/dzpDf</span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104929203</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104929203</guid>
+            <pubDate>Thu, 18 Apr 2024 11:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>지난 10년간의 진상 규명 과정을 통해 세월호 참사와 관련된 여러 사실 관계가 밝혀졌습니다. 지금까지 확보된 기록과 사실 관계를 토대로, 이제는 세월호의 침몰 원인과 구조 실패 이유에 대해 합리적 설명이 가능해졌습니다. <br></span><span><br></span><span>당시 세월호는 불법 개조, 과적 등으로 작은 결함에도 쓰러질 만큼 위태로운 상태였습니다. 끝내 세월호가 균형을 잃고 쓰러지자, 선원들은 승객들을 배 안에 방치한 채 도망치기 바빴습니다. 구조에 나선 해경 역시 무능하고 무책임했습니다. 수없이 쌓인 위험 요소가 폭발한 끝에 결국 304명이 목숨을 잃었습니다.<br></span><span><br></span><span>지난 2018년 7월 법원은 세월호 유가족들이 낸 국가배상 소송에서 '국가 책임'을 인정하는 판결을 내린 바 있습니다. 세월호 침몰과 구조 실패는 곧 국가가 책임져야 하는 참사라는 판결입니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/FCdQiZ8a_3U" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/FCdQiZ8a_3U</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/fnCdS" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/fnCdS</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이화영 전 부지사 '술자리 회유' 의혹 제기된 수원지검의 과거 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/104927394</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/104927394</guid>
@@ -3288,18 +3302,20 @@
             <content:encoded><![CDATA[<span><span>21대 현직 비례대표 의원들 중 11명이 22대 총선에 지역구 후보로 출마합니다. 그런데 이들 중 상당수가 비례대표 의원 자격으로 받은 정치 자금을 자신이 출마할 지역구 관리에 쓴 것으로 드러났습니다. <br></span><span><br></span><span>비례대표 의원이 지역구 관리에 과다한 정치자금을 쓰는 것은 전문성과 대표성을 살리자는 비례대표제의 도입 취지에 맞지 않는다는 지적이 나옵니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/jgV2S" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/jgV2S</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104747895</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104747895</guid>
-            <pubDate>Wed, 03 Apr 2024 09:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>국민의힘 서천호 후보(사천·남해·하동)는 부산지방경찰청장 재직 시절 '댓글 여론조작'을 지시한 혐의로 지난해 5월 집행유예 1년이 확정됐습니다. 공직선거법상 집행유예 기간에는 피선거권이 박탈되므로 서천호 후보는 올해 5월까지 선거에 출마할 수 없었습니다.<br></span><span><br></span><span>그런데 서 후보는 지난 2월 7일 윤석열 대통령의 특별사면을 받았고, 같은 날 출마 선언을 했습니다. 심지어 사면 5개월 전인 지난 9월 사천시에 '총선용 집'을 구입하기도 했습니다. 사천 지역 언론에 따르면, 서 후보는 지난해부터 지역 행사에 다니는 등 사실상 총선 출마 행보를 이어온 것으로 보입니다.<br></span><span><br></span><span>서천호 후보가 미리 사면을 약속받고 총선 준비를 했다는 의혹이 나오는 가운데, 서 후보는 "단순히 사면을 기대해 집을 사고, 공천을 신청한 것일 뿐" 이라고 주장했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/cNHmV2PJ2Lc" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/cNHmV2PJ2Lc</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/0NBhg" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/0NBhg</span></a>]]></content:encoded>
+            <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240418200503725</link>
+            <guid>https://v.daum.net/v/20240418200503725</guid>
+            <pubDate>Thu, 18 Apr 2024 11:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240418200503725" class="link_column" data-tiara-layer="<주간_뉴스타파>_세월호_참사_10년...이제는_알게_된_것들_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들</strong><span class="info_txt"><span class="txt_info">3분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200549788wnfy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200549788wnfy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104746155</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104746155</guid>
-            <pubDate>Wed, 03 Apr 2024 08:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>윤석열 대통령이 검찰총장 임기 마지막 3개월간 수억 원대 특수활동비를 전국 검찰청에 나눠준 사실이 확인됐습니다. 검찰총장이 한번에 억대의 특활비를 전국 검찰청에 뿌린 것은 이례적인 일입니다.<br></span><span><br></span><span>그런데 당시 윤석열 총장은 추미애 법무부 장관과의 갈등, 징계위원회 회부 등으로 위기에 처해 있었습니다. 윤 대통령이 검찰총장 재직 시절, 자신의 위기를 타파하기 위해 특활비를 전국 검찰청에 뿌린 게 아니냐는 의혹이 나옵니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/TWergD_NAzQ" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/TWergD_NAzQ</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/LXmJT" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/LXmJT</span></a>]]></content:encoded>
+            <title><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나" (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240418200003613</link>
+            <guid>https://v.daum.net/v/20240418200003613</guid>
+            <pubDate>Thu, 18 Apr 2024 11:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240418200003613" class="link_column" data-tiara-layer="세월호_진상규명_10년...&quot;왜_침몰했고_왜_못_구했나&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200023819psjp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200023819psjp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[특집 기획] ‘2024 위기의 한반도’ 2부 <김정은의 전쟁할 결심?> (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3338,7 +3354,7 @@
             <link>https://v.daum.net/v/20240411200502987</link>
             <guid>https://v.daum.net/v/20240411200502987</guid>
             <pubDate>Thu, 11 Apr 2024 11:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411200502987" class="link_column" data-tiara-layer="[주간_뉴스타파]_‘2024_위기의_한반도’_1부_<김정은의_헤어질_결심?>_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 &lt;김정은의 헤어질 결심?&gt;</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F16%2Fnewstapa%2F20240416152843129knqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411200502987" class="link_column" data-tiara-layer="[주간_뉴스타파]_‘2024_위기의_한반도’_1부_<김정은의_헤어질_결심?>_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 &lt;김정은의 헤어질 결심?&gt;</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F16%2Fnewstapa%2F20240416152843129knqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F16%2Fnewstapa%2F20240416152843129knqz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3346,8 +3362,8 @@
             <link>https://v.daum.net/v/20240411174003262</link>
             <guid>https://v.daum.net/v/20240411174003262</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1713435326418&amp;Signature=dIUpB6DHY372invO6cbhtaPKJgU%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1713435326418&Signature=dIUpB6DHY372invO6cbhtaPKJgU%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1713438543605&amp;Signature=s6GooaxknXUEqjW7cvCCDR3Rkiw%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1713438543605&Signature=s6GooaxknXUEqjW7cvCCDR3Rkiw%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3523,22 +3539,6 @@
             <pubDate>Mon, 01 Apr 2024 01:55:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401100003482" class="link_column" data-tiara-layer="[현장에서]_뉴스타파는_왜_수사받고_있나_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 뉴스타파는 왜 수사받고 있나</strong><span class="info_txt"><span class="txt_info">2024. 4. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240329194003733</link>
-            <guid>https://v.daum.net/v/20240329194003733</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240329194003733" class="link_column" data-tiara-layer="[난중칼럼]_정치_검찰이_망상에_빠진_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] 정치 검찰이 망상에 빠진 이유</strong><span class="info_txt"><span class="txt_info">2024. 3. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329194004425qmlz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329194004425qmlz.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 행정부가 할 수 있는 일 없다... 4개월 장관 방문규 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240329181504921</link>
-            <guid>https://v.daum.net/v/20240329181504921</guid>
-            <pubDate>Sun, 31 Mar 2024 05:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240329181504921" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_행정부가_할_수_있는_일_없다..._4개월_장관_방문규_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 행정부가 할 수 있는 일 없다... 4개월 장관 방문규</strong><span class="info_txt"><span class="txt_info">2024. 3. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329181506026sjlq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202403%2F29%2Fnewstapa%2F20240329181506026sjlq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

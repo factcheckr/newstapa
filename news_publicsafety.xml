@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Apr 2024 10:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 11:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들]]></title>
+            <link>http://newstapa.org/article/dzpDf</link>
+            <guid>http://newstapa.org/article/dzpDf</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18142512-E5D1-835B-AFB2-49FSJYAG0S6ILPQDQV42.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"]]></title>
+            <link>http://newstapa.org/article/fnCdS</link>
+            <guid>http://newstapa.org/article/fnCdS</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18094333-7101-96B2-FDAA-ZQDBQOOIOUGB0HT1OY9S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<현장에서> 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다]]></title>
             <link>http://newstapa.org/article/vYrK_</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[길 잃은 별들의 길이 되어... 이태원 진실버스]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/20124005-067E-7650-9197-GAISBMHKPQ56LU3RXB04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<세월호, 사실과 기록>, 사참위·검찰 특수단 기록물 추가 공개]]></title>
-            <link>http://newstapa.org/article/1yUHp</link>
-            <guid>http://newstapa.org/article/1yUHp</guid>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;세월호, 사실과 기록&gt;, 사참위·검찰 특수단 기록물 추가 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/14141243-181D-C17E-F2E9-VA3DPKEPC6TUW2NLGFDM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 '재난통신망' 기록 폐기..."얼마나 무책임한가"]]></title>
-            <link>http://newstapa.org/article/R9tTo</link>
-            <guid>http://newstapa.org/article/R9tTo</guid>
-            <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 '재난통신망' 기록 폐기..."얼마나 무책임한가"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/14104440-2BE2-05ED-32B7-TVQEGUM9N81AA09GTKMU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
