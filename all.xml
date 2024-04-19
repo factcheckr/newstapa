@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Apr 2024 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 11:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/c2nw9</link>
+            <guid>http://newstapa.org/article/c2nw9</guid>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/19144018-6A69-491B-A690-RTBZ71K765VL4QL683Y3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/dzpDf</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년③] 흑산도 특종의 인연]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/08112354-B4A1-9251-EA3C-8HMZ5AWNDF9S6UO5FDPF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/T_G25</link>
-            <guid>http://newstapa.org/article/T_G25</guid>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05155514-C802-C74B-859B-LC24C3J4KDRCH4IPMDFZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조국혁신당에 누가 표를 주었나? 광주서 최다, 경북서 최소 득표 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/30174705-6CC9-4ECD-12E8-RNOMF4954U6JKL0XYERV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/c2nw9</link>
+            <guid>http://newstapa.org/article/c2nw9</guid>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/19144018-6A69-491B-A690-RTBZ71K765VL4QL683Y3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/ZWkg9</link>
             <guid>http://newstapa.org/article/ZWkg9</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19164932-40BE-8E36-F84E-US0WAWCWV1VJTWRQDXDN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/TbKen</link>
-            <guid>http://newstapa.org/article/TbKen</guid>
-            <pubDate>Thu, 18 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[전두환 막내, 미국 호화 와이너리 관련 법인 8개 중 5개서 대표]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/18181642-C79C-6D01-6349-HUEVVLRCCRV6L9CUTQK1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/c2nw9</link>
+            <guid>http://newstapa.org/article/c2nw9</guid>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/19144018-6A69-491B-A690-RTBZ71K765VL4QL683Y3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/ZWkg9</link>
             <guid>http://newstapa.org/article/ZWkg9</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국제 언론단체 CPJ, 한국 당국에 뉴스타파 탄압 즉각 중단 촉구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19110020-A4DF-D4F9-CF31-UWR8FDT0LKFSG0OVBXCJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] TV조선이 ‘띄운’ 지역주택아파트, 분양 사기였다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/mm5c7</link>
-            <guid>http://newstapa.org/article/mm5c7</guid>
-            <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] TV조선이 ‘띄운’ 지역주택아파트, 분양 사기였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/19110055-8D38-27EF-E224-EUYBDVL8NKZ71UZR4QCM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 22대 국회의원 선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3162,6 +3162,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[법과 법정을 악용한 정치검찰의 언론플레이를 강력규탄한다. (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/104945700</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/104945700</guid>
+            <pubDate>Fri, 19 Apr 2024 11:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>법과 법정을 악용한 정치검찰의 언론플레이를 강력규탄한다.<br></span><span><br></span><span>이른바 ‘윤석열 대통령 명예훼손’ 사건을 수사하고 있는 서울중앙지검 반부패부가 사문화되다시피 형사소송법상 ‘공판 전 증인신문’을 들고 나와 아직 기소도 안 된 뉴스타파 기자의 사적 문자 메시지 등을 방어권 보장이나 증거 설립 절차도 없이 마구잡이로 법정에서 공개하는 언론플레이를 펼쳤다. 뉴스타파는 정치검찰의 이 같은 행태를 강력 규탄하며, 적극 대응해 나갈 것이다.<br></span><span><br></span><span>서울중앙지검 반부패부는 오늘 서울서부지법에서 열린 뉴스타파 편집기자와 촬영기자 상대 증인 신문에서 두 증인과 아무런 관련도 없는 문자 메시지를 여럿 공개했다.<br></span><span><br></span><span>검찰은 오늘 ‘공판 전 증인신문'을 통해 언론플레이를 하며 여론전에 나섰지만, 역설적으로 이들이 공개한 문자 메시지는 검찰이 지난해 9월 이 사건을 수사하면서 짠 프레임을 무너뜨리고 있다. 검찰 수사가 애초부터 얼마나 무리한 것이었는지를 보여주는 증거다.<br></span><span><br></span><span>우선 김용진 대표가 김만배-신학림 음성파일 보도 직전인 2022년 3월 6일에 보도 담당 한상진 기자에게 신학림이 썼다는 노트에 “윤석열 이름은 없나?”라고 물어봤다는 문자 메시지는, “뉴스타파가 대선에 개입하기 위해 신학림과 함께 김만배의 이른바 ‘허위 인터뷰’를 사전에 기획했다”는 검찰의 기존 주장과 완전히 배치된다.<br></span><span><br></span><span>대선 개입을 위해 ‘허위 인터뷰’를 기획했다면, 김용진 대표와 한상진 기자는 신학림-김만배의 인터뷰 내용 뿐 아니라 신학림의 노트 내용까지 사전에 파악하고 있었어야 하기 때문이다. 덧붙여, 신학림-김만배 음성파일 속에 윤석열이라는 이름이 언급된 걸 확인한 상황에서 신학림이 김만배와 대화를 할 당시 메모를 기재한 노트에도 해당 이름이 등장하는지 여부를 노트를 검토한 기자에게 물어보는 것은 지극히 자연스러운 일 수이 아닐 수 없다.<br></span><span><br></span><span>검찰은 한상진 기자와 신학림 전 전문위원이 보도 이후에 각자 지인들과 주고 받은 사적인 문자 메시지도 공개했다. 이 문자는 3월 6일 보도와는 아무런 관련도 없다. 검찰은 자신들이 망상 속에서 상정한 혐의를 입증할 증거를 찾지 못하자 뉴스타파의 취재보도 과정과는 관련이 없는 문자를 무분멸하게 법정에서 공개했다. 뉴스타파 보도의 사전 기획 증거를 찾지 못한 검찰이 궁여지책으로 흘린 언론플레이용 증거일 뿐이다.<br></span><span><br></span><span>박영수 변호사의 조우형 수임 여부와 녹음 파일 내용 검토 등과 관련한 김용진 대표와 한상진 기자의 문자 문답은, 언론사 내부에서 일상적으로 이루어지고 있는 정상적인 팩트 체크 과정의 일부다. 이는 취재와 보고, 팩트체크가 일상인 언론사에서는 당연한 일이다.<br></span><span><br></span><span>여러 문자 중 일부를 선별해 자신들의 기획에 짜맞춰 공개 법정에서 현출하고, 언론플레이를 통해 정치수사를 합리화하려는 모습은 앞서 수많은 정치검찰이 보여준 행태다.<br></span><span><br></span><span>뉴스타파는 오늘 증인신문에서 증거의 성립을 인정하는 절차도 거치지 않고, 증인과 관련도 없는 문자를, 그것도 아무런 방어권도 제공하지 않은 상태에서 법정에서 현출함으로서 형사소송법의 절차를 여론전의 수단으로 악용하고 있는 정치검찰에 강력 대응하겠다는 것을 다시 한 번 밝힌다.</span></span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[세월호 참사 10년...이제는 알게 된 것들 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/104929224</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/104929224</guid>
@@ -3295,18 +3302,19 @@
             <content:encoded><![CDATA[<span><span>22대 총선을 앞두고 각 정당마다 민생 문제, 기후 문제를 해결하겠다는 공약을 내고 있습니다. 또 이 문제들을 해결하기 위해 이른바 '경제 전문가' 후보들을 앞세우고 있는데요.<br></span><span><br></span><span>과연 '경제 전문가' 후보들은 우리 사회에 닥친 문제들을 해결할 수 있을까요? 뉴스타파 검증 결과, 이들은 국민의 미래보다는 삼성·현대 등 재벌 기업, 기획재정부 등 관료 사회를 대변할 가능성이 높아 보였습니다. <br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/Oke__EZpbs8" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/Oke__EZpbs8</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/8guEO" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/8guEO</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[정치자금 절반 ‘지역구 관리’에 쓰고 지역 출마한 비례의원들 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104759431</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104759431</guid>
-            <pubDate>Thu, 04 Apr 2024 06:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>21대 현직 비례대표 의원들 중 11명이 22대 총선에 지역구 후보로 출마합니다. 그런데 이들 중 상당수가 비례대표 의원 자격으로 받은 정치 자금을 자신이 출마할 지역구 관리에 쓴 것으로 드러났습니다. <br></span><span><br></span><span>비례대표 의원이 지역구 관리에 과다한 정치자금을 쓰는 것은 전문성과 대표성을 살리자는 비례대표제의 도입 취지에 맞지 않는다는 지적이 나옵니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/jgV2S" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/jgV2S</span></a>]]></content:encoded>
+            <title><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240419181004574</link>
+            <guid>https://v.daum.net/v/20240419181004574</guid>
+            <pubDate>Fri, 19 Apr 2024 11:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240419181004574" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑤]_해직자의_낙인,_하지만_우리의_삶은_'그들'보다_나았다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F19%2Fnewstapa%2F20240419181005956jqhp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F19%2Fnewstapa%2F20240419181005956jqhp.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240418200503725</link>
             <guid>https://v.daum.net/v/20240418200503725</guid>
             <pubDate>Thu, 18 Apr 2024 11:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240418200503725" class="link_column" data-tiara-layer="<주간_뉴스타파>_세월호_참사_10년...이제는_알게_된_것들_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200549788wnfy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240418200503725" class="link_column" data-tiara-layer="<주간_뉴스타파>_세월호_참사_10년...이제는_알게_된_것들_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200549788wnfy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200549788wnfy.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3314,7 +3322,7 @@
             <link>https://v.daum.net/v/20240418200003613</link>
             <guid>https://v.daum.net/v/20240418200003613</guid>
             <pubDate>Thu, 18 Apr 2024 11:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240418200003613" class="link_column" data-tiara-layer="세월호_진상규명_10년...&quot;왜_침몰했고_왜_못_구했나&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200023819psjp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240418200003613" class="link_column" data-tiara-layer="세월호_진상규명_10년...&quot;왜_침몰했고_왜_못_구했나&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200023819psjp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F18%2Fnewstapa%2F20240418200023819psjp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3330,7 +3338,7 @@
             <link>https://v.daum.net/v/20240415173004477</link>
             <guid>https://v.daum.net/v/20240415173004477</guid>
             <pubDate>Mon, 15 Apr 2024 09:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240415173004477" class="link_column" data-tiara-layer="[세월호_참사_10주기_특집]_옴니버스_다큐멘터리_'세_가지_안부'_한시_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[세월호 참사 10주기 특집] 옴니버스 다큐멘터리 '세 가지 안부' 한시 공개</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F15%2Fnewstapa%2F20240415173011411lqga.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240415173004477" class="link_column" data-tiara-layer="[세월호_참사_10주기_특집]_옴니버스_다큐멘터리_'세_가지_안부'_한시_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[세월호 참사 10주기 특집] 옴니버스 다큐멘터리 '세 가지 안부' 한시 공개</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F15%2Fnewstapa%2F20240415173011411lqga.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F15%2Fnewstapa%2F20240415173011411lqga.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3338,7 +3346,7 @@
             <link>https://v.daum.net/v/20240412180002765</link>
             <guid>https://v.daum.net/v/20240412180002765</guid>
             <pubDate>Fri, 12 Apr 2024 09:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240412180002765" class="link_column" data-tiara-layer="[자유언론실천선언_50년④]_동아·조선_없는_세상에서_살고_싶다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F12%2Fnewstapa%2F20240412180004285fipu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240412180002765" class="link_column" data-tiara-layer="[자유언론실천선언_50년④]_동아·조선_없는_세상에서_살고_싶다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다</strong><span class="info_txt"><span class="txt_info">2024. 4. 12.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F12%2Fnewstapa%2F20240412180004285fipu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F12%2Fnewstapa%2F20240412180004285fipu.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3362,8 +3370,8 @@
             <link>https://v.daum.net/v/20240411174003262</link>
             <guid>https://v.daum.net/v/20240411174003262</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1713514429864&amp;Signature=iwRIzhRJG7f901LLbwGF%2BMgMqxM%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1713514429864&Signature=iwRIzhRJG7f901LLbwGF%2BMgMqxM%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1713525002462&amp;Signature=IcjJ4X%2FRF2AO3ZCYYAoQyqjKfOE%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1713525002462&Signature=IcjJ4X%2FRF2AO3ZCYYAoQyqjKfOE%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3531,14 +3539,6 @@
             <pubDate>Mon, 01 Apr 2024 09:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401175502041" class="link_column" data-tiara-layer="현경병_국민의힘_노원갑_후보,_2022년_'불법_공천헌금'_사건_재수사_alltab"><div class="cont_thumb"><strong class="tit_txt">현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사</strong><span class="info_txt"><span class="txt_info">2024. 4. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401175511098gbhe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401175511098gbhe.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 뉴스타파는 왜 수사받고 있나 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240401100003482</link>
-            <guid>https://v.daum.net/v/20240401100003482</guid>
-            <pubDate>Mon, 01 Apr 2024 01:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240401100003482" class="link_column" data-tiara-layer="[현장에서]_뉴스타파는_왜_수사받고_있나_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 뉴스타파는 왜 수사받고 있나</strong><span class="info_txt"><span class="txt_info">2024. 4. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F01%2Fnewstapa%2F20240401100004865mtlx.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
