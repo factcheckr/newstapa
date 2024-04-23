@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 12:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 13:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, ‘조작 문자’로 법정서 언론플레이]]></title>
+            <link>http://newstapa.org/article/_tY-5</link>
+            <guid>http://newstapa.org/article/_tY-5</guid>
+            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, ‘조작 문자’로 법정서 언론플레이]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/23212026-C059-B45A-F5D5-OQPMTEPKSKERAPD3GJC7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최외출 영남대 총장, 뉴스타파 상대 민사소송서 패소]]></title>
             <link>http://newstapa.org/article/VhKcA</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '공직자 신고' 때와 재산 달라진 총선 후보 15명]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/09140944-06F7-6CA4-22A5-DRRYEGTPYFPFC6H2B9S8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열이 류희림을 '날리지' 않는 진짜 이유]]></title>
-            <link>http://newstapa.org/article/JQ7ir</link>
-            <guid>http://newstapa.org/article/JQ7ir</guid>
-            <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열이 류희림을 '날리지' 않는 진짜 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/08183403-A3B3-6688-B743-WY79UM7N0DQ3RWJ7F7ET.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
