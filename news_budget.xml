@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 10:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 11:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 총장의 예산 비위와 검찰의 '방탄' 비공개]]></title>
+            <link>http://newstapa.org/article/Csqgj</link>
+            <guid>http://newstapa.org/article/Csqgj</guid>
+            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 총장의 예산 비위와 검찰의 '방탄' 비공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/25151439-D8DB-67B4-59C3-5X8VOF6DXDYE2F6JV08T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서]만찬은 회의야. 알았죠? 우리가 안 깨지려면 일단 그렇게 하셔야 돼요.]]></title>
             <link>http://newstapa.org/article/DBJn-</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[상품권으로 둔갑한 특활비… 사적 유용 의혹에도 검찰은 ‘묵묵부답’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18151026-FFF0-D4EA-E363-EVJ0IWN2MF05PWP83JI0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허술한 검찰 특활비 ‘자체 지침’… 예산 유용 ‘면죄부’ 의혹]]></title>
-            <link>http://newstapa.org/article/eOTUd</link>
-            <guid>http://newstapa.org/article/eOTUd</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[허술한 검찰 특활비 ‘자체 지침’… 예산 유용 ‘면죄부’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18112526-D00A-DF1B-A44E-3J0VTURM05KKYSQ1F0QT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
