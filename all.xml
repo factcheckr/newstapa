@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 09:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 10:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/o2sJl</link>
+            <guid>http://newstapa.org/article/o2sJl</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/26135428-072F-AEEC-6F9D-FE0PQ98CIY1QSJ3DSZ3W.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완전우세지역 진보 98대 보수 71로 첫 역전...진보 텃밭은 이제 수도권 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/lWiWa</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 &lt;김정은의 헤어질 결심?&gt;]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/11150107-8560-30EF-F045-45IUXATG78TKWLXX0TGG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gRktR</link>
-            <guid>http://newstapa.org/article/gRktR</guid>
-            <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/11172825-DB41-FEEC-D456-T9VR6IWI8DHW0SU8A7L6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[완전우세지역 진보 98대 보수 71로 첫 역전...진보 텃밭은 이제 수도권 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/05155739-8343-A388-3868-CAA94DPSQQ0EJJ999EMI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/o2sJl</link>
+            <guid>http://newstapa.org/article/o2sJl</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/26135428-072F-AEEC-6F9D-FE0PQ98CIY1QSJ3DSZ3W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/c2nw9</link>
             <guid>http://newstapa.org/article/c2nw9</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 5월의 빛과 어둠, 두 형제 이야기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/25134406-82F2-B5AF-83E5-PH6PHMSSXYPTBSK5HPEE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/MjNV4</link>
-            <guid>http://newstapa.org/article/MjNV4</guid>
-            <pubDate>Fri, 19 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 1년 특집] ‘혼네와 진심’, 한일 지식인에게 묻다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/19164932-40BE-8E36-F84E-US0WAWCWV1VJTWRQDXDN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/o2sJl</link>
+            <guid>http://newstapa.org/article/o2sJl</guid>
+            <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/26135428-072F-AEEC-6F9D-FE0PQ98CIY1QSJ3DSZ3W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[검찰, ‘조작 문자’로 법정서 언론플레이 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/_tY-5</link>
             <guid>http://newstapa.org/article/_tY-5</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원① 방심위원장 류희림, 가족 지인 동원 '청부 민원' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195010-5257-5F3A-422D-MJ96ASVUQQG4OPYXFD2H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/OhJu5</link>
-            <guid>http://newstapa.org/article/OhJu5</guid>
-            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원③ 류희림 주변 인물도 무차별 민원...공무원, 언론사 대표, 예술단장까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/24195257-585D-1905-CEF0-VMCJLJUTDT27KNJ42C10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 22대 국회의원 선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3302,11 +3302,19 @@
             <content:encoded><![CDATA[<span><span>뉴스타파는 지난 2021년 바트볼드 전 몽골 총리가 삼성물산 전 직원 등 한국인 명의를 빌려 해외에 호화 부동산을 사들였다는 의혹을 제기했습니다.<br></span><span><br></span><span>최근 미국 법무부, 연방수사국(FBI)등 수사 당국은 당시 뉴스타파가 언급한 바트볼드의 부동산 일부에 대해 몰수 소송을 제기했습니다. 미 법무부는 바트볼드 전 총리가 자국의 광물 판매 수익금을 한국인 명의의 유령 회사로 빼돌려, 1400만 달러(우리 돈 약 190억 원) 가량의 미국 고급 부동산을 사들였다고 밝혔습니다. <br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/JWviG" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/JWviG</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240426181634116</link>
+            <guid>https://v.daum.net/v/20240426181634116</guid>
+            <pubDate>Fri, 26 Apr 2024 10:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240426181634116" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑥]_&quot;약한_자_힘주시고_강한_자_바르게&quot;_거리_위_언론인의_노래_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래</strong><span class="info_txt"><span class="txt_info">53분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F26%2Fnewstapa%2F20240426181636424zkac.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F26%2Fnewstapa%2F20240426181636424zkac.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[완전우세지역 진보 98대 보수 71로 첫 역전...진보 텃밭은 이제 수도권 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240426133136908</link>
             <guid>https://v.daum.net/v/20240426133136908</guid>
             <pubDate>Fri, 26 Apr 2024 05:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240426133136908" class="link_column" data-tiara-layer="완전우세지역_진보_98대_보수_71로_첫_역전...진보_텃밭은_이제_수도권_alltab"><div class="cont_thumb"><strong class="tit_txt">완전우세지역 진보 98대 보수 71로 첫 역전...진보 텃밭은 이제 수도권</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F26%2Fnewstapa%2F20240426133152789mofl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240426133136908" class="link_column" data-tiara-layer="완전우세지역_진보_98대_보수_71로_첫_역전...진보_텃밭은_이제_수도권_alltab"><div class="cont_thumb"><strong class="tit_txt">완전우세지역 진보 98대 보수 71로 첫 역전...진보 텃밭은 이제 수도권</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F26%2Fnewstapa%2F20240426133152789mofl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F26%2Fnewstapa%2F20240426133152789mofl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3314,14 +3322,14 @@
             <link>https://v.daum.net/v/20240426100004405</link>
             <guid>https://v.daum.net/v/20240426100004405</guid>
             <pubDate>Fri, 26 Apr 2024 01:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240426100004405" class="link_column" data-tiara-layer="2024_호반_주주총회,_&quot;있었는데_없었습니다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">2024 호반 주주총회, "있었는데 없었습니다"</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240426100004405" class="link_column" data-tiara-layer="2024_호반_주주총회,_&quot;있었는데_없었습니다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">2024 호반 주주총회, "있었는데 없었습니다"</strong><span class="info_txt"><span class="txt_info">9시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 총장의 예산 비위와 검찰의 '방탄' 비공개 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240425200003038</link>
             <guid>https://v.daum.net/v/20240425200003038</guid>
             <pubDate>Thu, 25 Apr 2024 11:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240425200003038" class="link_column" data-tiara-layer="<주간_뉴스타파>_총장의_예산_비위와_검찰의_'방탄'_비공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 총장의 예산 비위와 검찰의 '방탄' 비공개</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F25%2Fnewstapa%2F20240425200014033qatp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240425200003038" class="link_column" data-tiara-layer="<주간_뉴스타파>_총장의_예산_비위와_검찰의_'방탄'_비공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 총장의 예산 비위와 검찰의 '방탄' 비공개</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F25%2Fnewstapa%2F20240425200014033qatp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F25%2Fnewstapa%2F20240425200014033qatp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,8 +3432,8 @@
             <link>https://v.daum.net/v/20240411174003262</link>
             <guid>https://v.daum.net/v/20240411174003262</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1714122715929&amp;Signature=wBBMN6la81zRAVynAz8qS5Vf3MU%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1714122715929&Signature=wBBMN6la81zRAVynAz8qS5Vf3MU%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1714126233423&amp;Signature=04%2BSmwp%2BB81jgp4PtLZvDnW6K%2B8%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1714126233423&Signature=04%2BSmwp%2BB81jgp4PtLZvDnW6K%2B8%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3529,14 +3537,6 @@
             <pubDate>Wed, 03 Apr 2024 09:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403180003432" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_국민의힘_서천호_후보의_'약속_사면'_의혹..._사면_5개월_전_'총선용'_집_구입_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 국민의힘 서천호 후보의 '약속 사면' 의혹... 사면 5개월 전 '총선용' 집 구입</strong><span class="info_txt"><span class="txt_info">2024. 4. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404150358881tpvz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404150358881tpvz.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240403164503518</link>
-            <guid>https://v.daum.net/v/20240403164503518</guid>
-            <pubDate>Wed, 03 Apr 2024 08:13:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240403164503518" class="link_column" data-tiara-layer="위기_때마다_‘살포된’_현금_특활비…_총장_윤석열의_‘세금_사유화’_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">위기 때마다 ‘살포된’ 현금 특활비… 총장 윤석열의 ‘세금 사유화’ 의혹</strong><span class="info_txt"><span class="txt_info">2024. 4. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404155159130vfbp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404155159130vfbp.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
