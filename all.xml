@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 10:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 11:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 고 양회동 1주기...국가와 조선일보의 거짓말 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/KU1NC</link>
+            <guid>http://newstapa.org/article/KU1NC</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 고 양회동 1주기...국가와 조선일보의 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/02172047-75E5-44C9-9ED4-28U4E7C7PHHAFH74FGKF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’ (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/TwOIJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[세월호 참사 10주기 특집] 옴니버스 다큐멘터리 '세 가지 안부' 한시 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/15165404-5B65-195D-BBFB-LMQWNZPBN2N55UZRFZ7H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ZWkg9</link>
-            <guid>http://newstapa.org/article/ZWkg9</guid>
-            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/12141420-769E-D453-7EBF-DTE1K1PI2843TKL7LJ5A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/16195452-40C9-0C11-4F2B-3J96OHG51JNXCM9P1JP3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<주간 뉴스타파> 고 양회동 1주기...국가와 조선일보의 거짓말 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/KU1NC</link>
+            <guid>http://newstapa.org/article/KU1NC</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 고 양회동 1주기...국가와 조선일보의 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/02172047-75E5-44C9-9ED4-28U4E7C7PHHAFH74FGKF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['쿠팡 블랙리스트'가 합법이라고?... 불법 의혹 짙은 이유 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/G-qe2</link>
             <guid>http://newstapa.org/article/G-qe2</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[해외입양과 돈]⑤입양 기관 내부 문서 3000쪽 최초 입수...아이를 거래했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/18150528-8998-4726-C1BC-A0XKC4QBT39SK6XIBUQ4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]④해외입양 기관, 수수료 웃돈 취득·장부 허위 기재 의혹 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/3H1oz</link>
-            <guid>http://newstapa.org/article/3H1oz</guid>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]④해외입양 기관, 수수료 웃돈 취득·장부 허위 기재 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/01150934-4433-A7B6-A814-JVEVHPRE1GRZCHK3P0ED.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3302,6 +3302,14 @@
             <content:encoded><![CDATA[<span><span>윤석열 정부가 총선에서 준엄한 심판을 받았습니다. 이제 지난 2년 동안의 실정 가운데 무엇을 어떻게 바꿔야할지 고민할 때입니다. <br></span><span><br></span><span>바꿔야할 것 중 하나는 윤석열 정부의 외교 안보 정책입니다.  윤석열 정부 출범 이후 남한이 한미일 동맹에만 올인하자, 북한은 미국이나 남한과의 관계 개선을 포기하고 북러관계에 치중하고 있습니다. 그 결과 김정은 북한 노동당 총비서가 이미 남북관계에 대해 “더 이상 동족관계가 아닌 두 교전국 관계”라고 못박았을 정도에 이르렀습니다. 미국에서는 계속해서 한반도 전쟁위기설이 나오고 있습니다. <br></span><span><br></span><span>뉴스타파가 국내외 전문가들과 함께 한반도 상황을 짚어본 2부작 다큐 &lt;2024 위기의 한반도&gt; 1부, &lt;김정은의 헤어질 결심&gt;에서는 윤석열 정부 이후 고조되어 가고 있는 한반도의 위기 상황을 객관적으로 살펴봅니다. <br></span><span>평화운동가이기도 한 임재성 변호사가 국내외 전문가들을 만나 깊은 이야기를 나눴습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/-JM672KKipg" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/-JM672KKipg</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/bChIE" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/bChIE</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[<주간 뉴스타파> 고 양회동 1주기...국가와 조선일보의 거짓말 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240502200003476</link>
+            <guid>https://v.daum.net/v/20240502200003476</guid>
+            <pubDate>Thu, 02 May 2024 11:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240502200003476" class="link_column" data-tiara-layer="<주간_뉴스타파>_고_양회동_1주기...국가와_조선일보의_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 고 양회동 1주기...국가와 조선일보의 거짓말</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F02%2Fnewstapa%2F20240502200009150hyyg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F02%2Fnewstapa%2F20240502200009150hyyg.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’ (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240502141004717</link>
             <guid>https://v.daum.net/v/20240502141004717</guid>
@@ -3344,7 +3352,7 @@
             <link>https://v.daum.net/v/20240425200003038</link>
             <guid>https://v.daum.net/v/20240425200003038</guid>
             <pubDate>Thu, 25 Apr 2024 11:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240425200003038" class="link_column" data-tiara-layer="<주간_뉴스타파>_총장의_예산_비위와_검찰의_'방탄'_비공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 총장의 예산 비위와 검찰의 '방탄' 비공개</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F25%2Fnewstapa%2F20240425200014033qatp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240425200003038" class="link_column" data-tiara-layer="<주간_뉴스타파>_총장의_예산_비위와_검찰의_'방탄'_비공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 총장의 예산 비위와 검찰의 '방탄' 비공개</strong><span class="info_txt"><span class="txt_info">2024. 4. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F25%2Fnewstapa%2F20240425200014033qatp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F25%2Fnewstapa%2F20240425200014033qatp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3447,8 +3455,8 @@
             <link>https://v.daum.net/v/20240411174003262</link>
             <guid>https://v.daum.net/v/20240411174003262</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1714644919815&amp;Signature=3UdYU4tbUsUu%2Bu%2BZ1juMYXz1Ij4%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1714644919815&Signature=3UdYU4tbUsUu%2Bu%2BZ1juMYXz1Ij4%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1714648149063&amp;Signature=ad0f8cxqqsQJl2l7uBtTFcklvfY%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1714648149063&Signature=ad0f8cxqqsQJl2l7uBtTFcklvfY%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3528,14 +3536,6 @@
             <pubDate>Fri, 05 Apr 2024 02:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405110003355" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'4대강_전도사'_원희룡,_수상한_업추비와_막말_전력_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '4대강 전도사' 원희룡, 수상한 업추비와 막말 전력</strong><span class="info_txt"><span class="txt_info">2024. 4. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405110005688kibe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405110005688kibe.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240404200004042</link>
-            <guid>https://v.daum.net/v/20240404200004042</guid>
-            <pubDate>Thu, 04 Apr 2024 11:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240404200004042" class="link_column" data-tiara-layer="[주간_뉴스타파]_국민의_국회_vs_로비스트의_국회_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회</strong><span class="info_txt"><span class="txt_info">2024. 4. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404200013564rcku.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F04%2Fnewstapa%2F20240404200013564rcku.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
