@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 04:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’]]></title>
+            <link>http://newstapa.org/article/TwOIJ</link>
+            <guid>http://newstapa.org/article/TwOIJ</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/02132427-BA13-3AAB-C92E-Y1ENKI5HKJ0HY3G304T1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법원, 기재부에 ‘정부부처 예산요구서 공개하라’...23개월 만에 승소]]></title>
             <link>http://newstapa.org/article/_MNCJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰이라는 ‘특활비 이권 카르텔’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18144933-FCFE-51BC-ADD3-3SSUK3MTMU326B44ADWT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검사들의 ‘회식비’, ‘맛집 밥값’... 끝없는 특활비 유용 의혹]]></title>
-            <link>http://newstapa.org/article/oqX0H</link>
-            <guid>http://newstapa.org/article/oqX0H</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검사들의 ‘회식비’, ‘맛집 밥값’... 끝없는 특활비 유용 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/18142314-2E7E-9957-48FD-BSIQT6NCGGXMEPWTR1RR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

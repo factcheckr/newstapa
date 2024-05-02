@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 04:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 05:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’]]></title>
+            <link>http://newstapa.org/article/TwOIJ</link>
+            <guid>http://newstapa.org/article/TwOIJ</guid>
+            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/02132427-BA13-3AAB-C92E-Y1ENKI5HKJ0HY3G304T1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[법원, 기재부에 ‘정부부처 예산요구서 공개하라’...23개월 만에 승소]]></title>
             <link>http://newstapa.org/article/_MNCJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; '4대강 전도사' 원희룡, 수상한 업추비와 막말 전력]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05110102-DBD6-A1C8-9BC7-7AI8JATI8K32EYPWH9HQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회]]></title>
-            <link>http://newstapa.org/article/8guEO</link>
-            <guid>http://newstapa.org/article/8guEO</guid>
-            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/04181040-3F77-3E5C-5643-MEXQ7JJFKIY1PCLXDSCC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
