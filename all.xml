@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 08:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 09:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다. (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/1WkyQ</link>
+            <guid>http://newstapa.org/article/1WkyQ</guid>
+            <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/08144719-C6C1-2429-B006-MPPDQB55S8SQ52NZRELR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/viqln</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18142512-E5D1-835B-AFB2-49FSJYAG0S6ILPQDQV42.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/fnCdS</link>
-            <guid>http://newstapa.org/article/fnCdS</guid>
-            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18094333-7101-96B2-FDAA-ZQDBQOOIOUGB0HT1OY9S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 방심위⋅선방위에 얽히고설킨 보수단체 ‘공언련’ 인맥 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다. (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/1WkyQ</link>
+            <guid>http://newstapa.org/article/1WkyQ</guid>
+            <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/08144719-C6C1-2429-B006-MPPDQB55S8SQ52NZRELR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/viqln</link>
             <guid>http://newstapa.org/article/viqln</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원⑲ 윤석열, 반년새 야권 방심위원만 5명째 해촉...방심위 합의제 기능 상실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/17174708-2FA6-193A-1974-KSN1OAT4TTA8MLZZ5U5H.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 다큐]<윤석열 정권은 왜 방송을 죽이려 드는가> 제2부 청부민원, 셀프심의, 그리고 방송장악 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/BaOGU</link>
-            <guid>http://newstapa.org/article/BaOGU</guid>
-            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 다큐]&lt;윤석열 정권은 왜 방송을 죽이려 드는가&gt; 제2부 청부민원, 셀프심의, 그리고 방송장악]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/07180701-6ADC-0A58-62F8-6UY4RRFF51GZRP5GZGEI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 22대 국회의원 선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3302,11 +3302,18 @@
             <content:encoded><![CDATA[<span><span>한국탐사저널리즘센터-뉴스타파는 4월 16일 세월호 10주기를 맞아 옴니버스 형식의 다큐멘터리 3편과 특집 보도를 준비했습니다. <br></span><span><br></span><span>1. 옴니버스 다큐멘터리 〈세 가지 안부〉 (제작: 연분홍치마, (사)4.16세월호참사가족협의회) : 한국 사회의 참사 희생자 이야기를 꾸준히 추적해온 김일란 감독(뉴스타파 2대 앵커)이 총괄 프로듀서를 맡은 옴니버스 형식의 다큐멘터리 프로젝트입니다. 오지수, 한영희, 주현숙 감독이 각각 세월호 참사의 생존자, 희생자 가족, 당시 언론인들의 이야기를 담아, 세월호 참사 10년이 남긴 의미를 들여다 봅니다. 전국에서 공동체 상영 중인 작품으로 뉴스타파가 세월호 참사 10주기를 맞아 4월 16일부터 사흘간 하루에 1편씩, 24시간 한정으로 순차 공개합니다.<br></span><span><br></span><span>- 1편 〈그레이존〉 (감독 주현숙, 40분) - 4월 16일 오전 9시 공개 (24시간) : 10년 전 참사 현장 가까이에 있었던 언론인들의 이야기. 참사의 목격자들이었던 언론인들에게 세월호 참사는 무엇으로 남았나.   <br></span><span><br></span><span>- 2편 〈흔적〉 (감독 한영희, 40분) - 4월 17일 오전 9시 공개 (24시간) : 세월호 참사로 희생된 학생들의 부모, 창현 엄마와 호성 엄마에게 지난 10년은 어떤 시간이었까. 그 시간의 의미를 들여다 본다. <br></span><span><br></span><span>- 3편 〈드라이브97〉 (감독 오지수, 40분) - 4월 18일 오전 9시 공개 (24시간) : 참사에서 살아남은 97년생인 우리들의 알수 없는 죄책감. 살아 남은 세월호 참사 생존자들이 오늘을 살아가는 이야기. <br></span><span><br></span><span>2. 주간 뉴스타파 〈세월호 참사 10년...이제는 알게 된 것들(가제)〉 - 4월 18일 저녁 8시 방송 <br></span><span>- 뉴스타파 탐사 보도 10년의 결과물. 세월호 참사 10년, 침몰 원인과 구조 실패에 대한 진상 규명은 어떻게 진행됐는가. 그 과정에서 우리가 놓친 부분은 무엇이었는가. 세월호 참사 10년이 우리 사회에 남긴 과제는 무엇인가. <br></span><span><br></span><span>여러분의 많은 관심 바랍니다.<br></span><span><br></span><span>🎗️ 세월호 참사 10주기 특집 다큐멘터리 〈세 가지 안부〉 예고편 보러가기 : </span></span><a href="https://youtu.be/20Z20-3lDY4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/20Z20-3lDY4</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다. (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240508180145119</link>
+            <guid>https://v.daum.net/v/20240508180145119</guid>
+            <pubDate>Wed, 08 May 2024 09:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240508180145119" class="link_column" data-tiara-layer="[알립니다]_'신학림-김만배_음성파일_보도_진상조사보고서'를_공개합니다._alltab"><div class="cont_thumb"><strong class="tit_txt">[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다.</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240503180003199</link>
             <guid>https://v.daum.net/v/20240503180003199</guid>
             <pubDate>Fri, 03 May 2024 09:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240503180003199" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑦]_이근안이_우리_집에_들이닥쳤다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F03%2Fnewstapa%2F20240503180005694pskk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240503180003199" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑦]_이근안이_우리_집에_들이닥쳤다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F03%2Fnewstapa%2F20240503180005694pskk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F03%2Fnewstapa%2F20240503180005694pskk.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3471,8 +3478,8 @@
             <link>https://v.daum.net/v/20240411174003262</link>
             <guid>https://v.daum.net/v/20240411174003262</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1715155923587&amp;Signature=xIJz7SZYdfSmwhwep3vxSakWwzk%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1715155923587&Signature=xIJz7SZYdfSmwhwep3vxSakWwzk%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1715159477011&amp;Signature=PY1KzSv1W7u9TP3hSoyQ3g3ShJQ%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1715159477011&Signature=PY1KzSv1W7u9TP3hSoyQ3g3ShJQ%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3528,14 +3535,6 @@
             <pubDate>Fri, 05 Apr 2024 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405180003582" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'등록_후_정보_수정'_총선_후보_30명_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '등록 후 정보 수정' 총선 후보 30명 공개</strong><span class="info_txt"><span class="txt_info">2024. 4. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405180004531sisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405180004531sisl.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240405170003803</link>
-            <guid>https://v.daum.net/v/20240405170003803</guid>
-            <pubDate>Fri, 05 Apr 2024 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405170003803" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_김상욱_국민의힘_후보_‘부동산_투기’_의혹,_재산_허위_축소_신고_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고</strong><span class="info_txt"><span class="txt_info">2024. 4. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405195425024vjkv.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
