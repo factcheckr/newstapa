@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 10:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 11:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Fs9n-</link>
+            <guid>http://newstapa.org/article/Fs9n-</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/09184957-9EE8-B2FD-CEC6-M76RMGO0366KFH8PEP3T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다. (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/1WkyQ</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/22113002-DB9F-6BD8-79A7-K62ECQC9TX4OPRF98HTH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<주간 뉴스타파> 세월호 참사 10년...이제는 알게 된 것들 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/dzpDf</link>
-            <guid>http://newstapa.org/article/dzpDf</guid>
-            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 세월호 참사 10년...이제는 알게 된 것들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18142512-E5D1-835B-AFB2-49FSJYAG0S6ILPQDQV42.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[<주간 뉴스타파> 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막' (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/Fs9n-</link>
+            <guid>http://newstapa.org/article/Fs9n-</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/09184957-9EE8-B2FD-CEC6-M76RMGO0366KFH8PEP3T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[KINN] 방심위⋅선방위에 얽히고설킨 보수단체 ‘공언련’ 인맥 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허위 축소 신고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05155514-C802-C74B-859B-LC24C3J4KDRCH4IPMDFZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/f6Bk7</link>
-            <guid>http://newstapa.org/article/f6Bk7</guid>
-            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;22대 총선 후보 검증&gt; 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/05154829-1867-E2EB-C110-AGUSXDXLZH3GURALC0W2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 급증 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<주간 뉴스타파> 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/Fs9n-</link>
+            <guid>http://newstapa.org/article/Fs9n-</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/09184957-9EE8-B2FD-CEC6-M76RMGO0366KFH8PEP3T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다. (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/1WkyQ</link>
             <guid>http://newstapa.org/article/1WkyQ</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원㉓ 윤석열이 완성한 '6대1' 방심위, '대통령 욕설 논란' 보도 징계 예고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/23181122-7D5F-72D2-2304-38QNGVIYVYD17U10WL4Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원⑲ 윤석열, 반년새 야권 방심위원만 5명째 해촉...방심위 합의제 기능 상실 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/iJ9bX</link>
-            <guid>http://newstapa.org/article/iJ9bX</guid>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원⑲ 윤석열, 반년새 야권 방심위원만 5명째 해촉...방심위 합의제 기능 상실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/17174708-2FA6-193A-1974-KSN1OAT4TTA8MLZZ5U5H.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 22대 국회의원 선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3162,6 +3162,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열의 '마이웨이'와 기자들의 '셀프 입틀막' 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105199066</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105199066</guid>
+            <pubDate>Thu, 09 May 2024 11:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>오늘(9일) 용산 대통령실에서 윤석열 대통령 취임 2주년 기자회견이 열렸습니다. 지난 2022년 취임 100일 기자회견 이후 19개월만에 열린, 윤석열 대통령의 두 번째 기자회견이었습니다.<br></span><span><br></span><span>오늘 기자회견에서 채상병 특검법, 김건희 특검법 등 주요 현안에 대한 질문이 나왔지만, 그 때마다 대통령은 핵심을 피해가며 '마이 웨이'식 답변을 내놓았습니다. 기자들 역시 이에 대해 추가 질문을 던지지 못했습니다. 기자회견이 사실상 '수박 겉핥기'에 불과했다는 비판도 나옵니다. <br></span><span><br></span><span>소통의 장이 되어야 할 기자회견이 수박 겉핥기에 그쳤던 이유는 무엇일까요? 대통령의 답변에서 빠진 부분은 무엇일까요? 그리고, 기자들이 미처 던지지 못한 질문은 무엇이 있었을까요. 뉴스타파가 윤 대통령의 기자회견 내용을 샅샅이 분석했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/bbd0tZemby4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/bbd0tZemby4</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/Fs9n-" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/Fs9n-</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105132744</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105132744</guid>
@@ -3295,11 +3302,12 @@
             <content:encoded><![CDATA[<span><span>뉴스타파저널리즘스쿨 3기 교육생을 모집합니다!<br></span><span><br></span><span>뉴스타파함께재단 독립언론 인큐베이팅 프로그램, ‘뉴스타파저널리즘스쿨(약칭 뉴스쿨)’이 언론판을 함께 바꿔나갈 3기 교육생을 찾습니다. 뉴스쿨은 교육-실무-창업 3단계 통합 프로그램입니다. <br></span><span><br></span><span>2022년 시작한 뉴스쿨 프로젝트로 지금까지 3곳의 독립언론사가 탄생했습니다. 인천경기지역 탐사보도 매체 &lt;뉴스하다&gt;, 미디어 감시 전문 매체 &lt;뉴스어디&gt;, 재판 감시 매체 &lt;코트워치&gt; 등입니다. 뉴스쿨 2기 펠로우 단계로 현재 뉴스타파 뉴스룸에서 수련 중인 교육생들도 올해 ‘기후위기 전문 매체’와 ‘금융 감시 매체’ 창간을 준비하고 있습니다.  <br></span><span><br></span><span>뉴스쿨은 우리 사회 언론환경에 한계를 느끼고 제대로 된 독립언론으로 사회 변혁을 꿈꾸는 분을 환영합니다. 비영리 독립언론에 희망을 갖고 있는 분들의 많은 참여 바랍니다.<br></span><span><br></span><span>자세한 모집공고는 아래 링크에서 확인하세요.<br></span><span><br></span><span>🎞️ 뉴스쿨 3기 소개 영상 보러가기 : </span></span><a href="https://youtu.be/ZpM8fUtjET4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/ZpM8fUtjET4</span></a><span><span><br></span><span>👉 모집공고 자세히 보기 : </span></span><a href="https://kcij.org/notice/u/XNbY3" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://kcij.org/notice/u/XNbY3</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세월호 참사 10주기 특집 다큐멘터리 및 보도 예고 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/104877265</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/104877265</guid>
-            <pubDate>Mon, 15 Apr 2024 04:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>한국탐사저널리즘센터-뉴스타파는 4월 16일 세월호 10주기를 맞아 옴니버스 형식의 다큐멘터리 3편과 특집 보도를 준비했습니다. <br></span><span><br></span><span>1. 옴니버스 다큐멘터리 〈세 가지 안부〉 (제작: 연분홍치마, (사)4.16세월호참사가족협의회) : 한국 사회의 참사 희생자 이야기를 꾸준히 추적해온 김일란 감독(뉴스타파 2대 앵커)이 총괄 프로듀서를 맡은 옴니버스 형식의 다큐멘터리 프로젝트입니다. 오지수, 한영희, 주현숙 감독이 각각 세월호 참사의 생존자, 희생자 가족, 당시 언론인들의 이야기를 담아, 세월호 참사 10년이 남긴 의미를 들여다 봅니다. 전국에서 공동체 상영 중인 작품으로 뉴스타파가 세월호 참사 10주기를 맞아 4월 16일부터 사흘간 하루에 1편씩, 24시간 한정으로 순차 공개합니다.<br></span><span><br></span><span>- 1편 〈그레이존〉 (감독 주현숙, 40분) - 4월 16일 오전 9시 공개 (24시간) : 10년 전 참사 현장 가까이에 있었던 언론인들의 이야기. 참사의 목격자들이었던 언론인들에게 세월호 참사는 무엇으로 남았나.   <br></span><span><br></span><span>- 2편 〈흔적〉 (감독 한영희, 40분) - 4월 17일 오전 9시 공개 (24시간) : 세월호 참사로 희생된 학생들의 부모, 창현 엄마와 호성 엄마에게 지난 10년은 어떤 시간이었까. 그 시간의 의미를 들여다 본다. <br></span><span><br></span><span>- 3편 〈드라이브97〉 (감독 오지수, 40분) - 4월 18일 오전 9시 공개 (24시간) : 참사에서 살아남은 97년생인 우리들의 알수 없는 죄책감. 살아 남은 세월호 참사 생존자들이 오늘을 살아가는 이야기. <br></span><span><br></span><span>2. 주간 뉴스타파 〈세월호 참사 10년...이제는 알게 된 것들(가제)〉 - 4월 18일 저녁 8시 방송 <br></span><span>- 뉴스타파 탐사 보도 10년의 결과물. 세월호 참사 10년, 침몰 원인과 구조 실패에 대한 진상 규명은 어떻게 진행됐는가. 그 과정에서 우리가 놓친 부분은 무엇이었는가. 세월호 참사 10년이 우리 사회에 남긴 과제는 무엇인가. <br></span><span><br></span><span>여러분의 많은 관심 바랍니다.<br></span><span><br></span><span>🎗️ 세월호 참사 10주기 특집 다큐멘터리 〈세 가지 안부〉 예고편 보러가기 : </span></span><a href="https://youtu.be/20Z20-3lDY4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/20Z20-3lDY4</span></a>]]></content:encoded>
+            <title><![CDATA[<주간 뉴스타파> 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240509200003331</link>
+            <guid>https://v.daum.net/v/20240509200003331</guid>
+            <pubDate>Thu, 09 May 2024 11:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240509200003331" class="link_column" data-tiara-layer="<주간_뉴스타파>_윤석열의_'마이웨이'와_기자들의_'셀프_입틀막'_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막'</strong><span class="info_txt"><span class="txt_info">13분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F09%2Fnewstapa%2F20240509200010341asvp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F09%2Fnewstapa%2F20240509200010341asvp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다. (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3329,7 +3337,7 @@
             <link>https://v.daum.net/v/20240502200003476</link>
             <guid>https://v.daum.net/v/20240502200003476</guid>
             <pubDate>Thu, 02 May 2024 11:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240502200003476" class="link_column" data-tiara-layer="<주간_뉴스타파>_고_양회동_1주기...국가와_조선일보의_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 고 양회동 1주기...국가와 조선일보의 거짓말</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F02%2Fnewstapa%2F20240502200009150hyyg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240502200003476" class="link_column" data-tiara-layer="<주간_뉴스타파>_고_양회동_1주기...국가와_조선일보의_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 고 양회동 1주기...국가와 조선일보의 거짓말</strong><span class="info_txt"><span class="txt_info">2024. 5. 2.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F02%2Fnewstapa%2F20240502200009150hyyg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F02%2Fnewstapa%2F20240502200009150hyyg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3478,8 +3486,8 @@
             <link>https://v.daum.net/v/20240411174003262</link>
             <guid>https://v.daum.net/v/20240411174003262</guid>
             <pubDate>Thu, 11 Apr 2024 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1715249747608&amp;Signature=cHZ40eLxwv1AnoEgRTtP858dxSQ%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1715249747608&Signature=cHZ40eLxwv1AnoEgRTtP858dxSQ%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240411174003262" class="link_column" data-tiara-layer="청년·여성_당선자_미미한_증가...국회_다양성_과제_여전_alltab"><div class="cont_thumb"><strong class="tit_txt">청년·여성 당선자 미미한 증가...국회 다양성 과제 여전</strong><span class="info_txt"><span class="txt_info">2024. 4. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&amp;TWGServiceId=news&amp;Expires=1715253199306&amp;Signature=Ob7H1muHVTu7LGLR8S3T2IlXSeU%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202404/11/newstapa/20240411174004819kauc.gif&TWGServiceId=news&Expires=1715253199306&Signature=Ob7H1muHVTu7LGLR8S3T2IlXSeU%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 다양성 '최악' 앞둔 22대 국회... 국회의원은 '능력'만 있으면 된다? (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3527,14 +3535,6 @@
             <pubDate>Fri, 05 Apr 2024 10:11:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405181004834" class="link_column" data-tiara-layer="[자유언론실천선언_50년③]_흑산도_특종의_인연_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년③] 흑산도 특종의 인연</strong><span class="info_txt"><span class="txt_info">2024. 4. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405181006154aubz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405181006154aubz.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<22대 총선 후보 검증> '등록 후 정보 수정' 총선 후보 30명 공개 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240405180003582</link>
-            <guid>https://v.daum.net/v/20240405180003582</guid>
-            <pubDate>Fri, 05 Apr 2024 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240405180003582" class="link_column" data-tiara-layer="<22대_총선_후보_검증>_'등록_후_정보_수정'_총선_후보_30명_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;22대 총선 후보 검증&gt; '등록 후 정보 수정' 총선 후보 30명 공개</strong><span class="info_txt"><span class="txt_info">2024. 4. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405180004531sisl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F05%2Fnewstapa%2F20240405180004531sisl.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

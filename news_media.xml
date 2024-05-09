@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 10:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 11:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<주간 뉴스타파> 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막']]></title>
+            <link>http://newstapa.org/article/Fs9n-</link>
+            <guid>http://newstapa.org/article/Fs9n-</guid>
+            <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/09184957-9EE8-B2FD-CEC6-M76RMGO0366KFH8PEP3T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다.]]></title>
             <link>http://newstapa.org/article/1WkyQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[청부민원㉓ 윤석열이 완성한 '6대1' 방심위, '대통령 욕설 논란' 보도 징계 예고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/23181122-7D5F-72D2-2304-38QNGVIYVYD17U10WL4Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청부민원⑲ 윤석열, 반년새 야권 방심위원만 5명째 해촉...방심위 합의제 기능 상실]]></title>
-            <link>http://newstapa.org/article/iJ9bX</link>
-            <guid>http://newstapa.org/article/iJ9bX</guid>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청부민원⑲ 윤석열, 반년새 야권 방심위원만 5명째 해촉...방심위 합의제 기능 상실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/17174708-2FA6-193A-1974-KSN1OAT4TTA8MLZZ5U5H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
