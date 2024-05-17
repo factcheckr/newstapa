@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 05:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 06:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’]]></title>
+            <link>http://newstapa.org/article/U5_eH</link>
+            <guid>http://newstapa.org/article/U5_eH</guid>
+            <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/17142907-2399-CF00-338E-6EOKP762TZJZJ6DUPQT2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 특활비 자료 비공개 '회귀'… 뉴스타파·시민단체, 정보공개 소송 '재개']]></title>
             <link>http://newstapa.org/article/AgYYT</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 특활비 검증② ‘초법적’ 세금 집행… 윤석열 ‘70억 현금 저수지’의 실체]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08104648-CE43-E76C-4C3B-0PGAORCZF75QUDVC1JC8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 특활비 검증③ 특활비 감찰 당일 3억 6천만 원 대량 살포]]></title>
-            <link>http://newstapa.org/article/YSA5R</link>
-            <guid>http://newstapa.org/article/YSA5R</guid>
-            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 특활비 검증③ 특활비 감찰 당일 3억 6천만 원 대량 살포]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/07162716-95C5-0DCA-71B2-ACPUH79OWDN3QD5BA6YL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
