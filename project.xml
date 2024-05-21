@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 01:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 02:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://newstapa.org/tags/22%EB%8C%80%20%EC%B4%9D%EC%84%A0</link>
             <guid>https://newstapa.org/tags/22%EB%8C%80%20%EC%B4%9D%EC%84%A0</guid>
             <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오는 4월 10일, 제 22대 국회의원 선거가 시행됩니다. 각 정당이 내놓는 정책과 후보자들을 뉴스타파가 검증했습니다.]]></content:encoded>
+            <content:encoded><![CDATA[2024년 4월 10일, 제 22대 국회의원 선거가 시행됐습니다. 각 정당이 내놓는 정책과 후보자들을 뉴스타파가 검증했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/04142716-F4E1-0D6F-400F-M4KJ9NRRHT4K1JF7ZU52.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
