@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 10:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 11:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/03ifg</link>
+            <guid>http://newstapa.org/article/03ifg</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/23173218-2A36-8965-25FE-BZ25598ZCMSTNN2TLJBR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국정원 문건]③ 블랙요원 법정 증언 "쌍방울 주가조작, 다른 요원이 먼저 포착" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/fP1NP</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/09184957-9EE8-B2FD-CEC6-M76RMGO0366KFH8PEP3T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다. (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/1WkyQ</link>
-            <guid>http://newstapa.org/article/1WkyQ</guid>
-            <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[알립니다] '신학림-김만배 음성파일 보도 진상조사보고서'를 공개합니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/08144719-C6C1-2429-B006-MPPDQB55S8SQ52NZRELR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/08183403-A3B3-6688-B743-WY79UM7N0DQ3RWJ7F7ET.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/03ifg</link>
+            <guid>http://newstapa.org/article/03ifg</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/23173218-2A36-8965-25FE-BZ25598ZCMSTNN2TLJBR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[국정원 문건]③ 블랙요원 법정 증언 "쌍방울 주가조작, 다른 요원이 먼저 포착" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/fP1NP</link>
             <guid>http://newstapa.org/article/fP1NP</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰이 덮은 공직자 뇌물 사건... 남은 1명도 기소의견 송치]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/29104610-27F4-0C62-48F0-P310N2126Q9S6TW3BRQH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 고위 검사들의 ‘법카 돌려쓰기’ 부정 실태 첫 확인 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/-dNY_</link>
-            <guid>http://newstapa.org/article/-dNY_</guid>
-            <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 고위 검사들의 ‘법카 돌려쓰기’ 부정 실태 첫 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/25094019-1F17-136D-C418-RU7HQ7STKJ3A5SCV5ED9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’ (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3162,6 +3162,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국정원 비밀문건과 대북송금 사건의 진실  〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105366784</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105366784</guid>
+            <pubDate>Thu, 23 May 2024 11:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>검찰은 지난 2년간 '쌍방울그룹 대북 송금 사건'과 관련해 이재명 민주당 대표와 이화영 전 경기도 평화부지사를 수사하고 있습니다. <br></span><span>2019년 쌍방울이 북한에 보낸 800만 달러 중, 500만 달러는 경기도의 스마트팜 사업비였고, 나머지 300만 달러는 이재명 당시 경기도지사의 방북 비용이었다는 것이 검찰의 입장인데요.<br></span><span><br></span><span>그런데 뉴스타파는 검찰이 드러내지 않은, 이 사건의 또 다른 실체가 담긴 국정원 비밀 문건을 입수했습니다. 140여 쪽 분량의 이 문건에는 쌍방울그룹 김성태 회장이 자사의 주가 조작을 위해 대북 사업을 추진한 정황이 담겨 있었습니다.<br></span><span><br></span><span>즉 검찰의 수사 내용과는 다르게, 쌍방울이 주가 조작 목적으로 북한에 돈을 보냈을 가능성이 있는 정황입니다. 쌍방울 대북 송금 사건의 실체를 추적하고 있는 봉지욱 기자가 지금까지의 취재 내용을 직접 밝힙니다. <br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/3Np4es6t-D4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/3Np4es6t-D4</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/03ifg" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/03ifg</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[국정원 문건]③ 블랙요원 법정 증언 "쌍방울 주가조작, 다른 요원이 먼저 포착" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105341869</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105341869</guid>
@@ -3295,11 +3302,12 @@
             <content:encoded><![CDATA[<span><span>지난해 5월 1일 노동절, 건설 노동자 양회동 씨가 자신의 몸에 불을 질렀습니다. 양 씨는 “떳떳하게 노동조합 활동을 했는데 정말 억울하다”라는 유서를 남기고 다음 날 세상을 떠났습니다. 아내 김선희 씨와 두 아이를 남겨둔 채였습니다.<br></span><span><br></span><span>양회동 씨의 분신 몇 달 전, 윤석열 대통령은 '건폭'이라는 말로 건설 노동자들을 몰아붙이기 시작했습니다. 사실상 노동자들을 폭력배로 치부한 발언이었습니다. 대통령의 발언 이후 경찰과 검찰은 건설노조 간부들을 잇따라 공격했습니다. 건설노조 강원건설지부 지대장을 맡고 있던 양회동 씨도 수사 대상에 올랐습니다.<br></span><span><br></span><span>경찰이 양회동 씨에게 붙인 혐의는 공동공갈죄. 건설노조 조합원들을 위해 떳떳하게 일해온 양 씨에게는 참을 수 없는 모욕이었습니다. 심지어 양 씨가 세상을 떠난 후에도 정부와 보수 언론은 모욕을 멈추지 않았습니다. 지난 1년여간 양회동 씨와 건설 노동자들에게 쏟아져온 모욕과 거짓말들을 뉴스타파가 추적했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/42afr1v00Ts" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/42afr1v00Ts</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/KU1NC" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/KU1NC</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[“내가 꿈꿔 온 것을 뉴스타파가 하고 있다"...세계적 언론인의 성원 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105114664</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105114664</guid>
-            <pubDate>Thu, 02 May 2024 09:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>뉴스타파는 작년 9월 스웨덴 예테보리에서 열린 세계탐사보도총회(GIJC)에 착석해 ‘탐사보도 교육과 훈련 세션’에서 뉴스타파저널리즘스쿨(뉴스쿨)의 성과를 발표했습니다. 검찰의 압수수색으로 참석하지 못한 김용진 대표 대신 이명주 기자가 총회에 참석해, 수사의 부당함을 알리고 전세계 동료 언론인들에게 뉴스쿨 소개했습니다. <br></span><span><br></span><span>이 세션에 참여한 GIJN의 창립 맴버인 마크 리 헌터 기자는 뉴스쿨 소개를 듣고 “내가 지난 15년간 꿈만 꿔왔던 일을 뉴스타파가 하고 있다”고 말했습니다. <br></span><span><br></span><span>뉴스쿨은 정치와 자본으로부터 자유로운 독립언론은 만드는 프로젝트입니다. 정치 검찰의 무도한 수사가 시작된지 8개월이 지난 지금, 뉴스쿨 3기를 흔들림 없이 진행합니다. 모집기한은 오는 5월 6일 자정까지입니다. 독립언론에 희망을 갖고 있는 분들의 많은 참여 바랍니다.<br></span><span><br></span><span>🎞 영상 보러가기: </span></span><a href="https://youtu.be/81J5DfacT9Q" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/81J5DfacT9Q</span></a><span><span><br></span><span>👉 모집공고 자세하기 보기: </span></span><a href="https://withnewstapa.org/2024/04/15/20240415_01/" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://withnewstapa.org/2024/04/15/20240415_01/</span></a>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240523200142024</link>
+            <guid>https://v.daum.net/v/20240523200142024</guid>
+            <pubDate>Thu, 23 May 2024 11:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240523200142024" class="link_column" data-tiara-layer="[주간_뉴스타파]_국정원_비밀문건과_대북송금_사건의_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F23%2Fnewstapa%2F20240523200152046yais.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F23%2Fnewstapa%2F20240523200152046yais.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[국정원 문건]③ 블랙요원 법정 증언 "쌍방울 주가조작, 다른 요원이 먼저 포착" (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3393,8 +3401,8 @@
             <link>https://v.daum.net/v/20240513181003602</link>
             <guid>https://v.daum.net/v/20240513181003602</guid>
             <pubDate>Mon, 13 May 2024 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1716459359258&amp;Signature=LH2ysexB2w%2BK5zJZmFQz45icNpU%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1716459359258&Signature=LH2ysexB2w%2BK5zJZmFQz45icNpU%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1716462699167&amp;Signature=Ncp4EitWwJSKhaYTTYiG%2BKWX5k8%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1716462699167&Signature=Ncp4EitWwJSKhaYTTYiG%2BKWX5k8%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3527,14 +3535,6 @@
             <pubDate>Mon, 22 Apr 2024 01:48:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240422102004786" class="link_column" data-tiara-layer="[현장에서]만찬은_회의야._알았죠?_우리가_안_깨지려면_일단_그렇게_하셔야_돼요._alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서]만찬은 회의야. 알았죠? 우리가 안 깨지려면 일단 그렇게 하셔야 돼요.</strong><span class="info_txt"><span class="txt_info">2024. 4. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F22%2Fnewstapa%2F20240422102005739tjtt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F22%2Fnewstapa%2F20240422102005739tjtt.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240419181004574</link>
-            <guid>https://v.daum.net/v/20240419181004574</guid>
-            <pubDate>Fri, 19 Apr 2024 11:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240419181004574" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑤]_해직자의_낙인,_하지만_우리의_삶은_'그들'보다_나았다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다</strong><span class="info_txt"><span class="txt_info">2024. 4. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F19%2Fnewstapa%2F20240419181005956jqhp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F19%2Fnewstapa%2F20240419181005956jqhp.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
