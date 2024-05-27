@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 00:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 01:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[국정원 문건]④ 쌍방울 문건에도 "500만 달러는 대북사업 계약금"...국정원도 속였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/26150444-09B1-A1B5-ED43-894PQ9SBC62XRT2PKJAE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/xuUWD</link>
+            <guid>http://newstapa.org/article/xuUWD</guid>
+            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/24160644-A00E-A4E1-C06E-4FTTT7EMYWTHD3H6CP02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실 (뉴스타파 ─ 뉴스)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/10111356-F80C-F33C-8997-7W0HTJ80KW7X2U8YX4MP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 번에 정리하는 검찰 특활비와 총장님의 현금저수지 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/hhWme</link>
-            <guid>http://newstapa.org/article/hhWme</guid>
-            <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한 번에 정리하는 검찰 특활비와 총장님의 현금저수지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/10142543-CC2E-6D5A-8E6B-GLG965SONQSN4RYD1EWN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/05155739-8343-A388-3868-CAA94DPSQQ0EJJ999EMI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언' (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/xuUWD</link>
+            <guid>http://newstapa.org/article/xuUWD</guid>
+            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/24160644-A00E-A4E1-C06E-4FTTT7EMYWTHD3H6CP02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑨] 80년 수습, 오늘도 세상 구경하며 산다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/4pI6X</link>
             <guid>http://newstapa.org/article/4pI6X</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[정전협정 70년 특집 다큐]판문점, 지켜지지 못한 약속]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/26181102-B050-DDDE-7CE1-GRDV25R1PTCME0I4MH1V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] ‘전쟁불사’ 대통령이 보지 못한 한국전쟁 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/fPc16</link>
-            <guid>http://newstapa.org/article/fPc16</guid>
-            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] ‘전쟁불사’ 대통령이 보지 못한 한국전쟁]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/20195208-5144-420B-F4BA-NSH0XZ9DO8ZEWZAEI9XU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성평등 국회 ②진전없는 '여성 안전'...국회는 없었다 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/xuUWD</link>
+            <guid>http://newstapa.org/article/xuUWD</guid>
+            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/24160644-A00E-A4E1-C06E-4FTTT7EMYWTHD3H6CP02.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑨] 80년 수습, 오늘도 세상 구경하며 산다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/4pI6X</link>
             <guid>http://newstapa.org/article/4pI6X</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28184133-B190-38FF-0D2D-4E8VK7Z178ZOGJV66LJT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/vZPNc</link>
-            <guid>http://newstapa.org/article/vZPNc</guid>
-            <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22152933-4D14-5113-B3BC-COB3LZ1NDWGKCEWHRYJ6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 22대 국회의원 선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3162,6 +3162,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[국정원 문건]④ 쌍방울 문건에도 "500만 달러는 대북사업 계약금"...국정원도 속였다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105396689</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105396689</guid>
+            <pubDate>Mon, 27 May 2024 01:59:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>'쌍방울그룹 대북송금 사건'을 수사 중인 검찰은 지난 2019년 김성태 쌍방울 회장이 경기도와 이재명 지사를 위해 북한에 800만 달러를 보냈다고 보고 있습니다.<br></span><span><br></span><span>그런데 뉴스타파는 검찰 주장과 배치되는 국정원 문건에 이어 쌍방울 내부 문건도 입수했습니다. 이 문건에는 2019년 1월 쌍방울이 북한 측과 MOU를 맺으면서 계약금 500만 달러를 약속한 사실이 적혀 있었습니다. <br></span><span><br></span><span>실제로 김성태 회장은 이후 두 차례에 걸쳐 북한에 500만 달러를 송금했습니다. 500만 달러를 완납한 후 쌍방울은 북한과 비공개 합의서를 작성했습니다. 쌍방울 측이 대북 사업을 추진하기 위해 북한에 돈을 보냈을 가능성이 높아지는 정황입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/a0f1G" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/a0f1G</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국정원 비밀문건과 대북송금 사건의 진실  〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105366784</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105366784</guid>
@@ -3295,18 +3302,11 @@
             <content:encoded><![CDATA[<span><span>최근 대통령실과 여당에 비판적인 언론을 향해 심의·징계가 쏟아지고 있습니다. 그 중심에는 류희림 위원장이 이끌고 있는 방송통신심의위원회(방심위)와 선거방송심의위원회(선방위)가 있습니다.<br></span><span><br></span><span>그런데 방심위와 선방위 소속 인물들 중 여러 명이 관련된 단체가 있습니다. 바로 보수 성향 언론단체인 공정언론국민연대(공언련)입니다. 공언련은 비슷한 성향의 단체들과 함께 정부에 비판적인 언론을 감시하고, 방심위·선방위에 집중적으로 민원을 넣는 것으로 알려져 있습니다.<br></span><span><br></span><span>뉴스타파와 연대·협업하고 있는 한국독립언론네트워크(KINN) 소속 언론사 '뉴스어디'가 방심위와 선방위, 그리고 공언련을 비롯한 보수 단체의 얽히고설킨 관계를 분석했습니다.<br></span><span><br></span><span>📰 '뉴스어디' 기사 보러가기 : </span></span><a href="https://newswhere.org/news/people/1351/" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newswhere.org/news/people/1351/</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고 양회동 1주기...국가와 조선일보의 거짓말 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105116210</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105116210</guid>
-            <pubDate>Thu, 02 May 2024 12:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>지난해 5월 1일 노동절, 건설 노동자 양회동 씨가 자신의 몸에 불을 질렀습니다. 양 씨는 “떳떳하게 노동조합 활동을 했는데 정말 억울하다”라는 유서를 남기고 다음 날 세상을 떠났습니다. 아내 김선희 씨와 두 아이를 남겨둔 채였습니다.<br></span><span><br></span><span>양회동 씨의 분신 몇 달 전, 윤석열 대통령은 '건폭'이라는 말로 건설 노동자들을 몰아붙이기 시작했습니다. 사실상 노동자들을 폭력배로 치부한 발언이었습니다. 대통령의 발언 이후 경찰과 검찰은 건설노조 간부들을 잇따라 공격했습니다. 건설노조 강원건설지부 지대장을 맡고 있던 양회동 씨도 수사 대상에 올랐습니다.<br></span><span><br></span><span>경찰이 양회동 씨에게 붙인 혐의는 공동공갈죄. 건설노조 조합원들을 위해 떳떳하게 일해온 양 씨에게는 참을 수 없는 모욕이었습니다. 심지어 양 씨가 세상을 떠난 후에도 정부와 보수 언론은 모욕을 멈추지 않았습니다. 지난 1년여간 양회동 씨와 건설 노동자들에게 쏟아져온 모욕과 거짓말들을 뉴스타파가 추적했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/42afr1v00Ts" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/42afr1v00Ts</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/KU1NC" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/KU1NC</span></a>]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[국정원 문건]④ 쌍방울 문건에도 "500만 달러는 대북사업 계약금"...국정원도 속였다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240526170503641</link>
             <guid>https://v.daum.net/v/20240526170503641</guid>
             <pubDate>Sun, 26 May 2024 08:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240526170503641" class="link_column" data-tiara-layer="[국정원_문건]④_쌍방울_문건에도_&quot;500만_달러는_대북사업_계약금&quot;...국정원도_속였다_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]④ 쌍방울 문건에도 "500만 달러는 대북사업 계약금"...국정원도 속였다</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F26%2Fnewstapa%2F20240526170505681eezl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240526170503641" class="link_column" data-tiara-layer="[국정원_문건]④_쌍방울_문건에도_&quot;500만_달러는_대북사업_계약금&quot;...국정원도_속였다_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]④ 쌍방울 문건에도 "500만 달러는 대북사업 계약금"...국정원도 속였다</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F26%2Fnewstapa%2F20240526170505681eezl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F26%2Fnewstapa%2F20240526170505681eezl.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3330,7 +3330,7 @@
             <link>https://v.daum.net/v/20240521102644311</link>
             <guid>https://v.daum.net/v/20240521102644311</guid>
             <pubDate>Tue, 21 May 2024 01:55:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240521102644311" class="link_column" data-tiara-layer="[국정원_문건]②_쌍방울,_北_정찰총국_이호남과_'주가_조작'_공모_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]② 쌍방울, 北 정찰총국 이호남과 '주가 조작' 공모 정황</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F21%2Fnewstapa%2F20240521102646578nqze.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240521102644311" class="link_column" data-tiara-layer="[국정원_문건]②_쌍방울,_北_정찰총국_이호남과_'주가_조작'_공모_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]② 쌍방울, 北 정찰총국 이호남과 '주가 조작' 공모 정황</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F21%2Fnewstapa%2F20240521102646578nqze.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F21%2Fnewstapa%2F20240521102646578nqze.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3409,8 +3409,8 @@
             <link>https://v.daum.net/v/20240513181003602</link>
             <guid>https://v.daum.net/v/20240513181003602</guid>
             <pubDate>Mon, 13 May 2024 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1716770431364&amp;Signature=Zem0mPpduQt4tngu7N8cWWqPvr4%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1716770431364&Signature=Zem0mPpduQt4tngu7N8cWWqPvr4%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1716775157669&amp;Signature=0J9fhgFDDF12RNswYVxVOOhx8S0%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1716775157669&Signature=0J9fhgFDDF12RNswYVxVOOhx8S0%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다 (뉴스타파 ─ 다음뉴스)]]></title>

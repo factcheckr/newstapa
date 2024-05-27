@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 May 2024 00:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 01:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[국정원 문건]④ 쌍방울 문건에도 "500만 달러는 대북사업 계약금"...국정원도 속였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/26150444-09B1-A1B5-ED43-894PQ9SBC62XRT2PKJAE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언']]></title>
+            <link>http://newstapa.org/article/xuUWD</link>
+            <guid>http://newstapa.org/article/xuUWD</guid>
+            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/24160644-A00E-A4E1-C06E-4FTTT7EMYWTHD3H6CP02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/10111356-F80C-F33C-8997-7W0HTJ80KW7X2U8YX4MP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 번에 정리하는 검찰 특활비와 총장님의 현금저수지]]></title>
-            <link>http://newstapa.org/article/hhWme</link>
-            <guid>http://newstapa.org/article/hhWme</guid>
-            <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한 번에 정리하는 검찰 특활비와 총장님의 현금저수지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/10142543-CC2E-6D5A-8E6B-GLG965SONQSN4RYD1EWN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
