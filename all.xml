@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 May 2024 09:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 May 2024 10:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/nX0JO</link>
+            <guid>http://newstapa.org/article/nX0JO</guid>
+            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/29181904-355A-A4B8-E17A-Z31G8CKF1NFLQZJAQH9S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/gKSLU</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[두바이 잠금 해제] ①두바이는 어떻게 전 세계 검은 돈의 은닉처가 됐나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/16161455-8714-A995-D02A-FEKLVDZUYNUY7DSITH84.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 특활비 자료 비공개 '회귀'… 뉴스타파·시민단체, 정보공개 소송 '재개' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/AgYYT</link>
-            <guid>http://newstapa.org/article/AgYYT</guid>
-            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 특활비 자료 비공개 '회귀'… 뉴스타파·시민단체, 정보공개 소송 '재개']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/16132821-4FBC-EFFE-068F-1GTXV9AMKFCI5NRAXMM3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/nX0JO</link>
+            <guid>http://newstapa.org/article/nX0JO</guid>
+            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/29181904-355A-A4B8-E17A-Z31G8CKF1NFLQZJAQH9S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/xuUWD</link>
             <guid>http://newstapa.org/article/xuUWD</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년②] 검찰공화국 시대를 사는 아이러니]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29145940-A92E-D5C8-DC62-DYL1FK3TXNQTKEEFRVKR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/X3Cl1</link>
-            <guid>http://newstapa.org/article/X3Cl1</guid>
-            <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 국힘에 불리하면 징계? 폭주하는 선거방송심의위원회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/28184133-B190-38FF-0D2D-4E8VK7Z178ZOGJV66LJT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제 22대 국회의원 선거 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3302,11 +3302,19 @@
             <content:encoded><![CDATA[<span><span>6월 극장 개봉을 앞두고 영화 '판문점' 티저영상을 공개합니다.<br></span><span><br></span><span>그동안 우리가 몰랐던 판문점의 진실을 뉴스타파가 수년간 수집한 해외자료를 바탕으로 추적했습니다. <br></span><span><br></span><span>영화 '김복동'을 연출한 송원근PD가 감독을 맡고, 영화배우 박해일 씨가 내레이션을 맡았습니다.<br></span><span><br></span><span>성수기 전국 상영관 확보를 위한 자금 마련 캠페인을 시작합니다. <br></span><span><br></span><span>단절과 혐오의 시대에 꼭 봐야할 영화라고 자부합니다. 많은 응원 부탁드립니다.<br></span><span><br></span><span>🎞 〈판문점〉 티저 영상 보러가기 : </span></span><a href="https://youtu.be/c_PqcO2Y7zw" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/c_PqcO2Y7zw</span></a><span><span><br></span><span>👉 텀블벅 후원페이지 </span></span><a href="https://www.tumblbug.com/panmunjom" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://www.tumblbug.com/panmunjom</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240529191003644</link>
+            <guid>https://v.daum.net/v/20240529191003644</guid>
+            <pubDate>Wed, 29 May 2024 10:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529191003644" class="link_column" data-tiara-layer="[난중칼럼]_윤석열의_'특별한_명예'를_9개월째_특별_수호하는_특수_검찰_alltab"><div class="cont_thumb"><strong class="tit_txt">[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰</strong><span class="info_txt"><span class="txt_info">1분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529191004990tssy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529191004990tssy.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240529175003603</link>
             <guid>https://v.daum.net/v/20240529175003603</guid>
             <pubDate>Wed, 29 May 2024 09:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529175003603" class="link_column" data-tiara-layer="[변화]&quot;특활비·출장비_등_공개하라&quot;...뉴스타파,_감사원_상대_정보공개_소송_1심_승소_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소</strong><span class="info_txt"><span class="txt_info">21분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529175004892hzbp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529175003603" class="link_column" data-tiara-layer="[변화]&quot;특활비·출장비_등_공개하라&quot;...뉴스타파,_감사원_상대_정보공개_소송_1심_승소_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529175004892hzbp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529175004892hzbp.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3314,7 +3322,7 @@
             <link>https://v.daum.net/v/20240529113003908</link>
             <guid>https://v.daum.net/v/20240529113003908</guid>
             <pubDate>Wed, 29 May 2024 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529113003908" class="link_column" data-tiara-layer="[국정원_문건]⑥_블랙요원_법정_증언_&quot;이재명_위한_대납_아닌_北_통전부_상납_자금_추정&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정"</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529140246973yvun.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529113003908" class="link_column" data-tiara-layer="[국정원_문건]⑥_블랙요원_법정_증언_&quot;이재명_위한_대납_아닌_北_통전부_상납_자금_추정&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정"</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529140246973yvun.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529140246973yvun.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3322,7 +3330,7 @@
             <link>https://v.daum.net/v/20240529104141258</link>
             <guid>https://v.daum.net/v/20240529104141258</guid>
             <pubDate>Wed, 29 May 2024 01:57:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529104141258" class="link_column" data-tiara-layer="'이태원_참사'_중국_동포_유가족_인터뷰...&quot;영매_오빠_일송입니다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'이태원 참사' 중국 동포 유가족 인터뷰..."영매 오빠 일송입니다"</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529104158536hkfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529104141258" class="link_column" data-tiara-layer="'이태원_참사'_중국_동포_유가족_인터뷰...&quot;영매_오빠_일송입니다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'이태원 참사' 중국 동포 유가족 인터뷰..."영매 오빠 일송입니다"</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529104158536hkfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529104158536hkfe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3441,8 +3449,8 @@
             <link>https://v.daum.net/v/20240513181003602</link>
             <guid>https://v.daum.net/v/20240513181003602</guid>
             <pubDate>Mon, 13 May 2024 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1716973894388&amp;Signature=6jMsp7THa3nb0Dv%2BJP3gTOlVh5E%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1716973894388&Signature=6jMsp7THa3nb0Dv%2BJP3gTOlVh5E%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1716977513792&amp;Signature=ErNh5QwutHcLK3GtdjeUhvpp%2FrY%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1716977513792&Signature=ErNh5QwutHcLK3GtdjeUhvpp%2FrY%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3529,13 +3537,6 @@
             <pubDate>Fri, 26 Apr 2024 05:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240426133136908" class="link_column" data-tiara-layer="완전우세지역_진보_98대_보수_71로_첫_역전...진보_텃밭은_이제_수도권_alltab"><div class="cont_thumb"><strong class="tit_txt">완전우세지역 진보 98대 보수 71로 첫 역전...진보 텃밭은 이제 수도권</strong><span class="info_txt"><span class="txt_info">2024. 4. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F26%2Fnewstapa%2F20240426133152789mofl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202404%2F26%2Fnewstapa%2F20240426133152789mofl.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[2024 호반 주주총회, "있었는데 없었습니다" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240426100004405</link>
-            <guid>https://v.daum.net/v/20240426100004405</guid>
-            <pubDate>Fri, 26 Apr 2024 01:49:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240426100004405" class="link_column" data-tiara-layer="2024_호반_주주총회,_&quot;있었는데_없었습니다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">2024 호반 주주총회, "있었는데 없었습니다"</strong><span class="info_txt"><span class="txt_info">2024. 4. 26.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
