@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재생에너지를 끄는 나라 VS 수소를 만드는 나라]]></title>
+            <link>http://newstapa.org/article/2wXi-</link>
+            <guid>http://newstapa.org/article/2wXi-</guid>
+            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재생에너지를 끄는 나라 VS 수소를 만드는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30183320-63C9-06EA-F5F1-U6BUQVSVG9XMKL3WVRNE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재생에너지도 못 늘린다...누가 전력망 대란을 불렀나]]></title>
             <link>http://newstapa.org/article/lEoxD</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03182206-AE2D-04DA-EB92-WGL35WD336VS7G6ZHK15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[삼림파괴 주식회사④]목재펠릿 공장 분진 심각, 실내까지 침투]]></title>
-            <link>http://newstapa.org/article/nZUU3</link>
-            <guid>http://newstapa.org/article/nZUU3</guid>
-            <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[삼림파괴 주식회사④]목재펠릿 공장 분진 심각, 실내까지 침투]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/03/30150520-9340-5BCD-BB4B-BKXC5MBVK4HGUU27HGRT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

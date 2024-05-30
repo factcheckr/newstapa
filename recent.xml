@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 10:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재생에너지를 끄는 나라 VS 수소를 만드는 나라]]></title>
+            <link>http://newstapa.org/article/2wXi-</link>
+            <guid>http://newstapa.org/article/2wXi-</guid>
+            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[재생에너지를 끄는 나라 VS 수소를 만드는 나라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30183320-63C9-06EA-F5F1-U6BUQVSVG9XMKL3WVRNE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰]]></title>
             <link>http://newstapa.org/article/nX0JO</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/16163044-60CF-A0C8-ADD1-AF6LP8HB12CT8TOYNBWW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두바이 잠금 해제] ①두바이는 어떻게 전 세계 검은 돈의 은닉처가 됐나]]></title>
-            <link>http://newstapa.org/article/rauF5</link>
-            <guid>http://newstapa.org/article/rauF5</guid>
-            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[두바이 잠금 해제] ①두바이는 어떻게 전 세계 검은 돈의 은닉처가 됐나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/16161455-8714-A995-D02A-FEKLVDZUYNUY7DSITH84.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
