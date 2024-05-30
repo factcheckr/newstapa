@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 10:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰에 반박한다, '쌍방울 주가조작' 증거와 국정원 요원의 폭로]]></title>
+            <link>http://newstapa.org/article/KnzIk</link>
+            <guid>http://newstapa.org/article/KnzIk</guid>
+            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰에 반박한다, '쌍방울 주가조작' 증거와 국정원 요원의 폭로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30194341-0D7F-CA2F-1E0E-R4ZXLCOG1FQGNW4DKHFS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 수사기록, 국정원 ‘김성태 대북사업 주가조작’ 보고서 뒷받침]]></title>
+            <link>http://newstapa.org/article/kL7QS</link>
+            <guid>http://newstapa.org/article/kL7QS</guid>
+            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 수사기록, 국정원 ‘김성태 대북사업 주가조작’ 보고서 뒷받침]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30171530-5B21-10FC-0CC1-X4EXYEU3LE3DF0RNFO3R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정"]]></title>
             <link>http://newstapa.org/article/1Y4Xm</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘고발사주’ 실행 4일 전, 손준성 윤석열 총장 만나 오찬]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/05164702-22B7-A54F-A2BC-886MGT1J5X2YSPB2L59W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인턴에 ‘횡령’ 누명 씌운 유동수 의원실 보좌관, 6년 만에 벌금형]]></title>
-            <link>http://newstapa.org/article/vHiKH</link>
-            <guid>http://newstapa.org/article/vHiKH</guid>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[인턴에 ‘횡령’ 누명 씌운 유동수 의원실 보좌관, 6년 만에 벌금형]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/01165849-2C2E-4834-4119-GHY83FQMAOCMVMCUMTRX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 해석 개헌]④ 대통령의 일제 천황주의 용어 소환]]></title>
-            <link>http://newstapa.org/article/elQjX</link>
-            <guid>http://newstapa.org/article/elQjX</guid>
-            <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 해석 개헌]④ 대통령의 일제 천황주의 용어 소환]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/31162852-F122-160F-012A-ECDSS0QDAI36RO88Z567.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

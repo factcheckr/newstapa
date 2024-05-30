@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 10:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰에 반박한다, '쌍방울 주가조작' 증거와 국정원 요원의 폭로]]></title>
+            <link>http://newstapa.org/article/KnzIk</link>
+            <guid>http://newstapa.org/article/KnzIk</guid>
+            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰에 반박한다, '쌍방울 주가조작' 증거와 국정원 요원의 폭로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30194341-0D7F-CA2F-1E0E-R4ZXLCOG1FQGNW4DKHFS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 수사기록, 국정원 ‘김성태 대북사업 주가조작’ 보고서 뒷받침]]></title>
+            <link>http://newstapa.org/article/kL7QS</link>
+            <guid>http://newstapa.org/article/kL7QS</guid>
+            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 수사기록, 국정원 ‘김성태 대북사업 주가조작’ 보고서 뒷받침]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30171530-5B21-10FC-0CC1-X4EXYEU3LE3DF0RNFO3R.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재생에너지를 끄는 나라 VS 수소를 만드는 나라]]></title>
             <link>http://newstapa.org/article/2wXi-</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑨] 80년 수습, 오늘도 세상 구경하며 산다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/17142505-E7AE-7453-2D45-I05KON7L0TV1HXUK7KR7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’]]></title>
-            <link>http://newstapa.org/article/U5_eH</link>
-            <guid>http://newstapa.org/article/U5_eH</guid>
-            <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/17142907-2399-CF00-338E-6EOKP762TZJZJ6DUPQT2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채]]></title>
-            <link>http://newstapa.org/article/yBe_q</link>
-            <guid>http://newstapa.org/article/yBe_q</guid>
-            <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/16163044-60CF-A0C8-ADD1-AF6LP8HB12CT8TOYNBWW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
