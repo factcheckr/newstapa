@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 08:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환경부 한화진 장관, '기후위기 대응한다'며 세종보 가동해 생태계 파괴?]]></title>
+            <link>http://newstapa.org/article/DRxG5</link>
+            <guid>http://newstapa.org/article/DRxG5</guid>
+            <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[환경부 한화진 장관, '기후위기 대응한다'며 세종보 가동해 생태계 파괴?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/05173325-5DDE-701E-FCA0-P4M1MV8XW10PR9MZ5BPW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열, 법카 논란의 ‘한우집’서 1000만 원 후원 받았다]]></title>
             <link>http://newstapa.org/article/hTSRb</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 국정원 비밀문건과 대북송금 사건의 진실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/23173218-2A36-8965-25FE-BZ25598ZCMSTNN2TLJBR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국정원 문건]③ 블랙요원 법정 증언 "쌍방울 주가조작, 다른 요원이 먼저 포착"]]></title>
-            <link>http://newstapa.org/article/fP1NP</link>
-            <guid>http://newstapa.org/article/fP1NP</guid>
-            <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[국정원 문건]③ 블랙요원 법정 증언 "쌍방울 주가조작, 다른 요원이 먼저 포착"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/22105620-0646-5243-19BB-YP0CT4TF4UEBCOZEEQTJ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
