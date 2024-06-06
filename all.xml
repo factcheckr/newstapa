@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 06:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 07:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/iO9ww</link>
+            <guid>http://newstapa.org/article/iO9ww</guid>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/06121806-1511-8F57-DC40-1DHO79MRO6WEXP8V9R27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Gw1Iy</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/26150444-09B1-A1B5-ED43-894PQ9SBC62XRT2PKJAE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/xuUWD</link>
-            <guid>http://newstapa.org/article/xuUWD</guid>
-            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/24160644-A00E-A4E1-C06E-4FTTT7EMYWTHD3H6CP02.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/iO9ww</link>
+            <guid>http://newstapa.org/article/iO9ww</guid>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/06121806-1511-8F57-DC40-1DHO79MRO6WEXP8V9R27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열, 법카 논란의 ‘한우집’서 1000만 원 후원 받았다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[조국혁신당에 누가 표를 주었나? 광주서 최다, 경북서 최소 득표]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/12153533-FE8A-D59B-A25F-Q7X09QE6P7QUT7MBLCAB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/gRktR</link>
-            <guid>http://newstapa.org/article/gRktR</guid>
-            <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[청년·여성 당선자 미미한 증가...국회 다양성 과제 여전]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/11172825-DB41-FEEC-D456-T9VR6IWI8DHW0SU8A7L6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3302,11 +3302,19 @@
             <content:encoded><![CDATA[<span><span>박정희 정권의 실세로 꼽혔던 김치열의 장남 김형국 씨가 두바이에 부동산 여러 채를 소유하고 있다는 사실이 확인됐습니다. 김치열은 김대중 납치 사건과 간첩 조작 사건 등, 박정희 정권의 각종 인권 유린 사건에 연루된 인물입니다.<br></span><span><br></span><span>뉴스타파는 '조직범죄와 부패 보도 프로젝트(OCCRP)' 국제협업팀과 함께 두바이 부동산 데이터를 분석한 결과, 김치열의 장남 김형국 씨가 두바이에 부동산 11채를 소유했던 사실을 확인했습니다. 김형국 씨는 아버지 김치열이 부정 축적한 재산을 상당수 물려받은 것으로 추정됩니다. <br></span><span><br></span><span>뉴스타파는 김형국 씨에게 두바이 부동산을 사들인 자금 출처가 무엇인지 질의했으나 답변을 받지 못했습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/yBe_q" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/yBe_q</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240606153646117</link>
+            <guid>https://v.daum.net/v/20240606153646117</guid>
+            <pubDate>Thu, 06 Jun 2024 07:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240606153646117" class="link_column" data-tiara-layer="[주간_뉴스타파]_보수는_왜_채_해병_사건에_분노하는가_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가</strong><span class="info_txt"><span class="txt_info">38분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F06%2Fnewstapa%2F20240606153649203uwbb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F06%2Fnewstapa%2F20240606153649203uwbb.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240605193004552</link>
             <guid>https://v.daum.net/v/20240605193004552</guid>
             <pubDate>Wed, 05 Jun 2024 11:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240605193004552" class="link_column" data-tiara-layer="[쌍방울_내부자_폭로]①_&quot;검찰청서_김성태_회장과_공범들_수시로_만났다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다"</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605193011137xpnu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240605193004552" class="link_column" data-tiara-layer="[쌍방울_내부자_폭로]①_&quot;검찰청서_김성태_회장과_공범들_수시로_만났다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다"</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605193011137xpnu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605193011137xpnu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3314,7 +3322,7 @@
             <link>https://v.daum.net/v/20240605173646749</link>
             <guid>https://v.daum.net/v/20240605173646749</guid>
             <pubDate>Wed, 05 Jun 2024 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240605173646749" class="link_column" data-tiara-layer="환경부_한화진_장관,_'기후위기_대응한다'며_세종보_가동해_생태계_파괴?_alltab"><div class="cont_thumb"><strong class="tit_txt">환경부 한화진 장관, '기후위기 대응한다'며 세종보 가동해 생태계 파괴?</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605173654162owzd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240605173646749" class="link_column" data-tiara-layer="환경부_한화진_장관,_'기후위기_대응한다'며_세종보_가동해_생태계_파괴?_alltab"><div class="cont_thumb"><strong class="tit_txt">환경부 한화진 장관, '기후위기 대응한다'며 세종보 가동해 생태계 파괴?</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605173654162owzd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605173654162owzd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3512,8 +3520,8 @@
             <link>https://v.daum.net/v/20240513181003602</link>
             <guid>https://v.daum.net/v/20240513181003602</guid>
             <pubDate>Mon, 13 May 2024 09:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1717654662451&amp;Signature=xWgqWeh3Y3ZP2oXpwrKFTAmdLlw%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1717654662451&Signature=xWgqWeh3Y3ZP2oXpwrKFTAmdLlw%3D" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240513181003602" class="link_column" data-tiara-layer="탄소중립_핵심_대안?_멈춰_선_한국_해상풍력_alltab"><div class="cont_thumb"><strong class="tit_txt">탄소중립 핵심 대안? 멈춰 선 한국 해상풍력</strong><span class="info_txt"><span class="txt_info">2024. 5. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&amp;TWGServiceId=news&amp;Expires=1717658139179&amp;Signature=nm4H6NY2KxjI3PP3Sr1%2FnCR8N6w%3D" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.q70/?x-twg-thumb-fname=https://t1.daumcdn.net/news/202405/13/newstapa/20240513181006798txas.gif&TWGServiceId=news&Expires=1717658139179&Signature=nm4H6NY2KxjI3PP3Sr1%2FnCR8N6w%3D" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3530,14 +3538,6 @@
             <pubDate>Fri, 10 May 2024 05:11:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240510140143966" class="link_column" data-tiara-layer="한_번에_정리하는_검찰_특활비와_총장님의_현금저수지_alltab"><div class="cont_thumb"><strong class="tit_txt">한 번에 정리하는 검찰 특활비와 총장님의 현금저수지</strong><span class="info_txt"><span class="txt_info">2024. 5. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F10%2Fnewstapa%2F20240510143047347ebyv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F10%2Fnewstapa%2F20240510143047347ebyv.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[<주간 뉴스타파> 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막' (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240509200003331</link>
-            <guid>https://v.daum.net/v/20240509200003331</guid>
-            <pubDate>Thu, 09 May 2024 11:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240509200003331" class="link_column" data-tiara-layer="<주간_뉴스타파>_윤석열의_'마이웨이'와_기자들의_'셀프_입틀막'_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막'</strong><span class="info_txt"><span class="txt_info">2024. 5. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F09%2Fnewstapa%2F20240509200010341asvp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F09%2Fnewstapa%2F20240509200010341asvp.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
