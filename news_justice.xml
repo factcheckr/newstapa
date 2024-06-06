@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 07:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 08:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쌍방울 내부자 폭로]② "검사가 공범들 모아놓고, 교도관들은 밖에서 대기"]]></title>
+            <link>http://newstapa.org/article/2N2hj</link>
+            <guid>http://newstapa.org/article/2N2hj</guid>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[쌍방울 내부자 폭로]② "검사가 공범들 모아놓고, 교도관들은 밖에서 대기"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/06170019-FC48-3A85-73BF-7GPPSPB06WIN4J4F14F5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다"]]></title>
             <link>http://newstapa.org/article/Gw1Iy</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검사 출신 총선 후보들의 특활비 오남용 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21182025-B892-2B53-67D2-LQFBMPIVAZILXXOQBSY0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[총선후보 검증] 양부남, 특활비로 연말 잔치 및 전별금 전용 의혹]]></title>
-            <link>http://newstapa.org/article/COCwF</link>
-            <guid>http://newstapa.org/article/COCwF</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[총선후보 검증] 양부남, 특활비로 연말 잔치 및 전별금 전용 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21112137-2373-BD23-86C3-A2KIIX8QAF7AQMROS66E.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
