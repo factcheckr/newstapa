@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 08:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></title>
+            <link>http://newstapa.org/article/2GyeO</link>
+            <guid>http://newstapa.org/article/2GyeO</guid>
+            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07174955-A9A0-3737-CB14-Z1KYPT7M04OCBUKK5BF3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑪] 새 언론에 담은 유산 "권력·관행과 결별하라"]]></title>
             <link>http://newstapa.org/article/2j6tf</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 국방부 상대 '6·25전쟁 참전자 증언록' 정보공개소송]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/01141949-EB2F-4F36-9042-A0DGFJ60A5ZGBR3XUQIE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살]]></title>
-            <link>http://newstapa.org/article/sHWv_</link>
-            <guid>http://newstapa.org/article/sHWv_</guid>
-            <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27180311-E8E2-9D04-288B-CTQ6LIQBN5PS31K8LENH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
