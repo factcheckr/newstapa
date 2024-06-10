@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 08:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금"]]></title>
+            <link>http://newstapa.org/article/1CI9s</link>
+            <guid>http://newstapa.org/article/1CI9s</guid>
+            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/10171041-7B23-5ED9-91B6-RVQZ7P7ZYJY8TEQ5XGEZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["임성근 책임" 중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나]]></title>
             <link>http://newstapa.org/article/KUlCg</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/29144742-DFF6-C1BB-15A5-ORYZFVM969RX9HQNNMH2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정"]]></title>
-            <link>http://newstapa.org/article/1Y4Xm</link>
-            <guid>http://newstapa.org/article/1Y4Xm</guid>
-            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/29112650-66B8-26B3-94B8-YRYPAOCA9GHN47F883QR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

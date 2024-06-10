@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 08:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/1CI9s</link>
+            <guid>http://newstapa.org/article/1CI9s</guid>
+            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/10171041-7B23-5ED9-91B6-RVQZ7P7ZYJY8TEQ5XGEZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["임성근 책임" 중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/KUlCg</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/29144742-DFF6-C1BB-15A5-ORYZFVM969RX9HQNNMH2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/1Y4Xm</link>
-            <guid>http://newstapa.org/article/1Y4Xm</guid>
-            <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/29112650-66B8-26B3-94B8-YRYPAOCA9GHN47F883QR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["임성근 책임" 중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/22101743-AFA0-8EB9-D344-AYDTLHIZW704BR55BU8M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/1CI9s</link>
+            <guid>http://newstapa.org/article/1CI9s</guid>
+            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/10171041-7B23-5ED9-91B6-RVQZ7P7ZYJY8TEQ5XGEZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[쌍방울 내부자 폭로]② "검사가 공범들 모아놓고, 교도관들은 밖에서 대기" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/2N2hj</link>
             <guid>http://newstapa.org/article/2N2hj</guid>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 정치 검찰이 망상에 빠진 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/29193216-DEE9-422E-7575-ZPORE2YXOWC3L8KT0MN4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 검사 출신 총선 후보들의 특활비 오남용 의혹 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/t66Sy</link>
-            <guid>http://newstapa.org/article/t66Sy</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 검사 출신 총선 후보들의 특활비 오남용 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/21182025-B892-2B53-67D2-LQFBMPIVAZILXXOQBSY0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’ (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3162,6 +3162,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105580934</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105580934</guid>
+            <pubDate>Mon, 10 Jun 2024 09:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>지난 8일 수원지방법원은 이화영 전 경기도 평화부지사에 대한 1심 재판에서 징역 9년 6개월을 선고했습니다. "쌍방울이 북한에 건넨 돈은 이재명의 방북 비용"이라는 것이 재판부의 판단 내용이었습니다.<br></span><span><br></span><span>그런데 뉴스타파는 지난해 5월, 수원지방법원이 작성한 안부수 아태평화교류협회 회장에 대한 1심 재판 판결문에서 "쌍방울의 대북 송금은 계열사 주가 상승이 목적" 이라고 적시된 사실을 확인했습니다. 같은 법원에서 약 1년 사이에 서로 다른 판결이 나온 것입니다. 쌍방울 대북 송금의 실체를 두고 2심에서 더욱 치열한 공방이 벌어질 것으로 전망됩니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/1CI9s" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/1CI9s</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA['임성근 책임'  중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105557461</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105557461</guid>
@@ -3295,11 +3302,12 @@
             <content:encoded><![CDATA[<span><span>최근 2년간 동해안을 중심으로 석탄화력발전소 여러 개가 새로 들어섰습니다. 그런데 이렇게 새로 지어진 발전소들이 최근 발전량을 줄이거나 가동을 멈추고 있습니다. 생산된 전력을 공급할 송전망이 부족하기 때문입니다. <br></span><span><br></span><span>송전망 부족 현상은 석탄발전소뿐 아니라 풍력·태양광 등 재생에너지 도입에도 걸림돌이 되고 있습니다. 정부의 전력망 계획을 바탕으로 재생에너지 전환에 성공한 유럽 국가들과는 대조적입니다. 전문가들은 발전소 계획 따로, 전력망 계획 따로인 우리나라의 상황에 대해 '총체적 대응책 마련'이 시급하다고 지적합니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/lEoxD" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/lEoxD</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[국정원 문건]① 비밀보고서에 "쌍방울, 대북사업 내세워 주가조작" 정황 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105316984</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105316984</guid>
-            <pubDate>Mon, 20 May 2024 06:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>지난 2년간 '쌍방울그룹 대북송금 사건'을 수사한 검찰은, 김성태 쌍방울그룹 회장이 2019년 경기도와 이재명 경기도지사를 대신해 북한 측에 800만 달러를 보냈다고 보고 있습니다. <br></span><span><br></span><span>총 800만 달러 중 500만 달러는 경기도가 북한에 약속한 스마트팜 비용을 대신 내준 것이고, 나머지 300만 달러는 이재명 지사의 방북 비용이었다는 것인데요.<br></span><span><br></span><span>그런데 뉴스타파는 김성태 회장이 자사의 주가를 띄우기 위해 북한 측과 사전에 모의했고, 이를 통해 발생할 수익금도 북측과 나누기로 했다는 내용의 국정원 비밀 문건을 입수했습니다. 이 문건에는 김성태 회장이 대북 사업을 앞세워 주가조작을 시도한 정황이 담겨 있습니다. <br></span><span><br></span><span>김성태 회장이 경기도와 이재명 지사를 위해 북한에 돈을 보냈다는 검찰의 수사 내용과는 배치되는 정황입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/uqDh9" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/uqDh9</span></a>]]></content:encoded>
+            <title><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금" (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240610171504540</link>
+            <guid>https://v.daum.net/v/20240610171504540</guid>
+            <pubDate>Mon, 10 Jun 2024 09:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240610171504540" class="link_column" data-tiara-layer="김성태_공범_안부수_판결문엔_&quot;쌍방울_주가_띄우려_대북_송금&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금"</strong><span class="info_txt"><span class="txt_info">58분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F10%2Fnewstapa%2F20240610171505583nxbh.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F10%2Fnewstapa%2F20240610171505583nxbh.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA["임성근 책임"  중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3314,7 +3322,7 @@
             <link>https://v.daum.net/v/20240607180113078</link>
             <guid>https://v.daum.net/v/20240607180113078</guid>
             <pubDate>Fri, 07 Jun 2024 09:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240607180113078" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑫]_생전_딱_한_번_하고픈_말_“여보!!_내일부터_출근이야”_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F07%2Fnewstapa%2F20240607180115723eiia.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240607180113078" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑫]_생전_딱_한_번_하고픈_말_“여보!!_내일부터_출근이야”_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F07%2Fnewstapa%2F20240607180115723eiia.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F07%2Fnewstapa%2F20240607180115723eiia.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3346,7 +3354,7 @@
             <link>https://v.daum.net/v/20240605173646749</link>
             <guid>https://v.daum.net/v/20240605173646749</guid>
             <pubDate>Wed, 05 Jun 2024 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240605173646749" class="link_column" data-tiara-layer="환경부_한화진_장관,_'기후위기_대응한다'며_세종보_가동해_생태계_파괴?_alltab"><div class="cont_thumb"><strong class="tit_txt">환경부 한화진 장관, '기후위기 대응한다'며 세종보 가동해 생태계 파괴?</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605173654162owzd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240605173646749" class="link_column" data-tiara-layer="환경부_한화진_장관,_'기후위기_대응한다'며_세종보_가동해_생태계_파괴?_alltab"><div class="cont_thumb"><strong class="tit_txt">환경부 한화진 장관, '기후위기 대응한다'며 세종보 가동해 생태계 파괴?</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605173654162owzd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F05%2Fnewstapa%2F20240605173654162owzd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3530,14 +3538,6 @@
             <pubDate>Tue, 14 May 2024 09:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240514180141756" class="link_column" data-tiara-layer="검찰의_침탈_이유_&quot;뉴스타파_미래_보도까지_두려워하기_때문&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰의 침탈 이유 "뉴스타파 미래 보도까지 두려워하기 때문"</strong><span class="info_txt"><span class="txt_info">2024. 5. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F14%2Fnewstapa%2F20240514180146073ptaz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F14%2Fnewstapa%2F20240514180146073ptaz.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[서민 금고에 파수꾼은 없다 : 새마을금고 1500억 불법대출의 전말 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240514154503222</link>
-            <guid>https://v.daum.net/v/20240514154503222</guid>
-            <pubDate>Tue, 14 May 2024 07:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240514154503222" class="link_column" data-tiara-layer="서민_금고에_파수꾼은_없다_:_새마을금고_1500억_불법대출의_전말_alltab"><div class="cont_thumb"><strong class="tit_txt">서민 금고에 파수꾼은 없다 : 새마을금고 1500억 불법대출의 전말</strong><span class="info_txt"><span class="txt_info">2024. 5. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F14%2Fnewstapa%2F20240514154505104ejjp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F14%2Fnewstapa%2F20240514154505104ejjp.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
