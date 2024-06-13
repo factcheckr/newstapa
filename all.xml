@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 05:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 06:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2056,6 +2056,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/08112354-B4A1-9251-EA3C-8HMZ5AWNDF9S6UO5FDPF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대북송금 X파일 (뉴스타파 ─ 프로젝트)]]></title>
+            <link>https://newstapa.org/tags/%EB%8C%80%EB%B6%81%EC%86%A1%EA%B8%88%20X%ED%8C%8C%EC%9D%BC</link>
+            <guid>https://newstapa.org/tags/%EB%8C%80%EB%B6%81%EC%86%A1%EA%B8%88%20X%ED%8C%8C%EC%9D%BC</guid>
+            <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[약 2년간 검찰 수사가 이어지고 있는 '쌍방울 대북 송금 사건'. 뉴스타파는 이 사건의 실체가 담긴 국가정보원 비밀 문건을 입수해 보도합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/13142957-F321-B2B7-76F2-WWGGFIM4OVRH425EZKDJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제 22대 국회의원 선거 (뉴스타파 ─ 프로젝트)]]></title>
             <link>https://newstapa.org/tags/22%EB%8C%80%20%EC%B4%9D%EC%84%A0</link>
             <guid>https://newstapa.org/tags/22%EB%8C%80%20%EC%B4%9D%EC%84%A0</guid>
@@ -3306,7 +3314,7 @@
             <link>https://v.daum.net/v/20240612180503912</link>
             <guid>https://v.daum.net/v/20240612180503912</guid>
             <pubDate>Wed, 12 Jun 2024 09:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240612180503912" class="link_column" data-tiara-layer="[증인매수_의혹]②_쌍방울_임원_&quot;윗선_지시로_안부수_딸에게_주택_제공&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공"</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F12%2Fnewstapa%2F20240612180510179bmme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240612180503912" class="link_column" data-tiara-layer="[증인매수_의혹]②_쌍방울_임원_&quot;윗선_지시로_안부수_딸에게_주택_제공&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공"</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F12%2Fnewstapa%2F20240612180510179bmme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F12%2Fnewstapa%2F20240612180510179bmme.jpg" length="0" type="image/q70/"/>
         </item>
         <item>

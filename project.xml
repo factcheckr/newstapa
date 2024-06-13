@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 05:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 06:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대북송금 X파일]]></title>
+            <link>https://newstapa.org/tags/%EB%8C%80%EB%B6%81%EC%86%A1%EA%B8%88%20X%ED%8C%8C%EC%9D%BC</link>
+            <guid>https://newstapa.org/tags/%EB%8C%80%EB%B6%81%EC%86%A1%EA%B8%88%20X%ED%8C%8C%EC%9D%BC</guid>
+            <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[약 2년간 검찰 수사가 이어지고 있는 '쌍방울 대북 송금 사건'. 뉴스타파는 이 사건의 실체가 담긴 국가정보원 비밀 문건을 입수해 보도합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/13142957-F321-B2B7-76F2-WWGGFIM4OVRH425EZKDJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제 22대 국회의원 선거]]></title>
             <link>https://newstapa.org/tags/22%EB%8C%80%20%EC%B4%9D%EC%84%A0</link>
