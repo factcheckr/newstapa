@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 10:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 11:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5RV7A</link>
+            <guid>http://newstapa.org/article/5RV7A</guid>
+            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/13191308-5F2E-A68F-8F30-3QX9Q406N5R9M7NG9LAE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/uHOFj</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰에 반박한다, '쌍방울 주가조작' 증거와 국정원 요원의 폭로]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30194341-0D7F-CA2F-1E0E-R4ZXLCOG1FQGNW4DKHFS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 수사기록, 국정원 ‘김성태 대북사업 주가조작’ 보고서 뒷받침 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kL7QS</link>
-            <guid>http://newstapa.org/article/kL7QS</guid>
-            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 수사기록, 국정원 ‘김성태 대북사업 주가조작’ 보고서 뒷받침]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30171530-5B21-10FC-0CC1-X4EXYEU3LE3DF0RNFO3R.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["임성근 책임" 중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/22101743-AFA0-8EB9-D344-AYDTLHIZW704BR55BU8M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/5RV7A</link>
+            <guid>http://newstapa.org/article/5RV7A</guid>
+            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/13191308-5F2E-A68F-8F30-3QX9Q406N5R9M7NG9LAE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공" (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/uHOFj</link>
             <guid>http://newstapa.org/article/uHOFj</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[국정원 문건]② 쌍방울, 北 정찰총국 이호남과 '주가 조작' 공모 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/22141517-1AA8-44C8-D69F-P9O8SN7329DUIHWON0N6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[국정원 문건]① 비밀보고서에 "쌍방울, 대북사업 내세워 주가조작" 정황 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/uqDh9</link>
-            <guid>http://newstapa.org/article/uqDh9</guid>
-            <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[국정원 문건]① 비밀보고서에 "쌍방울, 대북사업 내세워 주가조작" 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/22141526-FEDC-2A50-2B22-G5ITV3BGVN7X8GPJJVJ2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’ (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3170,6 +3170,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105625789</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105625789</guid>
+            <pubDate>Thu, 13 Jun 2024 11:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>지난 7일 '쌍방울 대북송금 사건' 1심 재판부가 이화영 전 경기도 평화부지사에게 징역 9년 6개월형을 선고했습니다. <br></span><span>재판부는 '쌍방울그룹이 북한에 건넨 800만 달러 중 일부는 이재명의 방북 비용' 이었다며, 이와 같은 판단의 근거로 '김성태, 방용철, 안부수 등의 진술이 일관되고 신빙성 있다'는 점을 밝혔습니다.<br></span><span>이 판결 이후 5일만에 검찰은 이재명 민주당 대표를 제3자 뇌물 혐의 등으로 기소했습니다.<br></span><span><br></span><span>그런데 뉴스타파는 김성태, 방용철, 안부수 등 '대북송금 사건' 공범들이 검사실에서 여러 차례 만난 정황, 또 서로 금품을 주고받은 정황 등을 포착했습니다. <br></span><span>만약 이들이 서로 진술을 공모하고, 금품으로 매수한 것이 사실이라면 1심 재판부의 판단 역시 흔들릴 수 있습니다. 뉴스타파 봉지욱 기자가 '대북송금 사건'의 또 다른 실체를 추적했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/2iIxVQDMLss" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/2iIxVQDMLss</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/5RV7A" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/5RV7A</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105610219</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105610219</guid>
@@ -3303,11 +3310,12 @@
             <content:encoded><![CDATA[<span><span>'쌍방울그룹 대북송금 사건'을 수사 중인 검찰은 지난 2019년 김성태 쌍방울 회장이 경기도와 이재명 지사를 위해 북한에 800만 달러를 보냈다고 보고 있습니다.<br></span><span><br></span><span>그런데 뉴스타파는 검찰 주장과 배치되는 국정원 문건에 이어 쌍방울 내부 문건도 입수했습니다. 이 문건에는 2019년 1월 쌍방울이 북한 측과 MOU를 맺으면서 계약금 500만 달러를 약속한 사실이 적혀 있었습니다. <br></span><span><br></span><span>실제로 김성태 회장은 이후 두 차례에 걸쳐 북한에 500만 달러를 송금했습니다. 500만 달러를 완납한 후 쌍방울은 북한과 비공개 합의서를 작성했습니다. 쌍방울 측이 대북 사업을 추진하기 위해 북한에 돈을 보냈을 가능성이 높아지는 정황입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/a0f1G" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/a0f1G</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국정원 비밀문건과 대북송금 사건의 진실  〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105366784</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105366784</guid>
-            <pubDate>Thu, 23 May 2024 11:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>검찰은 지난 2년간 '쌍방울그룹 대북 송금 사건'과 관련해 이재명 민주당 대표와 이화영 전 경기도 평화부지사를 수사하고 있습니다. <br></span><span>2019년 쌍방울이 북한에 보낸 800만 달러 중, 500만 달러는 경기도의 스마트팜 사업비였고, 나머지 300만 달러는 이재명 당시 경기도지사의 방북 비용이었다는 것이 검찰의 입장인데요.<br></span><span><br></span><span>그런데 뉴스타파는 검찰이 드러내지 않은, 이 사건의 또 다른 실체가 담긴 국정원 비밀 문건을 입수했습니다. 140여 쪽 분량의 이 문건에는 쌍방울그룹 김성태 회장이 자사의 주가 조작을 위해 대북 사업을 추진한 정황이 담겨 있었습니다.<br></span><span><br></span><span>즉 검찰의 수사 내용과는 다르게, 쌍방울이 주가 조작 목적으로 북한에 돈을 보냈을 가능성이 있는 정황입니다. 쌍방울 대북 송금 사건의 실체를 추적하고 있는 봉지욱 기자가 지금까지의 취재 내용을 직접 밝힙니다. <br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/3Np4es6t-D4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/3Np4es6t-D4</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/03ifg" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/03ifg</span></a>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240613200143340</link>
+            <guid>https://v.daum.net/v/20240613200143340</guid>
+            <pubDate>Thu, 13 Jun 2024 11:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240613200143340" class="link_column" data-tiara-layer="[주간_뉴스타파]_'대북송금'_1심_판결_뒤집는_쌍방울_임원의_폭로_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F13%2Fnewstapa%2F20240613200152051cnig.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F13%2Fnewstapa%2F20240613200152051cnig.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공" (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3539,14 +3547,6 @@
             <pubDate>Fri, 17 May 2024 06:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240517143646522" class="link_column" data-tiara-layer="관행적_불법은_처벌_못한다?_검찰의_‘셀프_면죄부’_alltab"><div class="cont_thumb"><strong class="tit_txt">관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’</strong><span class="info_txt"><span class="txt_info">2024. 5. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F17%2Fnewstapa%2F20240517143651756ttnm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F17%2Fnewstapa%2F20240517143651756ttnm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240516182514102</link>
-            <guid>https://v.daum.net/v/20240516182514102</guid>
-            <pubDate>Thu, 16 May 2024 10:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240516182514102" class="link_column" data-tiara-layer="[두바이_잠금_해제]_②박정희_때_부정축재_김치열의_장남,_두바이_부동산_10여_채_alltab"><div class="cont_thumb"><strong class="tit_txt">[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채</strong><span class="info_txt"><span class="txt_info">2024. 5. 16.</span></span></div><div class="wrap_thumb"><img src="//img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F16%2Fnewstapa%2F20240516182515583nxcv.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F16%2Fnewstapa%2F20240516182515583nxcv.webp" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

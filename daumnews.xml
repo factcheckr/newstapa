@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 10:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 11:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로]]></title>
+            <link>https://v.daum.net/v/20240613200143340</link>
+            <guid>https://v.daum.net/v/20240613200143340</guid>
+            <pubDate>Thu, 13 Jun 2024 11:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240613200143340" class="link_column" data-tiara-layer="[주간_뉴스타파]_'대북송금'_1심_판결_뒤집는_쌍방울_임원의_폭로_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F13%2Fnewstapa%2F20240613200152051cnig.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F13%2Fnewstapa%2F20240613200152051cnig.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공"]]></title>
             <link>https://v.daum.net/v/20240612180503912</link>
@@ -237,14 +245,6 @@
             <pubDate>Fri, 17 May 2024 06:14:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240517143646522" class="link_column" data-tiara-layer="관행적_불법은_처벌_못한다?_검찰의_‘셀프_면죄부’_alltab"><div class="cont_thumb"><strong class="tit_txt">관행적 불법은 처벌 못한다? 검찰의 ‘셀프 면죄부’</strong><span class="info_txt"><span class="txt_info">2024. 5. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F17%2Fnewstapa%2F20240517143651756ttnm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F17%2Fnewstapa%2F20240517143651756ttnm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채]]></title>
-            <link>https://v.daum.net/v/20240516182514102</link>
-            <guid>https://v.daum.net/v/20240516182514102</guid>
-            <pubDate>Thu, 16 May 2024 10:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240516182514102" class="link_column" data-tiara-layer="[두바이_잠금_해제]_②박정희_때_부정축재_김치열의_장남,_두바이_부동산_10여_채_alltab"><div class="cont_thumb"><strong class="tit_txt">[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채</strong><span class="info_txt"><span class="txt_info">2024. 5. 16.</span></span></div><div class="wrap_thumb"><img src="//img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F16%2Fnewstapa%2F20240516182515583nxcv.webp" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img2.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F16%2Fnewstapa%2F20240516182515583nxcv.webp" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
