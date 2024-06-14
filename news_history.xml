@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 08:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 09:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론]]></title>
+            <link>http://newstapa.org/article/iuuSd</link>
+            <guid>http://newstapa.org/article/iuuSd</guid>
+            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/14165145-F769-C8F2-3BCC-ZYERJ96CO5617UJAXRCW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></title>
             <link>http://newstapa.org/article/2GyeO</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[완순이 그리는 것]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/29141525-8E36-B526-D1D3-H88C12RL9456V3KWQF6S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, 국방부 상대 '6·25전쟁 참전자 증언록' 정보공개소송]]></title>
-            <link>http://newstapa.org/article/croOd</link>
-            <guid>http://newstapa.org/article/croOd</guid>
-            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, 국방부 상대 '6·25전쟁 참전자 증언록' 정보공개소송]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/01141949-EB2F-4F36-9042-A0DGFJ60A5ZGBR3XUQIE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
