@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 08:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 09:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Qetqa</link>
+            <guid>http://newstapa.org/article/Qetqa</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/17175240-2060-966F-46FD-SMK1FGWR7VL847YGZJ0P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/iuuSd</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[보이스피싱 범죄에 악용된 KT의 법인폰]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/31193903-82A2-FE44-994E-XVFFEFHXZMZCOIA6VAXX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰의 '이화영 회유' 뒷받침 증언 "검사가 좋은 일 생길 거라 말해" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/hChJO</link>
-            <guid>http://newstapa.org/article/hChJO</guid>
-            <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰의 '이화영 회유' 뒷받침 증언 "검사가 좋은 일 생길 거라 말해"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/03172217-DAEF-180A-83DC-O1J7EYL026XKELURCPXA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국회의원 정치자금 분석: 비례대표와 ‘지역사무소’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/08104648-CE43-E76C-4C3B-0PGAORCZF75QUDVC1JC8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부' (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
+            <link>http://newstapa.org/article/Qetqa</link>
+            <guid>http://newstapa.org/article/Qetqa</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/17175240-2060-966F-46FD-SMK1FGWR7VL847YGZJ0P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2024 호반 주주총회, "있었는데 없었습니다" (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
             <link>http://newstapa.org/article/z9nbo</link>
             <guid>http://newstapa.org/article/z9nbo</guid>
@@ -638,14 +646,6 @@
             <pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[대장동 X파일]SK계열사와 대장동팀...그들이 불법을 공모한 증거들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/07162519-13AF-DB38-1362-G6S9WRFKIJ1ZPPU3K4XF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성' (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
-            <link>http://newstapa.org/article/ON-nB</link>
-            <guid>http://newstapa.org/article/ON-nB</guid>
-            <pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 삼성의 위험한 공장⑤ 구멍난 '관리의 삼성']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/03182206-AE2D-04DA-EB92-WGL35WD336VS7G6ZHK15.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[피지에 '왕국' 세운 이단교회]② 피지 정부, '은혜로교회' 비호 의혹 (뉴스타파 ─ 뉴스 ─ 종교)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/326e5971009b2f261075bcc7b68f8c988893d6c8a5029d466f7580bae13e9741077829d58ca57f3b331958295240c9defa10346d40905e97ec7b6c1cb022649b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부' (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/Qetqa</link>
+            <guid>http://newstapa.org/article/Qetqa</guid>
+            <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/17175240-2060-966F-46FD-SMK1FGWR7VL847YGZJ0P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보이스피싱 범죄에 악용된 KT의 법인폰 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/oxMJY</link>
             <guid>http://newstapa.org/article/oxMJY</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[금융 실격 ① 추락하는 것은 금융이 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/11/26103546-4A44-20B0-D042-Z41S19BB2DCUIWBSA605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키움저축은행이 앗아간 전세 난민 '마지막 비상구' (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/F2teZ</link>
-            <guid>http://newstapa.org/article/F2teZ</guid>
-            <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[키움저축은행이 앗아간 전세 난민 '마지막 비상구']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2021/09/17150902-5F12-C887-FE9F-PXFUNWTKHW2RIUJ0XI8U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환경부 한화진 장관, '기후위기 대응한다'며 세종보 가동해 생태계 파괴? (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -3170,6 +3170,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105663388</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105663388</guid>
+            <pubDate>Mon, 17 Jun 2024 09:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>지난해 말, 국내 건설업계 16위의 대기업 태영건설이 부도 위기에 빠졌습니다. 가진 돈의 5배가 넘는 보증 채무를 져 가며 무리하게 사업을 추진한 결과였습니다. 당시 태영건설은 서울 성수동 등 전국 60개 사업장에서 부동산 PF(프로젝트 파이낸싱) 사업을 벌이고 있었습니다. <br></span><span><br></span><span>태영건설뿐 아니라 국내 건설사들 중 상당수가 이처럼 위험을 키워가며 PF사업을 추진하고 있습니다. 전문가들은 이른바 '한국형 PF' 구조 아래에서는 언제든지 제2의 태영건설 사태가 일어날 수 있다고 경고합니다. 호황에는 이윤을 낳고, 불황에는 위기를 만드는 한국형 PF의 실태를 뉴스타파가 분석했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/LVUoE70lzMY" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/LVUoE70lzMY</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/Qetqa" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/Qetqa</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국회의원 정치자금 분석: 비례대표와 ‘지역사무소’ (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105634281</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105634281</guid>
@@ -3303,18 +3310,19 @@
             <content:encoded><![CDATA[<span><span>뉴스타파는 검찰이 수사 중인 '쌍방울그룹 대북송금 사건'과 관련해, 쌍방울과 북한의 주가조작 공모 가능성을 시사하는 국정원 요원 김 모 씨의 증언을 공개합니다.<br></span><span><br></span><span>지난해 7월 대북송금 사건 증인신문에 참석한 김 씨는, 쌍방울과 접촉한 북한 측 인물 이호남에 대해 "이호남은 남한 기업인들에게 뒷돈을 받아서 상납을 해온 인물" 이라고 설명했습니다. <br></span><span>김 씨는 또 '쌍방울이 이호남과 공모해 주가를 조작하려고 했나' 라는 질문에 "충분히 개연성이 있다" 라고 대답했습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/G2l6U" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/G2l6U</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[영화 판문점] 메인 예고편 전격 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105404170</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105404170</guid>
-            <pubDate>Mon, 27 May 2024 08:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>뉴스타파 새 영화 〈판문점〉 메인 예고편 공개!<br></span><span><br></span><span>70년 판문점의 역사와 비밀을 파헤친 영화 〈판문점〉이<br></span><span>오는 6월 개봉을 앞두고 있습니다.<br></span><span><br></span><span>영화 〈판문점〉은 〈김복동〉을 연출한 송원근PD가 감독을 맡고, <br></span><span>영화배우 박해일 씨가 내레이션을 맡아<br></span><span>국내 여러 영화제에서 작품성을 인정받았습니다.<br></span><span><br></span><span>2024년 한반도 평화를 일깨우기 위한 영화 〈판문점〉에<br></span><span>여러분의 많은 관심과 응원 부탁드립니다!!<br></span><span><br></span><span>🎞 〈판문점〉 메인 예고편 보러가기 : </span></span><a href="https://youtu.be/bil7fd95SfU" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/bil7fd95SfU</span></a><span><span><br></span><span>👏 〈판문점〉 텀블벅 후원하기 : </span></span><a href="https://www.tumblbug.com/panmunjom" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://www.tumblbug.com/panmunjom</span></a>]]></content:encoded>
+            <title><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240617175503286</link>
+            <guid>https://v.daum.net/v/20240617175503286</guid>
+            <pubDate>Mon, 17 Jun 2024 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240617175503286" class="link_column" data-tiara-layer="PF위기①_태영건설_워크아웃_'추락의_해부'_alltab"><div class="cont_thumb"><strong class="tit_txt">PF위기① 태영건설 워크아웃 '추락의 해부'</strong><span class="info_txt"><span class="txt_info">17분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F17%2Fnewstapa%2F20240617175516634wovj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F17%2Fnewstapa%2F20240617175516634wovj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240614180003823</link>
             <guid>https://v.daum.net/v/20240614180003823</guid>
             <pubDate>Fri, 14 Jun 2024 09:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240614180003823" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑬]_언관의_언론,_기레기의_언론_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F14%2Fnewstapa%2F20240614180004849ragd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240614180003823" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑬]_언관의_언론,_기레기의_언론_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F14%2Fnewstapa%2F20240614180004849ragd.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F14%2Fnewstapa%2F20240614180004849ragd.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3338,7 +3346,7 @@
             <link>https://v.daum.net/v/20240612180503912</link>
             <guid>https://v.daum.net/v/20240612180503912</guid>
             <pubDate>Wed, 12 Jun 2024 09:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240612180503912" class="link_column" data-tiara-layer="[증인매수_의혹]②_쌍방울_임원_&quot;윗선_지시로_안부수_딸에게_주택_제공&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F12%2Fnewstapa%2F20240612180510179bmme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240612180503912" class="link_column" data-tiara-layer="[증인매수_의혹]②_쌍방울_임원_&quot;윗선_지시로_안부수_딸에게_주택_제공&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공"</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F12%2Fnewstapa%2F20240612180510179bmme.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F12%2Fnewstapa%2F20240612180510179bmme.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3354,7 +3362,7 @@
             <link>https://v.daum.net/v/20240611172503941</link>
             <guid>https://v.daum.net/v/20240611172503941</guid>
             <pubDate>Tue, 11 Jun 2024 09:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240611172503941" class="link_column" data-tiara-layer="[현장에서]_수원대_'사학비리_끝판왕'의_복귀...그리고_교육부의_직무유기_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 수원대 '사학비리 끝판왕'의 복귀...그리고 교육부의 직무유기</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F11%2Fnewstapa%2F20240611172504300civd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240611172503941" class="link_column" data-tiara-layer="[현장에서]_수원대_'사학비리_끝판왕'의_복귀...그리고_교육부의_직무유기_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 수원대 '사학비리 끝판왕'의 복귀...그리고 교육부의 직무유기</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F11%2Fnewstapa%2F20240611172504300civd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F11%2Fnewstapa%2F20240611172504300civd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3539,14 +3547,6 @@
             <pubDate>Mon, 20 May 2024 09:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240520181003470" class="link_column" data-tiara-layer="재생에너지도_못_늘린다...누가_전력망_대란을_불렀나_alltab"><div class="cont_thumb"><strong class="tit_txt">재생에너지도 못 늘린다...누가 전력망 대란을 불렀나</strong><span class="info_txt"><span class="txt_info">2024. 5. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F20%2Fnewstapa%2F20240520181004687qzso.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F20%2Fnewstapa%2F20240520181004687qzso.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[국정원 문건]① 비밀보고서에 "쌍방울, 대북사업 내세워 주가조작" 정황 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240520134003011</link>
-            <guid>https://v.daum.net/v/20240520134003011</guid>
-            <pubDate>Mon, 20 May 2024 05:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240520134003011" class="link_column" data-tiara-layer="[국정원_문건]①_비밀보고서에_&quot;쌍방울,_대북사업_내세워_주가조작&quot;_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]① 비밀보고서에 "쌍방울, 대북사업 내세워 주가조작" 정황</strong><span class="info_txt"><span class="txt_info">2024. 5. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F20%2Fnewstapa%2F20240520134005092zfho.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F20%2Fnewstapa%2F20240520134005092zfho.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
