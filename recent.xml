@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 09:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 10:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공]]></title>
+            <link>http://newstapa.org/article/_q0A-</link>
+            <guid>http://newstapa.org/article/_q0A-</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19181817-012D-75C9-1054-HF2LKMOQ25UQU2RXGNAQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹]]></title>
             <link>http://newstapa.org/article/97ovv</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07203757-C239-388C-6F18-0Y1YC10KZGW7CF5O5IG7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쌍방울 내부자 폭로]② "검사가 공범들 모아놓고, 교도관들은 밖에서 대기"]]></title>
-            <link>http://newstapa.org/article/2N2hj</link>
-            <guid>http://newstapa.org/article/2N2hj</guid>
-            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쌍방울 내부자 폭로]② "검사가 공범들 모아놓고, 교도관들은 밖에서 대기"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/06170019-FC48-3A85-73BF-7GPPSPB06WIN4J4F14F5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
