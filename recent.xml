@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 05:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹]]></title>
+            <link>http://newstapa.org/article/97ovv</link>
+            <guid>http://newstapa.org/article/97ovv</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19140535-FB3C-EB8B-A821-HBDV71A08735MUXCEDEH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위헌적인 선거구 획정 탓에 국민의힘 과대 대표]]></title>
+            <link>http://newstapa.org/article/ODTd2</link>
+            <guid>http://newstapa.org/article/ODTd2</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[위헌적인 선거구 획정 탓에 국민의힘 과대 대표]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19112321-7884-D611-DBC3-Z0MNGHJ9LGWX2J4PV1ZM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점']]></title>
             <link>http://newstapa.org/article/AjZ25</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[쌍방울 내부자 폭로]② "검사가 공범들 모아놓고, 교도관들은 밖에서 대기"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/06170019-FC48-3A85-73BF-7GPPSPB06WIN4J4F14F5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가]]></title>
-            <link>http://newstapa.org/article/iO9ww</link>
-            <guid>http://newstapa.org/article/iO9ww</guid>
-            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 보수는 왜 채 해병 사건에 분노하는가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/06121806-1511-8F57-DC40-1DHO79MRO6WEXP8V9R27.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다"]]></title>
-            <link>http://newstapa.org/article/Gw1Iy</link>
-            <guid>http://newstapa.org/article/Gw1Iy</guid>
-            <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쌍방울 내부자 폭로]① "검찰청서 김성태 회장과 공범들 수시로 만났다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/05184908-D227-7A90-AEB4-A6DURSBR4639XV5UZ2EH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 05:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 06:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고위 검사들의 세금 오남용]]></title>
+            <link>https://pages.newstapa.org/2024/suspicion/</link>
+            <guid>https://pages.newstapa.org/2024/suspicion/</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파는 윤석열 정부에서 임명된 고위 검사 22명 중 15명의 특수활동비 오남용 의혹을 확인했습니다. 국민 세금으로 조성된 특활비를 오남용한 고위 검사들은 과연 누구일까요?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19151445-67BF-92CD-9C39-LYQL3FJ9NDOCWN4JXXI1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파 챗봇 '김건희와 주가조작']]></title>
             <link>https://pages.newstapa.org/2024/kkhchat/</link>
@@ -40,14 +48,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/09/21140013-A7C7-5DE4-4EA6-CXEFUMVO4PF6KM5PQUCV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최초 공개, 검찰의 금고를 열다]]></title>
-            <link>https://pages.newstapa.org/2023/07_prosecution/</link>
-            <guid>https://pages.newstapa.org/2023/07_prosecution/</guid>
-            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[3년 반의 행정소송을 통해 입수한 검찰 예산 증빙자료를 공개한 특별 페이지입니다. 그동안 베일에 가려져 있었던 검찰의 예산 관리 실태를 낱낱이 확인할 수 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06134052-A739-5753-CFDA-LUXSGZA88JUK06YXIFFJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정전 70년] 이래도 전쟁인가, 당신이 보지 못한 민간인학살]]></title>
             <link>https://pages.newstapa.org/2023/07_koreanWar</link>
             <guid>https://pages.newstapa.org/2023/07_koreanWar</guid>
@@ -70,6 +70,13 @@
             <pubDate>Mon, 06 Jul 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기관별로 산발적으로 공개되던 공직자들의 재산 내역을 한데 모아, 모두가 쉽게 찾아 볼 수 있는 웹사이트를 제작했습니다. 공직자들의 여러 해에 걸친 재산 형성 과정을 직접 추적해 볼 수 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17143946-F722-B6C0-6D7C-U8PUUE3I1RSK0ECY6RMI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최초 공개, 검찰의 금고를 열다]]></title>
+            <link>https://pages.newstapa.org/2023/07_prosecution/</link>
+            <guid>https://pages.newstapa.org/2023/07_prosecution/</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/06134052-A739-5753-CFDA-LUXSGZA88JUK06YXIFFJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은 산 : 2022년 울진 산불]]></title>
