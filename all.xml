@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 10:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 11:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/eJrUK</link>
+            <guid>http://newstapa.org/article/eJrUK</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19190811-C727-B897-19C1-NS72CW2O8469ISYJPT0T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_q0A-</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07190632-6BC0-99C6-F8F3-UP6043IKIQBRSR5IL3Y7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/2GyeO</link>
-            <guid>http://newstapa.org/article/2GyeO</guid>
-            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07203757-C239-388C-6F18-0Y1YC10KZGW7CF5O5IG7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/eJrUK</link>
+            <guid>http://newstapa.org/article/eJrUK</guid>
+            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19190811-C727-B897-19C1-NS72CW2O8469ISYJPT0T.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/02142902-27BC-A364-6A56-RA8I3LQKZCHGZ9BEQPDK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원, 기재부에 ‘정부부처 예산요구서 공개하라’...23개월 만에 승소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/_MNCJ</link>
-            <guid>http://newstapa.org/article/_MNCJ</guid>
-            <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법원, 기재부에 ‘정부부처 예산요구서 공개하라’...23개월 만에 승소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/29111809-E212-C4EA-05BF-09RHQEQVAED1H3TC6V0K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3317,11 +3317,19 @@
             <content:encoded><![CDATA[<span><span>뉴스타파는 쌍방울그룹 김성태 회장의 '대북사업 주가조작' 가능성을 뒷받침하는 재판 및 검찰 수사 기록을 입수해 보도합니다.<br></span><span><br></span><span>김성태 회장이 북한의 광물 자원을 개발하겠다며 내세운 쌍방울그룹 계열사 '나노스'는 안부수 아태협 회장 등을 영입하면서 주가가 급등했습니다. 이에 대해 쌍방울그룹 회장 비서실장 엄 모 씨는, 2023년 대북송금 사건 공판에 참석해 '당시 안부수 영입은 주가 부양을 염두에 둔 것'이라고 증언했습니다.<br></span><span><br></span><span>또 뉴스타파가 입수한 검찰 수사 기록에는, 당시 쌍방울 임원들이 주가 부양을 목적으로 기사 댓글 등을 공모한 정황이 담겨 있었습니다. 검찰이 쌍방울의 주가조작 가능성을 인지하고도 사건을 엉뚱한 방향으로 몰고 간 것이 아닌지 의혹이 제기됩니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/TUSLPv6rLqw" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/TUSLPv6rLqw</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/kL7QS" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/kL7QS</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240619200622648</link>
+            <guid>https://v.daum.net/v/20240619200622648</guid>
+            <pubDate>Wed, 19 Jun 2024 11:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619200622648" class="link_column" data-tiara-layer="'채_해병_사건_회수'_시작점에_윤석열..._새_통화_기록_나왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">'채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다</strong><span class="info_txt"><span class="txt_info">7분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619200624200pjmt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619200624200pjmt.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240619183623426</link>
             <guid>https://v.daum.net/v/20240619183623426</guid>
             <pubDate>Wed, 19 Jun 2024 10:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619183623426" class="link_column" data-tiara-layer="[증인매수_의혹]③_검찰청서_딸_만난_안부수_회장,_상봉_직후_쌍방울이_주택_제공_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공</strong><span class="info_txt"><span class="txt_info">36분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619183628947gunn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619183623426" class="link_column" data-tiara-layer="[증인매수_의혹]③_검찰청서_딸_만난_안부수_회장,_상봉_직후_쌍방울이_주택_제공_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619183628947gunn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619183628947gunn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3329,7 +3337,7 @@
             <link>https://v.daum.net/v/20240619151644969</link>
             <guid>https://v.daum.net/v/20240619151644969</guid>
             <pubDate>Wed, 19 Jun 2024 06:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619151644969" class="link_column" data-tiara-layer="윤석열_정부_고위_검사_'3분의_2'가_특수활동비_오남용_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619151730367igob.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619151644969" class="link_column" data-tiara-layer="윤석열_정부_고위_검사_'3분의_2'가_특수활동비_오남용_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619151730367igob.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619151730367igob.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3337,7 +3345,7 @@
             <link>https://v.daum.net/v/20240619143141976</link>
             <guid>https://v.daum.net/v/20240619143141976</guid>
             <pubDate>Wed, 19 Jun 2024 06:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619143141976" class="link_column" data-tiara-layer="위헌적인_선거구_획정_탓에_국민의힘_과대_대표_alltab"><div class="cont_thumb"><strong class="tit_txt">위헌적인 선거구 획정 탓에 국민의힘 과대 대표</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619143142808ztbz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619143141976" class="link_column" data-tiara-layer="위헌적인_선거구_획정_탓에_국민의힘_과대_대표_alltab"><div class="cont_thumb"><strong class="tit_txt">위헌적인 선거구 획정 탓에 국민의힘 과대 대표</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619143142808ztbz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619143142808ztbz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3345,7 +3353,7 @@
             <link>https://v.daum.net/v/20240619090141740</link>
             <guid>https://v.daum.net/v/20240619090141740</guid>
             <pubDate>Wed, 19 Jun 2024 00:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619090141740" class="link_column" data-tiara-layer="오물풍선_대신_용각산과_카라멜,_뉴스타파_새영화_'판문점'_alltab"><div class="cont_thumb"><strong class="tit_txt">오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점'</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619090143807iduu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619090141740" class="link_column" data-tiara-layer="오물풍선_대신_용각산과_카라멜,_뉴스타파_새영화_'판문점'_alltab"><div class="cont_thumb"><strong class="tit_txt">오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점'</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619090143807iduu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619090143807iduu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3392,7 +3400,7 @@
             <link>https://v.daum.net/v/20240613200143340</link>
             <guid>https://v.daum.net/v/20240613200143340</guid>
             <pubDate>Thu, 13 Jun 2024 11:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240613200143340" class="link_column" data-tiara-layer="[주간_뉴스타파]_'대북송금'_1심_판결_뒤집는_쌍방울_임원의_폭로_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F13%2Fnewstapa%2F20240613200152051cnig.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240613200143340" class="link_column" data-tiara-layer="[주간_뉴스타파]_'대북송금'_1심_판결_뒤집는_쌍방울_임원의_폭로_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F13%2Fnewstapa%2F20240613200152051cnig.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F13%2Fnewstapa%2F20240613200152051cnig.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3545,14 +3553,6 @@
             <pubDate>Wed, 29 May 2024 03:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529113003908" class="link_column" data-tiara-layer="[국정원_문건]⑥_블랙요원_법정_증언_&quot;이재명_위한_대납_아닌_北_통전부_상납_자금_추정&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[국정원 문건]⑥ 블랙요원 법정 증언 "이재명 위한 대납 아닌 北 통전부 상납 자금 추정"</strong><span class="info_txt"><span class="txt_info">2024. 5. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F31%2Fnewstapa%2F20240531161551859ejjz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F31%2Fnewstapa%2F20240531161551859ejjz.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 참사' 중국 동포 유가족 인터뷰..."영매 오빠 일송입니다" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240529104141258</link>
-            <guid>https://v.daum.net/v/20240529104141258</guid>
-            <pubDate>Wed, 29 May 2024 01:57:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240529104141258" class="link_column" data-tiara-layer="'이태원_참사'_중국_동포_유가족_인터뷰...&quot;영매_오빠_일송입니다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'이태원 참사' 중국 동포 유가족 인터뷰..."영매 오빠 일송입니다"</strong><span class="info_txt"><span class="txt_info">2024. 5. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529104158536hkfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202405%2F29%2Fnewstapa%2F20240529104158536hkfe.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
