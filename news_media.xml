@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 10:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] ‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다]]></title>
+            <link>http://newstapa.org/article/S7YcS</link>
+            <guid>http://newstapa.org/article/S7YcS</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] ‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20162545-1601-8382-1EB0-F6YRZVGLF6OZ3ADXGTFO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></title>
+            <link>http://newstapa.org/article/W0ODJ</link>
+            <guid>http://newstapa.org/article/W0ODJ</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20183939-3E75-1BDE-7396-8TB09AA6BBOOYHKWMHNG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></title>
+            <link>http://newstapa.org/article/MBllV</link>
+            <guid>http://newstapa.org/article/MBllV</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20184002-8D7F-6D52-9F84-B0J3OU4PWUZM4CZTNP2J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론]]></title>
             <link>http://newstapa.org/article/iuuSd</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑥] "약한 자 힘주시고 강한 자 바르게" 거리 위 언론인의 노래]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/26135428-072F-AEEC-6F9D-FE0PQ98CIY1QSJ3DSZ3W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, ‘조작 문자’로 법정서 언론플레이]]></title>
-            <link>http://newstapa.org/article/_tY-5</link>
-            <guid>http://newstapa.org/article/_tY-5</guid>
-            <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, ‘조작 문자’로 법정서 언론플레이]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/23212026-C059-B45A-F5D5-OQPMTEPKSKERAPD3GJC7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다]]></title>
-            <link>http://newstapa.org/article/c2nw9</link>
-            <guid>http://newstapa.org/article/c2nw9</guid>
-            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑤] 해직자의 낙인, 하지만 우리의 삶은 '그들'보다 나았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/22113002-DB9F-6BD8-79A7-K62ECQC9TX4OPRF98HTH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다]]></title>
-            <link>http://newstapa.org/article/ZWkg9</link>
-            <guid>http://newstapa.org/article/ZWkg9</guid>
-            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년④] 동아·조선 없는 세상에서 살고 싶다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/12141420-769E-D453-7EBF-DTE1K1PI2843TKL7LJ5A.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

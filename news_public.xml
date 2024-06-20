@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 10:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></title>
+            <link>http://newstapa.org/article/W0ODJ</link>
+            <guid>http://newstapa.org/article/W0ODJ</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20183939-3E75-1BDE-7396-8TB09AA6BBOOYHKWMHNG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></title>
+            <link>http://newstapa.org/article/MBllV</link>
+            <guid>http://newstapa.org/article/MBllV</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20184002-8D7F-6D52-9F84-B0J3OU4PWUZM4CZTNP2J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다]]></title>
             <link>http://newstapa.org/article/eJrUK</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 윤석열의 '마이웨이'와 기자들의 '셀프 입틀막']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/09184957-9EE8-B2FD-CEC6-M76RMGO0366KFH8PEP3T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 방심위⋅선방위에 얽히고설킨 보수단체 ‘공언련’ 인맥]]></title>
-            <link>http://newstapa.org/article/vJ9PM</link>
-            <guid>http://newstapa.org/article/vJ9PM</guid>
-            <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 방심위⋅선방위에 얽히고설킨 보수단체 ‘공언련’ 인맥]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/03105429-E3E1-16DB-AF9C-9MXWSZRCOAJEW9SW9V7L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’]]></title>
-            <link>http://newstapa.org/article/TwOIJ</link>
-            <guid>http://newstapa.org/article/TwOIJ</guid>
-            <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[법원, 법무부의 ‘업추비 먹칠 가림’에 제동...‘식당 이름 다 공개해라’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/02142902-27BC-A364-6A56-RA8I3LQKZCHGZ9BEQPDK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

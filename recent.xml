@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 10:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 11:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] ‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다]]></title>
+            <link>http://newstapa.org/article/S7YcS</link>
+            <guid>http://newstapa.org/article/S7YcS</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] ‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20162545-1601-8382-1EB0-F6YRZVGLF6OZ3ADXGTFO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></title>
+            <link>http://newstapa.org/article/W0ODJ</link>
+            <guid>http://newstapa.org/article/W0ODJ</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20183939-3E75-1BDE-7396-8TB09AA6BBOOYHKWMHNG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></title>
+            <link>http://newstapa.org/article/MBllV</link>
+            <guid>http://newstapa.org/article/MBllV</guid>
+            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20184002-8D7F-6D52-9F84-B0J3OU4PWUZM4CZTNP2J.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다]]></title>
             <link>http://newstapa.org/article/eJrUK</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[증인매수 의혹]① 쌍방울, 대북송금 핵심 증인 '금품 매수' 정황 포착]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/11152337-80DE-9146-1C4A-YP76BA8UO69TCW8J6G4I.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 수원대 '사학비리 끝판왕'의 복귀...그리고 교육부의 직무유기]]></title>
-            <link>http://newstapa.org/article/29Rel</link>
-            <guid>http://newstapa.org/article/29Rel</guid>
-            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 수원대 '사학비리 끝판왕'의 복귀...그리고 교육부의 직무유기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/11142959-9626-16C3-5520-N3NAWA132DYCUQU3IPT1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금"]]></title>
-            <link>http://newstapa.org/article/1CI9s</link>
-            <guid>http://newstapa.org/article/1CI9s</guid>
-            <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김성태 공범 안부수 판결문엔 "쌍방울 주가 띄우려 대북 송금"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/10171041-7B23-5ED9-91B6-RVQZ7P7ZYJY8TEQ5XGEZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["임성근 책임" 중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나]]></title>
-            <link>http://newstapa.org/article/KUlCg</link>
-            <guid>http://newstapa.org/article/KUlCg</guid>
-            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["임성근 책임" 중간보고서 묵살됐다...채 해병 사건 '2차 외압' 있었나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07190632-6BC0-99C6-F8F3-UP6043IKIQBRSR5IL3Y7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
