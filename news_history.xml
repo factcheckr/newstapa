@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 08:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 09:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑭] “언론이 바로 서야 나라가 바로 선다"]]></title>
+            <link>http://newstapa.org/article/m2VkG</link>
+            <guid>http://newstapa.org/article/m2VkG</guid>
+            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑭] “언론이 바로 서야 나라가 바로 선다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21132809-A778-884D-A385-RDG5T81KBSCT4Y1NF0WK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점']]></title>
             <link>http://newstapa.org/article/AjZ25</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년①] 해직과 굴절된 삶]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22152933-4D14-5113-B3BC-COB3LZ1NDWGKCEWHRYJ6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></title>
-            <link>http://newstapa.org/article/0MWvx</link>
-            <guid>http://newstapa.org/article/0MWvx</guid>
-            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]⑨ 의문의 '네덜란드 재단'으로 간 입양 기부금]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/02/02121216-CA9D-4608-594C-ZHVOZ7PJ8NTD35O96C11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
