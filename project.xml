@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 00:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 01:56:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채 해병 사건 수사 외압 의혹]]></title>
+            <link>https://newstapa.org/tags/%EC%B1%84%20%ED%95%B4%EB%B3%91%20%EC%82%AC%EA%B1%B4%20%EC%88%98%EC%82%AC%20%EC%99%B8%EC%95%95%20%EC%9D%98%ED%98%B9</link>
+            <guid>https://newstapa.org/tags/%EC%B1%84%20%ED%95%B4%EB%B3%91%20%EC%82%AC%EA%B1%B4%20%EC%88%98%EC%82%AC%20%EC%99%B8%EC%95%95%20%EC%9D%98%ED%98%B9</guid>
+            <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[故채수근 해병 사망 사건을 둘러싼 대통령실의 수사 외압 의혹을 뉴스타파가 추적 보도합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21102242-ABD7-4939-CFEE-FLSSGBT62WIPEI4WXITV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대북송금 X파일]]></title>
             <link>https://newstapa.org/tags/%EB%8C%80%EB%B6%81%EC%86%A1%EA%B8%88%20X%ED%8C%8C%EC%9D%BC</link>
