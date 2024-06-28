@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 08:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 09:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년⑮] 금남로와 칠성판의 참혹함, 기자는 시인이 됐다]]></title>
+            <link>http://newstapa.org/article/_kr59</link>
+            <guid>http://newstapa.org/article/_kr59</guid>
+            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년⑮] 금남로와 칠성판의 참혹함, 기자는 시인이 됐다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/28140038-3F59-BB2D-F061-TN6T97F7YK8K6LJW2XWE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입만 열면 거짓말... 류희림의 국회 위증 발언들]]></title>
             <link>http://newstapa.org/article/IntbQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19190811-C727-B897-19C1-NS72CW2O8469ISYJPT0T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공]]></title>
-            <link>http://newstapa.org/article/_q0A-</link>
-            <guid>http://newstapa.org/article/_q0A-</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[증인매수 의혹]③ 검찰청서 딸 만난 안부수 회장, 상봉 직후 쌍방울이 주택 제공]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19181817-012D-75C9-1054-HF2LKMOQ25UQU2RXGNAQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
