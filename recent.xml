@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 08:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 09:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“위원장이 극찬하더라” 쏟아지는 이해충돌 증거들]]></title>
+            <link>http://newstapa.org/article/wG2VY</link>
+            <guid>http://newstapa.org/article/wG2VY</guid>
+            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“위원장이 극찬하더라” 쏟아지는 이해충돌 증거들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04165758-C7D9-4CD0-B75C-Y3AZ32447WV39Y89W08U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”]]></title>
             <link>http://newstapa.org/article/Tmuw9</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20183939-3E75-1BDE-7396-8TB09AA6BBOOYHKWMHNG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></title>
-            <link>http://newstapa.org/article/MBllV</link>
-            <guid>http://newstapa.org/article/MBllV</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20184002-8D7F-6D52-9F84-B0J3OU4PWUZM4CZTNP2J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
