@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 10:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 11:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 채 해병 사건의 진실... 퍼즐은 용산을 가리킨다]]></title>
+            <link>http://newstapa.org/article/G4S-q</link>
+            <guid>http://newstapa.org/article/G4S-q</guid>
+            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 채 해병 사건의 진실... 퍼즐은 용산을 가리킨다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04190030-946F-B33E-4A5E-83OD2Z7E5QRSYMKLN17A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채 해병 사건 기록 수천쪽 분석...'외압의 재구성']]></title>
+            <link>http://newstapa.org/article/Vv0bl</link>
+            <guid>http://newstapa.org/article/Vv0bl</guid>
+            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[채 해병 사건 기록 수천쪽 분석...'외압의 재구성']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04171911-DF10-F48B-CA12-IGJ140SHIEY27D8TG2DI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채 해병 사건, 흔들리는 거짓과 침묵의 삼각형]]></title>
+            <link>http://newstapa.org/article/5ffLS</link>
+            <guid>http://newstapa.org/article/5ffLS</guid>
+            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[채 해병 사건, 흔들리는 거짓과 침묵의 삼각형]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04171023-1D90-73D1-83AD-E19VD09LJ9LTPMM4X15E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“위원장이 극찬하더라” 쏟아지는 이해충돌 증거들]]></title>
             <link>http://newstapa.org/article/wG2VY</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑭] “언론이 바로 서야 나라가 바로 선다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21132809-A778-884D-A385-RDG5T81KBSCT4Y1NF0WK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[증인매수 의혹]④ 안부수 딸 카톡에 '부당거래' 정황...“아빠가 검찰과 합의봤어”]]></title>
-            <link>http://newstapa.org/article/vVBA-</link>
-            <guid>http://newstapa.org/article/vVBA-</guid>
-            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[증인매수 의혹]④ 안부수 딸 카톡에 '부당거래' 정황...“아빠가 검찰과 합의봤어”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21165404-6785-638E-92BA-2FJ2S3C0ALXJE758TY93.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] ‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다]]></title>
-            <link>http://newstapa.org/article/S7YcS</link>
-            <guid>http://newstapa.org/article/S7YcS</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] ‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20162545-1601-8382-1EB0-F6YRZVGLF6OZ3ADXGTFO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></title>
-            <link>http://newstapa.org/article/W0ODJ</link>
-            <guid>http://newstapa.org/article/W0ODJ</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20183939-3E75-1BDE-7396-8TB09AA6BBOOYHKWMHNG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
