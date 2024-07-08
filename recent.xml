@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 00:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 02:01:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다]]></title>
+            <link>http://newstapa.org/article/fcvJ5</link>
+            <guid>http://newstapa.org/article/fcvJ5</guid>
+            <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/05173038-9A90-7151-8691-UUHBV8WA6773PN0QDPVZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[증인매수 의혹]⑥ 검찰, 1심 징역형 '안부수 회장' 출국금지 왜 풀어줬나]]></title>
             <link>http://newstapa.org/article/fzw7g</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[증인매수 의혹]⑤ "검사와 거래" 직후, 쌍방울이 '안부수 폰' 가져갔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/25141840-BDCD-B241-95F0-DA9A8SLH9KMO5OILXNV1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처, 이원석 검찰총장 국회 위증혐의 수사 착수... 고발 사건 배당]]></title>
-            <link>http://newstapa.org/article/wvssX</link>
-            <guid>http://newstapa.org/article/wvssX</guid>
-            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처, 이원석 검찰총장 국회 위증혐의 수사 착수... 고발 사건 배당]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/24135613-499F-F6AD-5EA4-N9BI6R35I4KWBCIX213G.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
