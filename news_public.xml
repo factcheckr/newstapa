@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 00:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 02:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></title>
+            <link>http://newstapa.org/article/zJa7k</link>
+            <guid>http://newstapa.org/article/zJa7k</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08174254-A67C-FDA4-0D50-X9ZKL149VVNKQVXB7G6Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 채 해병 사건의 진실... 퍼즐은 용산을 가리킨다]]></title>
             <link>http://newstapa.org/article/G4S-q</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19190811-C727-B897-19C1-NS72CW2O8469ISYJPT0T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹]]></title>
-            <link>http://newstapa.org/article/97ovv</link>
-            <guid>http://newstapa.org/article/97ovv</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19140535-FB3C-EB8B-A821-HBDV71A08735MUXCEDEH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

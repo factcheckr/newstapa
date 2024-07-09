@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 00:41:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 02:04:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/zJa7k</link>
+            <guid>http://newstapa.org/article/zJa7k</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08174254-A67C-FDA4-0D50-X9ZKL149VVNKQVXB7G6Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/fcvJ5</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/26170527-1964-8D46-F6FE-GZ3CEOG24ILTMMWCC0D1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[증인매수 의혹]⑤ "검사와 거래" 직후, 쌍방울이 '안부수 폰' 가져갔다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gv18L</link>
-            <guid>http://newstapa.org/article/gv18L</guid>
-            <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[증인매수 의혹]⑤ "검사와 거래" 직후, 쌍방울이 '안부수 폰' 가져갔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/25141840-BDCD-B241-95F0-DA9A8SLH9KMO5OILXNV1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/zJa7k</link>
+            <guid>http://newstapa.org/article/zJa7k</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08174254-A67C-FDA4-0D50-X9ZKL149VVNKQVXB7G6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 채 해병 사건의 진실... 퍼즐은 용산을 가리킨다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['채 해병 사건 회수' 시작점에 윤석열... 새 통화 기록 나왔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19190811-C727-B897-19C1-NS72CW2O8469ISYJPT0T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/97ovv</link>
-            <guid>http://newstapa.org/article/97ovv</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19140535-FB3C-EB8B-A821-HBDV71A08735MUXCEDEH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[증인매수 의혹]⑥ 검찰, 1심 징역형 '안부수 회장' 출국금지 왜 풀어줬나 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/zJa7k</link>
+            <guid>http://newstapa.org/article/zJa7k</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08174254-A67C-FDA4-0D50-X9ZKL149VVNKQVXB7G6Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년 - 16] 비분강개 할 일에도, 그는 가만히 처음 그대로였다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/coytg</link>
             <guid>http://newstapa.org/article/coytg</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰의 침탈 이유 "뉴스타파 미래 보도까지 두려워하기 때문"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/14175925-8903-E443-0190-QXEYYE5S2XWZXL0BT1AV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/BzUNj</link>
-            <guid>http://newstapa.org/article/BzUNj</guid>
-            <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/10111356-F80C-F33C-8997-7W0HTJ80KW7X2U8YX4MP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채 해병 사건 수사 외압 의혹 (뉴스타파 ─ 프로젝트)]]></title>
@@ -2929,6 +2929,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/zJa7k</link>
+            <guid>https://www.newstapa.org/article/zJa7k</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.09]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08174254-A67C-FDA4-0D50-X9ZKL149VVNKQVXB7G6Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]"특활비·출장비 등 공개하라"...뉴스타파, 감사원 상대 정보공개 소송 1심 승소 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/gKSLU</link>
             <guid>https://www.newstapa.org/article/gKSLU</guid>
@@ -3047,14 +3055,6 @@
             <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.05]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05105050-AF6D-803E-089C-TS92YB5EEFU3AIH2OU9V.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 스타벅스 취업규칙 개정... '노동 탄압' 조항 대거 삭제 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/YS_p5</link>
-            <guid>https://www.newstapa.org/article/YS_p5</guid>
-            <pubDate>Thu, 04 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.04]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/04091801-C672-85E9-E9AC-14V58A0ZK8NXL3Z64J7I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요 (뉴스타파 ─ 참여)]]></title>
@@ -3183,6 +3183,13 @@
             <pubDate>Thu, 06 Aug 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2020.08.06]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105933026</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105933026</guid>
+            <pubDate>Tue, 09 Jul 2024 02:04:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>뉴스타파는 지난달 20일 동아일보, 중앙일보 등 언론사가 부산광역시로부터 돈을 받고 엑스포 홍보 기사를 실어줬다는 의혹을 보도했습니다. <br></span><span><br></span><span>이에 대해 유인촌 문화체육관광부 장관은 어제(8일) 국회에서 "(부산시와 언론사의)법 위반 여부를 따져보겠다" 라고 밝혔습니다. 또 한국언론진흥재단도 부산시와 언론사를 대상으로 사실 관계 확인을 검토하겠다고 밝혔습니다. 지난달 뉴스타파 보도 이후 관계 기관의 첫 공식적인 반응입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/zJa7k" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/zJa7k</span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3318,18 +3325,19 @@
             <content:encoded><![CDATA[<span><span>지난해 '역대급 참패'로 끝난 부산 엑스포 유치전에서 정부가 쓴 예산은 총 3,200억 원에 달합니다. 이 중 부산시가 쓴 예산 330억 원을 검증한 결과, 해외보다는 국내 홍보에 더 많은 예산이 쓰인 것으로 확인됐습니다. 엑스포 유치를 위해 배정된 세금을 엉뚱한 곳에 낭비했다는 비판을 피하기 어려워 보입니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/rOm98RXuJxI" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/rOm98RXuJxI</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/W0ODJ" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/W0ODJ</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105710285</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105710285</guid>
-            <pubDate>Thu, 20 Jun 2024 12:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>지난해 부산 엑스포 유치전 과정에서, 부산시가 일부 신문사에게 돈을 주고 엑스포 홍보 기사와 칼럼을 싣도록 한 정황이 포착됐습니다. <br></span><span><br></span><span>뉴스타파가 입수한 부산시 내부 문서에 따르면, 부산시는 동아일보와 중앙일보, 한국경제 등 3개 신문사에 총 1억 3,200만 원의 'PR 홍보비'를 지급했습니다. 그리고 이 신문들이 게재한 엑스포 홍보 기사와 칼럼 등을 'PR 실적'으로 정리해 보고했습니다. 부산시가 신문사들과 '기사·칼럼 거래'를 한 것으로 보이는 구체적 정황입니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/Kdkxwlbiys0" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/Kdkxwlbiys0</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/MBllV" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/MBllV</span></a>]]></content:encoded>
+            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240709100002717</link>
+            <guid>https://v.daum.net/v/20240709100002717</guid>
+            <pubDate>Tue, 09 Jul 2024 02:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709100002717" class="link_column" data-tiara-layer="부산시-유력_신문사의_‘기사_거래_의혹’_보도_후,_유인촌_장관_“법_위반_따져보겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240708101503254</link>
             <guid>https://v.daum.net/v/20240708101503254</guid>
             <pubDate>Mon, 08 Jul 2024 02:01:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240708101503254" class="link_column" data-tiara-layer="뉴스타파,_국방부_'5천_명_증언록'_60년_비밀_뚫다_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F08%2Fnewstapa%2F20240708101530311axhs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240708101503254" class="link_column" data-tiara-layer="뉴스타파,_국방부_'5천_명_증언록'_60년_비밀_뚫다_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F08%2Fnewstapa%2F20240708101530311axhs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F08%2Fnewstapa%2F20240708101530311axhs.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3553,14 +3561,6 @@
             <guid>https://v.daum.net/v/20240618182141534</guid>
             <pubDate>Tue, 18 Jun 2024 10:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240618182141534" class="link_column" data-tiara-layer="채해병_사건_통화기록_‘폐기금지_제도’를_활용하자_alltab"><div class="cont_thumb"><strong class="tit_txt">채해병 사건 통화기록 ‘폐기금지 제도’를 활용하자</strong><span class="info_txt"><span class="txt_info">2024. 6. 18.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA['코로나 방역 비판' 쿠팡 노동자들, 부당해고 소송 4년 만에 1심 '승소' (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240618105142205</link>
-            <guid>https://v.daum.net/v/20240618105142205</guid>
-            <pubDate>Tue, 18 Jun 2024 02:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240618105142205" class="link_column" data-tiara-layer="'코로나_방역_비판'_쿠팡_노동자들,_부당해고_소송_4년_만에_1심_'승소'_alltab"><div class="cont_thumb"><strong class="tit_txt">'코로나 방역 비판' 쿠팡 노동자들, 부당해고 소송 4년 만에 1심 '승소'</strong><span class="info_txt"><span class="txt_info">2024. 6. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F18%2Fnewstapa%2F20240618105145383zrsu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F18%2Fnewstapa%2F20240618105145383zrsu.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
