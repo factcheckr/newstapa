@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 05:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 06:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/m1-CH</link>
+            <guid>http://newstapa.org/article/m1-CH</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/09150542-6142-7BB5-A016-9PJE3G5EM62ES65L6TL9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Z0G3b</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산엑스포 예산검증③박형준 부인과 특수관계인 화가의 접시 4천만 원 구매]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27192934-B1AB-9621-41B0-9K8VVMZ00GC3A5IYFE6E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산엑스포 예산검증④ 세금으로 '김건희 키링' 1만 개와 갤럭시탭 100개 구매 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/rjBCN</link>
-            <guid>http://newstapa.org/article/rjBCN</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산엑스포 예산검증④ 세금으로 '김건희 키링' 1만 개와 갤럭시탭 100개 구매]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27192952-454C-E661-9873-VCMU5AC4RPJWLATYGOCD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20184002-8D7F-6D52-9F84-B0J3OU4PWUZM4CZTNP2J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/m1-CH</link>
+            <guid>http://newstapa.org/article/m1-CH</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/09150542-6142-7BB5-A016-9PJE3G5EM62ES65L6TL9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/4YTEg</link>
             <guid>http://newstapa.org/article/4YTEg</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰의 '이화영 회유' 뒷받침 증언 "검사가 좋은 일 생길 거라 말해"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/03172217-DAEF-180A-83DC-O1J7EYL026XKELURCPXA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 검찰에 반박한다, '쌍방울 주가조작' 증거와 국정원 요원의 폭로 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/KnzIk</link>
-            <guid>http://newstapa.org/article/KnzIk</guid>
-            <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 검찰에 반박한다, '쌍방울 주가조작' 증거와 국정원 요원의 폭로]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/30194341-0D7F-CA2F-1E0E-R4ZXLCOG1FQGNW4DKHFS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3185,6 +3185,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105939217</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105939217</guid>
+            <pubDate>Tue, 09 Jul 2024 06:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>검찰이 어제(8일) 뉴스타파 김용진 대표와 한상진 기자를 기소했습니다. 뉴스타파가 지난 2022년 보도한 '김만배-신학림 녹음파일' 기사가 윤석열 대통령의 명예를 훼손했다는 혐의입니다. <br></span><span><br></span><span>언론과 시민들을 향한 검찰의 수사·기소가 계속되는 가운데, 뉴스타파는 윤석열 정부 검찰이 자행하는 각종 불법 행위를 오늘부터 추적 보도합니다. 검찰의 불법적인 압수수색과 정치 목적의 수사, 그리고 검찰의 '전자 캐비넷'으로 불리는 디넷(D-net)과 이를 둘러싼 민간인 사찰 의혹 등을 집중적으로 파헤칠 예정입니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/CRYlMMGHcCA" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/CRYlMMGHcCA</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/m1-CH" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/m1-CH</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105937655</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105937655</guid>
@@ -3318,18 +3325,19 @@
             <content:encoded><![CDATA[<span><span>오늘(21일) 오전 국회에서 ‘채 해병 특검법’ 입법청문회가 열렸습니다. <br></span><span>오늘 열린 청문회에는 박정훈 전 해병대 수사단장, 임성근 전 1사단장, 이종섭 전 국방부 장관 등 사건의 핵심 관계자들이 참석해 국민들의 주목을 받았습니다. <br></span><span><br></span><span>그러나 임성근 전 사단장, 이종섭 전 장관 등 의혹 당사자들이 증인 선서를 거부하면서 청문회는 시작부터 갈등이 고조됐습니다. <br></span><span>이들은 채 해병 사망 사건과 대통령실 수사 외압 의혹에 대해 제대로 대답하지 않거나, “날짜를 착각했다”는 등 궁색한 변명을 늘어놓기도 했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/3BSSRJfUlW0" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/3BSSRJfUlW0</span></a><span><span> (</span></span><a href="https://youtu.be/3BSSRJfUlW0?si=3qyD7aHMVSWdleuA" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/3BSSRJfUlW0?si=3qyD7aHMVSWdleuA</span></a><span><span>)<br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/bPtO0" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/bPtO0</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[증인매수 의혹]④ 안부수 딸 카톡에 '부당거래' 정황...“아빠가 검찰과 합의봤어” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105722866</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105722866</guid>
-            <pubDate>Fri, 21 Jun 2024 08:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>뉴스타파는 '대북송금 사건' 핵심 피의자 중 한 명인 안부수 아태평화교류협회 회장이 검찰과 모종의 거래를 한 정황을 포착했습니다.<br></span><span><br></span><span>뉴스타파가 확보한 안부수 회장의 딸 C씨의 카카오톡 대화 내용에 따르면, 지난해 2월 17일 C씨는 "아빠(안부수)가 검찰과 보석으로 합의를 봤다고 했다" 라는 내용의 메시지를 남겼습니다. <br></span><span>또 C씨는 "아빠에게 '이화영 쪽으로 붙어야 되지 않느냐'고 말했지만 의지를 돌릴 수가 없었다" 라는 메시지도 남겼습니다. 안부수 회장이 검사가 요구하는 진술을 해주는 대가로 보석 석방을 약속받은 것은 아닌지 의심되는 정황입니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/K_nDxkB-08Y" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/K_nDxkB-08Y</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/vVBA-" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/vVBA-</span></a>]]></content:encoded>
+            <title><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240709151502217</link>
+            <guid>https://v.daum.net/v/20240709151502217</guid>
+            <pubDate>Tue, 09 Jul 2024 06:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709151502217" class="link_column" data-tiara-layer="뉴스타파,_'윤석열_검찰'_불법행위_추적_폭로한다_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다</strong><span class="info_txt"><span class="txt_info">7분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709151507647spmr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709151507647spmr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240709134006831</link>
             <guid>https://v.daum.net/v/20240709134006831</guid>
             <pubDate>Tue, 09 Jul 2024 05:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709134006831" class="link_column" data-tiara-layer="쿠팡,_'블랙리스트'_제보자에_보복하려_'별건_고소'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹</strong><span class="info_txt"><span class="txt_info">31분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709134007860hocz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709134006831" class="link_column" data-tiara-layer="쿠팡,_'블랙리스트'_제보자에_보복하려_'별건_고소'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709134007860hocz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709134007860hocz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3337,14 +3345,15 @@
             <link>https://v.daum.net/v/20240709113004315</link>
             <guid>https://v.daum.net/v/20240709113004315</guid>
             <pubDate>Tue, 09 Jul 2024 02:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709113004315" class="link_column" data-tiara-layer="[윤석열의_해석_개헌]_⑤_바이든_거부권과_윤석열_거부권의_차이_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709113004315" class="link_column" data-tiara-layer="[윤석열의_해석_개헌]_⑤_바이든_거부권과_윤석열_거부권의_차이_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709141902079fbqx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709141902079fbqx.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240709100002717</link>
             <guid>https://v.daum.net/v/20240709100002717</guid>
             <pubDate>Tue, 09 Jul 2024 02:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709100002717" class="link_column" data-tiara-layer="부산시-유력_신문사의_‘기사_거래_의혹’_보도_후,_유인촌_장관_“법_위반_따져보겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709100002717" class="link_column" data-tiara-layer="부산시-유력_신문사의_‘기사_거래_의혹’_보도_후,_유인촌_장관_“법_위반_따져보겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3376,24 +3385,24 @@
             <link>https://v.daum.net/v/20240704200510696</link>
             <guid>https://v.daum.net/v/20240704200510696</guid>
             <pubDate>Thu, 04 Jul 2024 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704200510696" class="link_column" data-tiara-layer="[주간_뉴스타파]_채_해병_사건의_진실..._퍼즐은_용산을_가리킨다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 채 해병 사건의 진실... 퍼즐은 용산을 가리킨다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704200513075clgy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704200513075clgy.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704200510696" class="link_column" data-tiara-layer="[주간_뉴스타파]_채_해병_사건의_진실..._퍼즐은_용산을_가리킨다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 채 해병 사건의 진실... 퍼즐은 용산을 가리킨다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142600181usgo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142600181usgo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[채 해병 사건 기록 수천쪽 분석...'외압의 재구성' (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240704200504692</link>
             <guid>https://v.daum.net/v/20240704200504692</guid>
             <pubDate>Thu, 04 Jul 2024 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704200504692" class="link_column" data-tiara-layer="채_해병_사건_기록_수천쪽_분석...'외압의_재구성'_alltab"><div class="cont_thumb"><strong class="tit_txt">채 해병 사건 기록 수천쪽 분석...'외압의 재구성'</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704200510058bpup.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704200510058bpup.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704200504692" class="link_column" data-tiara-layer="채_해병_사건_기록_수천쪽_분석...'외압의_재구성'_alltab"><div class="cont_thumb"><strong class="tit_txt">채 해병 사건 기록 수천쪽 분석...'외압의 재구성'</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142604043wlod.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142604043wlod.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[채 해병 사건, 흔들리는 거짓과 침묵의 삼각형 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240704200003525</link>
             <guid>https://v.daum.net/v/20240704200003525</guid>
             <pubDate>Thu, 04 Jul 2024 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704200003525" class="link_column" data-tiara-layer="채_해병_사건,_흔들리는_거짓과_침묵의_삼각형_alltab"><div class="cont_thumb"><strong class="tit_txt">채 해병 사건, 흔들리는 거짓과 침묵의 삼각형</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704200016688hvin.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704200016688hvin.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704200003525" class="link_column" data-tiara-layer="채_해병_사건,_흔들리는_거짓과_침묵의_삼각형_alltab"><div class="cont_thumb"><strong class="tit_txt">채 해병 사건, 흔들리는 거짓과 침묵의 삼각형</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142610557nwho.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142610557nwho.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA["류희림이 극찬하더라" 쏟아지는 이해충돌 증거들 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3487,8 +3496,8 @@
             <link>https://v.daum.net/v/20240621220002216</link>
             <guid>https://v.daum.net/v/20240621220002216</guid>
             <pubDate>Fri, 21 Jun 2024 13:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240621220002216" class="link_column" data-tiara-layer="증언대에_선_채_해병_사건_의혹_당사자들…_“선서_거부&quot;_“착각했다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">증언대에 선 채 해병 사건 의혹 당사자들… “선서 거부" “착각했다"</strong><span class="info_txt"><span class="txt_info">2024. 6. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F21%2Fnewstapa%2F20240621220007374oqfn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F21%2Fnewstapa%2F20240621220007374oqfn.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240621220002216" class="link_column" data-tiara-layer="증언대에_선_채_해병_사건_의혹_당사자들…_“선서_거부&quot;_“착각했다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">증언대에 선 채 해병 사건 의혹 당사자들… “선서 거부" “착각했다"</strong><span class="info_txt"><span class="txt_info">2024. 6. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142613917vilt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142613917vilt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑭] “언론이 바로 서야 나라가 바로 선다" (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3553,14 +3562,6 @@
             <pubDate>Wed, 19 Jun 2024 06:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619151644969" class="link_column" data-tiara-layer="윤석열_정부_고위_검사_'3분의_2'가_특수활동비_오남용_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹</strong><span class="info_txt"><span class="txt_info">2024. 6. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619151730367igob.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619151730367igob.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[위헌적인 선거구 획정 탓에 국민의힘 과대 대표 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240619143141976</link>
-            <guid>https://v.daum.net/v/20240619143141976</guid>
-            <pubDate>Wed, 19 Jun 2024 06:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619143141976" class="link_column" data-tiara-layer="위헌적인_선거구_획정_탓에_국민의힘_과대_대표_alltab"><div class="cont_thumb"><strong class="tit_txt">위헌적인 선거구 획정 탓에 국민의힘 과대 대표</strong><span class="info_txt"><span class="txt_info">2024. 6. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619143142808ztbz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619143142808ztbz.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
