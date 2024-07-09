@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 04:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 05:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Z0G3b</link>
+            <guid>http://newstapa.org/article/Z0G3b</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08173820-5FCC-6680-F953-1W2H43GAJRRV0RJIXM6C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/4YTEg</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산엑스포 예산검증④ 세금으로 '김건희 키링' 1만 개와 갤럭시탭 100개 구매]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27192952-454C-E661-9873-VCMU5AC4RPJWLATYGOCD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/5r_LN</link>
-            <guid>http://newstapa.org/article/5r_LN</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27063235-CCD9-EFE2-D24F-9HA5HBTJRCN3KWRF2A5J.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02161926-C82C-170E-4342-XZ08ARWOX23TDD365PJE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/Z0G3b</link>
+            <guid>http://newstapa.org/article/Z0G3b</guid>
+            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08173820-5FCC-6680-F953-1W2H43GAJRRV0RJIXM6C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['코로나 방역 비판' 쿠팡 노동자들, 부당해고 소송 4년 만에 1심 '승소' (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/hrsaW</link>
             <guid>http://newstapa.org/article/hrsaW</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/09150430-64FD-ABFF-663F-O147DSRWQQSM372M8M4A.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[해외입양과 돈]⑦20만평 캠핑장을 낳은 해외입양 사업 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/CO_Qd</link>
-            <guid>http://newstapa.org/article/CO_Qd</guid>
-            <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[해외입양과 돈]⑦20만평 캠핑장을 낳은 해외입양 사업]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/22170711-2A21-0BB2-F190-RND77RZ0TP18X543UG10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부의 금강파괴2 - 생물다양성 파괴하는 세종보 재가동 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3185,6 +3185,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/105937655</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/105937655</guid>
+            <pubDate>Tue, 09 Jul 2024 05:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>최근 경찰이 이른바 '쿠팡 블랙리스트' 제보자 A씨의 자택과 휴대전화를 압수수색했습니다. A씨가 쿠팡의 영업비밀 등 자료를 유출해 회사에 손해를 끼쳤다는 혐의였습니다. <br></span><span><br></span><span>그런데 뉴스타파가 A씨에 대한 압수수색 영장을 확인해 보니, A씨가 유출했다고 적시된 파일 중 '블랙리스트' 파일은 찾아볼 수 없었습니다. 쿠팡 측에서 회사에 불리한 내용은 빼놓은 채, A씨에 대해 보복성 별건 고소를 한 것이 아닌지 의심되는 정황입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/Z0G3b" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/Z0G3b</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/105936198</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/105936198</guid>
@@ -3318,25 +3325,26 @@
             <content:encoded><![CDATA[<span><span>뉴스타파는 '대북송금 사건' 핵심 피의자 중 한 명인 안부수 아태평화교류협회 회장이 검찰과 모종의 거래를 한 정황을 포착했습니다.<br></span><span><br></span><span>뉴스타파가 확보한 안부수 회장의 딸 C씨의 카카오톡 대화 내용에 따르면, 지난해 2월 17일 C씨는 "아빠(안부수)가 검찰과 보석으로 합의를 봤다고 했다" 라는 내용의 메시지를 남겼습니다. <br></span><span>또 C씨는 "아빠에게 '이화영 쪽으로 붙어야 되지 않느냐'고 말했지만 의지를 돌릴 수가 없었다" 라는 메시지도 남겼습니다. 안부수 회장이 검사가 요구하는 진술을 해주는 대가로 보석 석방을 약속받은 것은 아닌지 의심되는 정황입니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/K_nDxkB-08Y" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/K_nDxkB-08Y</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/vVBA-" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/vVBA-</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105710304</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105710304</guid>
-            <pubDate>Thu, 20 Jun 2024 12:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>지난해 11월, 윤석열 정부와 부산시가 추진했던 부산 엑스포 유치전이 참패로 끝났습니다. 당시 국내 언론에서는 '부산이 사우디를 역전하고 엑스포를 유치할 것' 이라며 희망적인 보도를 내놨지만, 결국 부산은 총 179표 중 29표를 얻는데 그치며 엑스포 유치에 실패했습니다.<br></span><span><br></span><span>당시 엑스포 유치전에 배정된 예산은 약 3천 2백억 원에 달합니다. 뉴스타파는 이 중 부산시가 쓴 예산 330억 원의 세부 내역을 확보해 검증했습니다. 그 결과, 황당하게도 해외보다는 국내 언론에 더 많은 예산이 쓰인 것으로 확인됐습니다. <br></span><span>심지어 일부 국내 언론사는 돈을 받고 엑스포를 지지하는 기사와 칼럼을 싣기도 했습니다. 엑스포 유치전을 둘러싼 정부와 부산시, 그리고 언론의 행태를 뉴스타파가 분석했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/K8ZL8qKVMhM" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/K8ZL8qKVMhM</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/S7YcS" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/S7YcS</span></a>]]></content:encoded>
+            <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240709134006831</link>
+            <guid>https://v.daum.net/v/20240709134006831</guid>
+            <pubDate>Tue, 09 Jul 2024 05:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709134006831" class="link_column" data-tiara-layer="쿠팡,_'블랙리스트'_제보자에_보복하려_'별건_고소'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹</strong><span class="info_txt"><span class="txt_info">31분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709134007860hocz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709134007860hocz.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240709113004315</link>
             <guid>https://v.daum.net/v/20240709113004315</guid>
             <pubDate>Tue, 09 Jul 2024 02:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709113004315" class="link_column" data-tiara-layer="[윤석열의_해석_개헌]_⑤_바이든_거부권과_윤석열_거부권의_차이_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709113004315" class="link_column" data-tiara-layer="[윤석열의_해석_개헌]_⑤_바이든_거부권과_윤석열_거부권의_차이_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240709100002717</link>
             <guid>https://v.daum.net/v/20240709100002717</guid>
             <pubDate>Tue, 09 Jul 2024 02:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709100002717" class="link_column" data-tiara-layer="부산시-유력_신문사의_‘기사_거래_의혹’_보도_후,_유인촌_장관_“법_위반_따져보겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709100002717" class="link_column" data-tiara-layer="부산시-유력_신문사의_‘기사_거래_의혹’_보도_후,_유인촌_장관_“법_위반_따져보겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3400,7 +3408,7 @@
             <link>https://v.daum.net/v/20240702134003223</link>
             <guid>https://v.daum.net/v/20240702134003223</guid>
             <pubDate>Tue, 02 Jul 2024 05:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240702134003223" class="link_column" data-tiara-layer="[쌍방울_내부자_폭로]③_대북사업_핵심_임원_“이재명_방북_비용으로_검사가_몰아갔다”_alltab"><div class="cont_thumb"><strong class="tit_txt">[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F02%2Fnewstapa%2F20240702134009846ieer.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240702134003223" class="link_column" data-tiara-layer="[쌍방울_내부자_폭로]③_대북사업_핵심_임원_“이재명_방북_비용으로_검사가_몰아갔다”_alltab"><div class="cont_thumb"><strong class="tit_txt">[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”</strong><span class="info_txt"><span class="txt_info">2024. 7. 2.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F02%2Fnewstapa%2F20240702134009846ieer.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F02%2Fnewstapa%2F20240702134009846ieer.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3553,14 +3561,6 @@
             <pubDate>Wed, 19 Jun 2024 06:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619143141976" class="link_column" data-tiara-layer="위헌적인_선거구_획정_탓에_국민의힘_과대_대표_alltab"><div class="cont_thumb"><strong class="tit_txt">위헌적인 선거구 획정 탓에 국민의힘 과대 대표</strong><span class="info_txt"><span class="txt_info">2024. 6. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619143142808ztbz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619143142808ztbz.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점' (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240619090141740</link>
-            <guid>https://v.daum.net/v/20240619090141740</guid>
-            <pubDate>Wed, 19 Jun 2024 00:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240619090141740" class="link_column" data-tiara-layer="오물풍선_대신_용각산과_카라멜,_뉴스타파_새영화_'판문점'_alltab"><div class="cont_thumb"><strong class="tit_txt">오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점'</strong><span class="info_txt"><span class="txt_info">2024. 6. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619090143807iduu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F19%2Fnewstapa%2F20240619090143807iduu.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
