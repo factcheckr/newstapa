@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 04:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 05:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색]]></title>
+            <link>http://newstapa.org/article/v8XAA</link>
+            <guid>http://newstapa.org/article/v8XAA</guid>
+            <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/10132600-42C1-88BA-8345-L2XJYFM9XA3G88QTWMSF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["류희림이 류희림을 조사하라" 도망간 권익위]]></title>
             <link>http://newstapa.org/article/5xNkm</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[증언대에 선 채 해병 사건 의혹 당사자들… “선서 거부" “착각했다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21215500-9A37-2A65-9368-F12ALBKVZGL66EOE8IED.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></title>
-            <link>http://newstapa.org/article/W0ODJ</link>
-            <guid>http://newstapa.org/article/W0ODJ</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20183939-3E75-1BDE-7396-8TB09AA6BBOOYHKWMHNG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
