@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 10:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 11:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나]]></title>
+            <link>http://newstapa.org/article/oq16J</link>
+            <guid>http://newstapa.org/article/oq16J</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11181201-88AF-5155-7EF8-ADBB40GB9GKPWV5DCR94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나]]></title>
+            <link>http://newstapa.org/article/Tm8fk</link>
+            <guid>http://newstapa.org/article/Tm8fk</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11174244-C3EE-0963-6042-7YMPSE523KFICRACEMW9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성]]></title>
+            <link>http://newstapa.org/article/H9_xU</link>
+            <guid>http://newstapa.org/article/H9_xU</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/10192843-B20D-966A-B115-UAJE635OLSNMDKYXMP5E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></title>
+            <link>http://newstapa.org/article/IgZUa</link>
+            <guid>http://newstapa.org/article/IgZUa</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11191410-9C7E-4B73-23FD-6RZ6KB14FI5E9VDFBS29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색]]></title>
             <link>http://newstapa.org/article/v8XAA</link>
@@ -102,38 +134,6 @@
             <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[채 해병 사건, 흔들리는 거짓과 침묵의 삼각형]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04171023-1D90-73D1-83AD-E19VD09LJ9LTPMM4X15E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“위원장이 극찬하더라” 쏟아지는 이해충돌 증거들]]></title>
-            <link>http://newstapa.org/article/wG2VY</link>
-            <guid>http://newstapa.org/article/wG2VY</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“위원장이 극찬하더라” 쏟아지는 이해충돌 증거들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04165758-C7D9-4CD0-B75C-Y3AZ32447WV39Y89W08U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”]]></title>
-            <link>http://newstapa.org/article/Tmuw9</link>
-            <guid>http://newstapa.org/article/Tmuw9</guid>
-            <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/02132906-135B-CD4E-0401-XJ7JNGOSVWOK5YQT8ZBU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑮] 금남로와 칠성판의 참혹함, 기자는 시인이 됐다]]></title>
-            <link>http://newstapa.org/article/_kr59</link>
-            <guid>http://newstapa.org/article/_kr59</guid>
-            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑮] 금남로와 칠성판의 참혹함, 기자는 시인이 됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/28140038-3F59-BB2D-F061-TN6T97F7YK8K6LJW2XWE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입만 열면 거짓말... 류희림의 국회 위증 발언들]]></title>
-            <link>http://newstapa.org/article/IntbQ</link>
-            <guid>http://newstapa.org/article/IntbQ</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[입만 열면 거짓말... 류희림의 국회 위증 발언들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27205724-6DEF-7A43-99FD-KZIG2GD74ZQTTYTGLMNH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

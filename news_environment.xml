@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 10:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 11:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나]]></title>
+            <link>http://newstapa.org/article/Tm8fk</link>
+            <guid>http://newstapa.org/article/Tm8fk</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11174244-C3EE-0963-6042-7YMPSE523KFICRACEMW9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부의 금강파괴2 - 생물다양성 파괴하는 세종보 재가동]]></title>
             <link>http://newstapa.org/article/90bwa</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/04164910-61AB-E9B1-1961-YWICLAVS0LW39P82R0MS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙동강서 메탄 대량 배출 확인... 원인은 보 때문에 쌓인 녹조]]></title>
-            <link>http://newstapa.org/article/zsUsk</link>
-            <guid>http://newstapa.org/article/zsUsk</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[낙동강서 메탄 대량 배출 확인... 원인은 보 때문에 쌓인 녹조]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02161926-C82C-170E-4342-XZ08ARWOX23TDD365PJE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

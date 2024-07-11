@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 10:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 11:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나]]></title>
+            <link>http://newstapa.org/article/oq16J</link>
+            <guid>http://newstapa.org/article/oq16J</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11181201-88AF-5155-7EF8-ADBB40GB9GKPWV5DCR94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나]]></title>
+            <link>http://newstapa.org/article/Tm8fk</link>
+            <guid>http://newstapa.org/article/Tm8fk</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11174244-C3EE-0963-6042-7YMPSE523KFICRACEMW9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성]]></title>
+            <link>http://newstapa.org/article/H9_xU</link>
+            <guid>http://newstapa.org/article/H9_xU</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/10192843-B20D-966A-B115-UAJE635OLSNMDKYXMP5E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부의 금강파괴2 - 생물다양성 파괴하는 세종보 재가동]]></title>
             <link>http://newstapa.org/article/90bwa</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["한국 정부는 기다리라고만"... 차별받는 이태원 참사 외국인 피해자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/30102551-09E2-141C-E614-SNPZ2Z499CWF82JA09W9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유]]></title>
-            <link>http://newstapa.org/article/Or6lx</link>
-            <guid>http://newstapa.org/article/Or6lx</guid>
-            <pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이태원 특별법' 발의안 핵심 내용, 유가족이 거리로 나선 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/03143401-F673-43F7-F6DF-2TZD8GVMHW4K3F6DOC29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유]]></title>
-            <link>http://newstapa.org/article/QSdvB</link>
-            <guid>http://newstapa.org/article/QSdvB</guid>
-            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/04164910-61AB-E9B1-1961-YWICLAVS0LW39P82R0MS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]아직도 ‘4대강은 대운하가 아니다’라는 그들에게]]></title>
-            <link>http://newstapa.org/article/PI7WW</link>
-            <guid>http://newstapa.org/article/PI7WW</guid>
-            <pubDate>Fri, 28 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]아직도 ‘4대강은 대운하가 아니다’라는 그들에게]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/28133307-D8B1-EE64-DE70-S9CL3JXKC57580HY05FF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
