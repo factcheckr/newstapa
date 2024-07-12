@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공공안전</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 06:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 07:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] '오송참사' 첫 판결]]></title>
+            <link>http://newstapa.org/article/YlyBl</link>
+            <guid>http://newstapa.org/article/YlyBl</guid>
+            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] '오송참사' 첫 판결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12144234-B08D-EA94-B296-8BNG4C10N0DYIFPMFMQ3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나]]></title>
             <link>http://newstapa.org/article/oq16J</link>
@@ -30,6 +38,14 @@
             <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/10192843-B20D-966A-B115-UAJE635OLSNMDKYXMP5E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></title>
+            <link>http://newstapa.org/article/IgZUa</link>
+            <guid>http://newstapa.org/article/IgZUa</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11191410-9C7E-4B73-23FD-6RZ6KB14FI5E9VDFBS29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부의 금강파괴2 - 생물다양성 파괴하는 세종보 재가동]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25173540-5999-26EF-18D9-FPBVDUYOJIMY8HERZ51Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></title>
-            <link>http://newstapa.org/article/nz_Fw</link>
-            <guid>http://newstapa.org/article/nz_Fw</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31150513-4822-0BAC-4213-NIL4MH2HJ27SL0L9IBZQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 이태원 참사 외국인 피해자]]></title>
-            <link>http://newstapa.org/article/XMvLz</link>
-            <guid>http://newstapa.org/article/XMvLz</guid>
-            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["한국 정부는 기다리라고만"... 차별받는 이태원 참사 외국인 피해자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/30102551-09E2-141C-E614-SNPZ2Z499CWF82JA09W9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 06:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 07:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] '오송참사' 첫 판결 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/YlyBl</link>
+            <guid>http://newstapa.org/article/YlyBl</guid>
+            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] '오송참사' 첫 판결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12144234-B08D-EA94-B296-8BNG4C10N0DYIFPMFMQ3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/oq16J</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[채 해병 사건 기록 수천쪽 분석...'외압의 재구성']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04171911-DF10-F48B-CA12-IGJ140SHIEY27D8TG2DI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채 해병 사건, 흔들리는 거짓과 침묵의 삼각형 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/5ffLS</link>
-            <guid>http://newstapa.org/article/5ffLS</guid>
-            <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[채 해병 사건, 흔들리는 거짓과 침묵의 삼각형]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04171023-1D90-73D1-83AD-E19VD09LJ9LTPMM4X15E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,14 +1032,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/04164910-61AB-E9B1-1961-YWICLAVS0LW39P82R0MS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/IgZUa</link>
-            <guid>http://newstapa.org/article/IgZUa</guid>
-            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11191410-9C7E-4B73-23FD-6RZ6KB14FI5E9VDFBS29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/Z0G3b</link>
             <guid>http://newstapa.org/article/Z0G3b</guid>
@@ -1160,6 +1152,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/10191857-65E3-10CD-6605-QD05DAKFCL015VM3DQMD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/j3liV</link>
+            <guid>http://newstapa.org/article/j3liV</guid>
+            <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[삼성 내부자가 베트남 휴대폰 공장의 독성 물질 배출을 고발하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/09150430-64FD-ABFF-663F-O147DSRWQQSM372M8M4A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN] '오송참사' 첫 판결 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/YlyBl</link>
+            <guid>http://newstapa.org/article/YlyBl</guid>
+            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] '오송참사' 첫 판결]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12144234-B08D-EA94-B296-8BNG4C10N0DYIFPMFMQ3.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/oq16J</link>
             <guid>http://newstapa.org/article/oq16J</guid>
@@ -1182,6 +1190,14 @@
             <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/10192843-B20D-966A-B115-UAJE635OLSNMDKYXMP5E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/IgZUa</link>
+            <guid>http://newstapa.org/article/IgZUa</guid>
+            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11191410-9C7E-4B73-23FD-6RZ6KB14FI5E9VDFBS29.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부의 금강파괴2 - 생물다양성 파괴하는 세종보 재가동 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1270,22 +1286,6 @@
             <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25173540-5999-26EF-18D9-FPBVDUYOJIMY8HERZ51Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/nz_Fw</link>
-            <guid>http://newstapa.org/article/nz_Fw</guid>
-            <pubDate>Thu, 01 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[행안부 등 5개 부처, '이태원 특별법 발의안 반대' 의견 국회 제출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/31150513-4822-0BAC-4213-NIL4MH2HJ27SL0L9IBZQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국 정부는 기다리라고만"... 차별받는 이태원 참사 외국인 피해자 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/XMvLz</link>
-            <guid>http://newstapa.org/article/XMvLz</guid>
-            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["한국 정부는 기다리라고만"... 차별받는 이태원 참사 외국인 피해자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/30102551-09E2-141C-E614-SNPZ2Z499CWF82JA09W9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 수원대 '사학비리 끝판왕'의 복귀...그리고 교육부의 직무유기 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3325,11 +3325,19 @@
             <content:encoded><![CDATA[<span><span>이명박 정부의 4대강 사업으로 우리 강 곳곳에는 물길을 막는 보가 들어섰습니다. 흐르던 강이 막히자 수질이 악화되고 녹조가 창궐했습니다. 이후 문재인 정부에서는 일부 보를 해체하고 강을 원래 모습으로 되돌리고자 했습니다. <br></span><span><br></span><span>그런데 윤석열 정부는 전임 정부의 정책을 폐기하고, 4대강 보를 다시 닫고 있습니다. 마지막으로 남아있는 세종보 역시 곧 수문을 닫을 예정입니다. 환경단체와 전문가들은 윤석열 정부가 우리 강의 생태를 해치고 있다고 지적합니다. 10여년 전 재자연화에 성공한 독일 뮌헨 이자르강의 사례와 우리나라 4대강의 실태를 뉴스타파 최승호 PD가 추적했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/9yvq0Tqdl3M" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/9yvq0Tqdl3M</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/90bwa" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/90bwa</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[KINN] '오송참사' 첫 판결 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240712160003118</link>
+            <guid>https://v.daum.net/v/20240712160003118</guid>
+            <pubDate>Fri, 12 Jul 2024 07:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240712160003118" class="link_column" data-tiara-layer="[KINN]_'오송참사'_첫_판결_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] '오송참사' 첫 판결</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F12%2Fnewstapa%2F20240712160005100heij.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F12%2Fnewstapa%2F20240712160005100heij.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240711200541561</link>
             <guid>https://v.daum.net/v/20240711200541561</guid>
             <pubDate>Thu, 11 Jul 2024 11:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200541561" class="link_column" data-tiara-layer="[주간_뉴스타파]_물에_잠긴_지하차도...14명은_왜_돌아오지_못했나_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711202146701docq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200541561" class="link_column" data-tiara-layer="[주간_뉴스타파]_물에_잠긴_지하차도...14명은_왜_돌아오지_못했나_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 물에 잠긴 지하차도...14명은 왜 돌아오지 못했나</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711202146701docq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711202146701docq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3337,7 +3345,7 @@
             <link>https://v.daum.net/v/20240711200528555</link>
             <guid>https://v.daum.net/v/20240711200528555</guid>
             <pubDate>Thu, 11 Jul 2024 11:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200528555" class="link_column" data-tiara-layer="오송_참사_1주기_①_‘오송_참사’_공소장_입수…경찰은_그날_어디서_무엇을_하고_있었나_alltab"><div class="cont_thumb"><strong class="tit_txt">오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200540716yvhl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200528555" class="link_column" data-tiara-layer="오송_참사_1주기_①_‘오송_참사’_공소장_입수…경찰은_그날_어디서_무엇을_하고_있었나_alltab"><div class="cont_thumb"><strong class="tit_txt">오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200540716yvhl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200540716yvhl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3345,7 +3353,7 @@
             <link>https://v.daum.net/v/20240711200503546</link>
             <guid>https://v.daum.net/v/20240711200503546</guid>
             <pubDate>Thu, 11 Jul 2024 11:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200503546" class="link_column" data-tiara-layer="오송_참사_1주기_②_&quot;그건_그냥_흙더미였다&quot;...임시제방_붕괴의_재구성_alltab"><div class="cont_thumb"><strong class="tit_txt">오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200528215fayg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200503546" class="link_column" data-tiara-layer="오송_참사_1주기_②_&quot;그건_그냥_흙더미였다&quot;...임시제방_붕괴의_재구성_alltab"><div class="cont_thumb"><strong class="tit_txt">오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200528215fayg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200528215fayg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3353,7 +3361,7 @@
             <link>https://v.daum.net/v/20240711200004442</link>
             <guid>https://v.daum.net/v/20240711200004442</guid>
             <pubDate>Thu, 11 Jul 2024 11:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200004442" class="link_column" data-tiara-layer="오송_참사_1주기_③_피해자_인터뷰_:_책임자들은_지상에,_우리는_여전히_지하에_alltab"><div class="cont_thumb"><strong class="tit_txt">오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200019511pnda.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200004442" class="link_column" data-tiara-layer="오송_참사_1주기_③_피해자_인터뷰_:_책임자들은_지상에,_우리는_여전히_지하에_alltab"><div class="cont_thumb"><strong class="tit_txt">오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200019511pnda.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200019511pnda.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3377,7 +3385,7 @@
             <link>https://v.daum.net/v/20240709151502217</link>
             <guid>https://v.daum.net/v/20240709151502217</guid>
             <pubDate>Tue, 09 Jul 2024 06:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709151502217" class="link_column" data-tiara-layer="뉴스타파,_'윤석열_검찰'_불법행위_추적_폭로한다_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709151507647spmr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709151502217" class="link_column" data-tiara-layer="뉴스타파,_'윤석열_검찰'_불법행위_추적_폭로한다_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709151507647spmr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709151507647spmr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3554,14 +3562,6 @@
             <pubDate>Fri, 21 Jun 2024 09:11:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240621180004518" class="link_column" data-tiara-layer="[자유언론실천선언_50년⑭]_“언론이_바로_서야_나라가_바로_선다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년⑭] “언론이 바로 서야 나라가 바로 선다"</strong><span class="info_txt"><span class="txt_info">2024. 6. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F21%2Fnewstapa%2F20240621180005676zzfb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F21%2Fnewstapa%2F20240621180005676zzfb.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[증인매수 의혹]④ 안부수 딸 카톡에 '부당거래' 정황...“아빠가 검찰과 합의봤어” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240621165502895</link>
-            <guid>https://v.daum.net/v/20240621165502895</guid>
-            <pubDate>Fri, 21 Jun 2024 08:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240621165502895" class="link_column" data-tiara-layer="[증인매수_의혹]④_안부수_딸_카톡에_'부당거래'_정황...“아빠가_검찰과_합의봤어”_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]④ 안부수 딸 카톡에 '부당거래' 정황...“아빠가 검찰과 합의봤어”</strong><span class="info_txt"><span class="txt_info">2024. 6. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F21%2Fnewstapa%2F20240621165510931vmpb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F21%2Fnewstapa%2F20240621165510931vmpb.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
