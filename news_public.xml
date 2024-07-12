@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 08:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임성근 구명 로비 의혹 이종호 “반부패 2부장검사 소개해 주겠다”]]></title>
+            <link>http://newstapa.org/article/Inh49</link>
+            <guid>http://newstapa.org/article/Inh49</guid>
+            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[임성근 구명 로비 의혹 이종호 “반부패 2부장검사 소개해 주겠다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12164119-7D6B-DAE6-FE8C-69TILZLGBH926XZZCH18.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['깜깜이' 규정으로 뉴스타파 수사한 검찰...법원 '규정 공개하라'며 제동]]></title>
+            <link>http://newstapa.org/article/6VO89</link>
+            <guid>http://newstapa.org/article/6VO89</guid>
+            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['깜깜이' 규정으로 뉴스타파 수사한 검찰...법원 '규정 공개하라'며 제동]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12172248-1F1D-6BA4-E388-GYIZXWH68C2HYNKQA8KF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색]]></title>
             <link>http://newstapa.org/article/v8XAA</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27063235-CCD9-EFE2-D24F-9HA5HBTJRCN3KWRF2A5J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공수처, 이원석 검찰총장 국회 위증혐의 수사 착수... 고발 사건 배당]]></title>
-            <link>http://newstapa.org/article/wvssX</link>
-            <guid>http://newstapa.org/article/wvssX</guid>
-            <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[공수처, 이원석 검찰총장 국회 위증혐의 수사 착수... 고발 사건 배당]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/24135613-499F-F6AD-5EA4-N9BI6R35I4KWBCIX213G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[증언대에 선 채 해병 사건 의혹 당사자들… “선서 거부" “착각했다"]]></title>
-            <link>http://newstapa.org/article/bPtO0</link>
-            <guid>http://newstapa.org/article/bPtO0</guid>
-            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[증언대에 선 채 해병 사건 의혹 당사자들… “선서 거부" “착각했다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21215500-9A37-2A65-9368-F12ALBKVZGL66EOE8IED.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

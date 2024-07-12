@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jul 2024 08:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 09:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년- 17] 펜을 쥘 수 없는 기자, 교단에 설 수 없는 교수]]></title>
+            <link>http://newstapa.org/article/X6Ur4</link>
+            <guid>http://newstapa.org/article/X6Ur4</guid>
+            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년- 17] 펜을 쥘 수 없는 기자, 교단에 설 수 없는 교수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12135604-7511-A63F-FF88-Y077KGCXGJ3NRC57PZSX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></title>
             <link>http://newstapa.org/article/zJa7k</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑨] 80년 수습, 오늘도 세상 구경하며 산다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/17142505-E7AE-7453-2D45-I05KON7L0TV1HXUK7KR7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰의 침탈 이유 "뉴스타파 미래 보도까지 두려워하기 때문"]]></title>
-            <link>http://newstapa.org/article/1ktbt</link>
-            <guid>http://newstapa.org/article/1ktbt</guid>
-            <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰의 침탈 이유 "뉴스타파 미래 보도까지 두려워하기 때문"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/14175925-8903-E443-0190-QXEYYE5S2XWZXL0BT1AV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
