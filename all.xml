@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 07:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 08:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/s1Ff8</link>
+            <guid>http://newstapa.org/article/s1Ff8</guid>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15164912-7BA1-08A9-BA31-BJ6WPG4M0NK0E5H20SOY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/KSlTS</link>
+            <guid>http://newstapa.org/article/KSlTS</guid>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15162950-F973-CE1B-F2C8-1SZCZKANC2IGEVD502YI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’ (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/q0cM2</link>
@@ -120,20 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/09185059-2F7F-D71B-4D23-Q5O9SZ0RD9HSDESBHIYZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/m1-CH</link>
-            <guid>http://newstapa.org/article/m1-CH</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, '윤석열 검찰' 불법행위 추적 폭로한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/09150542-6142-7BB5-A016-9PJE3G5EM62ES65L6TL9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Z0G3b</link>
-            <guid>http://newstapa.org/article/Z0G3b</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08173820-5FCC-6680-F953-1W2H43GAJRRV0RJIXM6C.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/KSlTS</link>
+            <guid>http://newstapa.org/article/KSlTS</guid>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15162950-F973-CE1B-F2C8-1SZCZKANC2IGEVD502YI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[입만 열면 거짓말... 류희림의 국회 위증 발언들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27205724-6DEF-7A43-99FD-KZIG2GD74ZQTTYTGLMNH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/oaWPM</link>
-            <guid>http://newstapa.org/article/oaWPM</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27170021-E96B-1E9A-3160-5ST36LA0BCXVQF1FJNDV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -1928,6 +1928,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/s1Ff8</link>
+            <guid>http://newstapa.org/article/s1Ff8</guid>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15164912-7BA1-08A9-BA31-BJ6WPG4M0NK0E5H20SOY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/KSlTS</link>
+            <guid>http://newstapa.org/article/KSlTS</guid>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15162950-F973-CE1B-F2C8-1SZCZKANC2IGEVD502YI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년- 17] 펜을 쥘 수 없는 기자, 교단에 설 수 없는 교수 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/X6Ur4</link>
             <guid>http://newstapa.org/article/X6Ur4</guid>
@@ -2038,22 +2054,6 @@
             <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 윤석열의 '특별한 명예'를 9개월째 특별 수호하는 특수 검찰]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/29181904-355A-A4B8-E17A-Z31G8CKF1NFLQZJAQH9S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언' (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/xuUWD</link>
-            <guid>http://newstapa.org/article/xuUWD</guid>
-            <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑩] 이제는 모두의 깃발이 된 '자유언론실천선언']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/24160644-A00E-A4E1-C06E-4FTTT7EMYWTHD3H6CP02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑨] 80년 수습, 오늘도 세상 구경하며 산다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/4pI6X</link>
-            <guid>http://newstapa.org/article/4pI6X</guid>
-            <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑨] 80년 수습, 오늘도 세상 구경하며 산다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/17142505-E7AE-7453-2D45-I05KON7L0TV1HXUK7KR7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채 해병 사건 수사 외압 의혹 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3325,11 +3325,27 @@
             <content:encoded><![CDATA[<span><span>채 해병 수사 외압 의혹 사건을 둘러싸고 공수처 수사가 계속되고 있지만, 아직도 진상 규명은 더디기만 합니다. 이종섭 전 국방부 장관, 김계환 해병대 사령관, 유재은 국방부 법무관리관 등 사건의 핵심 당사자들이 진실을 감추고 있기 때문입니다. 뉴스타파가 이들의 주장 속에 감춰진 진실을 파헤쳤습니다. <br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/fZWm_TWjG_o" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/fZWm_TWjG_o</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/5ffLS" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/5ffLS</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240715170006770</link>
+            <guid>https://v.daum.net/v/20240715170006770</guid>
+            <pubDate>Mon, 15 Jul 2024 08:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715170006770" class="link_column" data-tiara-layer="[언론장악_카르텔_추적]①_윤석열의_언론장악과_‘이진숙_카드'_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드'</strong><span class="info_txt"><span class="txt_info">14분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715170008197qksr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715170008197qksr.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
+            <title><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240715170004762</link>
+            <guid>https://v.daum.net/v/20240715170004762</guid>
+            <pubDate>Mon, 15 Jul 2024 08:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715170004762" class="link_column" data-tiara-layer="‘진짜_저널리즘_실천(진실)’_프로젝트를_시작하며_alltab"><div class="cont_thumb"><strong class="tit_txt">‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며</strong><span class="info_txt"><span class="txt_info">14분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715170006328ienp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715170006328ienp.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’ (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240715152506980</link>
             <guid>https://v.daum.net/v/20240715152506980</guid>
             <pubDate>Mon, 15 Jul 2024 07:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715152506980" class="link_column" data-tiara-layer="윤석열_천만원_후원_‘단골한우집’,_불법_시정명령에도_‘총리_표창’_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’</strong><span class="info_txt"><span class="txt_info">46분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715152515198prql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715152506980" class="link_column" data-tiara-layer="윤석열_천만원_후원_‘단골한우집’,_불법_시정명령에도_‘총리_표창’_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715152515198prql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715152515198prql.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3337,7 +3353,7 @@
             <link>https://v.daum.net/v/20240715141002725</link>
             <guid>https://v.daum.net/v/20240715141002725</guid>
             <pubDate>Mon, 15 Jul 2024 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715141002725" class="link_column" data-tiara-layer="[불법_압색]_'윤석열_검찰',_법원_허가없이_'기자_이메일'_수색_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715141002725" class="link_column" data-tiara-layer="[불법_압색]_'윤석열_검찰',_법원_허가없이_'기자_이메일'_수색_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3345,7 +3361,7 @@
             <link>https://v.daum.net/v/20240715112503547</link>
             <guid>https://v.daum.net/v/20240715112503547</guid>
             <pubDate>Mon, 15 Jul 2024 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715112503547" class="link_column" data-tiara-layer="김건희_연락처도_모른다던_이종호,_압색_당시_휴대전화_파손_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 연락처도 모른다던 이종호, 압색 당시 휴대전화 파손</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715112503547" class="link_column" data-tiara-layer="김건희_연락처도_모른다던_이종호,_압색_당시_휴대전화_파손_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 연락처도 모른다던 이종호, 압색 당시 휴대전화 파손</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년- 17] 펜을 쥘 수 없는 기자, 교단에 설 수 없는 교수 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3375,7 +3391,7 @@
             <link>https://v.daum.net/v/20240712164502373</link>
             <guid>https://v.daum.net/v/20240712164502373</guid>
             <pubDate>Fri, 12 Jul 2024 08:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240712164502373" class="link_column" data-tiara-layer="해외입양인,_친부모_정보_찾는_행정소송_착수...&quot;최초_사례&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">해외입양인, 친부모 정보 찾는 행정소송 착수..."최초 사례"</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F12%2Fnewstapa%2F20240712164504326kosn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240712164502373" class="link_column" data-tiara-layer="해외입양인,_친부모_정보_찾는_행정소송_착수...&quot;최초_사례&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">해외입양인, 친부모 정보 찾는 행정소송 착수..."최초 사례"</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F12%2Fnewstapa%2F20240712164504326kosn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F12%2Fnewstapa%2F20240712164504326kosn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3545,22 +3561,6 @@
             <pubDate>Thu, 27 Jun 2024 14:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240627221503639" class="link_column" data-tiara-layer="입만_열면_거짓말..._류희림의_국회_위증_발언들_alltab"><div class="cont_thumb"><strong class="tit_txt">입만 열면 거짓말... 류희림의 국회 위증 발언들</strong><span class="info_txt"><span class="txt_info">2024. 6. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F27%2Fnewstapa%2F20240627221515566oiup.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F27%2Fnewstapa%2F20240627221515566oiup.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240627200511272</link>
-            <guid>https://v.daum.net/v/20240627200511272</guid>
-            <pubDate>Thu, 27 Jun 2024 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240627200511272" class="link_column" data-tiara-layer="[주간_뉴스타파]엑스포_예산_사유화_의혹...키링,_접시_그리고_두_아내_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내</strong><span class="info_txt"><span class="txt_info">2024. 6. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F27%2Fnewstapa%2F20240627200514948yhmy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F27%2Fnewstapa%2F20240627200514948yhmy.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[부산엑스포 예산검증③박형준 부인과 특수관계인 화가의 접시 4천만 원 구매 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240627200503261</link>
-            <guid>https://v.daum.net/v/20240627200503261</guid>
-            <pubDate>Thu, 27 Jun 2024 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240627200503261" class="link_column" data-tiara-layer="부산엑스포_예산검증③박형준_부인과_특수관계인_화가의_접시_4천만_원_구매_alltab"><div class="cont_thumb"><strong class="tit_txt">부산엑스포 예산검증③박형준 부인과 특수관계인 화가의 접시 4천만 원 구매</strong><span class="info_txt"><span class="txt_info">2024. 6. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F27%2Fnewstapa%2F20240627200511335nsbb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202406%2F27%2Fnewstapa%2F20240627200511335nsbb.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
