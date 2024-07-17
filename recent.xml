@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 04:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 05:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로]]></title>
+            <link>http://newstapa.org/article/B_ZiQ</link>
+            <guid>http://newstapa.org/article/B_ZiQ</guid>
+            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/17135430-D0FB-260E-EE55-H18ZGK3ZWMTVGO28AQQY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이종호 변호 이력' 공수처 검사들 변호인 선임신고서 공개]]></title>
             <link>http://newstapa.org/article/_1eTY</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오송 참사 1주기 ② "그건 그냥 흙더미였다"...임시제방 붕괴의 재구성]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/10192843-B20D-966A-B115-UAJE635OLSNMDKYXMP5E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></title>
-            <link>http://newstapa.org/article/IgZUa</link>
-            <guid>http://newstapa.org/article/IgZUa</guid>
-            <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11191410-9C7E-4B73-23FD-6RZ6KB14FI5E9VDFBS29.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
