@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 05:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 06:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 김건희 디올백, 정말 돌려주라고 했을까]]></title>
+            <link>https://v.daum.net/v/20240718142503880</link>
+            <guid>https://v.daum.net/v/20240718142503880</guid>
+            <pubDate>Thu, 18 Jul 2024 06:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240718142503880" class="link_column" data-tiara-layer="[현장에서]_김건희_디올백,_정말_돌려주라고_했을까_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 김건희 디올백, 정말 돌려주라고 했을까</strong><span class="info_txt"><span class="txt_info">49분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로]]></title>
             <link>https://v.daum.net/v/20240717140003186</link>
@@ -236,14 +243,6 @@
             <pubDate>Thu, 04 Jul 2024 11:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704200003525" class="link_column" data-tiara-layer="채_해병_사건,_흔들리는_거짓과_침묵의_삼각형_alltab"><div class="cont_thumb"><strong class="tit_txt">채 해병 사건, 흔들리는 거짓과 침묵의 삼각형</strong><span class="info_txt"><span class="txt_info">2024. 7. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142610557nwho.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709142610557nwho.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA["류희림이 극찬하더라" 쏟아지는 이해충돌 증거들]]></title>
-            <link>https://v.daum.net/v/20240704175004657</link>
-            <guid>https://v.daum.net/v/20240704175004657</guid>
-            <pubDate>Thu, 04 Jul 2024 09:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240704175004657" class="link_column" data-tiara-layer="&quot;류희림이_극찬하더라&quot;_쏟아지는_이해충돌_증거들_alltab"><div class="cont_thumb"><strong class="tit_txt">"류희림이 극찬하더라" 쏟아지는 이해충돌 증거들</strong><span class="info_txt"><span class="txt_info">2024. 7. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704175015620lovj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F04%2Fnewstapa%2F20240704175015620lovj.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
