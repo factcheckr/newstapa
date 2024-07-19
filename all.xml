@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 19:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 20:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/BId0g</link>
+            <guid>http://newstapa.org/article/BId0g</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/20012446-4172-610A-09F4-HGC7SPXM2CN5T7HL1BSU.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PF 위기② 누구를 위한 '콘크리트 유토피아'인가 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/qpY73</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[임성근 구명 로비 의혹 이종호 “반부패 2부장검사 만나봐라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12164119-7D6B-DAE6-FE8C-69TILZLGBH926XZZCH18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['깜깜이' 규정으로 뉴스타파 수사한 검찰...법원 '규정 공개하라'며 제동 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/6VO89</link>
-            <guid>http://newstapa.org/article/6VO89</guid>
-            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['깜깜이' 규정으로 뉴스타파 수사한 검찰...법원 '규정 공개하라'며 제동]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12172248-1F1D-6BA4-E388-GYIZXWH68C2HYNKQA8KF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 김건희 디올백, 정말 돌려주라고 했을까 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/BId0g</link>
+            <guid>http://newstapa.org/article/BId0g</guid>
+            <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/20012446-4172-610A-09F4-HGC7SPXM2CN5T7HL1BSU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년- 18] 고단한 시대에 희망을 말했던 대기자, 송건호 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/tolPj</link>
             <guid>http://newstapa.org/article/tolPj</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07203757-C239-388C-6F18-0Y1YC10KZGW7CF5O5IG7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑪] 새 언론에 담은 유산 "권력·관행과 결별하라" (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/2j6tf</link>
-            <guid>http://newstapa.org/article/2j6tf</guid>
-            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑪] 새 언론에 담은 유산 "권력·관행과 결별하라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/31145449-7C14-8EBC-A9FD-6KOLPKWL7UU2B1GKYFV5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채 해병 사건 수사 외압 의혹 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3325,11 +3325,19 @@
             <content:encoded><![CDATA[<span><span>지난해 9월 14일 오전, 검찰이 뉴스타파 한상진 기자의 자택을 압수수색했습니다. 2022년 '김만배 녹취록' 보도를 통해 윤석열 대통령의 명예를 훼손했다는 혐의였습니다. 이날 검찰은 한상진 기자의 집에서 노트북 3대를 찾아내 수색했습니다.<br></span><span><br></span><span>그런데 당시 법원이 발부한 압수수색 영장에 따르면, 한상진 기자의 PC와 노트북은 압수수색 대상에서 빠져 있었습니다. 압수수색 대상도 아닌 노트북을 검찰이 불법적으로 수색한 것입니다. 당시 불법 압수수색 책임자인 강백신 검사는 현재 민주당에 의해 탄핵안이 발의된 상태입니다.<br></span><span><br></span><span>검찰의 불법 압수수색 등 각종 위법 행위를 추적 보도하는 [불법 압색] 프로젝트의 첫 번째 보도입니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/ETJnwyGFCzA" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/ETJnwyGFCzA</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/v8XAA" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/v8XAA</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240720050004484</link>
+            <guid>https://v.daum.net/v/20240720050004484</guid>
+            <pubDate>Fri, 19 Jul 2024 20:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240720050004484" class="link_column" data-tiara-layer="[언론장악_카르텔]②이진숙과_김장겸..._MBC_민영화_유령이_돌아왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다</strong><span class="info_txt"><span class="txt_info">20분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F20%2Fnewstapa%2F20240720050011906nvda.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F20%2Fnewstapa%2F20240720050011906nvda.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[PF 위기② 누구를 위한 '콘크리트 유토피아'인가 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240719180502962</link>
             <guid>https://v.daum.net/v/20240719180502962</guid>
             <pubDate>Fri, 19 Jul 2024 09:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240719180502962" class="link_column" data-tiara-layer="PF_위기②_누구를_위한_'콘크리트_유토피아'인가_alltab"><div class="cont_thumb"><strong class="tit_txt">PF 위기② 누구를 위한 '콘크리트 유토피아'인가</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F19%2Fnewstapa%2F20240719180503686fyaf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240719180502962" class="link_column" data-tiara-layer="PF_위기②_누구를_위한_'콘크리트_유토피아'인가_alltab"><div class="cont_thumb"><strong class="tit_txt">PF 위기② 누구를 위한 '콘크리트 유토피아'인가</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F19%2Fnewstapa%2F20240719180503686fyaf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F19%2Fnewstapa%2F20240719180503686fyaf.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3337,7 +3345,7 @@
             <link>https://v.daum.net/v/20240719180003804</link>
             <guid>https://v.daum.net/v/20240719180003804</guid>
             <pubDate>Fri, 19 Jul 2024 09:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240719180003804" class="link_column" data-tiara-layer="[자유언론실천선언_50년-_18]_고단한_시대에_희망을_말했던_대기자,_송건호_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년- 18] 고단한 시대에 희망을 말했던 대기자, 송건호</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F19%2Fnewstapa%2F20240719180004956iazt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240719180003804" class="link_column" data-tiara-layer="[자유언론실천선언_50년-_18]_고단한_시대에_희망을_말했던_대기자,_송건호_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년- 18] 고단한 시대에 희망을 말했던 대기자, 송건호</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F19%2Fnewstapa%2F20240719180004956iazt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F19%2Fnewstapa%2F20240719180004956iazt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,14 +3560,6 @@
             <pubDate>Mon, 08 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240708101503254" class="link_column" data-tiara-layer="뉴스타파,_국방부_'5천_명_증언록'_60년_비밀_뚫다_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, 국방부 '5천 명 증언록' 60년 비밀 뚫다</strong><span class="info_txt"><span class="txt_info">2024. 7. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F08%2Fnewstapa%2F20240708101530311axhs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F08%2Fnewstapa%2F20240708101530311axhs.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[증인매수 의혹]⑥ 검찰, 1심 징역형 '안부수 회장' 출국금지 왜 풀어줬나 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240705183503432</link>
-            <guid>https://v.daum.net/v/20240705183503432</guid>
-            <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240705183503432" class="link_column" data-tiara-layer="[증인매수_의혹]⑥_검찰,_1심_징역형_'안부수_회장'_출국금지_왜_풀어줬나_alltab"><div class="cont_thumb"><strong class="tit_txt">[증인매수 의혹]⑥ 검찰, 1심 징역형 '안부수 회장' 출국금지 왜 풀어줬나</strong><span class="info_txt"><span class="txt_info">2024. 7. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F05%2Fnewstapa%2F20240705203254434xhiz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F05%2Fnewstapa%2F20240705203254434xhiz.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
