@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 04:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 05:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/vhuHD</link>
+            <guid>http://newstapa.org/article/vhuHD</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/22135138-4768-DD1A-EA6C-V4CXOK5NUK6AVJBQDGJF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘나경원-한동훈’ 청탁과 희대의 재판지연 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/RxwEj</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김건희 연락처도 모른다던 이종호, 압색 당시 휴대전화 파손]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12174450-C2E3-02E2-6F7C-E4I2D5ORD9HVO7XWTF9B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년- 17] 펜을 쥘 수 없는 기자, 교단에 설 수 없는 교수 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/X6Ur4</link>
-            <guid>http://newstapa.org/article/X6Ur4</guid>
-            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년- 17] 펜을 쥘 수 없는 기자, 교단에 설 수 없는 교수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12135604-7511-A63F-FF88-Y077KGCXGJ3NRC57PZSX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘나경원-한동훈’ 청탁과 희대의 재판지연 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/04171023-1D90-73D1-83AD-E19VD09LJ9LTPMM4X15E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/vhuHD</link>
+            <guid>http://newstapa.org/article/vhuHD</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/22135138-4768-DD1A-EA6C-V4CXOK5NUK6AVJBQDGJF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 법원 위에 '윤석열 검찰' 불법 압색 증거 추가 공개 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/UPUiM</link>
             <guid>http://newstapa.org/article/UPUiM</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[증인매수 의혹]② 쌍방울 임원 "윗선 지시로 안부수 딸에게 주택 제공"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/12180120-3AE2-E6D8-FAFF-P3OWQEWJZDS11C4XNPFQ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[증인매수 의혹]① 쌍방울, 대북송금 핵심 증인 '금품 매수' 정황 포착 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/Jagsg</link>
-            <guid>http://newstapa.org/article/Jagsg</guid>
-            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[증인매수 의혹]① 쌍방울, 대북송금 핵심 증인 '금품 매수' 정황 포착]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/11152337-80DE-9146-1C4A-YP76BA8UO69TCW8J6G4I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’ (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -2929,6 +2929,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/vhuHD</link>
+            <guid>https://www.newstapa.org/article/vhuHD</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/22135138-4768-DD1A-EA6C-V4CXOK5NUK6AVJBQDGJF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/zJa7k</link>
             <guid>https://www.newstapa.org/article/zJa7k</guid>
@@ -3047,14 +3055,6 @@
             <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.03]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03111813-FDE5-BA99-6E95-T565UBDOOBHG3FRZHP98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/fdX23</link>
-            <guid>https://www.newstapa.org/article/fdX23</guid>
-            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.05]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05105050-AF6D-803E-089C-TS92YB5EEFU3AIH2OU9V.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요 (뉴스타파 ─ 참여)]]></title>
@@ -3183,6 +3183,13 @@
             <pubDate>Thu, 06 Aug 2020 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2020.08.06]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/106087076</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/106087076</guid>
+            <pubDate>Mon, 22 Jul 2024 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>최근 3년간 정당 가입 경력이 있는 사람은 법관에 임명할 수 없다는 법 조항에 대해, 헌법재판소가 지난 18일 위헌 결정을 내렸습니다. 헌법재판소는 "국민으로서 당연히 보장되어야 할 정당 가입의 자유를 지나치게 위축시킬 수 있다" 라며 위헌 결정 사유를 밝혔습니다.<br></span><span><br></span><span>이번에 위헌이 선고된 법 조항은 지난 2020년 국회가 만든 것으로, 뉴스타파는 '사법개혁 프로젝트' 연속 보도를 통해 해당 법률이 위헌적이라고 지적해 왔습니다. 뉴스타파는 앞으로도 국민의 정치적 자유를 제한하는 입법 행위를 계속 감시해 나가겠습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/vhuHD" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/vhuHD</span></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘나경원-한동훈’ 청탁과 희대의 재판지연 (뉴스타파 ─ 카카오톡 채널)]]></title>
@@ -3318,18 +3325,19 @@
             <content:encoded><![CDATA[<span><span>지난해 7월 15일 '오송 참사'의 근본 원인은 부실한 임시 제방이었습니다. 당시 미호천교 공사 현장에는 사실상 '흙더미'에 불과한 임시 제방이 세워져 있었는데, 이 임시 제방이 무너지면서 쏟아진 강물이 지하차도를 덮친 것입니다.<br></span><span><br></span><span>그렇다면 왜 당시 미호천교에는 부실한 임시 제방만이 세워져 있었을까요. 뉴스타파 취재 결과, 미호천교 공사 과정에서 벌어진 불법 행위, 그리고 행복청 등 정부 기관의 관리 소홀이 원인으로 드러났습니다. 시민 안전은 방치한 채 비용 절감, 행정 편의만 좇은 것이 참사의 근본 원인이라는 지적이 나옵니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/4iW7bCKTe3Y" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/4iW7bCKTe3Y</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/H9_xU" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/H9_xU</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/105973005</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/105973005</guid>
-            <pubDate>Thu, 11 Jul 2024 11:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>뉴스타파는 '오송 참사' 1주기를 맞아 참사 유가족과 생존자들을 만났습니다. 참사 이후 1년이 지났지만 피해자들은 여전히 트라우마와 죄책감에 시달리고 있습니다. 반면 김영환 충북도지사 등 책임자들에 대한 처벌은 아직 지지부진하기만 합니다.<br></span><span><br></span><span>지난 8일 폭우가 쏟아지던 날, 피해자들은 다시 참사 현장에 모여 진상규명과 책임자 처벌, 재발방지 대책 마련을 요구하는 기자회견을 열었습니다. 피해자들이 아픔을 딛고 다시 거리에 선 이유는 '시민의 기억'이 절실하기 때문입니다. <br></span><span>피해자들은 "이런 참사가 두 번 다시 일어나지 않도록 열심히 활동하고 있다", "관심과 힘을 주신다면 조금 더 안전한 나라가 되지 않을까" 라고 말했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/CaVNf_z9P_c" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/CaVNf_z9P_c</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/IgZUa" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/IgZUa</span></a>]]></content:encoded>
+            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240722140003033</link>
+            <guid>https://v.daum.net/v/20240722140003033</guid>
+            <pubDate>Mon, 22 Jul 2024 05:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240722140003033" class="link_column" data-tiara-layer="[변화]_과거_정당_가입자_법관_배제법_위헌_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 과거 정당 가입자 법관 배제법 위헌</strong><span class="info_txt"><span class="txt_info">15분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722140005364hqjv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722140005364hqjv.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[‘나경원-한동훈’ 청탁과 희대의 재판지연 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240722100006548</link>
             <guid>https://v.daum.net/v/20240722100006548</guid>
             <pubDate>Mon, 22 Jul 2024 02:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240722100006548" class="link_column" data-tiara-layer="‘나경원-한동훈’_청탁과_희대의_재판지연_alltab"><div class="cont_thumb"><strong class="tit_txt">‘나경원-한동훈’ 청탁과 희대의 재판지연</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722100008080msue.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240722100006548" class="link_column" data-tiara-layer="‘나경원-한동훈’_청탁과_희대의_재판지연_alltab"><div class="cont_thumb"><strong class="tit_txt">‘나경원-한동훈’ 청탁과 희대의 재판지연</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722100008080msue.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722100008080msue.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3384,7 +3392,7 @@
             <link>https://v.daum.net/v/20240717140003186</link>
             <guid>https://v.daum.net/v/20240717140003186</guid>
             <pubDate>Fri, 19 Jul 2024 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240717140003186" class="link_column" data-tiara-layer="[사법개혁_프로젝트]_헌재_정치권_눈치보기_사건_1185일_만에_선고키로_alltab"><div class="cont_thumb"><strong class="tit_txt">[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F17%2Fnewstapa%2F20240717140006825wpou.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240717140003186" class="link_column" data-tiara-layer="[사법개혁_프로젝트]_헌재_정치권_눈치보기_사건_1185일_만에_선고키로_alltab"><div class="cont_thumb"><strong class="tit_txt">[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F17%2Fnewstapa%2F20240717140006825wpou.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F17%2Fnewstapa%2F20240717140006825wpou.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3400,7 +3408,7 @@
             <link>https://v.daum.net/v/20240716140005388</link>
             <guid>https://v.daum.net/v/20240716140005388</guid>
             <pubDate>Fri, 19 Jul 2024 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240716140005388" class="link_column" data-tiara-layer="[현장에서]_불법_수사의_목격자,_뉴스타파_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 불법 수사의 목격자, 뉴스타파</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F16%2Fnewstapa%2F20240716140008358afhs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240716140005388" class="link_column" data-tiara-layer="[현장에서]_불법_수사의_목격자,_뉴스타파_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 불법 수사의 목격자, 뉴스타파</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F16%2Fnewstapa%2F20240716140008358afhs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F16%2Fnewstapa%2F20240716140008358afhs.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20240715141002725</link>
             <guid>https://v.daum.net/v/20240715141002725</guid>
             <pubDate>Fri, 19 Jul 2024 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715141002725" class="link_column" data-tiara-layer="[불법_압색]_'윤석열_검찰',_법원_허가없이_'기자_이메일'_수색_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715141002725" class="link_column" data-tiara-layer="[불법_압색]_'윤석열_검찰',_법원_허가없이_'기자_이메일'_수색_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색</strong><span class="info_txt"><span class="txt_info">2024. 7. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3552,14 +3560,6 @@
             <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709113004315" class="link_column" data-tiara-layer="[윤석열의_해석_개헌]_⑤_바이든_거부권과_윤석열_거부권의_차이_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이</strong><span class="info_txt"><span class="txt_info">2024. 7. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709141902079fbqx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709141902079fbqx.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240709100002717</link>
-            <guid>https://v.daum.net/v/20240709100002717</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709100002717" class="link_column" data-tiara-layer="부산시-유력_신문사의_‘기사_거래_의혹’_보도_후,_유인촌_장관_“법_위반_따져보겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”</strong><span class="info_txt"><span class="txt_info">2024. 7. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709100004446aurm.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

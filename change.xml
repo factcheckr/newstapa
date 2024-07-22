@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jul 2024 04:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jul 2024 05:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌]]></title>
+            <link>https://www.newstapa.org/article/vhuHD</link>
+            <guid>https://www.newstapa.org/article/vhuHD</guid>
+            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.07.22]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/22135138-4768-DD1A-EA6C-V4CXOK5NUK6AVJBQDGJF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></title>
             <link>https://www.newstapa.org/article/zJa7k</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.01.03]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03111813-FDE5-BA99-6E95-T565UBDOOBHG3FRZHP98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]산불 이재민 성금 추가 지급…이번엔 '실거주' 따져]]></title>
-            <link>https://www.newstapa.org/article/fdX23</link>
-            <guid>https://www.newstapa.org/article/fdX23</guid>
-            <pubDate>Fri, 05 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.05]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/05105050-AF6D-803E-089C-TS92YB5EEFU3AIH2OU9V.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
