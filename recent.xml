@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 10:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 11:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앵무새처럼 '혼동, 혼재' 반복한 정종범 부사령관]]></title>
+            <link>http://newstapa.org/article/MIV-l</link>
+            <guid>http://newstapa.org/article/MIV-l</guid>
+            <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[앵무새처럼 '혼동, 혼재' 반복한 정종범 부사령관]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/23184323-64EB-8157-8827-UTX2Q2QXOQM5M1BZMLTN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌]]></title>
             <link>http://newstapa.org/article/vhuHD</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15112700-8947-D5DB-70F2-SQ5M6MJTSYXAC4MGR6I6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 연락처도 모른다던 이종호, 압색 당시 휴대전화 파손]]></title>
-            <link>http://newstapa.org/article/vsczT</link>
-            <guid>http://newstapa.org/article/vsczT</guid>
-            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 연락처도 모른다던 이종호, 압색 당시 휴대전화 파손]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12174450-C2E3-02E2-6F7C-E4I2D5ORD9HVO7XWTF9B.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
