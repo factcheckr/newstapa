@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 07:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 08:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2724,6 +2724,13 @@
             <guid>https://pages.newstapa.org/n2201</guid>
             <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/24141849-E7E7-AB97-6D1F-HBYKD6W5YL12ZPSOR5XF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거래의 기술 : 김건희 일가 '삼각 거래' 의혹과 그 대가 (뉴스타파 ─ 데이터)]]></title>
+            <link>https://pages.newstapa.org/triangletrade/</link>
+            <guid>https://pages.newstapa.org/triangletrade/</guid>
+            <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/23163237-1E49-5D77-DCB5-WVTCT75KPPSE9868XJHD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파 공공 아카이브 (뉴스타파 ─ 데이터)]]></title>
