@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 04:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 05:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이원석 총장 특활비 부정 사용 증거 차고 넘치는데 공수처는 ‘침묵’]]></title>
+            <link>http://newstapa.org/article/fE91L</link>
+            <guid>http://newstapa.org/article/fE91L</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이원석 총장 특활비 부정 사용 증거 차고 넘치는데 공수처는 ‘침묵’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/24111954-8F9B-B8E5-2B51-0XJHX77ZE9PDWJJWG1X1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’]]></title>
             <link>http://newstapa.org/article/q0cM2</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;주간 뉴스타파&gt; 총장의 예산 비위와 검찰의 '방탄' 비공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/25151439-D8DB-67B4-59C3-5X8VOF6DXDYE2F6JV08T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]만찬은 회의야. 알았죠? 우리가 안 깨지려면 일단 그렇게 하셔야 돼요.]]></title>
-            <link>http://newstapa.org/article/DBJn-</link>
-            <guid>http://newstapa.org/article/DBJn-</guid>
-            <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]만찬은 회의야. 알았죠? 우리가 안 깨지려면 일단 그렇게 하셔야 돼요.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/22101743-AFA0-8EB9-D344-AYDTLHIZW704BR55BU8M.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
