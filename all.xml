@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 12:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 13:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/nrsRh</link>
+            <guid>http://newstapa.org/article/nrsRh</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/24203103-2196-0FCB-A9CD-6HYHS9ZUU7ABYETVB2M8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[류희림, 문 잠근 채 또 방심위원장에 선출 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/lOb9C</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15164912-7BA1-08A9-BA31-BJ6WPG4M0NK0E5H20SOY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/KSlTS</link>
-            <guid>http://newstapa.org/article/KSlTS</guid>
-            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15162950-F973-CE1B-F2C8-1SZCZKANC2IGEVD502YI.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/nrsRh</link>
+            <guid>http://newstapa.org/article/nrsRh</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/24203103-2196-0FCB-A9CD-6HYHS9ZUU7ABYETVB2M8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[류희림, 문 잠근 채 또 방심위원장에 선출 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/09112937-6C30-BFBF-2FD9-768WEOWF21PNODWSNZOA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/zJa7k</link>
-            <guid>http://newstapa.org/article/zJa7k</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산시-유력 신문사의 ‘기사 거래 의혹’ 보도 후, 유인촌 장관 “법 위반 따져보겠다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08174254-A67C-FDA4-0D50-X9ZKL149VVNKQVXB7G6Q.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3332,11 +3332,19 @@
             <content:encoded><![CDATA[<span><span>뉴스타파는 &lt;해외입양과 돈&gt; 연속 보도를 통해, 1970~1980년대 국내 입양 기관들이 아동들을 해외로 입양 보내는 과정에서 출생과 가족 관련 정보를 조작하는 등 인권 침해 행위를 저질러온 사실을 보도해 왔습니다.<br></span><span><br></span><span>이와 관련해 덴마크로 입양된 한 입양인이 아동권리보장원을 상대로 친생부모의 정보를 확인하기 위한 정보공개 소송을 제기했습니다. 입양인 측 법률대리인단의 전민경 변호사는 "이번 행정소송은 해외 입양인의 뿌리와 정체성, 알 권리 실현을 위해 최초로 진행되는 행정 소송" 이라고 말했습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/AFP7b" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/AFP7b</span></a><span><span><br></span><span>👉 &lt;해외입양과 돈&gt; 기사 모아보기 : </span></span><a href="https://newstapa.org/projects/FtSU1" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/projects/FtSU1</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240724220002077</link>
+            <guid>https://v.daum.net/v/20240724220002077</guid>
+            <pubDate>Wed, 24 Jul 2024 13:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724220002077" class="link_column" data-tiara-layer="이진숙,_골프장·호텔·백화점·노래방서_법카사용..“사적_용도_아니다&quot;?_alltab"><div class="cont_thumb"><strong class="tit_txt">이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"?</strong><span class="info_txt"><span class="txt_info">15분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724220004660yxel.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724220004660yxel.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[류희림, 문 잠근 채 또 방심위원장에 선출 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240724184503220</link>
             <guid>https://v.daum.net/v/20240724184503220</guid>
             <pubDate>Wed, 24 Jul 2024 10:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724184503220" class="link_column" data-tiara-layer="류희림,_문_잠근_채_또_방심위원장에_선출_alltab"><div class="cont_thumb"><strong class="tit_txt">류희림, 문 잠근 채 또 방심위원장에 선출</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724184511504wier.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724184503220" class="link_column" data-tiara-layer="류희림,_문_잠근_채_또_방심위원장에_선출_alltab"><div class="cont_thumb"><strong class="tit_txt">류희림, 문 잠근 채 또 방심위원장에 선출</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724184511504wier.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724184511504wier.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3344,7 +3352,7 @@
             <link>https://v.daum.net/v/20240724140003133</link>
             <guid>https://v.daum.net/v/20240724140003133</guid>
             <pubDate>Wed, 24 Jul 2024 05:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724140003133" class="link_column" data-tiara-layer="이원석_총장_특활비_부정_사용_증거_차고_넘치는데_공수처는_‘침묵’_alltab"><div class="cont_thumb"><strong class="tit_txt">이원석 총장 특활비 부정 사용 증거 차고 넘치는데 공수처는 ‘침묵’</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724155215446xoac.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724140003133" class="link_column" data-tiara-layer="이원석_총장_특활비_부정_사용_증거_차고_넘치는데_공수처는_‘침묵’_alltab"><div class="cont_thumb"><strong class="tit_txt">이원석 총장 특활비 부정 사용 증거 차고 넘치는데 공수처는 ‘침묵’</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724155215446xoac.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724155215446xoac.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3559,14 +3567,6 @@
             <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240710140503320" class="link_column" data-tiara-layer="[불법_압색]_검찰,_법원이_압수_불허한_뉴스타파_기자_노트북_불법_수색_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색</strong><span class="info_txt"><span class="txt_info">2024. 7. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F10%2Fnewstapa%2F20240710140512322tnpn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F10%2Fnewstapa%2F20240710140512322tnpn.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA["류희림이 류희림을 조사하라" 도망간 권익위 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240709190003665</link>
-            <guid>https://v.daum.net/v/20240709190003665</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240709190003665" class="link_column" data-tiara-layer="&quot;류희림이_류희림을_조사하라&quot;_도망간_권익위_alltab"><div class="cont_thumb"><strong class="tit_txt">"류희림이 류희림을 조사하라" 도망간 권익위</strong><span class="info_txt"><span class="txt_info">2024. 7. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709190005028mtvz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F09%2Fnewstapa%2F20240709190005028mtvz.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
