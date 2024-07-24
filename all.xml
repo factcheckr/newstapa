@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 19:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 20:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/jcE6b</link>
+            <guid>http://newstapa.org/article/jcE6b</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/25004320-A14C-2E9C-9B80-EQTYUTB03JVJ1D7C244U.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카 사용..“사적 용도 아니다"? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/nrsRh</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/16135524-26B8-DB1C-2B72-VBB0SMXNGF33TK6N0SAW.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드' (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/s1Ff8</link>
-            <guid>http://newstapa.org/article/s1Ff8</guid>
-            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15164912-7BA1-08A9-BA31-BJ6WPG4M0NK0E5H20SOY.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/jcE6b</link>
+            <guid>http://newstapa.org/article/jcE6b</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/25004320-A14C-2E9C-9B80-EQTYUTB03JVJ1D7C244U.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카 사용..“사적 용도 아니다"? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["류희림이 류희림을 조사하라" 도망간 권익위]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/09185059-2F7F-D71B-4D23-Q5O9SZ0RD9HSDESBHIYZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/4YTEg</link>
-            <guid>http://newstapa.org/article/4YTEg</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 해석 개헌] ⑤ 바이든 거부권과 윤석열 거부권의 차이]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/09112937-6C30-BFBF-2FD9-768WEOWF21PNODWSNZOA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3332,11 +3332,19 @@
             <content:encoded><![CDATA[<span><span>현행 검찰청법은 검찰이 명예훼손 등에 대해 직접 수사를 개시할 수 없도록 하고 있습니다. 하지만 검찰은 지난해 9월 '윤석열 대통령 명예훼손' 혐의로 뉴스타파 등 언론사들에 대한 강제 수사를 개시해 물의를 일으킨 바 있습니다. 이에 대해 검찰은 '대검찰청 비공개 예규에 따라 수사 개시가 가능하다' 라고 주장해 왔습니다.<br></span><span><br></span><span>오늘(12일) 법원은 참여연대가 '대검찰청 비공개 예규' 내용을 공개하라며 제기한 행정소송에 대해 원고 승소 판결을 내렸습니다. 비공개 내부 규정을 근거로 위법적 수사를 벌여온 검찰의 행태에 제동이 걸린 것입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/6VO89" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/6VO89</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240725050004873</link>
+            <guid>https://v.daum.net/v/20240725050004873</guid>
+            <pubDate>Wed, 24 Jul 2024 20:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240725050004873" class="link_column" data-tiara-layer="[언론장악_카르텔]③_이진숙_‘MBC_노조_와해_여론전’에_2억5천만_원_계약_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F25%2Fnewstapa%2F20240725050006024gvkt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F25%2Fnewstapa%2F20240725050006024gvkt.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"? (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240724220002077</link>
             <guid>https://v.daum.net/v/20240724220002077</guid>
             <pubDate>Wed, 24 Jul 2024 13:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724220002077" class="link_column" data-tiara-layer="이진숙,_골프장·호텔·백화점·노래방서_법카사용..“사적_용도_아니다&quot;?_alltab"><div class="cont_thumb"><strong class="tit_txt">이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"?</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724220004660yxel.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724220002077" class="link_column" data-tiara-layer="이진숙,_골프장·호텔·백화점·노래방서_법카사용..“사적_용도_아니다&quot;?_alltab"><div class="cont_thumb"><strong class="tit_txt">이진숙, 골프장·호텔·백화점·노래방서 법카사용..“사적 용도 아니다"?</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724220004660yxel.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724220004660yxel.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3344,7 +3352,7 @@
             <link>https://v.daum.net/v/20240724184503220</link>
             <guid>https://v.daum.net/v/20240724184503220</guid>
             <pubDate>Wed, 24 Jul 2024 10:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724184503220" class="link_column" data-tiara-layer="류희림,_문_잠근_채_또_방심위원장에_선출_alltab"><div class="cont_thumb"><strong class="tit_txt">류희림, 문 잠근 채 또 방심위원장에 선출</strong><span class="info_txt"><span class="txt_info">9시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724184511504wier.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724184503220" class="link_column" data-tiara-layer="류희림,_문_잠근_채_또_방심위원장에_선출_alltab"><div class="cont_thumb"><strong class="tit_txt">류희림, 문 잠근 채 또 방심위원장에 선출</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724184511504wier.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724184511504wier.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3352,7 +3360,7 @@
             <link>https://v.daum.net/v/20240724140003133</link>
             <guid>https://v.daum.net/v/20240724140003133</guid>
             <pubDate>Wed, 24 Jul 2024 05:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724140003133" class="link_column" data-tiara-layer="이원석_총장_특활비_부정_사용_증거_차고_넘치는데_공수처는_‘침묵’_alltab"><div class="cont_thumb"><strong class="tit_txt">이원석 총장 특활비 부정 사용 증거 차고 넘치는데 공수처는 ‘침묵’</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724155215446xoac.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240724140003133" class="link_column" data-tiara-layer="이원석_총장_특활비_부정_사용_증거_차고_넘치는데_공수처는_‘침묵’_alltab"><div class="cont_thumb"><strong class="tit_txt">이원석 총장 특활비 부정 사용 증거 차고 넘치는데 공수처는 ‘침묵’</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724155215446xoac.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F24%2Fnewstapa%2F20240724155215446xoac.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3384,7 +3392,7 @@
             <link>https://v.daum.net/v/20240720050004484</link>
             <guid>https://v.daum.net/v/20240720050004484</guid>
             <pubDate>Fri, 19 Jul 2024 20:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240720050004484" class="link_column" data-tiara-layer="[언론장악_카르텔]②이진숙과_김장겸..._MBC_민영화_유령이_돌아왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722110328027vbxo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240720050004484" class="link_column" data-tiara-layer="[언론장악_카르텔]②이진숙과_김장겸..._MBC_민영화_유령이_돌아왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]②이진숙과 김장겸... MBC 민영화 유령이 돌아왔다</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722110328027vbxo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722110328027vbxo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3559,14 +3567,6 @@
             <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240711200004442" class="link_column" data-tiara-layer="오송_참사_1주기_③_피해자_인터뷰_:_책임자들은_지상에,_우리는_여전히_지하에_alltab"><div class="cont_thumb"><strong class="tit_txt">오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에</strong><span class="info_txt"><span class="txt_info">2024. 7. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200019511pnda.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F11%2Fnewstapa%2F20240711200019511pnda.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240710140503320</link>
-            <guid>https://v.daum.net/v/20240710140503320</guid>
-            <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240710140503320" class="link_column" data-tiara-layer="[불법_압색]_검찰,_법원이_압수_불허한_뉴스타파_기자_노트북_불법_수색_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법 압색] 검찰, 법원이 압수 불허한 뉴스타파 기자 노트북 불법 수색</strong><span class="info_txt"><span class="txt_info">2024. 7. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F10%2Fnewstapa%2F20240710140512322tnpn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F10%2Fnewstapa%2F20240710140512322tnpn.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
