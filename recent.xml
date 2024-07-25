@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 10:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 11:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파]위기의 윤석열, 이진숙 · 류희림 앞세워 언론장악 올인]]></title>
+            <link>http://newstapa.org/article/brbdp</link>
+            <guid>http://newstapa.org/article/brbdp</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파]위기의 윤석열, 이진숙 · 류희림 앞세워 언론장악 올인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/25200045-A548-F8BF-5707-POHHL8JXCFW6JIF8C331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]④공언련이 ‘드리블’ 대통령이 ‘마무리’]]></title>
+            <link>http://newstapa.org/article/oLdY9</link>
+            <guid>http://newstapa.org/article/oLdY9</guid>
+            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]④공언련이 ‘드리블’ 대통령이 ‘마무리’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/25200201-9A5F-0D59-BDA3-YG87VUT9064P6L623IHH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약]]></title>
             <link>http://newstapa.org/article/jcE6b</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/17135430-D0FB-260E-EE55-H18ZGK3ZWMTVGO28AQQY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이종호 변호 이력' 공수처 검사들 변호인 선임신고서 공개]]></title>
-            <link>http://newstapa.org/article/_1eTY</link>
-            <guid>http://newstapa.org/article/_1eTY</guid>
-            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이종호 변호 이력' 공수처 검사들 변호인 선임신고서 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/16170714-1268-4459-0D65-DQQFQOF7NWP0H2UMVX02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 불법 수사의 목격자, 뉴스타파]]></title>
-            <link>http://newstapa.org/article/Iqp8i</link>
-            <guid>http://newstapa.org/article/Iqp8i</guid>
-            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 불법 수사의 목격자, 뉴스타파]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/16135524-26B8-DB1C-2B72-VBB0SMXNGF33TK6N0SAW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
