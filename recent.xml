@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 12:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 13:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지]]></title>
+            <link>http://newstapa.org/article/m7L9u</link>
+            <guid>http://newstapa.org/article/m7L9u</guid>
+            <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/30203504-420A-647E-C9E3-ZXRV3JS2LRFU88TGBAVW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”]]></title>
             <link>http://newstapa.org/article/CL9hY</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/22135138-4768-DD1A-EA6C-V4CXOK5NUK6AVJBQDGJF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나경원-한동훈’ 청탁과 희대의 재판지연]]></title>
-            <link>http://newstapa.org/article/RxwEj</link>
-            <guid>http://newstapa.org/article/RxwEj</guid>
-            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘나경원-한동훈’ 청탁과 희대의 재판지연]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/19134653-9C47-7447-E916-XX7NH8UOB1668OVUSZD3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

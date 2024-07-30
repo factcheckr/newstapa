@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 12:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 13:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지]]></title>
+            <link>http://newstapa.org/article/m7L9u</link>
+            <guid>http://newstapa.org/article/m7L9u</guid>
+            <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/30203504-420A-647E-C9E3-ZXRV3JS2LRFU88TGBAVW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년- 19] "수난·형극이 있는 역사의 길, 난 그 길을 걷겠다"]]></title>
             <link>http://newstapa.org/article/1XTyX</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] ‘대참패’ 부산 엑스포 홍보비, 국내 언론만 배불렸다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20162545-1601-8382-1EB0-F6YRZVGLF6OZ3ADXGTFO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></title>
-            <link>http://newstapa.org/article/W0ODJ</link>
-            <guid>http://newstapa.org/article/W0ODJ</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산엑스포 예산검증① 해외보다 국내 홍보에 더 많이 썼다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20183939-3E75-1BDE-7396-8TB09AA6BBOOYHKWMHNG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
