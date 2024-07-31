@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 08:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 09:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최초 인터뷰 : 쿠팡의 복수... 블랙리스트 폭로 그 이후]]></title>
+            <link>http://newstapa.org/article/28G06</link>
+            <guid>http://newstapa.org/article/28G06</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[최초 인터뷰 : 쿠팡의 복수... 블랙리스트 폭로 그 이후]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/30162518-DC6F-8DE2-E14E-331ZKJT5Q61I9RCB9KUO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”]]></title>
             <link>http://newstapa.org/article/CL9hY</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/24145433-4609-9B11-9756-ZIHSI2RN96ZZCH960KSM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덴마크 '입양 중단' 발표...입양인 그룹 "잘된 일"]]></title>
-            <link>http://newstapa.org/article/LQ2Fr</link>
-            <guid>http://newstapa.org/article/LQ2Fr</guid>
-            <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[덴마크 '입양 중단' 발표...입양인 그룹 "잘된 일"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/17155758-FD07-14B5-DDC5-49QT74YGURN9GR9GX19Z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
