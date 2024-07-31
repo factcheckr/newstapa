@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 07:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 08:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/4sHIS</link>
+            <guid>http://newstapa.org/article/4sHIS</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/31164636-62EF-8E98-C13B-PZ4BCMGNUOM81LZZSOU5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/m7L9u</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[앵무새처럼 '혼동, 혼재' 반복한 정종범 부사령관]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/23184323-64EB-8157-8827-UTX2Q2QXOQM5M1BZMLTN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/vhuHD</link>
-            <guid>http://newstapa.org/article/vhuHD</guid>
-            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/22135138-4768-DD1A-EA6C-V4CXOK5NUK6AVJBQDGJF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['여사님'의 빈자리와 1,621일 만의 청문회 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/02/03102130-50AE-FE2C-8D1F-E61LQ7A7KOFR00L67J47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/4sHIS</link>
+            <guid>http://newstapa.org/article/4sHIS</guid>
+            <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/31164636-62EF-8E98-C13B-PZ4BCMGNUOM81LZZSOU5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오송 참사 1주기 ① ‘오송 참사’ 공소장 입수…경찰은 그날 어디서 무엇을 하고 있었나 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/Tm8fk</link>
             <guid>http://newstapa.org/article/Tm8fk</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Mon, 05 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[문명의 끝에서]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/05145920-7BE4-A22E-F892-CEI2IAVV8N8M1MYJUA6F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/QSdvB</link>
-            <guid>http://newstapa.org/article/QSdvB</guid>
-            <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서]'용산어린이정원'이 우려되는 세 가지 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/04164910-61AB-E9B1-1961-YWICLAVS0LW39P82R0MS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라” (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3192,6 +3192,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/106201082</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/106201082</guid>
+            <pubDate>Wed, 31 Jul 2024 08:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>윤석열 정부 환경부가 어제(30일) 기후 위기로 인한 극한 호우와 가뭄 등에 대비해 '기후위기 대응댐' 14개를 짓겠다고 발표했습니다. 전국 곳곳에 여러 개의 댐 건설을 추진하는 것은 지난 2001년 이후 20년 만입니다.<br></span><span><br></span><span>그러나 전문가들은 '기후위기 대응댐' 건설 계획에 법적·절차적 근거가 없다고 지적합니다. 환경부의 계획은 우리나라 최상위 물관리계획인 국가물관리기본계획의 범위를 벗어난다는 것입니다. 또 댐의 규모가 사실상 저수지 수준에 불과해 댐 건설로 얻을 수 있는 효용 또한 미미하다는 분석입니다. 환경부가 본연의 역할을 스스로 외면하고, 토목 세력의 욕망을 받쳐주고 있다는 지적이 나옵니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/4sHIS" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/4sHIS</span></a><span><span><br></span><span>👉 뉴스타파는 광고와 협찬 없이 회원들의 후원금으로만 운영됩니다. 뉴스타파에 힘을 보태주세요 : </span></span><a href="https://newstapa.org/donate" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/donate</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 "왜 죽었는지 알려 달라" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/106187096</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/106187096</guid>
@@ -3325,18 +3332,19 @@
             <content:encoded><![CDATA[<span><span>김건희 여사의 디올백 수수 의혹을 둘러싸고 대통령실의 '오락가락' 해명이 반복되고 있습니다. 처음에는 '국가 기록물'이라며 반환할 수 없다고 주장하더니, 최근에는 '김건희 여사가 반환을 지시했는데 깜빡했다' 라는 대통령실 유 모 행정관의 증언이 나왔습니다. <br></span><span><br></span><span>뉴스타파는 몇 달 전 김건희 여사와 유 행정관을 모두 잘 아는 제보자 A씨를 만났습니다. A씨는 "유 행정관은 코바나컨텐츠 시절부터 10년 이상 김건희 여사를 모시고 있는 사람"이라며, "김 여사가 본인이 쓰던 명품 가방을 유 행정관에게 자주 줬다" 라고 말했습니다. 덧붙여 "김 여사가 디올백을 유 행정관 쓰라고 줬을 것"이라고 추측하기도 했습니다.<br></span><span><br></span><span>또 다른 제보자 B씨는 김건희 여사가 문제의 디올백을 "받자마자 우리 비서에게 줬다" 라고 말했다고 주장합니다. 다만 B씨는 그 '비서'가 유 모 행정관과 동일 인물인지는 모른다고 말했습니다.<br></span><span><br></span><span>김건희 여사는 정말 유 행정관에게 디올백을 '돌려주라'고 했을까요? 아니면 두 제보자의 말대로 유 행정관에게 '쓰라고 줬던' 것일까요? 아마도 진실은 김건희 여사와 유 모 행정관, 두 사람만이 알고 있을 것입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/b8xAu" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/b8xAu</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/106034666</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/106034666</guid>
-            <pubDate>Wed, 17 Jul 2024 05:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>과거 정당 가입 이력이 있는 사람을 법관 임용에서 배제하는 법안에 대해 헌법재판소가 내일(18일) 위헌 여부를 선고합니다. 지난 2021년 4월 사건이 접수된지 3년 3개월 만입니다. <br></span><span><br></span><span>전문가들은 "과거 정당 가입을 이유로 판사 임용이 제한되는 것은 헌법이 보장하는 공무담임권 침해에 해당한다" 라고 지적합니다. 그러나 헌법재판소는 180일의 법정 선고 시한에도 불구하고 3년 넘게 사건을 미루고 있었습니다. 일부 헌법재판관들이 정치권의 눈치를 보면서 의도적으로 사건을 미룬 것이 아닌지 의혹이 제기됩니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/B_ZiQ" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/B_ZiQ</span></a>]]></content:encoded>
+            <title><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240731165002811</link>
+            <guid>https://v.daum.net/v/20240731165002811</guid>
+            <pubDate>Wed, 31 Jul 2024 08:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240731165002811" class="link_column" data-tiara-layer="근거도_없고_효과도_없을_기후대응댐_14개_alltab"><div class="cont_thumb"><strong class="tit_txt">근거도 없고 효과도 없을 기후대응댐 14개</strong><span class="info_txt"><span class="txt_info">24분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F31%2Fnewstapa%2F20240731165004694xtco.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F31%2Fnewstapa%2F20240731165004694xtco.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240730213004921</link>
             <guid>https://v.daum.net/v/20240730213004921</guid>
             <pubDate>Tue, 30 Jul 2024 13:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240730213004921" class="link_column" data-tiara-layer="일본군_‘위안부’는_“논쟁적_사안”…이진숙의_황당_답변_4가지_alltab"><div class="cont_thumb"><strong class="tit_txt">일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730220015603jyhd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240730213004921" class="link_column" data-tiara-layer="일본군_‘위안부’는_“논쟁적_사안”…이진숙의_황당_답변_4가지_alltab"><div class="cont_thumb"><strong class="tit_txt">일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730220015603jyhd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730220015603jyhd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3344,7 +3352,7 @@
             <link>https://v.daum.net/v/20240730173503950</link>
             <guid>https://v.daum.net/v/20240730173503950</guid>
             <pubDate>Tue, 30 Jul 2024 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240730173503950" class="link_column" data-tiara-layer="폭우_속_영정을_품에_안고...아리셀_참사_유가족_“왜_죽었는지_알려_달라”_alltab"><div class="cont_thumb"><strong class="tit_txt">폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730173513802fbdn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240730173503950" class="link_column" data-tiara-layer="폭우_속_영정을_품에_안고...아리셀_참사_유가족_“왜_죽었는지_알려_달라”_alltab"><div class="cont_thumb"><strong class="tit_txt">폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730173513802fbdn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730173513802fbdn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3375,7 +3383,7 @@
             <link>https://v.daum.net/v/20240726170003138</link>
             <guid>https://v.daum.net/v/20240726170003138</guid>
             <pubDate>Fri, 26 Jul 2024 08:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726170003138" class="link_column" data-tiara-layer="PF_위기③_'낡은_부동산_공화국',_그들만의_'위험한_연착륙'_alltab"><div class="cont_thumb"><strong class="tit_txt">PF 위기③ '낡은 부동산 공화국', 그들만의 '위험한 연착륙'</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729194006245vqxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726170003138" class="link_column" data-tiara-layer="PF_위기③_'낡은_부동산_공화국',_그들만의_'위험한_연착륙'_alltab"><div class="cont_thumb"><strong class="tit_txt">PF 위기③ '낡은 부동산 공화국', 그들만의 '위험한 연착륙'</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729194006245vqxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729194006245vqxe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3559,14 +3567,6 @@
             <pubDate>Fri, 19 Jul 2024 03:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715152506980" class="link_column" data-tiara-layer="윤석열_천만원_후원_‘단골한우집’,_불법_시정명령에도_‘총리_표창’_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’</strong><span class="info_txt"><span class="txt_info">2024. 7. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715152515198prql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715152515198prql.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240715141002725</link>
-            <guid>https://v.daum.net/v/20240715141002725</guid>
-            <pubDate>Fri, 19 Jul 2024 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240715141002725" class="link_column" data-tiara-layer="[불법_압색]_'윤석열_검찰',_법원_허가없이_'기자_이메일'_수색_alltab"><div class="cont_thumb"><strong class="tit_txt">[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색</strong><span class="info_txt"><span class="txt_info">2024. 7. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F15%2Fnewstapa%2F20240715141012529wztq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
