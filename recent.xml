@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 11:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 12:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]⑤ 윤석열의 언론장악 폭주...공영방송 이사진에 문제 인물 대거 임명]]></title>
+            <link>http://newstapa.org/article/gqLNo</link>
+            <guid>http://newstapa.org/article/gqLNo</guid>
+            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]⑤ 윤석열의 언론장악 폭주...공영방송 이사진에 문제 인물 대거 임명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/01203154-BFCA-AEF9-F90F-N0D16IFPDPI7SN0KO3LA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰 ‘뇌피셜’ 공소장에 판사도 “이게 명예훼손 공소장 맞나?”]]></title>
             <link>http://newstapa.org/article/CwYbY</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이진숙, 골프장·호텔·백화점·노래방서 법카 사용..“사적 용도 아니다"?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/24203103-2196-0FCB-A9CD-6HYHS9ZUU7ABYETVB2M8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류희림, 문 잠근 채 또 방심위원장에 선출]]></title>
-            <link>http://newstapa.org/article/lOb9C</link>
-            <guid>http://newstapa.org/article/lOb9C</guid>
-            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[류희림, 문 잠근 채 또 방심위원장에 선출]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/24183230-CEAF-BD8F-E0FC-2YV5CUMVYGZPWH4OCVLE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
