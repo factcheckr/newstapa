@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 10:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 11:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]⑥ 이진숙의 ‘멋쟁이 바보’ 임무영, '스폰서 검사'였다]]></title>
+            <link>http://newstapa.org/article/Pnn6r</link>
+            <guid>http://newstapa.org/article/Pnn6r</guid>
+            <pubDate>Wed, 07 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]⑥ 이진숙의 ‘멋쟁이 바보’ 임무영, '스폰서 검사'였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/07190145-89CD-5037-DF5A-9Q7ROZJK883KHPW9WLFN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑳] “선언 백 번 하면 뭐 하냐, 실천을 해야지”]]></title>
             <link>http://newstapa.org/article/xppxb</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27170021-E96B-1E9A-3160-5ST36LA0BCXVQF1FJNDV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></title>
-            <link>http://newstapa.org/article/5r_LN</link>
-            <guid>http://newstapa.org/article/5r_LN</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27063235-CCD9-EFE2-D24F-9HA5HBTJRCN3KWRF2A5J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
