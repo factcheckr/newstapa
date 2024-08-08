@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 04:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 05:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]⑦ 노조 혐오, 골프 접대, 징계 남발…KBS 이사 7명의 민낯]]></title>
+            <link>http://newstapa.org/article/qze8f</link>
+            <guid>http://newstapa.org/article/qze8f</guid>
+            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]⑦ 노조 혐오, 골프 접대, 징계 남발…KBS 이사 7명의 민낯]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08124954-58E6-C27E-4FCC-G3A5NBFJ9KS0CJR0CDF1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]⑥ 이진숙의 ‘멋쟁이 바보’ 임무영, '스폰서 검사'였다]]></title>
+            <link>http://newstapa.org/article/Pnn6r</link>
+            <guid>http://newstapa.org/article/Pnn6r</guid>
+            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]⑥ 이진숙의 ‘멋쟁이 바보’ 임무영, '스폰서 검사'였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/07190145-89CD-5037-DF5A-9Q7ROZJK883KHPW9WLFN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년⑳] “선언 백 번 하면 뭐 하냐, 실천을 해야지”]]></title>
             <link>http://newstapa.org/article/xppxb</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑮] 금남로와 칠성판의 참혹함, 기자는 시인이 됐다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/28140038-3F59-BB2D-F061-TN6T97F7YK8K6LJW2XWE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내]]></title>
-            <link>http://newstapa.org/article/oaWPM</link>
-            <guid>http://newstapa.org/article/oaWPM</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파]엑스포 예산 사유화 의혹...키링, 접시 그리고 두 아내]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27170021-E96B-1E9A-3160-5ST36LA0BCXVQF1FJNDV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></title>
-            <link>http://newstapa.org/article/5r_LN</link>
-            <guid>http://newstapa.org/article/5r_LN</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27063235-CCD9-EFE2-D24F-9HA5HBTJRCN3KWRF2A5J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
