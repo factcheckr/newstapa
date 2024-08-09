@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 07:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 08:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/i8lyY</link>
+            <guid>http://newstapa.org/article/i8lyY</guid>
+            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09133353-D71F-F81D-9906-J7QRSO6HPJ8LYW46L1N3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['VIP 녹취 제보' 한 달째 소식 없는 공수처...커지는 부실 수사 우려 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/bMhxm</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[일본군 ‘위안부’는 “논쟁적 사안”…이진숙의 황당 답변 4가지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/30203504-420A-647E-C9E3-ZXRV3JS2LRFU88TGBAVW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/CL9hY</link>
-            <guid>http://newstapa.org/article/CL9hY</guid>
-            <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/30162258-6B51-8F37-A7FE-TCWE9ZPU9Z3G30O2S02G.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['VIP 녹취 제보' 한 달째 소식 없는 공수처...커지는 부실 수사 우려 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1416,6 +1416,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/08110847-E4F4-911D-B973-YVXPX5KJAQ7QW257J0W2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
+            <link>http://newstapa.org/article/i8lyY</link>
+            <guid>http://newstapa.org/article/i8lyY</guid>
+            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09133353-D71F-F81D-9906-J7QRSO6HPJ8LYW46L1N3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[자유언론실천선언 50년⑳] “선언 백 번 하면 뭐 하냐, 실천을 해야지” (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
             <link>http://newstapa.org/article/xppxb</link>
             <guid>http://newstapa.org/article/xppxb</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑧] 다시 태어나도 기자가 되고 싶다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/10111356-F80C-F33C-8997-7W0HTJ80KW7X2U8YX4MP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
-            <link>http://newstapa.org/article/viqln</link>
-            <guid>http://newstapa.org/article/viqln</guid>
-            <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑦] 이근안이 우리 집에 들이닥쳤다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/03164938-DA19-441F-B84A-DLEF02VGXI98WNBG09E2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/i8lyY</link>
+            <guid>http://newstapa.org/article/i8lyY</guid>
+            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09133353-D71F-F81D-9906-J7QRSO6HPJ8LYW46L1N3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[언론장악 카르텔]⑦ 노조 혐오, 골프 접대, 징계 남발…KBS 이사 7명의 민낯 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/qze8f</link>
             <guid>http://newstapa.org/article/qze8f</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑯] 비분강개 할 일에도, 그는 가만히 처음 그대로였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/05141736-EE33-16EA-8243-12HUHYFKKQPVODX2GG0B.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑮] 금남로와 칠성판의 참혹함, 기자는 시인이 됐다 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/_kr59</link>
-            <guid>http://newstapa.org/article/_kr59</guid>
-            <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑮] 금남로와 칠성판의 참혹함, 기자는 시인이 됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/28140038-3F59-BB2D-F061-TN6T97F7YK8K6LJW2XWE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채 해병 사건 수사 외압 의혹 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3332,11 +3332,19 @@
             <content:encoded><![CDATA[<span><span>어제(23일) 저녁, '청부 민원' 등 각종 논란을 일으켜온 류희림 방송통신심의위원회(방심위) 위원장이 임기 종료 하루만에 다시 방심위원장으로 선출됐습니다. <br></span><span><br></span><span>이날 방심위는 문을 걸어잠근 채 긴급 회의를 열어 류희림 위원장을 선출했습니다. 윤석열 대통령이 류희림 방심위원을 위촉한 사실이 알려진지 불과 20여분만에 일어난 일이었습니다. <br></span><span>'청부 민원' 등 논란에도 불구하고 류희림 방심위원장 연임을 강행한 것은 사실상 정권의 방송 장악 의지가 드러난 것이라는 비판이 나옵니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/chPT1No1afI" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/chPT1No1afI</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/lOb9C" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/lOb9C</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240809170004109</link>
+            <guid>https://v.daum.net/v/20240809170004109</guid>
+            <pubDate>Fri, 09 Aug 2024 08:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240809170004109" class="link_column" data-tiara-layer="[자유언론실천선언_50년㉑]_'개'라고_불린_기자들...자유_언론은_해방이었다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다</strong><span class="info_txt"><span class="txt_info">14분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809170005730ofxo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809170005730ofxo.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA['VIP 녹취 제보' 한 달째 소식 없는 공수처...커지는 부실 수사 우려 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240809152003251</link>
             <guid>https://v.daum.net/v/20240809152003251</guid>
             <pubDate>Fri, 09 Aug 2024 07:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240809152003251" class="link_column" data-tiara-layer="'VIP_녹취_제보'_한_달째_소식_없는_공수처...커지는_부실_수사_우려_alltab"><div class="cont_thumb"><strong class="tit_txt">'VIP 녹취 제보' 한 달째 소식 없는 공수처...커지는 부실 수사 우려</strong><span class="info_txt"><span class="txt_info">51분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809152009953rvcw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240809152003251" class="link_column" data-tiara-layer="'VIP_녹취_제보'_한_달째_소식_없는_공수처...커지는_부실_수사_우려_alltab"><div class="cont_thumb"><strong class="tit_txt">'VIP 녹취 제보' 한 달째 소식 없는 공수처...커지는 부실 수사 우려</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809152009953rvcw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809152009953rvcw.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3344,14 +3352,14 @@
             <link>https://v.daum.net/v/20240809102004523</link>
             <guid>https://v.daum.net/v/20240809102004523</guid>
             <pubDate>Fri, 09 Aug 2024 02:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240809102004523" class="link_column" data-tiara-layer="[현장에서]_검찰은_공소기각을_노리고_있다_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 검찰은 공소기각을 노리고 있다</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240809102004523" class="link_column" data-tiara-layer="[현장에서]_검찰은_공소기각을_노리고_있다_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 검찰은 공소기각을 노리고 있다</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240808200536659</link>
             <guid>https://v.daum.net/v/20240808200536659</guid>
             <pubDate>Thu, 08 Aug 2024 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200536659" class="link_column" data-tiara-layer="[주간_뉴스타파]_자생한방병원과_악마의_발톱_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 자생한방병원과 악마의 발톱</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205528102baas.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200536659" class="link_column" data-tiara-layer="[주간_뉴스타파]_자생한방병원과_악마의_발톱_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 자생한방병원과 악마의 발톱</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205528102baas.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205528102baas.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3359,7 +3367,7 @@
             <link>https://v.daum.net/v/20240808200528650</link>
             <guid>https://v.daum.net/v/20240808200528650</guid>
             <pubDate>Thu, 08 Aug 2024 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200528650" class="link_column" data-tiara-layer="자생한방병원,_복지부_기준_어기고_수개월간_건강보험_급여_받다_적발_alltab"><div class="cont_thumb"><strong class="tit_txt">자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205524869ccas.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200528650" class="link_column" data-tiara-layer="자생한방병원,_복지부_기준_어기고_수개월간_건강보험_급여_받다_적발_alltab"><div class="cont_thumb"><strong class="tit_txt">자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205524869ccas.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205524869ccas.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3367,15 +3375,15 @@
             <link>https://v.daum.net/v/20240808200514644</link>
             <guid>https://v.daum.net/v/20240808200514644</guid>
             <pubDate>Thu, 08 Aug 2024 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200514644" class="link_column" data-tiara-layer="국내_최대_허리디스크_한방병원과_수상한_건강보험_적용_alltab"><div class="cont_thumb"><strong class="tit_txt">국내 최대 허리디스크 한방병원과 수상한 건강보험 적용</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200527926thbd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200514644" class="link_column" data-tiara-layer="국내_최대_허리디스크_한방병원과_수상한_건강보험_적용_alltab"><div class="cont_thumb"><strong class="tit_txt">국내 최대 허리디스크 한방병원과 수상한 건강보험 적용</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200527926thbd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200527926thbd.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[보건복지부,  타당성 없다는 예타 무시하고 자생한방병원에 세금 지원 (뉴스타파 ─ 다음뉴스)]]></title>
+            <title><![CDATA[보건복지부, 타당성 없다는 예타 무시하고 자생한방병원에 세금 지원 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240808200503637</link>
             <guid>https://v.daum.net/v/20240808200503637</guid>
             <pubDate>Thu, 08 Aug 2024 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200503637" class="link_column" data-tiara-layer="보건복지부,__타당성_없다는_예타_무시하고_자생한방병원에_세금_지원_alltab"><div class="cont_thumb"><strong class="tit_txt">보건복지부,  타당성 없다는 예타 무시하고 자생한방병원에 세금 지원</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200514336ciem.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200503637" class="link_column" data-tiara-layer="보건복지부,_타당성_없다는_예타_무시하고_자생한방병원에_세금_지원_alltab"><div class="cont_thumb"><strong class="tit_txt">보건복지부, 타당성 없다는 예타 무시하고 자생한방병원에 세금 지원</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200514336ciem.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200514336ciem.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3559,14 +3567,6 @@
             <pubDate>Mon, 22 Jul 2024 05:15:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240722140003033" class="link_column" data-tiara-layer="[변화]_과거_정당_가입자_법관_배제법_위헌_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 과거 정당 가입자 법관 배제법 위헌</strong><span class="info_txt"><span class="txt_info">2024. 7. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722140005364hqjv.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722140005364hqjv.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘나경원-한동훈’ 청탁과 희대의 재판지연 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240722100006548</link>
-            <guid>https://v.daum.net/v/20240722100006548</guid>
-            <pubDate>Mon, 22 Jul 2024 02:04:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240722100006548" class="link_column" data-tiara-layer="‘나경원-한동훈’_청탁과_희대의_재판지연_alltab"><div class="cont_thumb"><strong class="tit_txt">‘나경원-한동훈’ 청탁과 희대의 재판지연</strong><span class="info_txt"><span class="txt_info">2024. 7. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722100008080msue.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F22%2Fnewstapa%2F20240722100008080msue.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
