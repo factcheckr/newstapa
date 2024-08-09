@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 00:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 02:04:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 검찰은 공소기각을 노리고 있다]]></title>
+            <link>http://newstapa.org/article/rF8hc</link>
+            <guid>http://newstapa.org/article/rF8hc</guid>
+            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 검찰은 공소기각을 노리고 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09101840-591A-C133-6883-DXGY6RDIJ2CKB6R7EA1S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰 ‘뇌피셜’ 공소장에 판사도 “이게 명예훼손 공소장 맞나?”]]></title>
             <link>http://newstapa.org/article/CwYbY</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[채해병 사건 통화기록 ‘폐기금지 제도’를 활용하자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19105824-3A51-7B98-AA96-XJRH6Q41A1F9AZGHZ3QG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로]]></title>
-            <link>http://newstapa.org/article/5RV7A</link>
-            <guid>http://newstapa.org/article/5RV7A</guid>
-            <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '대북송금' 1심 판결 뒤집는 쌍방울 임원의 폭로]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/13191308-5F2E-A68F-8F30-3QX9Q406N5R9M7NG9LAE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
