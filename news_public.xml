@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 08:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Aug 2024 09:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VIP 녹음파일 폭로 전말... ‘공익 제보자’와 ‘공작 피의자’]]></title>
+            <link>http://newstapa.org/article/EhPDn</link>
+            <guid>http://newstapa.org/article/EhPDn</guid>
+            <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[VIP 녹음파일 폭로 전말... ‘공익 제보자’와 ‘공작 피의자’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/14162453-A9C9-2577-2947-52QO9K3UEKERT1D2889V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['VIP 녹취 제보' 한 달째 소식 없는 공수처...커지는 부실 수사 우려]]></title>
             <link>http://newstapa.org/article/bMhxm</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 천만원 후원 ‘단골한우집’, 불법 시정명령에도 ‘총리 표창’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15150021-4DF7-22EB-2990-TAGBWIP2ZTBM44JZ28VW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색]]></title>
-            <link>http://newstapa.org/article/WzgEH</link>
-            <guid>http://newstapa.org/article/WzgEH</guid>
-            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[불법 압색] '윤석열 검찰', 법원 허가없이 '기자 이메일' 수색]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15112700-8947-D5DB-70F2-SQ5M6MJTSYXAC4MGR6I6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
