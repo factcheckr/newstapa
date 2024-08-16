@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 07:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 08:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/iVEPX</link>
+            <guid>http://newstapa.org/article/iVEPX</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/16135443-5269-050B-3B03-F3C9LE0WJONHXQQSFP47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/y7H7F</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/02180326-9BEF-9CDA-750A-7TLX06F9GGIC5VNS148Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[언론장악 카르텔]⑤ 윤석열의 언론장악 폭주...공영방송 이사진에 문제 인물 대거 임명 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/gqLNo</link>
-            <guid>http://newstapa.org/article/gqLNo</guid>
-            <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔]⑤ 윤석열의 언론장악 폭주...공영방송 이사진에 문제 인물 대거 임명]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/01203154-BFCA-AEF9-F90F-N0D16IFPDPI7SN0KO3LA.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/iVEPX</link>
+            <guid>http://newstapa.org/article/iVEPX</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/16135443-5269-050B-3B03-F3C9LE0WJONHXQQSFP47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 김건희 디올백, 정말 돌려주라고 했을까]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/17181805-9EC8-EED8-5A98-DZ8V4PPTK42A917GJS9F.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이종호 변호 이력' 공수처 검사들 변호인 선임신고서 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/_1eTY</link>
-            <guid>http://newstapa.org/article/_1eTY</guid>
-            <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이종호 변호 이력' 공수처 검사들 변호인 선임신고서 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/16170714-1268-4459-0D65-DQQFQOF7NWP0H2UMVX02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3332,11 +3332,19 @@
             <content:encoded><![CDATA[<span><span>어제(25일) 국회에서 조국혁신당 주최로 '검찰 특활비, 어떻게 폐지할 것인가' 토론회가 열렸습니다. 이날 토론회에는 조국혁신당의 조국 대표와 황운하 원내대표, '검찰 예산검증 공동취재단'에 참여 중인 하승수 변호사(세금도둑잡아라 공동대표) 등이 참석했습니다. <br></span><span><br></span><span>토론회에 앞서 조국 대표는 "지난 4월 윤석열 대통령과 한동훈 당시 법무부 장관을 검찰 특활비 관련 '업무상 배임' 혐의 등으로 공수처에 고발했지만, 수사는 시작조차 되지 않고 있다" 라며 "국정조사와 특별검사 도입으로 철저하게 의혹을 규명하겠다" 라고 말했습니다. <br></span><span>황운하 원내대표도 "신속하게 특검법 발의해야 한다"며, “상설특검제를 통한 수사도 얼마든 가능하다” 라고 말했습니다.<br></span><span><br></span><span>이날 토론회에 발제자로 참석한 하승수 변호사는 "6만 장에 이르는 검찰 특활비 자료에서 특수활동비가 특수활동에 쓰였다는 증거는 하나도 찾을 수 없었다", "검찰 특활비는 폐지되는 것이 마땅하다" 라며, 국정조사와 특검을 통해 특활비 전면 폐지로 나아가는 개혁안을 제시하기도 했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/uim46alYne4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/uim46alYne4</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/EESCC" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/EESCC</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240816171004656</link>
+            <guid>https://v.daum.net/v/20240816171004656</guid>
+            <pubDate>Fri, 16 Aug 2024 08:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240816171004656" class="link_column" data-tiara-layer="김용현_국방장관_후보자,_갭투자_의혹..._3년_만에_2억_시세차익_alltab"><div class="cont_thumb"><strong class="tit_txt">김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익</strong><span class="info_txt"><span class="txt_info">5분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F16%2Fnewstapa%2F20240816171005965cppg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F16%2Fnewstapa%2F20240816171005965cppg.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파]  '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240815200520191</link>
             <guid>https://v.daum.net/v/20240815200520191</guid>
             <pubDate>Thu, 15 Aug 2024 11:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240815200520191" class="link_column" data-tiara-layer="[주간_뉴스타파]__'윤석열_명예훼손'_무차별_통신조회,_검찰이_숨긴_사실들_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파]  '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815200524602opvb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240815200520191" class="link_column" data-tiara-layer="[주간_뉴스타파]__'윤석열_명예훼손'_무차별_통신조회,_검찰이_숨긴_사실들_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파]  '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815200524602opvb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815200524602opvb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3344,7 +3352,7 @@
             <link>https://v.daum.net/v/20240815200503186</link>
             <guid>https://v.daum.net/v/20240815200503186</guid>
             <pubDate>Thu, 15 Aug 2024 11:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240815200503186" class="link_column" data-tiara-layer="무차별_통신조회...검찰,_일가친척과_지인_개인정보까지_털어_alltab"><div class="cont_thumb"><strong class="tit_txt">무차별 통신조회...검찰, 일가친척과 지인 개인정보까지 털어</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815200520000olmr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240815200503186" class="link_column" data-tiara-layer="무차별_통신조회...검찰,_일가친척과_지인_개인정보까지_털어_alltab"><div class="cont_thumb"><strong class="tit_txt">무차별 통신조회...검찰, 일가친척과 지인 개인정보까지 털어</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815200520000olmr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815200520000olmr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3352,7 +3360,7 @@
             <link>https://v.daum.net/v/20240815200003102</link>
             <guid>https://v.daum.net/v/20240815200003102</guid>
             <pubDate>Thu, 15 Aug 2024 11:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240815200003102" class="link_column" data-tiara-layer="&quot;친일_인사_거부&quot;..._초유의_'따로_따로'_광복절_기념식_alltab"><div class="cont_thumb"><strong class="tit_txt">"친일 인사 거부"... 초유의 '따로 따로' 광복절 기념식</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815205318275ctvo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240815200003102" class="link_column" data-tiara-layer="&quot;친일_인사_거부&quot;..._초유의_'따로_따로'_광복절_기념식_alltab"><div class="cont_thumb"><strong class="tit_txt">"친일 인사 거부"... 초유의 '따로 따로' 광복절 기념식</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815205318275ctvo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F15%2Fnewstapa%2F20240815205318275ctvo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3376,7 +3384,7 @@
             <link>https://v.daum.net/v/20240809170004109</link>
             <guid>https://v.daum.net/v/20240809170004109</guid>
             <pubDate>Fri, 09 Aug 2024 08:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240809170004109" class="link_column" data-tiara-layer="[자유언론실천선언_50년㉑]_'개'라고_불린_기자들...자유_언론은_해방이었다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809170005730ofxo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240809170004109" class="link_column" data-tiara-layer="[자유언론실천선언_50년㉑]_'개'라고_불린_기자들...자유_언론은_해방이었다_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다</strong><span class="info_txt"><span class="txt_info">2024. 8. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809170005730ofxo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F09%2Fnewstapa%2F20240809170005730ofxo.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3559,14 +3567,6 @@
             <pubDate>Thu, 25 Jul 2024 11:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240725200503457" class="link_column" data-tiara-layer="[언론장악_카르텔]④공언련이_‘드리블’_대통령이_‘마무리’_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]④공언련이 ‘드리블’ 대통령이 ‘마무리’</strong><span class="info_txt"><span class="txt_info">2024. 7. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F25%2Fnewstapa%2F20240725200511239xzca.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F25%2Fnewstapa%2F20240725200511239xzca.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240725050004873</link>
-            <guid>https://v.daum.net/v/20240725050004873</guid>
-            <pubDate>Wed, 24 Jul 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240725050004873" class="link_column" data-tiara-layer="[언론장악_카르텔]③_이진숙_‘MBC_노조_와해_여론전’에_2억5천만_원_계약_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약</strong><span class="info_txt"><span class="txt_info">2024. 7. 24.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F25%2Fnewstapa%2F20240725050006024gvkt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F25%2Fnewstapa%2F20240725050006024gvkt.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
