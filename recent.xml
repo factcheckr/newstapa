@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 08:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 09:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년㉒] 혈육의 정마저 끊어 놓은 서울의 봄, 그 잔혹한 군홧발]]></title>
+            <link>http://newstapa.org/article/QMR2a</link>
+            <guid>http://newstapa.org/article/QMR2a</guid>
+            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년㉒] 혈육의 정마저 끊어 놓은 서울의 봄, 그 잔혹한 군홧발]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/16135755-3D95-F5B8-21D3-4XKG1MW7CNZ13THEDFKK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익]]></title>
             <link>http://newstapa.org/article/iVEPX</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[언론장악 카르텔]⑥ 이진숙의 ‘멋쟁이 바보’ 임무영, '스폰서 검사'였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/07190145-89CD-5037-DF5A-9Q7ROZJK883KHPW9WLFN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑳] “선언 백 번 하면 뭐 하냐, 실천을 해야지”]]></title>
-            <link>http://newstapa.org/article/xppxb</link>
-            <guid>http://newstapa.org/article/xppxb</guid>
-            <pubDate>Fri, 02 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑳] “선언 백 번 하면 뭐 하냐, 실천을 해야지”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/02180326-9BEF-9CDA-750A-7TLX06F9GGIC5VNS148Z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
