@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 23:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 00:44:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진숙 "법카 사용 자부심 있어" 김태규 "권익위 국장 사망? 누구도 위해 안 해"]]></title>
+            <link>http://newstapa.org/article/B85fZ</link>
+            <guid>http://newstapa.org/article/B85fZ</guid>
+            <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙 "법카 사용 자부심 있어" 김태규 "권익위 국장 사망? 누구도 위해 안 해"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/16200806-4C93-50C0-A9BE-T168B8VQX8QVPIL77HZI.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년㉒] 혈육의 정마저 끊어 놓은 서울의 봄, 그 잔혹한 군홧발]]></title>
             <link>http://newstapa.org/article/QMR2a</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[언론장악 카르텔]⑦ 노조 혐오, 골프 접대, 징계 남발…KBS 이사 7명의 민낯]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08124954-58E6-C27E-4FCC-G3A5NBFJ9KS0CJR0CDF1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]⑥ 이진숙의 ‘멋쟁이 바보’ 임무영, '스폰서 검사'였다]]></title>
-            <link>http://newstapa.org/article/Pnn6r</link>
-            <guid>http://newstapa.org/article/Pnn6r</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔]⑥ 이진숙의 ‘멋쟁이 바보’ 임무영, '스폰서 검사'였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/07190145-89CD-5037-DF5A-9Q7ROZJK883KHPW9WLFN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
