@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 05:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 06:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[언론장악 카르텔 추적]]></title>
+            <link>https://newstapa.org/tags/%EC%96%B8%EB%A1%A0%EC%9E%A5%EC%95%85%20%EC%B9%B4%EB%A5%B4%ED%85%94</link>
+            <guid>https://newstapa.org/tags/%EC%96%B8%EB%A1%A0%EC%9E%A5%EC%95%85%20%EC%B9%B4%EB%A5%B4%ED%85%94</guid>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 언론장악 기도가 끝없이 이어지고 있습니다. 뉴스타파와 미디어오늘, 시사IN, 오마이뉴스, 한겨레신문 등 5개 언론사가 모여 현 정부의 언론장악 실태를 추적했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/20150451-4C3D-AFB2-E316-TB8D1VS97BM6EW7NJ3BC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[채 해병 사건 수사 외압 의혹]]></title>
             <link>https://newstapa.org/tags/%EC%B1%84%20%ED%95%B4%EB%B3%91%20%EC%82%AC%EA%B1%B4%20%EC%88%98%EC%82%AC%20%EC%99%B8%EC%95%95%20%EC%9D%98%ED%98%B9</link>
