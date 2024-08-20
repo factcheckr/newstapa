@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 02:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 02:38:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개]]></title>
+            <link>https://v.daum.net/v/20240820113003052</link>
+            <guid>https://v.daum.net/v/20240820113003052</guid>
+            <pubDate>Tue, 20 Aug 2024 02:38:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240820113003052" class="link_column" data-tiara-layer="'장시호_출정·환소_시각'_3년_지나_삭제?_반박_증거_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">'장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개</strong><span class="info_txt"><span class="txt_info">7분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F20%2Fnewstapa%2F20240820113004963psfh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F20%2Fnewstapa%2F20240820113004963psfh.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[이진숙 "법카 사용 자부심 있어" 김태규 "권익위 국장 사망? 누구도 위해 안 해"]]></title>
             <link>https://v.daum.net/v/20240817090003262</link>
@@ -236,13 +244,6 @@
             <pubDate>Fri, 26 Jul 2024 06:19:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726150005466" class="link_column" data-tiara-layer="채_해병_사건의_공백,_보문교의_위험경고_무시와_임성근의_부하_탓_alltab"><div class="cont_thumb"><strong class="tit_txt">채 해병 사건의 공백, 보문교의 위험경고 무시와 임성근의 부하 탓</strong><span class="info_txt"><span class="txt_info">2024. 7. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F26%2Fnewstapa%2F20240726150008655npkl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F26%2Fnewstapa%2F20240726150008655npkl.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[총장 윤석열의 ‘특활비 사유화’ 의혹 풀기 위한 국정조사, 특별검사 도입 추진한다]]></title>
-            <link>https://v.daum.net/v/20240726130002908</link>
-            <guid>https://v.daum.net/v/20240726130002908</guid>
-            <pubDate>Fri, 26 Jul 2024 04:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726130002908" class="link_column" data-tiara-layer="총장_윤석열의_‘특활비_사유화’_의혹_풀기_위한_국정조사,_특별검사_도입_추진한다_alltab"><div class="cont_thumb"><strong class="tit_txt">총장 윤석열의 ‘특활비 사유화’ 의혹 풀기 위한 국정조사, 특별검사 도입 추진한다</strong><span class="info_txt"><span class="txt_info">2024. 7. 26.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
