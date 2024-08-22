@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 11:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 12:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/oyxco</link>
+            <guid>http://newstapa.org/article/oyxco</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22191800-B276-2096-A3FA-EFAML2M9HGK7MPTHF2FI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0A4Px</link>
+            <guid>http://newstapa.org/article/0A4Px</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22201131-F82F-8667-E224-3I9RK3WZQ6CPT8IDFT5O.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5OWaP</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 검찰은 공소기각을 노리고 있다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09101840-591A-C133-6883-DXGY6RDIJ2CKB6R7EA1S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/rOWcA</link>
-            <guid>http://newstapa.org/article/rOWcA</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194328-7098-371A-5723-KAZUNXYK9KFRSUSGAX56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/KmGMz</link>
-            <guid>http://newstapa.org/article/KmGMz</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194729-75AF-583F-6BF1-GHYWL871F7TED8KKDX60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/23184323-64EB-8157-8827-UTX2Q2QXOQM5M1BZMLTN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/oyxco</link>
+            <guid>http://newstapa.org/article/oyxco</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22191800-B276-2096-A3FA-EFAML2M9HGK7MPTHF2FI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/0A4Px</link>
+            <guid>http://newstapa.org/article/0A4Px</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22201131-F82F-8667-E224-3I9RK3WZQ6CPT8IDFT5O.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/LkDTX</link>
             <guid>http://newstapa.org/article/LkDTX</guid>
@@ -374,22 +390,6 @@
             <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/02132906-135B-CD4E-0401-XJ7JNGOSVWOK5YQT8ZBU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[증인매수 의혹]⑤ "검사와 거래" 직후, 쌍방울이 '안부수 폰' 가져갔다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/gv18L</link>
-            <guid>http://newstapa.org/article/gv18L</guid>
-            <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[증인매수 의혹]⑤ "검사와 거래" 직후, 쌍방울이 '안부수 폰' 가져갔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/25141840-BDCD-B241-95F0-DA9A8SLH9KMO5OILXNV1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[증인매수 의혹]④ 안부수 딸 카톡에 '부당거래' 정황...“아빠가 검찰과 합의봤어” (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/vVBA-</link>
-            <guid>http://newstapa.org/article/vVBA-</guid>
-            <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[증인매수 의혹]④ 안부수 딸 카톡에 '부당거래' 정황...“아빠가 검찰과 합의봤어”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21165404-6785-638E-92BA-2FJ2S3C0ALXJE758TY93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3200,6 +3200,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰이 만든 필리핀의 유령 '北 공작원 리호남' 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/106454626</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/106454626</guid>
+            <pubDate>Thu, 22 Aug 2024 12:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>'쌍방울그룹 대북송금 사건'을 수사 중인 검찰은 쌍방울 측이 이재명 민주당 대표의 방북 비용 300만 달러를 북한에 전달했다고 보고 있습니다. 그 중 70만 달러가 2019년 7월, 필리핀에서 열린 행사에서 북한 공작원 리호남에게 전달됐다는 것이 검찰의 주장인데요.<br></span><span><br></span><span>하지만 뉴스타파 취재 결과, 당시 필리핀에는 리호남이 없었다는 증거가 여럿 드러났습니다. 당시 필리핀 행사에 참여한 핵심 관계자도 '리호남은 없었다' 라고 확신하고 있습니다. '대북송금 사건'을 취재하고 있는 봉지욱 기자가 검찰 주장을 뒤집는 결정적 증거 세 가지를 공개합니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/B9h25mz5dQ4" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/B9h25mz5dQ4</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/oyxco" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/oyxco</span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[대북송금 X파일] "北 공작원 리호남, 필리핀에 없었다" 결정적 증거 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/106454617</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/106454617</guid>
+            <pubDate>Thu, 22 Aug 2024 12:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>지난 6월 7일 '쌍방울그룹 대북송금 사건' 1심 재판부는 이화영 전 경기도 평화부지사에게 징역 9년 6개월의 중형을 내렸습니다. 이후 검찰은 일주일도 채 지나지 않아 이재명 민주당 대표를 같은 사건으로 기소했습니다. 쌍방울그룹이 북한 측에 이재명 대표의 '방북 비용'을 건넸다는 것입니다.<br></span><span><br></span><span>검찰은 지난 2019년 7월 필리핀에서 쌍방울그룹 김성태 회장이 북한 공작원 리호남에게 이재명 대표의 방북 비용 70만 달러를 줬다고 주장하고 있습니다. 하지만 뉴스타파는 검찰이 주장이 거짓이라는 증거를  여럿 발견했습니다. 검찰 수사와는 배치되는 결정적 증거 세 가지를 뉴스타파가 공개합니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/SfbtSfwBrng" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/SfbtSfwBrng</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/0A4Px" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/0A4Px</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/106454154</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/106454154</guid>
@@ -3326,25 +3340,27 @@
             <content:encoded><![CDATA[<span><span>'윤석열 대통령 명예훼손' 혐의로 기소된 뉴스타파 김용진 대표, 한상진 기자에 대한 재판이 어제(7월 31일) 처음으로 열렸습니다. 검찰은 2022년 대선 당시, 뉴스타파가 '대장동 업자' 김만배 씨와 공모해 허위 보도로 윤석열 후보의 명예를 훼손했다고 주장하고 있습니다.<br></span><span><br></span><span>이날 재판부는 뉴스타파의 보도 내용, 즉 부산저축은행 수사 당시 윤석열 검사가 '봐주기 수사'를 했는지 여부가 재판의 핵심이라며, 앞으로의 재판에서 이 내용을 직접 확인하겠다고 밝혔습니다. 뉴스타파의 보도가 허위라는 검찰의 주장을 그대로 수용할 수는 없다는 취지입니다. <br></span><span><br></span><span>이로써 '윤석열 대통령 명예훼손' 재판은 오히려 '윤석열 검사의 봐주기 수사' 여부를 밝히는 재판으로 그 성격이 바뀌게 됐습니다. 뉴스타파는 앞으로도 이 사건의 쟁점과 재판 과정을 계속 보도해 나가겠습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/M_m3qzB1Tck" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/M_m3qzB1Tck</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/CwYbY" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/CwYbY</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최초 인터뷰 : 쿠팡의 복수... 블랙리스트 폭로 그 이후 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/106201835</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/106201835</guid>
-            <pubDate>Wed, 31 Jul 2024 09:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>뉴스타파는 최근 '쿠팡 블랙리스트' 제보자 A씨를 최초로 인터뷰했습니다. 쿠팡 호법물류센터 인사채용팀에서 일했던 A씨는 "블랙리스트 기준은 객관적이지 않다", "합리적 이유도 없이 블랙리스트에 올라 채용이 거절되는 경우도 있었다" 라고 말했습니다.<br></span><span><br></span><span>A씨가 블랙리스트의 존재를 폭로한 이후 쿠팡 측은 A씨를 영업비밀 유출 등 혐의로 고소했습니다. 하지만 정작 쿠팡이 작성한 고소장에는 블랙리스트 관련 내용이 빠져 있었습니다. 쿠팡이 쿠팡이 블랙리스트의 존재는 언급하지 않으면서도 A씨를 압박하기 위해 '별건 고소'를 진행했다는 의혹이 제기됩니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/A31xYeU3-88" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/A31xYeU3-88</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/28G06" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/28G06</span></a>]]></content:encoded>
+            <title><![CDATA[[대북송금 X파일] "北 공작원 리호남, 필리핀에 없었다" 결정적 증거 공개 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240822201630024</link>
+            <guid>https://v.daum.net/v/20240822201630024</guid>
+            <pubDate>Thu, 22 Aug 2024 12:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240822201630024" class="link_column" data-tiara-layer="[대북송금_X파일]_&quot;北_공작원_리호남,_필리핀에_없었다&quot;_결정적_증거_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[대북송금 X파일] "北 공작원 리호남, 필리핀에 없었다" 결정적 증거 공개</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822201641346inre.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822201641346inre.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
-            <title><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/106201082</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/106201082</guid>
-            <pubDate>Wed, 31 Jul 2024 08:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>윤석열 정부 환경부가 어제(30일) 기후 위기로 인한 극한 호우와 가뭄 등에 대비해 '기후위기 대응댐' 14개를 짓겠다고 발표했습니다. 전국 곳곳에 여러 개의 댐 건설을 추진하는 것은 지난 2001년 이후 20년 만입니다.<br></span><span><br></span><span>그러나 전문가들은 '기후위기 대응댐' 건설 계획에 법적·절차적 근거가 없다고 지적합니다. 환경부의 계획은 우리나라 최상위 물관리계획인 국가물관리기본계획의 범위를 벗어난다는 것입니다. 또 댐의 규모가 사실상 저수지 수준에 불과해 댐 건설로 얻을 수 있는 효용 또한 미미하다는 분석입니다. 환경부가 본연의 역할을 스스로 외면하고, 토목 세력의 욕망을 받쳐주고 있다는 지적이 나옵니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/4sHIS" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/4sHIS</span></a><span><span><br></span><span>👉 뉴스타파는 광고와 협찬 없이 회원들의 후원금으로만 운영됩니다. 뉴스타파에 힘을 보태주세요 : </span></span><a href="https://newstapa.org/donate" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/donate</span></a>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240822201128938</link>
+            <guid>https://v.daum.net/v/20240822201128938</guid>
+            <pubDate>Thu, 22 Aug 2024 12:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240822201128938" class="link_column" data-tiara-layer="[주간_뉴스타파]_검찰이_만든_필리핀의_유령_'北_공작원_리호남'_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남'</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822201133826phsu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822201133826phsu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240822184003787</link>
             <guid>https://v.daum.net/v/20240822184003787</guid>
             <pubDate>Thu, 22 Aug 2024 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240822184003787" class="link_column" data-tiara-layer="이진숙은_어떻게_95분만에_공영방송_이사_13명을_뽑았나_alltab"><div class="cont_thumb"><strong class="tit_txt">이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822184005162xsiq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240822184003787" class="link_column" data-tiara-layer="이진숙은_어떻게_95분만에_공영방송_이사_13명을_뽑았나_alltab"><div class="cont_thumb"><strong class="tit_txt">이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822184005162xsiq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822184005162xsiq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3560,21 +3576,6 @@
             <pubDate>Mon, 29 Jul 2024 02:04:26 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240729100003051" class="link_column" data-tiara-layer="지방소멸,_이대론_막을_수_없다_alltab"><div class="cont_thumb"><strong class="tit_txt">지방소멸, 이대론 막을 수 없다</strong><span class="info_txt"><span class="txt_info">2024. 7. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729100028155yiin.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729100028155yiin.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['여사님'의 빈자리와 1,621일 만의 청문회 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240726214503520</link>
-            <guid>https://v.daum.net/v/20240726214503520</guid>
-            <pubDate>Fri, 26 Jul 2024 13:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726214503520" class="link_column" data-tiara-layer="'여사님'의_빈자리와_1,621일_만의_청문회_alltab"><div class="cont_thumb"><strong class="tit_txt">'여사님'의 빈자리와 1,621일 만의 청문회</strong><span class="info_txt"><span class="txt_info">2024. 7. 26.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년- 19] "수난·형극이 있는 역사의 길, 난 그 길을 걷겠다" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240726180003843</link>
-            <guid>https://v.daum.net/v/20240726180003843</guid>
-            <pubDate>Fri, 26 Jul 2024 09:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726180003843" class="link_column" data-tiara-layer="[자유언론실천선언_50년-_19]_&quot;수난·형극이_있는_역사의_길,_난_그_길을_걷겠다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년- 19] "수난·형극이 있는 역사의 길, 난 그 길을 걷겠다"</strong><span class="info_txt"><span class="txt_info">2024. 7. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F26%2Fnewstapa%2F20240726180005097tqlb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F26%2Fnewstapa%2F20240726180005097tqlb.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
