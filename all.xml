@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 09:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 10:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/5OWaP</link>
+            <guid>http://newstapa.org/article/5OWaP</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22183448-D7EC-67BE-0C05-P1A9S8QPXG0NKVUDJ87V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑥ 일제시대 조선인의 국적은 일본인가 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/j7iQW</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194729-75AF-583F-6BF1-GHYWL871F7TED8KKDX60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/WA00E</link>
-            <guid>http://newstapa.org/article/WA00E</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08195356-6EC0-9B9A-4F6B-SE4Z0QUF0D5O0NHZ9VWU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1928,6 +1928,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/05154145-8862-DBF0-775B-7D4D76CT2LD90UXVJ6EX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
+            <link>http://newstapa.org/article/5OWaP</link>
+            <guid>http://newstapa.org/article/5OWaP</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22183448-D7EC-67BE-0C05-P1A9S8QPXG0NKVUDJ87V.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이진숙 "법카 사용 자부심 있어" 김태규 "권익위 국장 사망? 누구도 위해 안 해" (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
             <link>http://newstapa.org/article/B85fZ</link>
             <guid>http://newstapa.org/article/B85fZ</guid>
@@ -2046,14 +2054,6 @@
             <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[언론장악 카르텔 추적]① 윤석열의 언론장악과 ‘이진숙 카드']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15164912-7BA1-08A9-BA31-BJ6WPG4M0NK0E5H20SOY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며 (뉴스타파 ─ 뉴스 ─ 미디어)]]></title>
-            <link>http://newstapa.org/article/KSlTS</link>
-            <guid>http://newstapa.org/article/KSlTS</guid>
-            <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘진짜 저널리즘 실천(진실)’ 프로젝트를 시작하며]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/15162950-F973-CE1B-F2C8-1SZCZKANC2IGEVD502YI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[언론장악 카르텔 추적 (뉴스타파 ─ 프로젝트)]]></title>
@@ -3200,6 +3200,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/106454154</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/106454154</guid>
+            <pubDate>Thu, 22 Aug 2024 10:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>지난 7월 31일, 이진숙 신임 방송통신위원장이 취임과 동시에 KBS·MBC 이사진을 임명했습니다. 이날 이진숙 위원장과 김태규 부위원장이 공영방송 이사 지원자 83명 중 13명을 임명하는데는 불과 95분밖에 걸리지 않았습니다.<br></span><span><br></span><span>이진숙 위원장과 김태규 부위원장은 어떻게 이렇게 짧은 시간 안에 공영방송 이사진을 임명할 수 있었을까요? '2인 체제' 방송통신위원회의 결정은 과연 적법한 것이었을까요? 뉴스타파와 언론장악 공동취재팀이 7월 31일 공영방송 이사 선임 과정을 시간대별로 정리했습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/5OWaP" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/5OWaP</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑥ 일제시대 조선인의 국적은 일본인가 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/106425271</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/106425271</guid>
@@ -3333,11 +3340,12 @@
             <content:encoded><![CDATA[<span><span>윤석열 정부 환경부가 어제(30일) 기후 위기로 인한 극한 호우와 가뭄 등에 대비해 '기후위기 대응댐' 14개를 짓겠다고 발표했습니다. 전국 곳곳에 여러 개의 댐 건설을 추진하는 것은 지난 2001년 이후 20년 만입니다.<br></span><span><br></span><span>그러나 전문가들은 '기후위기 대응댐' 건설 계획에 법적·절차적 근거가 없다고 지적합니다. 환경부의 계획은 우리나라 최상위 물관리계획인 국가물관리기본계획의 범위를 벗어난다는 것입니다. 또 댐의 규모가 사실상 저수지 수준에 불과해 댐 건설로 얻을 수 있는 효용 또한 미미하다는 분석입니다. 환경부가 본연의 역할을 스스로 외면하고, 토목 세력의 욕망을 받쳐주고 있다는 지적이 나옵니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/4sHIS" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/4sHIS</span></a><span><span><br></span><span>👉 뉴스타파는 광고와 협찬 없이 회원들의 후원금으로만 운영됩니다. 뉴스타파에 힘을 보태주세요 : </span></span><a href="https://newstapa.org/donate" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/donate</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 "왜 죽었는지 알려 달라" (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/106187096</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/106187096</guid>
-            <pubDate>Tue, 30 Jul 2024 09:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>지난 6월 24일, 경기도 화성시에 있는 리튬전지 제조 업체 '아리셀'에서 일어난 화재로 노동자 23명이 사망하는 참사가 일어났습니다. 아리셀은 당시 이주 노동자들을 불법적으로 고용하고, 위험 물질을 취급하는 외주·이주 노동자들에게 안전 교육도 제대로 하지 않았다는 의혹을 받고 있습니다. <br></span><span><br></span><span>참사로부터 약 한 달째인 지난 27일, '아리셀 참사' 유가족들 30여 명이 용산 대통령실 앞에 모였습니다. 이날 유가족들은 시민 300여 명과 함께 폭우를 맞으며 대통령실 앞에서 서울역까지 행진했습니다. 유가족들은 왜 거리에 나오게 되었고, 이들이 바라는 것은 무엇일까요. 뉴스타파가 아리셀 참사 유가족들의 목소리를 들어 봤습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/jEYiFKVM590" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/jEYiFKVM590</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/CL9hY" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/CL9hY</span></a>]]></content:encoded>
+            <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240822184003787</link>
+            <guid>https://v.daum.net/v/20240822184003787</guid>
+            <pubDate>Thu, 22 Aug 2024 10:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240822184003787" class="link_column" data-tiara-layer="이진숙은_어떻게_95분만에_공영방송_이사_13명을_뽑았나_alltab"><div class="cont_thumb"><strong class="tit_txt">이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나</strong><span class="info_txt"><span class="txt_info">33분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822184005162xsiq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822184005162xsiq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑥ 일제시대 조선인의 국적은 일본인가 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3567,14 +3575,6 @@
             <pubDate>Fri, 26 Jul 2024 09:15:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726180003843" class="link_column" data-tiara-layer="[자유언론실천선언_50년-_19]_&quot;수난·형극이_있는_역사의_길,_난_그_길을_걷겠다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년- 19] "수난·형극이 있는 역사의 길, 난 그 길을 걷겠다"</strong><span class="info_txt"><span class="txt_info">2024. 7. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F26%2Fnewstapa%2F20240726180005097tqlb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F26%2Fnewstapa%2F20240726180005097tqlb.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[PF 위기③ '낡은 부동산 공화국', 그들만의 '위험한 연착륙' (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240726170003138</link>
-            <guid>https://v.daum.net/v/20240726170003138</guid>
-            <pubDate>Fri, 26 Jul 2024 08:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240726170003138" class="link_column" data-tiara-layer="PF_위기③_'낡은_부동산_공화국',_그들만의_'위험한_연착륙'_alltab"><div class="cont_thumb"><strong class="tit_txt">PF 위기③ '낡은 부동산 공화국', 그들만의 '위험한 연착륙'</strong><span class="info_txt"><span class="txt_info">2024. 7. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729194006245vqxe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729194006245vqxe.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

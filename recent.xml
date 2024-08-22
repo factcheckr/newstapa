@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 09:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 10:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나]]></title>
+            <link>http://newstapa.org/article/5OWaP</link>
+            <guid>http://newstapa.org/article/5OWaP</guid>
+            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이진숙은 어떻게 95분만에 공영방송 이사 13명을 뽑았나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22183448-D7EC-67BE-0C05-P1A9S8QPXG0NKVUDJ87V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑥ 일제시대 조선인의 국적은 일본인가]]></title>
             <link>http://newstapa.org/article/j7iQW</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194729-75AF-583F-6BF1-GHYWL871F7TED8KKDX60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용]]></title>
-            <link>http://newstapa.org/article/WA00E</link>
-            <guid>http://newstapa.org/article/WA00E</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08195356-6EC0-9B9A-4F6B-SE4Z0QUF0D5O0NHZ9VWU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
