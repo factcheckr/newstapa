@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 23:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 00:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/7QFcR</link>
+            <guid>http://newstapa.org/article/7QFcR</guid>
+            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/23150409-89C0-F674-97C8-6VWLXMZNFRFM862Z37ER.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/oyxco</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['VIP 녹취 제보' 한 달째 소식 없는 공수처...커지는 부실 수사 우려]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09132131-63E7-D114-1DE4-JO586L7SKW2HXBAWVFBP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 검찰은 공소기각을 노리고 있다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/rF8hc</link>
-            <guid>http://newstapa.org/article/rF8hc</guid>
-            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 검찰은 공소기각을 노리고 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09101840-591A-C133-6883-DXGY6RDIJ2CKB6R7EA1S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/02132906-135B-CD4E-0401-XJ7JNGOSVWOK5YQT8ZBU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/7QFcR</link>
+            <guid>http://newstapa.org/article/7QFcR</guid>
+            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/23150409-89C0-F674-97C8-6VWLXMZNFRFM862Z37ER.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/rOWcA</link>
             <guid>http://newstapa.org/article/rOWcA</guid>
@@ -510,14 +518,6 @@
             <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산엑스포 예산검증② 부산시와 언론사, 칼럼·기사 거래 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/20184002-8D7F-6D52-9F84-B0J3OU4PWUZM4CZTNP2J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/97ovv</link>
-            <guid>http://newstapa.org/article/97ovv</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 고위 검사 '3분의 2'가 특수활동비 오남용 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19140535-FB3C-EB8B-A821-HBDV71A08735MUXCEDEH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PF위기① 태영건설 워크아웃 '추락의 해부' (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/05145920-7BE4-A22E-F892-CEI2IAVV8N8M1MYJUA6F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/7QFcR</link>
+            <guid>http://newstapa.org/article/7QFcR</guid>
+            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/23150409-89C0-F674-97C8-6VWLXMZNFRFM862Z37ER.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최초 인터뷰 : 쿠팡의 복수... 블랙리스트 폭로 그 이후 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/28G06</link>
             <guid>http://newstapa.org/article/28G06</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[쿠팡 ‘부당해고’ 소송 1심만 3년 5개월째...법원의 수상한 선고 연기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/26145634-C3A4-9F56-A744-YMYREQI8PF8WHFGPLXOS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/8A_CG</link>
-            <guid>http://newstapa.org/article/8A_CG</guid>
-            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/24145433-4609-9B11-9756-ZIHSI2RN96ZZCH960KSM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라” (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3340,6 +3340,14 @@
             <content:encoded><![CDATA[<span><span>이진숙 방송통신위원장이 임명 이틀만에 KBS와 MBC 대주주인 방송문화진흥회(방문진) 이사 13명을 한꺼번에 선임했습니다. <br></span><span><br></span><span>그런데 KBS와 방문진 신임 이사들 중 상당수가 공정언론국민연대 등 보수 언론단체와 관련이 있거나, 공영방송 이사로서 부적절한 논란에 휩싸여 있는 것으로 확인됐습니다. 뉴스타파와 4개 언론사로 구성된 '언론장악 공동취재팀'이 신임 공영방송 이사들을 검증했습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/qze8f" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/qze8f</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240826090151767</link>
+            <guid>https://v.daum.net/v/20240826090151767</guid>
+            <pubDate>Mon, 26 Aug 2024 00:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240826090151767" class="link_column" data-tiara-layer="[백지_입양기록①]10년을_했는데_엉터리?…복지부,_입양_기록_전산화_사업_감사_착수_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수</strong><span class="info_txt"><span class="txt_info">42분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F26%2Fnewstapa%2F20240826090205526chfi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F26%2Fnewstapa%2F20240826090205526chfi.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[대북송금 X파일] "北 공작원 리호남, 필리핀에 없었다" 결정적 증거 공개 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240822201630024</link>
             <guid>https://v.daum.net/v/20240822201630024</guid>
@@ -3568,14 +3576,6 @@
             <pubDate>Tue, 30 Jul 2024 09:19:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240730173503950" class="link_column" data-tiara-layer="폭우_속_영정을_품에_안고...아리셀_참사_유가족_“왜_죽었는지_알려_달라”_alltab"><div class="cont_thumb"><strong class="tit_txt">폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”</strong><span class="info_txt"><span class="txt_info">2024. 7. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730173513802fbdn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730173513802fbdn.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[지방소멸, 이대론 막을 수 없다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240729100003051</link>
-            <guid>https://v.daum.net/v/20240729100003051</guid>
-            <pubDate>Mon, 29 Jul 2024 02:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240729100003051" class="link_column" data-tiara-layer="지방소멸,_이대론_막을_수_없다_alltab"><div class="cont_thumb"><strong class="tit_txt">지방소멸, 이대론 막을 수 없다</strong><span class="info_txt"><span class="txt_info">2024. 7. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729100028155yiin.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729100028155yiin.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

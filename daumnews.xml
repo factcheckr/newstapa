@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Aug 2024 23:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 00:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수]]></title>
+            <link>https://v.daum.net/v/20240826090151767</link>
+            <guid>https://v.daum.net/v/20240826090151767</guid>
+            <pubDate>Mon, 26 Aug 2024 00:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240826090151767" class="link_column" data-tiara-layer="[백지_입양기록①]10년을_했는데_엉터리?…복지부,_입양_기록_전산화_사업_감사_착수_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수</strong><span class="info_txt"><span class="txt_info">42분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F26%2Fnewstapa%2F20240826090205526chfi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F26%2Fnewstapa%2F20240826090205526chfi.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[대북송금 X파일] "北 공작원 리호남, 필리핀에 없었다" 결정적 증거 공개]]></title>
             <link>https://v.daum.net/v/20240822201630024</link>
@@ -236,14 +244,6 @@
             <pubDate>Tue, 30 Jul 2024 09:19:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240730173503950" class="link_column" data-tiara-layer="폭우_속_영정을_품에_안고...아리셀_참사_유가족_“왜_죽었는지_알려_달라”_alltab"><div class="cont_thumb"><strong class="tit_txt">폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”</strong><span class="info_txt"><span class="txt_info">2024. 7. 30.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730173513802fbdn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F30%2Fnewstapa%2F20240730173513802fbdn.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[지방소멸, 이대론 막을 수 없다]]></title>
-            <link>https://v.daum.net/v/20240729100003051</link>
-            <guid>https://v.daum.net/v/20240729100003051</guid>
-            <pubDate>Mon, 29 Jul 2024 02:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240729100003051" class="link_column" data-tiara-layer="지방소멸,_이대론_막을_수_없다_alltab"><div class="cont_thumb"><strong class="tit_txt">지방소멸, 이대론 막을 수 없다</strong><span class="info_txt"><span class="txt_info">2024. 7. 29.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729100028155yiin.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F29%2Fnewstapa%2F20240729100028155yiin.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
