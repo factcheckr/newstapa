@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 04:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 05:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심우정 검찰총장 후보자, 특활비로 '명절 떡값', '연말 격려금' 의혹]]></title>
+            <link>https://v.daum.net/v/20240828140128871</link>
+            <guid>https://v.daum.net/v/20240828140128871</guid>
+            <pubDate>Wed, 28 Aug 2024 05:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240828140128871" class="link_column" data-tiara-layer="심우정_검찰총장_후보자,_특활비로_'명절_떡값',_'연말_격려금'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">심우정 검찰총장 후보자, 특활비로 '명절 떡값', '연말 격려금' 의혹</strong><span class="info_txt"><span class="txt_info">11분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F28%2Fnewstapa%2F20240828140129618rimb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F28%2Fnewstapa%2F20240828140129618rimb.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 김선희의 출근길, 김문수의 퇴근길...그리고 고 양회동]]></title>
             <link>https://v.daum.net/v/20240827191632401</link>
@@ -236,14 +244,6 @@
             <pubDate>Wed, 31 Jul 2024 09:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240731172003011" class="link_column" data-tiara-layer="최초_인터뷰_:_쿠팡의_복수..._블랙리스트_폭로_그_이후_alltab"><div class="cont_thumb"><strong class="tit_txt">최초 인터뷰 : 쿠팡의 복수... 블랙리스트 폭로 그 이후</strong><span class="info_txt"><span class="txt_info">2024. 7. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F31%2Fnewstapa%2F20240731172025877hslr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F31%2Fnewstapa%2F20240731172025877hslr.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[근거도 없고 효과도 없을 기후대응댐 14개]]></title>
-            <link>https://v.daum.net/v/20240731165002811</link>
-            <guid>https://v.daum.net/v/20240731165002811</guid>
-            <pubDate>Wed, 31 Jul 2024 08:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240731165002811" class="link_column" data-tiara-layer="근거도_없고_효과도_없을_기후대응댐_14개_alltab"><div class="cont_thumb"><strong class="tit_txt">근거도 없고 효과도 없을 기후대응댐 14개</strong><span class="info_txt"><span class="txt_info">2024. 7. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F31%2Fnewstapa%2F20240731165004694xtco.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202407%2F31%2Fnewstapa%2F20240731165004694xtco.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
