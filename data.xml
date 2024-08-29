@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 10:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 11:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 언론장악 네트워크]]></title>
+            <link>https://pages.newstapa.org/2024/sna/</link>
+            <guid>https://pages.newstapa.org/2024/sna/</guid>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 출범 이후 우후죽순 생겨난 보수 언론단체들. 이들은 정부·여당과 깊은 관계를 맺어가며 언론 장악에 앞장서고 있습니다. 사회연결망분석(SNA)을 통해 윤석열 정부 언론장악 카르텔의 실체를 살펴봤습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/29201418-1CF4-C3E7-3B18-U0T2CFFQENJY12MTC310.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고위 검사들의 세금 오남용]]></title>
             <link>https://pages.newstapa.org/2024/suspicion/</link>
