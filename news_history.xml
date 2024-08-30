@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 03:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 04:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['한국사 교과서 합격' 출판사, 알고보니 자격 요건 조작...평가원의 부실 검증]]></title>
+            <link>http://newstapa.org/article/K27Jx</link>
+            <guid>http://newstapa.org/article/K27Jx</guid>
+            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['한국사 교과서 합격' 출판사, 알고보니 자격 요건 조작...평가원의 부실 검증]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/30130725-986C-A3DD-1A4B-HFP634R5G7XGNE9ZRGT2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] ⑥ 일제시대 조선인의 국적은 일본인가]]></title>
             <link>http://newstapa.org/article/j7iQW</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07203757-C239-388C-6F18-0Y1YC10KZGW7CF5O5IG7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑪] 새 언론에 담은 유산 "권력·관행과 결별하라"]]></title>
-            <link>http://newstapa.org/article/2j6tf</link>
-            <guid>http://newstapa.org/article/2j6tf</guid>
-            <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑪] 새 언론에 담은 유산 "권력·관행과 결별하라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/05/31145449-7C14-8EBC-A9FD-6KOLPKWL7UU2B1GKYFV5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
