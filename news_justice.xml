@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 08:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 09:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 '윤석열 명예훼손' 공소장 결국 변경..."이재명 공산당 프레임" 등 삭제]]></title>
+            <link>http://newstapa.org/article/5qw11</link>
+            <guid>http://newstapa.org/article/5qw11</guid>
+            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰 '윤석열 명예훼손' 공소장 결국 변경..."이재명 공산당 프레임" 등 삭제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/02175459-B6BC-32B5-B76F-ZYK5210ANH9Z6UBK41U8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남']]></title>
             <link>http://newstapa.org/article/oyxco</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[증인매수 의혹]⑥ 검찰, 1심 징역형 '안부수 회장' 출국금지 왜 풀어줬나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/05183353-9213-5D47-B90F-3RQG1HJ6EZX6292FYK02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”]]></title>
-            <link>http://newstapa.org/article/Tmuw9</link>
-            <guid>http://newstapa.org/article/Tmuw9</guid>
-            <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쌍방울 내부자 폭로]③ 대북사업 핵심 임원 “이재명 방북 비용으로 검사가 몰아갔다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/02132906-135B-CD4E-0401-XJ7JNGOSVWOK5YQT8ZBU.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
