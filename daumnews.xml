@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 06:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 07:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 특활비 자체 지침 ‘전문’ 확인… 부실한 지침으론 세금 오남용 못 막아]]></title>
+            <link>https://v.daum.net/v/20240902160632330</link>
+            <guid>https://v.daum.net/v/20240902160632330</guid>
+            <pubDate>Mon, 02 Sep 2024 07:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240902160632330" class="link_column" data-tiara-layer="검찰_특활비_자체_지침_‘전문’_확인…_부실한_지침으론_세금_오남용_못_막아_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰 특활비 자체 지침 ‘전문’ 확인… 부실한 지침으론 세금 오남용 못 막아</strong><span class="info_txt"><span class="txt_info">5분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F02%2Fnewstapa%2F20240902160633663nttm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F02%2Fnewstapa%2F20240902160633663nttm.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA["입양 기록 관리 부실" 뉴스타파 보도에 뿔난 입양인들 항의 시위]]></title>
             <link>https://v.daum.net/v/20240830165151217</link>
@@ -236,14 +244,6 @@
             <pubDate>Thu, 08 Aug 2024 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200503637" class="link_column" data-tiara-layer="보건복지부,_타당성_없다는_예타_무시하고_자생한방병원에_세금_지원_alltab"><div class="cont_thumb"><strong class="tit_txt">보건복지부, 타당성 없다는 예타 무시하고 자생한방병원에 세금 지원</strong><span class="info_txt"><span class="txt_info">2024. 8. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200514336ciem.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200514336ciem.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]⑦ 노조 혐오, 골프 접대, 징계 남발…KBS 이사 7명의 민낯]]></title>
-            <link>https://v.daum.net/v/20240808140003839</link>
-            <guid>https://v.daum.net/v/20240808140003839</guid>
-            <pubDate>Thu, 08 Aug 2024 05:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808140003839" class="link_column" data-tiara-layer="[언론장악_카르텔]⑦_노조_혐오,_골프_접대,_징계_남발…KBS_이사_7명의_민낯_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]⑦ 노조 혐오, 골프 접대, 징계 남발…KBS 이사 7명의 민낯</strong><span class="info_txt"><span class="txt_info">2024. 8. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808140004252tcrx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808140004252tcrx.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
