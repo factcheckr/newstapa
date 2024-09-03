@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 09:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 10:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불량 탄소배출권' 투자한 정부... 100억 원대 손실 발생]]></title>
+            <link>http://newstapa.org/article/CLP2P</link>
+            <guid>http://newstapa.org/article/CLP2P</guid>
+            <pubDate>Tue, 03 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['불량 탄소배출권' 투자한 정부... 100억 원대 손실 발생]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/03183947-BCD0-6370-FE73-OVAYXI954FDOK5TOIHQ1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰 '윤석열 명예훼손' 공소장 결국 변경..."이재명 공산당 프레임" 등 삭제]]></title>
             <link>http://newstapa.org/article/5qw11</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[총장 윤석열의 ‘특활비 사유화’ 의혹 풀기 위한 국정조사, 특별검사 도입 추진한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/26113152-4C2D-B60E-C742-QWE6KUMLHTYDVM6VNNG2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약]]></title>
-            <link>http://newstapa.org/article/jcE6b</link>
-            <guid>http://newstapa.org/article/jcE6b</guid>
-            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔]③ 이진숙 ‘MBC 노조 와해 여론전’에 2억5천만 원 계약]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/25103137-8876-A220-E708-JOUIQ7F69JD6YHYQNDI7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 09:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 10:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불량 탄소배출권' 투자한 정부... 100억 원대 손실 발생]]></title>
+            <link>https://v.daum.net/v/20240903184151530</link>
+            <guid>https://v.daum.net/v/20240903184151530</guid>
+            <pubDate>Tue, 03 Sep 2024 10:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240903184151530" class="link_column" data-tiara-layer="'불량_탄소배출권'_투자한_정부..._100억_원대_손실_발생_alltab"><div class="cont_thumb"><strong class="tit_txt">'불량 탄소배출권' 투자한 정부... 100억 원대 손실 발생</strong><span class="info_txt"><span class="txt_info">30분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F03%2Fnewstapa%2F20240903184159337tdsz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F03%2Fnewstapa%2F20240903184159337tdsz.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[검찰 '윤석열 명예훼손' 공소장 결국 변경..."이재명 공산당 프레임" 등 삭제]]></title>
             <link>https://v.daum.net/v/20240902180152397</link>
@@ -236,14 +244,6 @@
             <pubDate>Thu, 08 Aug 2024 11:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200528650" class="link_column" data-tiara-layer="자생한방병원,_복지부_기준_어기고_수개월간_건강보험_급여_받다_적발_alltab"><div class="cont_thumb"><strong class="tit_txt">자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발</strong><span class="info_txt"><span class="txt_info">2024. 8. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205524869ccas.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808205524869ccas.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용]]></title>
-            <link>https://v.daum.net/v/20240808200514644</link>
-            <guid>https://v.daum.net/v/20240808200514644</guid>
-            <pubDate>Thu, 08 Aug 2024 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240808200514644" class="link_column" data-tiara-layer="국내_최대_허리디스크_한방병원과_수상한_건강보험_적용_alltab"><div class="cont_thumb"><strong class="tit_txt">국내 최대 허리디스크 한방병원과 수상한 건강보험 적용</strong><span class="info_txt"><span class="txt_info">2024. 8. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200527926thbd.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F08%2Fnewstapa%2F20240808200527926thbd.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
