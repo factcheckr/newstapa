@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 03:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Sep 2024 04:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재]]></title>
+            <link>http://newstapa.org/article/EwSIJ</link>
+            <guid>http://newstapa.org/article/EwSIJ</guid>
+            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/03211311-240D-F677-4212-7BOUQWBHLE1O0WKW18SR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한국사 교과서 합격' 출판사, 알고보니 자격 요건 조작...평가원의 부실 검증]]></title>
             <link>http://newstapa.org/article/K27Jx</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/14165145-F769-C8F2-3BCC-ZYERJ96CO5617UJAXRCW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></title>
-            <link>http://newstapa.org/article/2GyeO</link>
-            <guid>http://newstapa.org/article/2GyeO</guid>
-            <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑫] 생전 딱 한 번 하고픈 말 “여보!! 내일부터 출근이야”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/07203757-C239-388C-6F18-0Y1YC10KZGW7CF5O5IG7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
