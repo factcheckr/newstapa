@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></title>
+            <link>http://newstapa.org/article/wZaQD</link>
+            <guid>http://newstapa.org/article/wZaQD</guid>
+            <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서]]></title>
             <link>http://newstapa.org/article/-LXLi</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22191800-B276-2096-A3FA-EFAML2M9HGK7MPTHF2FI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개]]></title>
-            <link>http://newstapa.org/article/0A4Px</link>
-            <guid>http://newstapa.org/article/0A4Px</guid>
-            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22201131-F82F-8667-E224-3I9RK3WZQ6CPT8IDFT5O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></title>
+            <link>http://newstapa.org/article/wZaQD</link>
+            <guid>http://newstapa.org/article/wZaQD</guid>
+            <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재]]></title>
             <link>http://newstapa.org/article/EwSIJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19180303-4B41-5BAF-2910-YZ1EP2YEGQ74WKLZJJN9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론]]></title>
-            <link>http://newstapa.org/article/iuuSd</link>
-            <guid>http://newstapa.org/article/iuuSd</guid>
-            <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년⑬] 언관의 언론, 기레기의 언론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/14165145-F769-C8F2-3BCC-ZYERJ96CO5617UJAXRCW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 08:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></title>
+            <link>http://newstapa.org/article/wZaQD</link>
+            <guid>http://newstapa.org/article/wZaQD</guid>
+            <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재]]></title>
             <link>http://newstapa.org/article/EwSIJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국인 운영 ‘해적학술지’ 확인…한동훈 처형과의 관계는?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/13142309-F854-FE74-CEA7-SR9JNWV9C1QUWBN7QKO7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조]]></title>
-            <link>http://newstapa.org/article/MBd_O</link>
-            <guid>http://newstapa.org/article/MBd_O</guid>
-            <pubDate>Thu, 07 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미국 논문 쓰면서 '브라질 주민 데이터' 도용...한동훈 처조카 논문 데이터 위조]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/07195752-F2FE-F1FB-A3F2-9B8Q2HYEEIPZFRYWZURD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
