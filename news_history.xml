@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 05:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 06:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학력평가원 한국사 교과서, 옛 국정 교과서 '베끼기' 정황 또 드러나]]></title>
+            <link>http://newstapa.org/article/yEVcG</link>
+            <guid>http://newstapa.org/article/yEVcG</guid>
+            <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[학력평가원 한국사 교과서, 옛 국정 교과서 '베끼기' 정황 또 드러나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/06144438-2702-BCCC-9FB7-JU9UJHJKY84R1Q9RM3FA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></title>
             <link>http://newstapa.org/article/wZaQD</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년⑭] “언론이 바로 서야 나라가 바로 선다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/21132809-A778-884D-A385-RDG5T81KBSCT4Y1NF0WK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점']]></title>
-            <link>http://newstapa.org/article/AjZ25</link>
-            <guid>http://newstapa.org/article/AjZ25</guid>
-            <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오물풍선 대신 용각산과 카라멜, 뉴스타파 새영화 '판문점']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/19180303-4B41-5BAF-2910-YZ1EP2YEGQ74WKLZJJN9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
