@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Sep 2024 13:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Sep 2024 14:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경찰, '류희림 청부민원 의혹' 제보자 색출 두번째 압수수색]]></title>
+            <link>http://newstapa.org/article/k8de4</link>
+            <guid>http://newstapa.org/article/k8de4</guid>
+            <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경찰, '류희림 청부민원 의혹' 제보자 색출 두번째 압수수색]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/10220050-9B0C-06C3-B3DB-02J5UHYQHNDQCVMJ17NN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 최초 분석 - 윤 정부의 '언론장악 카르텔' 그들은 누구인가]]></title>
             <link>http://newstapa.org/article/B4qUq</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파]위기의 윤석열, 이진숙 · 류희림 앞세워 언론장악 올인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/25200045-A548-F8BF-5707-POHHL8JXCFW6JIF8C331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]④공언련이 ‘드리블’ 대통령이 ‘마무리’]]></title>
-            <link>http://newstapa.org/article/oLdY9</link>
-            <guid>http://newstapa.org/article/oLdY9</guid>
-            <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔]④공언련이 ‘드리블’ 대통령이 ‘마무리’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/25200201-9A5F-0D59-BDA3-YG87VUT9064P6L623IHH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
