@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 09:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 10:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/FNgFz</link>
+            <guid>http://newstapa.org/article/FNgFz</guid>
+            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/11181946-4FCF-3905-E70B-DBQ038HCVQLP8LAPIPZ9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원 참사 미규명 진실] ⑤ 출동 안 하고 "출동했다" 보고... 112신고 기록은 왜 조작됐나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/0Gr29</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/30150646-7BED-3EA3-BFAF-DYFBYOZ7MYV6VJ7ONCQ0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['한국사 교과서 합격' 출판사, 알고보니 자격 요건 조작...평가원의 부실 검증 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/K27Jx</link>
-            <guid>http://newstapa.org/article/K27Jx</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['한국사 교과서 합격' 출판사, 알고보니 자격 요건 조작...평가원의 부실 검증]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/30130725-986C-A3DD-1A4B-HFP634R5G7XGNE9ZRGT2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/FNgFz</link>
+            <guid>http://newstapa.org/article/FNgFz</guid>
+            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/11181946-4FCF-3905-E70B-DBQ038HCVQLP8LAPIPZ9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['불량 탄소배출권' 투자한 정부... 100억 원대 손실 발생 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[채 해병 사건의 공백, 보문교의 위험경고 무시와 임성근의 부하 탓]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/26141247-C2AF-3DCA-6C08-GLM46B2TNSPDRRRAVRJ0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총장 윤석열의 ‘특활비 사유화’ 의혹 풀기 위한 국정조사, 특별검사 도입 추진한다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/EESCC</link>
-            <guid>http://newstapa.org/article/EESCC</guid>
-            <pubDate>Fri, 26 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[총장 윤석열의 ‘특활비 사유화’ 의혹 풀기 위한 국정조사, 특별검사 도입 추진한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/26113152-4C2D-B60E-C742-QWE6KUMLHTYDVM6VNNG2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰 '윤석열 명예훼손' 공소장 결국 변경..."이재명 공산당 프레임" 등 삭제 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3348,11 +3348,19 @@
             <content:encoded><![CDATA[<span><span>보건복지부 산하 아동권리보장원(전 중앙입양원)은 지난 2013년부터 각 민간기관에 흩어져 있는 입양기록물을 대상으로 ‘입양 기록물 전산화 작업’을 진행하고 있습니다. <br></span><span>민간영역의 입양 기록물을 공공기관이 통합 관리해 영구 보존하고, 입양인들의 정보 접근권도 높인다는 취지입니다.<br></span><span><br></span><span>그런데 최근 이 사업이 지난 10년간 엉터리로 진행됐다는 의혹이 제기됐습니다. 기록물 스캔 작업부터 온라인 시스템 탑재까지 총체적으로 부실하게 처리돼 왔다는 것입니다. 보건복지부도 관련 문제를 파악하고 감사에 나선 것으로 파악됐습니다. <br></span><span>입양인들은 "기록이 곧 우리고 전부"라며 자신들의 기록이 부실 관리됐다는 의혹에 대해 분노했습니다. <br></span><span><br></span><span>뉴스타파는 해외 입양의 구조적 문제를 진단하는 &lt;해외입양과 돈&gt; 프로젝트에 이어, 지난 10년간 진행되어 온 ‘입양 기록물 전산화 사업’의 실상을 추적, 연속 보도합니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/xGYtDfyaJS8" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/xGYtDfyaJS8</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/7QFcR" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/7QFcR</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240911182632831</link>
+            <guid>https://v.daum.net/v/20240911182632831</guid>
+            <pubDate>Wed, 11 Sep 2024 10:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240911182632831" class="link_column" data-tiara-layer="김장겸_'취재폭력'_신고에_뉴스타파_징계..._무편집_영상_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개</strong><span class="info_txt"><span class="txt_info">46분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F11%2Fnewstapa%2F20240911182641019zqox.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F11%2Fnewstapa%2F20240911182641019zqox.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[이태원 참사 미규명 진실] ⑤ 출동 안 하고 "출동했다" 보고... 112신고 기록은 왜 조작됐나 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240911100128837</link>
             <guid>https://v.daum.net/v/20240911100128837</guid>
             <pubDate>Wed, 11 Sep 2024 02:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240911100128837" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑤_출동_안_하고_&quot;출동했다&quot;_보고..._112신고_기록은_왜_조작됐나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑤ 출동 안 하고 "출동했다" 보고... 112신고 기록은 왜 조작됐나</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F11%2Fnewstapa%2F20240911100129756jxld.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240911100128837" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑤_출동_안_하고_&quot;출동했다&quot;_보고..._112신고_기록은_왜_조작됐나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑤ 출동 안 하고 "출동했다" 보고... 112신고 기록은 왜 조작됐나</strong><span class="info_txt"><span class="txt_info">9시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F11%2Fnewstapa%2F20240911100129756jxld.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F11%2Fnewstapa%2F20240911100129756jxld.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3360,7 +3368,7 @@
             <link>https://v.daum.net/v/20240910225150615</link>
             <guid>https://v.daum.net/v/20240910225150615</guid>
             <pubDate>Tue, 10 Sep 2024 14:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240910225150615" class="link_column" data-tiara-layer="경찰,_'류희림_청부민원_의혹'_제보자_색출_두번째_압수수색_alltab"><div class="cont_thumb"><strong class="tit_txt">경찰, '류희림 청부민원 의혹' 제보자 색출 두번째 압수수색</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F10%2Fnewstapa%2F20240910225156702ytyo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240910225150615" class="link_column" data-tiara-layer="경찰,_'류희림_청부민원_의혹'_제보자_색출_두번째_압수수색_alltab"><div class="cont_thumb"><strong class="tit_txt">경찰, '류희림 청부민원 의혹' 제보자 색출 두번째 압수수색</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F10%2Fnewstapa%2F20240910225156702ytyo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F10%2Fnewstapa%2F20240910225156702ytyo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3577,14 +3585,6 @@
             <pubDate>Sat, 17 Aug 2024 00:44:48 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240817090003262" class="link_column" data-tiara-layer="이진숙_&quot;법카_사용_자부심_있어&quot;_김태규_&quot;권익위_국장_사망?_누구도_위해_안_해&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">이진숙 "법카 사용 자부심 있어" 김태규 "권익위 국장 사망? 누구도 위해 안 해"</strong><span class="info_txt"><span class="txt_info">2024. 8. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F18%2Fnewstapa%2F20240818105016249tmhb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F18%2Fnewstapa%2F20240818105016249tmhb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉒] 혈육의 정마저 끊어 놓은 서울의 봄, 그 잔혹한 군홧발 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240816180004893</link>
-            <guid>https://v.daum.net/v/20240816180004893</guid>
-            <pubDate>Fri, 16 Aug 2024 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240816180004893" class="link_column" data-tiara-layer="[자유언론실천선언_50년㉒]_혈육의_정마저_끊어_놓은_서울의_봄,_그_잔혹한_군홧발_alltab"><div class="cont_thumb"><strong class="tit_txt">[자유언론실천선언 50년㉒] 혈육의 정마저 끊어 놓은 서울의 봄, 그 잔혹한 군홧발</strong><span class="info_txt"><span class="txt_info">2024. 8. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F16%2Fnewstapa%2F20240816180005730inbb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F16%2Fnewstapa%2F20240816180005730inbb.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
