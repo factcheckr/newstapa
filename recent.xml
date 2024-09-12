@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 10:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 11:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 뉴스타파 수사 1년, 윤석열이 법정에 나올 시간]]></title>
+            <link>http://newstapa.org/article/emmon</link>
+            <guid>http://newstapa.org/article/emmon</guid>
+            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 뉴스타파 수사 1년, 윤석열이 법정에 나올 시간]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12190329-92C7-3F5A-09AA-9TU1FLO9G2V246L3TOST.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도이치 주가조작 2심도 유죄... '전주' 손 씨도 방조혐의 유죄]]></title>
+            <link>http://newstapa.org/article/HiY39</link>
+            <guid>http://newstapa.org/article/HiY39</guid>
+            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[도이치 주가조작 2심도 유죄... '전주' 손 씨도 방조혐의 유죄]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12193210-4E8C-DC26-3919-ODNRF7UIOQ072CG8J5LS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개]]></title>
             <link>http://newstapa.org/article/FNgFz</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰 '윤석열 명예훼손' 공소장 결국 변경..."이재명 공산당 프레임" 등 삭제]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/02175459-B6BC-32B5-B76F-ZYK5210ANH9Z6UBK41U8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 특활비 자체 지침 ‘전문’ 확인… 부실한 지침으론 세금 오남용 못 막아]]></title>
-            <link>http://newstapa.org/article/BnqkN</link>
-            <guid>http://newstapa.org/article/BnqkN</guid>
-            <pubDate>Mon, 02 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 특활비 자체 지침 ‘전문’ 확인… 부실한 지침으론 세금 오남용 못 막아]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/02155902-EB2F-32A6-E50A-LQT1CX8AZV1CHT4D9V4G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["입양 기록 관리 부실" 뉴스타파 보도에 뿔난 입양인들 항의 시위]]></title>
-            <link>http://newstapa.org/article/8W76t</link>
-            <guid>http://newstapa.org/article/8W76t</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["입양 기록 관리 부실" 뉴스타파 보도에 뿔난 입양인들 항의 시위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/30150646-7BED-3EA3-BFAF-DYFBYOZ7MYV6VJ7ONCQ0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
