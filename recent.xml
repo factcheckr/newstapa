@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 11:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 12:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></title>
+            <link>http://newstapa.org/article/Qpvya</link>
+            <guid>http://newstapa.org/article/Qpvya</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13134353-9C1A-96BB-D1D2-9FB4XH9JIO91MBEQQVX3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다"]]></title>
             <link>http://newstapa.org/article/kQ1sx</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서]]></title>
-            <link>http://newstapa.org/article/-LXLi</link>
-            <guid>http://newstapa.org/article/-LXLi</guid>
-            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/04151941-4009-5C0B-7494-BYZ4HA2YL7FL0UQF4ICK.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

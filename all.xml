@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 11:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 12:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Qpvya</link>
+            <guid>http://newstapa.org/article/Qpvya</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13134353-9C1A-96BB-D1D2-9FB4XH9JIO91MBEQQVX3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/kQ1sx</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/-LXLi</link>
-            <guid>http://newstapa.org/article/-LXLi</guid>
-            <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/04151941-4009-5C0B-7494-BYZ4HA2YL7FL0UQF4ICK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 뉴스타파 수사 1년, 윤석열이 법정에 나올 시간 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/05145920-7BE4-A22E-F892-CEI2IAVV8N8M1MYJUA6F.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말' (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/Qpvya</link>
+            <guid>http://newstapa.org/article/Qpvya</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13134353-9C1A-96BB-D1D2-9FB4XH9JIO91MBEQQVX3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다" (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/kQ1sx</link>
             <guid>http://newstapa.org/article/kQ1sx</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/30162258-6B51-8F37-A7FE-TCWE9ZPU9Z3G30O2S02G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해외입양인, 친부모 정보 찾는 행정소송 착수..."최초 사례" (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/AFP7b</link>
-            <guid>http://newstapa.org/article/AFP7b</guid>
-            <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[해외입양인, 친부모 정보 찾는 행정소송 착수..."최초 사례"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12152352-7FB9-8559-7AD9-KCRW2VVZO808AS8LSL77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폭우 속 영정을 품에 안고...아리셀 참사 유가족 “왜 죽었는지 알려 달라” (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3208,6 +3208,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[〈잠입취재〉 '로켓배송' 종착지에서 본 '쿠팡의 거짓말' (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/106750205</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/106750205</guid>
+            <pubDate>Fri, 13 Sep 2024 12:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>지난 7월 18일, 제주시 애월읍 쿠팡 서브허브에서 일하던 노동자 조 모 씨가 사망했습니다. 평소 건강했던 조 씨는 지난 5월부터 쿠팡에서 일한지 두 달여 만에 심정지로 쓰러져 숨졌습니다. 그러나 쿠팡 측은 조 씨의 사망에 대해 책임이 없다고 주장하고 있습니다.<br></span><span><br></span><span>"제주 서브허브에는 수십 대의 냉방시설이 있었다", "작업자들은 수시로 휴식을 취할 수 있었다" 라는 쿠팡 측의 주장은 사실일까요? 뉴스타파 취재진은 조 씨가 일하다 사망한 쿠팡 제주 서브허브에 직접 취업해 확인해 봤습니다. 그러나 취재진이 경험한 현장은 쿠팡의 주장과 전혀 달랐습니다. <br></span><span><br></span><span>제주도뿐 아니라 전국의 쿠팡 물류센터에서도 사망 사고가 잇따르고 있습니다. 물량이 많은 서울과 수도권에서는 '생지옥', '쿠팡 알바는 마지막 알바' 라는 말이 나옵니다. 뉴스타파 홍주환 기자가 잠입 취재를 통해 쿠팡의 '거짓말'들을 밝혀냈습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/-I3xif9QlQM" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/-I3xif9QlQM</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/Qpvya" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/Qpvya</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다" (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/106749081</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/106749081</guid>
@@ -3341,18 +3348,19 @@
             <content:encoded><![CDATA[<span><span>심우정 검찰총장 후보자가 애초 공개하기로 했던 법무부의 특수활동비 기록을 전면 비공개하도록 개입한 정황이 드러났습니다. 일부 '엘리트 검사'들의 이익을 앞세워 국민의 알 권리를 침해했다는 의혹이 제기됩니다.<br></span><span><br></span><span>지난 1월, 뉴스타파는 법무부에 조국, 추미애, 박범계, 한동훈 등 4명의 법무부 장관이 집행한 특활비 내역 공개를 청구했습니다. 약 한 달 뒤 법무부에서는 '특활비 자료 준비가 완료됐으니 조금만 기다려달라' 라는 답변이 돌아왔습니다.<br></span><span><br></span><span>그런데 며칠 뒤, 법무부는 돌연 입장을 뒤집어 '특활비 자료 비공개' 통지서를 보내왔습니다. 한 법무부 관계자는 당시 법무부가 입장을 뒤집은 것에 "심우정 차관(당시 장관 직무대행)의 의견이 많이 반영됐다" 라고 증언했습니다. 심우정 차관이 법무부 검찰국 소속 검사들의 특활비 내역을 감추기 위해 정보 비공개 결정을 내렸다는 것입니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/0DIy_" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/0DIy_</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[언론장악 카르텔]⑧얽히고설킨 언론장악 '홍위병' 관계망 최초 분석 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/106540191</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/106540191</guid>
-            <pubDate>Thu, 29 Aug 2024 11:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>뉴스타파 등 5개 언론사가 참여한 '언론장악 공동취재팀'은 윤석열 정부의 언론장악에 보수 성향 시민단체들이 핵심 역할을 하고 있다고 보도한 바 있습니다. <br></span><span>이 단체들은 정부에 비판적인 언론에 민원을 제기하고, 공영방송 이사회와 경영진을 고발하는 등 정부의 언론장악 작업에 앞장서고 있습니다.<br></span><span><br></span><span>공동취재팀은 이 단체들과 소속 인물들이 서로 어떻게 연결되어 있는지 분석에 나섰습니다. 그 결과, '공정언론국민연대'와 '새미래포럼' 등 단체들을 중심으로 한 네트워크가 드러났습니다. <br></span><span>이들은 국민의힘이 주관하는 국회 정책세미나에 참석하고, 방송통신위원회 등 정부 요직에 진출하며 정부·여당과도 깊은 관계를 맺고 있었습니다. 사회연결망분석(SNA)을 통해 살펴본 윤석열 정부 '언론장악 카르텔'의 실체를 공개합니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/773aAD5zhjc" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/773aAD5zhjc</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/mj6WA" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/mj6WA</span></a>]]></content:encoded>
+            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말' (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240913201651531</link>
+            <guid>https://v.daum.net/v/20240913201651531</guid>
+            <pubDate>Fri, 13 Sep 2024 12:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240913201651531" class="link_column" data-tiara-layer="[쿠팡은_바뀌지_않는다_2]_①_<잠입취재>_'로켓배송'_종착지에서_본_'쿠팡의_거짓말'_alltab"><div class="cont_thumb"><strong class="tit_txt">[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말'</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913201721872klmv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913201721872klmv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240913173634172</link>
             <guid>https://v.daum.net/v/20240913173634172</guid>
             <pubDate>Fri, 13 Sep 2024 09:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240913173634172" class="link_column" data-tiara-layer="&quot;한국과_덴마크_정부,_불법_입양_알고_있었다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">"한국과 덴마크 정부, 불법 입양 알고 있었다"</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913173639643pygl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240913173634172" class="link_column" data-tiara-layer="&quot;한국과_덴마크_정부,_불법_입양_알고_있었다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">"한국과 덴마크 정부, 불법 입양 알고 있었다"</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913173639643pygl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913173639643pygl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3360,7 +3368,7 @@
             <link>https://v.daum.net/v/20240913100150596</link>
             <guid>https://v.daum.net/v/20240913100150596</guid>
             <pubDate>Fri, 13 Sep 2024 02:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240913100150596" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑥_'교통_통제_실패'_그리고_놓쳐버린_골든타임_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑥ '교통 통제 실패' 그리고 놓쳐버린 골든타임</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913100152627dyvt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240913100150596" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑥_'교통_통제_실패'_그리고_놓쳐버린_골든타임_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑥ '교통 통제 실패' 그리고 놓쳐버린 골든타임</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913100152627dyvt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913100152627dyvt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3368,7 +3376,7 @@
             <link>https://v.daum.net/v/20240913090153260</link>
             <guid>https://v.daum.net/v/20240913090153260</guid>
             <pubDate>Fri, 13 Sep 2024 00:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240913090153260" class="link_column" data-tiara-layer="아동권리보장원_출동한_복지부…입양기록_사업_부실_캐묻는다_alltab"><div class="cont_thumb"><strong class="tit_txt">아동권리보장원 출동한 복지부…입양기록 사업 부실 캐묻는다</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913090154912wwox.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240913090153260" class="link_column" data-tiara-layer="아동권리보장원_출동한_복지부…입양기록_사업_부실_캐묻는다_alltab"><div class="cont_thumb"><strong class="tit_txt">아동권리보장원 출동한 복지부…입양기록 사업 부실 캐묻는다</strong><span class="info_txt"><span class="txt_info">12시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913090154912wwox.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F13%2Fnewstapa%2F20240913090154912wwox.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3578,14 +3586,6 @@
             <pubDate>Mon, 26 Aug 2024 00:44:01 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240826090151767" class="link_column" data-tiara-layer="[백지_입양기록①]10년을_했는데_엉터리?…복지부,_입양_기록_전산화_사업_감사_착수_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수</strong><span class="info_txt"><span class="txt_info">2024. 8. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F26%2Fnewstapa%2F20240826090205526chfi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F26%2Fnewstapa%2F20240826090205526chfi.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[대북송금 X파일] "北 공작원 리호남, 필리핀에 없었다" 결정적 증거 공개 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240822201630024</link>
-            <guid>https://v.daum.net/v/20240822201630024</guid>
-            <pubDate>Thu, 22 Aug 2024 12:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240822201630024" class="link_column" data-tiara-layer="[대북송금_X파일]_&quot;北_공작원_리호남,_필리핀에_없었다&quot;_결정적_증거_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[대북송금 X파일] "北 공작원 리호남, 필리핀에 없었다" 결정적 증거 공개</strong><span class="info_txt"><span class="txt_info">2024. 8. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822201641346inre.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202408%2F22%2Fnewstapa%2F20240822201641346inre.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
