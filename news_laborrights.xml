@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Sep 2024 08:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Sep 2024 09:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다"]]></title>
+            <link>http://newstapa.org/article/kQ1sx</link>
+            <guid>http://newstapa.org/article/kQ1sx</guid>
+            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13163358-6A57-ACF6-809D-8W7AT6SHWXNJHP9OQ13Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원 참사 미규명 진실] ⑥ '교통 통제 실패' 그리고 놓쳐버린 골든타임]]></title>
             <link>http://newstapa.org/article/m6zDz</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[해외입양인, 친부모 정보 찾는 행정소송 착수..."최초 사례"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12152352-7FB9-8559-7AD9-KCRW2VVZO808AS8LSL77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹]]></title>
-            <link>http://newstapa.org/article/Z0G3b</link>
-            <guid>http://newstapa.org/article/Z0G3b</guid>
-            <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[쿠팡, '블랙리스트' 제보자에 보복하려 '별건 고소' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/08173820-5FCC-6680-F953-1W2H43GAJRRV0RJIXM6C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
