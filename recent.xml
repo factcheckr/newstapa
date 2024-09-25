@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 07:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 08:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색]]></title>
+            <link>http://newstapa.org/article/O6YHg</link>
+            <guid>http://newstapa.org/article/O6YHg</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/25162844-B5F7-94B3-CB5F-UKU5BVIYNIFP8WVB4C1M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"]]></title>
+            <link>http://newstapa.org/article/ij9JX</link>
+            <guid>http://newstapa.org/article/ij9JX</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/25161708-45AF-3E9E-3420-RNWAXNYLMGM52J21DONO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원 참사 미규명 진실] ⑨ 피해자 모임, 정부는 방치했나 방해했나]]></title>
             <link>http://newstapa.org/article/xg1Pb</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[아동권리보장원 출동한 복지부…입양기록 사업 부실 캐묻는다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12175450-A01C-9329-556B-588E7PE8I9LI42HBKLFY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 뉴스타파 수사 1년, 윤석열이 법정에 나올 시간]]></title>
-            <link>http://newstapa.org/article/emmon</link>
-            <guid>http://newstapa.org/article/emmon</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 뉴스타파 수사 1년, 윤석열이 법정에 나올 시간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12190329-92C7-3F5A-09AA-9TU1FLO9G2V246L3TOST.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치 주가조작 2심도 유죄... '전주' 손 씨도 방조혐의 유죄]]></title>
-            <link>http://newstapa.org/article/HiY39</link>
-            <guid>http://newstapa.org/article/HiY39</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치 주가조작 2심도 유죄... '전주' 손 씨도 방조혐의 유죄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12193210-4E8C-DC26-3919-ODNRF7UIOQ072CG8J5LS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

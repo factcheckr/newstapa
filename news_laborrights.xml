@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 07:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 08:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"]]></title>
+            <link>http://newstapa.org/article/ij9JX</link>
+            <guid>http://newstapa.org/article/ij9JX</guid>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/25161708-45AF-3E9E-3420-RNWAXNYLMGM52J21DONO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원 참사 미규명 진실] ⑨ 피해자 모임, 정부는 방치했나 방해했나]]></title>
             <link>http://newstapa.org/article/xg1Pb</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 김선희의 출근길, 김문수의 퇴근길...그리고 고 양회동]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/27175042-1978-5252-8E44-4CAG1E5770075E6SP9FL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수]]></title>
-            <link>http://newstapa.org/article/7QFcR</link>
-            <guid>http://newstapa.org/article/7QFcR</guid>
-            <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/04160628-096B-84FA-F785-2B7LKIX9F8DYD12HZHYN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
