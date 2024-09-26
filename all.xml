@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 10:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 11:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/dSCOX</link>
+            <guid>http://newstapa.org/article/dSCOX</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26181753-0F64-3948-71FC-I3C83BAQAR2D393RJNW7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/6vHNt</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13163358-6A57-ACF6-809D-8W7AT6SHWXNJHP9OQ13Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이태원 참사 미규명 진실] ⑥ '교통 통제 실패' 그리고 놓쳐버린 골든타임 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/m6zDz</link>
-            <guid>http://newstapa.org/article/m6zDz</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이태원 참사 미규명 진실] ⑥ '교통 통제 실패' 그리고 놓쳐버린 골든타임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13094423-35ED-7200-21B0-4TAKUJK5H42JUPFJWPIH.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/dSCOX</link>
+            <guid>http://newstapa.org/article/dSCOX</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26181753-0F64-3948-71FC-I3C83BAQAR2D393RJNW7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Sat, 17 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이진숙 "법카 사용 자부심 있어" 김태규 "권익위 국장 사망? 누구도 위해 안 해"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/20165208-E5C8-FACC-CD5E-MZ2AHZVWHK01Z4ZBX0TA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/iVEPX</link>
-            <guid>http://newstapa.org/article/iVEPX</guid>
-            <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/16135443-5269-050B-3B03-F3C9LE0WJONHXQQSFP47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3348,11 +3348,19 @@
             <content:encoded><![CDATA[<span><span>'이태원 참사'의 가장 큰 의문점 중 하나는 '왜 경찰은 참사 당일 이태원 현장에 경비기동대(기동대)를 미리 배치하지 않았느냐' 입니다. 이에 대해 현재 재판을 받고 있는 고위직 경찰들은 '기동대 없이도 인파 관리가 가능했고, 당시 기동대 투입 여력도 없었다' 라고 주장하고 있습니다.<br></span><span><br></span><span>하지만 취재 결과, 참사 당시 이태원에 배치된 경찰들은 대부분 마약 단속, 불법 숙박업소 단속 등 업무를 맡고 있어 기동대 없이는 인파 관리가 어려운 상황이었습니다. 또 서울경찰청의 경력 운용 내역에 따르면, 당시 이태원에 기동대를 배치할 수 있는 여력도 있었던 것으로 확인됐습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/JY8tD" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/JY8tD</span></a><span><span><br></span><span>🎬 영상 보러가기 : </span></span><a href="https://youtu.be/bSRr_aYgI_k" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/bSRr_aYgI_k</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240926200002201</link>
+            <guid>https://v.daum.net/v/20240926200002201</guid>
+            <pubDate>Thu, 26 Sep 2024 11:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926200002201" class="link_column" data-tiara-layer="[주간_뉴스타파]_“대통령_윤석열을_증인_신청합니다”_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다”</strong><span class="info_txt"><span class="txt_info">11분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240926160502811</link>
             <guid>https://v.daum.net/v/20240926160502811</guid>
             <pubDate>Thu, 26 Sep 2024 07:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926160502811" class="link_column" data-tiara-layer="검찰,_경향신문_기자_휴대전화도_통째_'디넷'_저장_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926160502811" class="link_column" data-tiara-layer="검찰,_경향신문_기자_휴대전화도_통째_'디넷'_저장_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3384,7 +3392,7 @@
             <link>https://v.daum.net/v/20240924192503521</link>
             <guid>https://v.daum.net/v/20240924192503521</guid>
             <pubDate>Tue, 24 Sep 2024 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240924192503521" class="link_column" data-tiara-layer="'대통령_윤석열'_본인의_명예훼손_재판에_증인으로_신청됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">'대통령 윤석열' 본인의 명예훼손 재판에 증인으로 신청됐다</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925112420760fuze.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240924192503521" class="link_column" data-tiara-layer="'대통령_윤석열'_본인의_명예훼손_재판에_증인으로_신청됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">'대통령 윤석열' 본인의 명예훼손 재판에 증인으로 신청됐다</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925112420760fuze.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925112420760fuze.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3440,7 +3448,7 @@
             <link>https://v.daum.net/v/20240919200151567</link>
             <guid>https://v.daum.net/v/20240919200151567</guid>
             <pubDate>Thu, 19 Sep 2024 11:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240919200151567" class="link_column" data-tiara-layer="[주간_뉴스타파]_대통령과_뉴라이트_그리고_아스팔트_보수_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F19%2Fnewstapa%2F20240919200159913yhjh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240919200151567" class="link_column" data-tiara-layer="[주간_뉴스타파]_대통령과_뉴라이트_그리고_아스팔트_보수_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수</strong><span class="info_txt"><span class="txt_info">2024. 9. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F19%2Fnewstapa%2F20240919200159913yhjh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F19%2Fnewstapa%2F20240919200159913yhjh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3578,14 +3586,6 @@
             <pubDate>Thu, 05 Sep 2024 09:12:30 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240905172151057" class="link_column" data-tiara-layer="한국학력평가원,_유명출판사_한국사_교과서_표절_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">한국학력평가원, 유명출판사 한국사 교과서 표절 의혹</strong><span class="info_txt"><span class="txt_info">2024. 9. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F05%2Fnewstapa%2F20240905172154912yixb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F05%2Fnewstapa%2F20240905172154912yixb.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240904154709240</link>
-            <guid>https://v.daum.net/v/20240904154709240</guid>
-            <pubDate>Wed, 04 Sep 2024 07:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240904154709240" class="link_column" data-tiara-layer="[백지_입양기록②]허위_수량·백지_기록에_나랏돈…이상한_검수확인서_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서</strong><span class="info_txt"><span class="txt_info">2024. 9. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F04%2Fnewstapa%2F20240904154718939rhwq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F04%2Fnewstapa%2F20240904154718939rhwq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
