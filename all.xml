@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 06:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 07:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/6vHNt</link>
+            <guid>http://newstapa.org/article/6vHNt</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26152839-4AC4-7C7E-3ED3-HNOVO8I79BMS5HQD58WV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/O6YHg</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13094423-35ED-7200-21B0-4TAKUJK5H42JUPFJWPIH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아동권리보장원 출동한 복지부…입양기록 사업 부실 캐묻는다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/MrQ-H</link>
-            <guid>http://newstapa.org/article/MrQ-H</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[아동권리보장원 출동한 복지부…입양기록 사업 부실 캐묻는다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12175450-A01C-9329-556B-588E7PE8I9LI42HBKLFY.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/6vHNt</link>
+            <guid>http://newstapa.org/article/6vHNt</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26152839-4AC4-7C7E-3ED3-HNOVO8I79BMS5HQD58WV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 16 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[김용현 국방장관 후보자, 갭투자 의혹... 3년 만에 2억 시세차익]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/16135443-5269-050B-3B03-F3C9LE0WJONHXQQSFP47.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/y7H7F</link>
-            <guid>http://newstapa.org/article/y7H7F</guid>
-            <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/15193243-7917-9C36-8901-IUSM59N637EXXVGNQYA4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3348,11 +3348,19 @@
             <content:encoded><![CDATA[<span><span>용산 대통령실 이전과 '이태원 참사'의 연관성은 이태원 참사 특별조사위원회가 밝혀야 할 핵심 과제 중 하나입니다. 이에 대해 경찰 측에서는 '이태원 참사와 대통령실 이전은 전혀 관련이 없다' 라는 입장입니다.<br></span><span><br></span><span>하지만 이태원 참사 관련 재판과 국정조사 기록 등에서는 대통령실이 여러 번 언급됩니다. 한 고위 경찰은 "대통령실 이전으로 용산경찰서 관내에 치안 공백이 늘어났을 수 있다" 라고 주장했고, 참사 책임자 대상 형사재판에서 재판장이 '대통령실 이전 문제가 주요 쟁점이 될 수 있다' 라고 말하기도 했습니다. 뉴스타파가 대통령실 이전과 이태원 참사의 연관성을 여러 각도에서 따져 봤습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/w7aDB" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/w7aDB</span></a><span><span><br></span><span>🎬 영상 보러가기 : </span></span><a href="https://youtu.be/bSRr_aYgI_k" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/bSRr_aYgI_k</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240926160502811</link>
+            <guid>https://v.daum.net/v/20240926160502811</guid>
+            <pubDate>Thu, 26 Sep 2024 07:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926160502811" class="link_column" data-tiara-layer="검찰,_경향신문_기자_휴대전화도_통째_'디넷'_저장_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장</strong><span class="info_txt"><span class="txt_info">7분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240925170003766</link>
             <guid>https://v.daum.net/v/20240925170003766</guid>
             <pubDate>Wed, 25 Sep 2024 08:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240925170003766" class="link_column" data-tiara-layer="예외가_원칙이_된_'윤석열_명예훼손'_압수수색_alltab"><div class="cont_thumb"><strong class="tit_txt">예외가 원칙이 된 '윤석열 명예훼손' 압수수색</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925170005393vaoy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240925170003766" class="link_column" data-tiara-layer="예외가_원칙이_된_'윤석열_명예훼손'_압수수색_alltab"><div class="cont_thumb"><strong class="tit_txt">예외가 원칙이 된 '윤석열 명예훼손' 압수수색</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925170005393vaoy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925170005393vaoy.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3360,7 +3368,7 @@
             <link>https://v.daum.net/v/20240925164504009</link>
             <guid>https://v.daum.net/v/20240925164504009</guid>
             <pubDate>Wed, 25 Sep 2024 08:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240925164504009" class="link_column" data-tiara-layer="[백지_입양기록③]아동_정보_틀려도_수정은_미지수?_입양인_&quot;가치_없는_자료&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925164513522dfah.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240925164504009" class="link_column" data-tiara-layer="[백지_입양기록③]아동_정보_틀려도_수정은_미지수?_입양인_&quot;가치_없는_자료&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925164513522dfah.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925164513522dfah.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3578,14 +3586,6 @@
             <pubDate>Wed, 04 Sep 2024 07:11:51 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240904154709240" class="link_column" data-tiara-layer="[백지_입양기록②]허위_수량·백지_기록에_나랏돈…이상한_검수확인서_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서</strong><span class="info_txt"><span class="txt_info">2024. 9. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F04%2Fnewstapa%2F20240904154718939rhwq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F04%2Fnewstapa%2F20240904154718939rhwq.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240904123155297</link>
-            <guid>https://v.daum.net/v/20240904123155297</guid>
-            <pubDate>Wed, 04 Sep 2024 04:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240904123155297" class="link_column" data-tiara-layer="학력평가원,_한국사_교과서_편집진에_'검정_자격_조작'_책임자_등재_alltab"><div class="cont_thumb"><strong class="tit_txt">학력평가원, 한국사 교과서 편집진에 '검정 자격 조작' 책임자 등재</strong><span class="info_txt"><span class="txt_info">2024. 9. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F04%2Fnewstapa%2F20240904123156665cgdy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F04%2Fnewstapa%2F20240904123156665cgdy.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
