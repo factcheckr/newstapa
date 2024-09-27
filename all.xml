@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 00:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 02:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/CMsnw</link>
+            <guid>http://newstapa.org/article/CMsnw</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26094836-23E6-E2F8-F95E-5W9P4AK1HD9AVHWAHRP4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/dSCOX</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13134353-9C1A-96BB-D1D2-9FB4XH9JIO91MBEQQVX3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/kQ1sx</link>
-            <guid>http://newstapa.org/article/kQ1sx</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13163358-6A57-ACF6-809D-8W7AT6SHWXNJHP9OQ13Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/27175042-1978-5252-8E44-4CAG1E5770075E6SP9FL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/CMsnw</link>
+            <guid>http://newstapa.org/article/CMsnw</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26094836-23E6-E2F8-F95E-5W9P4AK1HD9AVHWAHRP4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이태원 참사 미규명 진실]⑧ 1조 원 재난안전통신망 활용하지 못한 이유 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/nBuPc</link>
             <guid>http://newstapa.org/article/nBuPc</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] &lt;긴급르포&gt; 오염수 방류 후쿠시마를 가다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/31182814-24F5-BA28-7DC5-QHUC5C9S9CRYJFZOBWUS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/G1iJz</link>
-            <guid>http://newstapa.org/article/G1iJz</guid>
-            <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[가습기 살균제 참사 12주기 특집] 아이들의 시간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/30185916-CE5D-B8E6-626D-ATFB47VT70349ANP3VYN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[학력평가원 한국사 교과서, 옛 국정 교과서 '베끼기' 정황 또 드러나 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3208,6 +3208,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/106879856</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/106879856</guid>
+            <pubDate>Fri, 27 Sep 2024 02:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span><span>2022년 10월 29일 '이태원 참사' 이후 피해자들은 지속적으로 2차 가해에 노출돼 왔습니다. 하지만 정부의 2차 가해 대응은 매우 수동적이었습니다. 정부의 방치 속에 피해자들은 2년 가까이 욕설과 성희롱, 혐오 발언 등을 들어야 했습니다. <br></span><span><br></span><span>159번째 참사 희생자인 이재현 군은 2차 가해로 인한 고통에 괴로워하다 스스로 생을 마감하기도 했습니다. 정부는 왜 피해자들의 고통을 방치했을까요. 또 언제까지 피해자들을 방치할 생각인걸까요. '이태원 참사' 피해자들을 향한 2차 가해 실상과 정부의 역할을 짚어 봤습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/CMsnw" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/CMsnw</span></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/106872109</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/106872109</guid>
@@ -3341,18 +3348,19 @@
             <content:encoded><![CDATA[<span><span>2022년 10월 29일, '이태원 참사'가 일어난지 약 1년 10개월이 지났습니다. 지난 5월 특별조사위원회(특조위) 설치 등을 주요 내용으로 하는 '이태원 특별법'이 국회에서 통과됐지만, 정부와 여당의 시간 끌기 탓에 특조위는 아직 출범조차 못 하고 있습니다.<br></span><span><br></span><span>현재 용산구청장과 용산구 공무원, 고위 경찰 등 이태원 참사 관련 인물들에 대한 재판이 진행 중입니다. 하지만 공무원과 경찰 개인에 대한 처벌만으로는 참사의 구조적 원인을 밝혀낼 수 없습니다. 뉴스타파는 독립언론 '코트워치'와 함께 이태원 참사의 미규명 진실들, 그리고 앞으로 이태원 특조위가 조사해야 할 진상규명 과제들을 파헤쳤습니다. <br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/_A6ejJaHxtM" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/_A6ejJaHxtM</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/OEtS9" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/OEtS9</span></a>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[이태원 참사 미규명 진실] ① 그날 경찰은 왜 기동대를 배치하지 않았나 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/106640367</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/106640367</guid>
-            <pubDate>Thu, 05 Sep 2024 12:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span><span>'이태원 참사'의 가장 큰 의문점 중 하나는 '왜 경찰은 참사 당일 이태원 현장에 경비기동대(기동대)를 미리 배치하지 않았느냐' 입니다. 이에 대해 현재 재판을 받고 있는 고위직 경찰들은 '기동대 없이도 인파 관리가 가능했고, 당시 기동대 투입 여력도 없었다' 라고 주장하고 있습니다.<br></span><span><br></span><span>하지만 취재 결과, 참사 당시 이태원에 배치된 경찰들은 대부분 마약 단속, 불법 숙박업소 단속 등 업무를 맡고 있어 기동대 없이는 인파 관리가 어려운 상황이었습니다. 또 서울경찰청의 경력 운용 내역에 따르면, 당시 이태원에 기동대를 배치할 수 있는 여력도 있었던 것으로 확인됐습니다.<br></span><span><br></span><span>📰 더 자세한 내용을 기사로 확인하세요 : </span></span><a href="https://newstapa.org/article/JY8tD" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/JY8tD</span></a><span><span><br></span><span>🎬 영상 보러가기 : </span></span><a href="https://youtu.be/bSRr_aYgI_k" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/bSRr_aYgI_k</span></a>]]></content:encoded>
+            <title><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20240927101503440</link>
+            <guid>https://v.daum.net/v/20240927101503440</guid>
+            <pubDate>Fri, 27 Sep 2024 02:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240927101503440" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑩_정부는_피해자_'2차_가해'_왜_방치했나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F27%2Fnewstapa%2F20240927101504969rmgx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F27%2Fnewstapa%2F20240927101504969rmgx.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20240926200002201</link>
             <guid>https://v.daum.net/v/20240926200002201</guid>
             <pubDate>Thu, 26 Sep 2024 11:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926200002201" class="link_column" data-tiara-layer="[주간_뉴스타파]_“대통령_윤석열을_증인_신청합니다”_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다”</strong><span class="info_txt"><span class="txt_info">13시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926200002201" class="link_column" data-tiara-layer="[주간_뉴스타파]_“대통령_윤석열을_증인_신청합니다”_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다”</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3360,7 +3368,7 @@
             <link>https://v.daum.net/v/20240926160502811</link>
             <guid>https://v.daum.net/v/20240926160502811</guid>
             <pubDate>Thu, 26 Sep 2024 07:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926160502811" class="link_column" data-tiara-layer="검찰,_경향신문_기자_휴대전화도_통째_'디넷'_저장_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926160502811" class="link_column" data-tiara-layer="검찰,_경향신문_기자_휴대전화도_통째_'디넷'_저장_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 경향신문 기자 휴대전화도 통째 '디넷' 저장</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926160504289ebnp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20240923100150075</link>
             <guid>https://v.daum.net/v/20240923100150075</guid>
             <pubDate>Mon, 23 Sep 2024 02:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240923100150075" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]⑧_1조_원_재난안전통신망_활용하지_못한_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실]⑧ 1조 원 재난안전통신망 활용하지 못한 이유</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F23%2Fnewstapa%2F20240923100152286dvcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240923100150075" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]⑧_1조_원_재난안전통신망_활용하지_못한_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실]⑧ 1조 원 재난안전통신망 활용하지 못한 이유</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F23%2Fnewstapa%2F20240923100152286dvcb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F23%2Fnewstapa%2F20240923100152286dvcb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3440,7 +3448,7 @@
             <link>https://v.daum.net/v/20240920100150826</link>
             <guid>https://v.daum.net/v/20240920100150826</guid>
             <pubDate>Fri, 20 Sep 2024 02:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240920100150826" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑦_재난_관리_능력_'제로'...용산구는_왜_무능했나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑦ 재난 관리 능력 '제로'...용산구는 왜 무능했나</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F20%2Fnewstapa%2F20240920100152440ijyp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240920100150826" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑦_재난_관리_능력_'제로'...용산구는_왜_무능했나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑦ 재난 관리 능력 '제로'...용산구는 왜 무능했나</strong><span class="info_txt"><span class="txt_info">2024. 9. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F20%2Fnewstapa%2F20240920100152440ijyp.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F20%2Fnewstapa%2F20240920100152440ijyp.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3578,14 +3586,6 @@
             <pubDate>Thu, 05 Sep 2024 11:11:39 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240905200128438" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_③_대통령실_이전은_용산구청에_어떤_영향을_미쳤나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ③ 대통령실 이전은 용산구청에 어떤 영향을 미쳤나</strong><span class="info_txt"><span class="txt_info">2024. 9. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F05%2Fnewstapa%2F20240905200139022qvmb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F05%2Fnewstapa%2F20240905200139022qvmb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[한국학력평가원, 유명출판사 한국사 교과서 표절 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240905172151057</link>
-            <guid>https://v.daum.net/v/20240905172151057</guid>
-            <pubDate>Thu, 05 Sep 2024 09:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240905172151057" class="link_column" data-tiara-layer="한국학력평가원,_유명출판사_한국사_교과서_표절_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">한국학력평가원, 유명출판사 한국사 교과서 표절 의혹</strong><span class="info_txt"><span class="txt_info">2024. 9. 5.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F05%2Fnewstapa%2F20240905172154912yixb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F05%2Fnewstapa%2F20240905172154912yixb.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
