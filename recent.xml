@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 03:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 04:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]⑨ 전직 대통령실 비서관의 자백 "내가 언론인들 고발 사주했다"]]></title>
+            <link>http://newstapa.org/article/lRYb9</link>
+            <guid>http://newstapa.org/article/lRYb9</guid>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]⑨ 전직 대통령실 비서관의 자백 "내가 언론인들 고발 사주했다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/27130150-6621-4153-BA8C-S3DKF5N4P6JUW845CSNB.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나]]></title>
             <link>http://newstapa.org/article/CMsnw</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ①]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/19165726-8581-D26B-51D9-HR0P668Q6X4VBD1EF0QZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></title>
-            <link>http://newstapa.org/article/Qpvya</link>
-            <guid>http://newstapa.org/article/Qpvya</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13134353-9C1A-96BB-D1D2-9FB4XH9JIO91MBEQQVX3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
