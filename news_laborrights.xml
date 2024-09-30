@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 07:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 08:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ② 과로와 공짜노동... 로켓배송은 죽음을 향한다]]></title>
+            <link>http://newstapa.org/article/gw_2T</link>
+            <guid>http://newstapa.org/article/gw_2T</guid>
+            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ② 과로와 공짜노동... 로켓배송은 죽음을 향한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/30103002-C41A-D6F9-01EE-DS1XTQXJT57XWM8LHJLT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈벌이 욕망과 죽음의 저류조 : 전주 리싸이클링타운 폭발사고의 전말]]></title>
             <link>http://newstapa.org/article/x-cWt</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[백지 입양기록②]허위 수량·백지 기록에 나랏돈…이상한 검수확인서]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/04151941-4009-5C0B-7494-BYZ4HA2YL7FL0UQF4ICK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["입양 기록 관리 부실" 뉴스타파 보도에 뿔난 입양인들 항의 시위]]></title>
-            <link>http://newstapa.org/article/8W76t</link>
-            <guid>http://newstapa.org/article/8W76t</guid>
-            <pubDate>Fri, 30 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["입양 기록 관리 부실" 뉴스타파 보도에 뿔난 입양인들 항의 시위]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/30150646-7BED-3EA3-BFAF-DYFBYOZ7MYV6VJ7ONCQ0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
