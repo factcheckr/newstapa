@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 05:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 06:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['언론 고발사주' 발언한 김대남, 억대 연봉 감사직은 "내가 찍은 곳"]]></title>
+            <link>http://newstapa.org/article/dwznU</link>
+            <guid>http://newstapa.org/article/dwznU</guid>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['언론 고발사주' 발언한 김대남, 억대 연봉 감사직은 "내가 찍은 곳"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/01112004-F8A8-004D-1612-P1DHO114IZ4T4M4JVDUA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[언론장악 카르텔]⑨ 전직 대통령실 비서관의 자백 "내가 언론인들 고발 사주했다"]]></title>
             <link>http://newstapa.org/article/lRYb9</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[심우정 검찰총장 후보자, 특활비로 '명절 떡값', '연말 격려금' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/27170249-A5E9-8D54-364F-G6B7K9IC4HA68P7L28SO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개]]></title>
-            <link>http://newstapa.org/article/LkDTX</link>
-            <guid>http://newstapa.org/article/LkDTX</guid>
-            <pubDate>Tue, 20 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['장시호 출정·환소 시각' 3년 지나 삭제? 반박 증거 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/20112642-00F2-029F-9E34-PV7M2XK0DHRGX5Q6K9Y5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
