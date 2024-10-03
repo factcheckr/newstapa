@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Oct 2024 10:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 11:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Kgnd3</link>
+            <guid>http://newstapa.org/article/Kgnd3</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03150058-53B5-17D4-0D8E-W1I449ILZGTZ97F8GQCS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교육부 공무원이 교과서 써도 된다? 13년 전 이주호 장관은 답을 안다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/2uUBg</link>
+            <guid>http://newstapa.org/article/2uUBg</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육부 공무원이 교과서 써도 된다? 13년 전 이주호 장관은 답을 안다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03145247-6642-8AE6-72A2-LC50M06BDG7JVMRN1OZK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파X참여연대, '대통령실 직원 명단 공개 소송' 2심도 승소 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/24lEO</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['돈봉투 의혹' 정우택, 뇌물죄에 '무고' 혐의 추가 송치]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/23172311-1D20-2F2D-BB46-TB78N48HSXXIPUHPSHGT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 미규명 진실]⑧ 1조 원 재난안전통신망 활용하지 못한 이유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/nBuPc</link>
-            <guid>http://newstapa.org/article/nBuPc</guid>
-            <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이태원 참사 미규명 진실]⑧ 1조 원 재난안전통신망 활용하지 못한 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/24101336-948F-9E0C-65E4-M04EEP3LSQD9REQSR38P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/lmCA6</link>
-            <guid>http://newstapa.org/article/lmCA6</guid>
-            <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/20150825-9DA4-CA72-E807-4780E3GS2UWKBOWWD3O8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파X참여연대, '대통령실 직원 명단 공개 소송' 2심도 승소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1288,6 +1288,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/06141954-AC25-9CC6-7196-0A6JC7VSGJ0P4FRE81Z3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/Kgnd3</link>
+            <guid>http://newstapa.org/article/Kgnd3</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03150058-53B5-17D4-0D8E-W1I449ILZGTZ97F8GQCS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교육부 공무원이 교과서 써도 된다? 13년 전 이주호 장관은 답을 안다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/2uUBg</link>
+            <guid>http://newstapa.org/article/2uUBg</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[교육부 공무원이 교과서 써도 된다? 13년 전 이주호 장관은 답을 안다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/03145247-6642-8AE6-72A2-LC50M06BDG7JVMRN1OZK.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[학력평가원 한국사 교과서, 옛 국정 교과서 '베끼기' 정황 또 드러나 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/yEVcG</link>
             <guid>http://newstapa.org/article/yEVcG</guid>
@@ -1398,22 +1414,6 @@
             <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 강제 식사와 강압 서명...대학이 지운 학생들의 목소리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/19152359-BBE6-5EFD-2592-K5MQ5RXENL84IDQD4GNO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등록금과 총장님의 리조트...검찰의 면죄부 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/uNyQX</link>
-            <guid>http://newstapa.org/article/uNyQX</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[등록금과 총장님의 리조트...검찰의 면죄부]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21183853-6E1B-189F-6CAE-JTDZVLJABM0HAI2SCNHF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/12rhs</link>
-            <guid>http://newstapa.org/article/12rhs</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 면죄부 준 조선일보 사돈의 리조트 장사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/07/21220959-49A4-11CB-B960-4AAOGZ57QJBKY7JZW2NF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[자유언론실천선언 50년㉓]"명예 회복? 난 불명예스러웠던 적 없습니다" (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -3348,6 +3348,22 @@
             <content:encoded><![CDATA[<span><span>지난해 9월, 검찰이 뉴스타파 사무실과 소속 기자들의 자택을 압수수색했습니다. 뉴스타파가 2022년 보도를 통해 윤석열 대통령의 명예를 훼손했다는 혐의였습니다. 그로부터 1년간 검찰은 뉴스타파와 JTBC, 경향신문 등 여러 언론을 대상으로 수사를 벌이고 있습니다. <br></span><span><br></span><span>그러나 지난 1년간 검찰은 '윤석열 명예훼손' 혐의와 관련해 아무런 구체적 증거를 제시하지 못했습니다. 오히려 검찰은 수사 과정에서 여러 불법 행위를 저지른데다, 법원에 제출한 공소장마저 고쳐 써야 했습니다. 지난 1년간의 검찰 수사 과정과 '윤석열 명예훼손 사건'의 쟁점을 뉴스타파가 정리했습니다.<br></span><span><br></span><span>🎬 더 자세한 내용을 영상에서 확인하세요 : </span></span><a href="https://youtu.be/Co1g7EaZ0l0" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://youtu.be/Co1g7EaZ0l0</span></a><span><span><br></span><span>📰 기사 보러가기 : </span></span><a href="https://newstapa.org/article/emmon" rel="noopener noreferrer" target="_blank" class="link_url"><span>https://newstapa.org/article/emmon</span></a>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241003200502015</link>
+            <guid>https://v.daum.net/v/20241003200502015</guid>
+            <pubDate>Thu, 03 Oct 2024 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241003200502015" class="link_column" data-tiara-layer="[주간_뉴스타파]_윤석열의_교육부는_왜_그_교과서를_지키려_하나_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F03%2Fnewstapa%2F20241003200504449klxv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F03%2Fnewstapa%2F20241003200504449klxv.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
+            <title><![CDATA[교육부 공무원이 교과서 써도 된다? 13년 전 이주호 장관은 답을 안다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241003200002919</link>
+            <guid>https://v.daum.net/v/20241003200002919</guid>
+            <pubDate>Thu, 03 Oct 2024 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241003200002919" class="link_column" data-tiara-layer="교육부_공무원이_교과서_써도_된다?_13년_전_이주호_장관은_답을_안다_alltab"><div class="cont_thumb"><strong class="tit_txt">교육부 공무원이 교과서 써도 된다? 13년 전 이주호 장관은 답을 안다</strong><span class="info_txt"><span class="txt_info">14분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F03%2Fnewstapa%2F20241003200004785csee.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F03%2Fnewstapa%2F20241003200004785csee.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[뉴스타파X참여연대, '대통령실 직원 명단 공개 소송' 2심도 승소 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241002150502578</link>
             <guid>https://v.daum.net/v/20241002150502578</guid>
@@ -3400,7 +3416,7 @@
             <link>https://v.daum.net/v/20240926200002201</link>
             <guid>https://v.daum.net/v/20240926200002201</guid>
             <pubDate>Thu, 26 Sep 2024 11:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926200002201" class="link_column" data-tiara-layer="[주간_뉴스타파]_“대통령_윤석열을_증인_신청합니다”_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다”</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240926200002201" class="link_column" data-tiara-layer="[주간_뉴스타파]_“대통령_윤석열을_증인_신청합니다”_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] “대통령 윤석열을 증인 신청합니다”</strong><span class="info_txt"><span class="txt_info">2024. 9. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F26%2Fnewstapa%2F20240926200007723xhhc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3570,22 +3586,6 @@
             <pubDate>Wed, 11 Sep 2024 02:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240911100128837" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑤_출동_안_하고_&quot;출동했다&quot;_보고..._112신고_기록은_왜_조작됐나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑤ 출동 안 하고 "출동했다" 보고... 112신고 기록은 왜 조작됐나</strong><span class="info_txt"><span class="txt_info">2024. 9. 11.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F11%2Fnewstapa%2F20240911100129756jxld.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F11%2Fnewstapa%2F20240911100129756jxld.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, '류희림 청부민원 의혹' 제보자 색출 두번째 압수수색 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240910225150615</link>
-            <guid>https://v.daum.net/v/20240910225150615</guid>
-            <pubDate>Tue, 10 Sep 2024 14:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240910225150615" class="link_column" data-tiara-layer="경찰,_'류희림_청부민원_의혹'_제보자_색출_두번째_압수수색_alltab"><div class="cont_thumb"><strong class="tit_txt">경찰, '류희림 청부민원 의혹' 제보자 색출 두번째 압수수색</strong><span class="info_txt"><span class="txt_info">2024. 9. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F10%2Fnewstapa%2F20240910225156702ytyo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F10%2Fnewstapa%2F20240910225156702ytyo.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 미규명 진실] ④ 경찰, 수뇌부 방침 때문에 '안전유지업무' 회피했나 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240909104636309</link>
-            <guid>https://v.daum.net/v/20240909104636309</guid>
-            <pubDate>Mon, 09 Sep 2024 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240909104636309" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_④_경찰,_수뇌부_방침_때문에_'안전유지업무'_회피했나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ④ 경찰, 수뇌부 방침 때문에 '안전유지업무' 회피했나</strong><span class="info_txt"><span class="txt_info">2024. 9. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F09%2Fnewstapa%2F20240909113952326jkyy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F09%2Fnewstapa%2F20240909113952326jkyy.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
