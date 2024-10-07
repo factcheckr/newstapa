@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 00:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 02:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4대강 녹색 독, 콧속에 스며들다]]></title>
+            <link>http://newstapa.org/article/u4464</link>
+            <guid>http://newstapa.org/article/u4464</guid>
+            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[4대강 녹색 독, 콧속에 스며들다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07102816-3213-4EFA-3CDF-4V906KBISBH5NBKREWES.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] '돈봉투 수수' 의혹 정우택 전 국회부의장 기소]]></title>
             <link>http://newstapa.org/article/U-phn</link>
@@ -21,7 +29,7 @@
             <guid>http://newstapa.org/article/w2bgt</guid>
             <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년㉔] 나의 별, 독립운동가 선친 앞에도 떳떳하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04142043-CE35-B824-30A7-BQ8SCRLMXCEK6ATHNBZU.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07110503-3727-392D-28BF-AIGIRSVYY6ASGWO6B49C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ②]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/25162844-B5F7-94B3-CB5F-UKU5BVIYNIFP8WVB4C1M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"]]></title>
-            <link>http://newstapa.org/article/ij9JX</link>
-            <guid>http://newstapa.org/article/ij9JX</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/25161708-45AF-3E9E-3420-RNWAXNYLMGM52J21DONO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
