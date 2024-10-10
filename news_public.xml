@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 10:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 11:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김건희 새 녹취록...물량 부담에 '팔자'더니 2차 작전 개시되자 적극 매수]]></title>
+            <link>http://newstapa.org/article/YIL3h</link>
+            <guid>http://newstapa.org/article/YIL3h</guid>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[김건희 새 녹취록...물량 부담에 '팔자'더니 2차 작전 개시되자 적극 매수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/10184114-C8D9-1D9D-3783-3DBEE7718RHZRFJJUM6M.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 김건희는 주가조작 알았다... '사전 인지' 5가지 근거]]></title>
+            <link>http://newstapa.org/article/jWRRy</link>
+            <guid>http://newstapa.org/article/jWRRy</guid>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 김건희는 주가조작 알았다... '사전 인지' 5가지 근거]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/10184554-91E2-6AD0-BFA1-26RJ234ZXGTEUWPY5268.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[언론장악 카르텔]⑩ '3억 연봉' 배후에 김건희 측근들, 김대남 녹취록에 등장]]></title>
             <link>http://newstapa.org/article/dyb5o</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 뉴스타파 수사 1년, 윤석열이 법정에 나올 시간]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12190329-92C7-3F5A-09AA-9TU1FLO9G2V246L3TOST.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치 주가조작 2심도 유죄... '전주' 손 씨도 방조혐의 유죄]]></title>
-            <link>http://newstapa.org/article/HiY39</link>
-            <guid>http://newstapa.org/article/HiY39</guid>
-            <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[도이치 주가조작 2심도 유죄... '전주' 손 씨도 방조혐의 유죄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/12193210-4E8C-DC26-3919-ODNRF7UIOQ072CG8J5LS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개]]></title>
-            <link>http://newstapa.org/article/FNgFz</link>
-            <guid>http://newstapa.org/article/FNgFz</guid>
-            <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김장겸 '취재폭력' 신고에 뉴스타파 징계... 무편집 영상 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/11181946-4FCF-3905-E70B-DBQ038HCVQLP8LAPIPZ9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
