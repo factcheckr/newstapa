@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 23:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 전범기업과 공모해 관세 포탈한 한국지역난방공사]]></title>
+            <link>http://newstapa.org/article/4WjJO</link>
+            <guid>http://newstapa.org/article/4WjJO</guid>
+            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[일본 전범기업과 공모해 관세 포탈한 한국지역난방공사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15234205-5294-FE2A-B684-PS6BB448WDKHNZEQ0GIZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰 특활비 자체 지침 ‘전문’ 확인… 부실한 지침으론 세금 오남용 못 막아]]></title>
             <link>http://newstapa.org/article/BnqkN</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부산엑스포 예산검증④ 세금으로 '김건희 키링' 1만 개와 갤럭시탭 100개 구매]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27192952-454C-E661-9873-VCMU5AC4RPJWLATYGOCD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></title>
-            <link>http://newstapa.org/article/5r_LN</link>
-            <guid>http://newstapa.org/article/5r_LN</guid>
-            <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산시·일간지 엑스포 기사·칼럼 거래 의혹, 언론단체 “대국민 사기극”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/27063235-CCD9-EFE2-D24F-9HA5HBTJRCN3KWRF2A5J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
