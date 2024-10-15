@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 07:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 08:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소]]></title>
+            <link>http://newstapa.org/article/SVMBI</link>
+            <guid>http://newstapa.org/article/SVMBI</guid>
+            <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15165428-0117-6464-70BB-OE84O3BKQ17I4KEN6JCS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열>② “조우형이 곧 부산저축은행”...2011년 이강길 대검중수부 진술]]></title>
             <link>http://newstapa.org/article/FHqtY</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[알권리 보장해야 할 정부가 알권리 침해하는 법을 만들겠다는 아이러니]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/20105625-A103-9057-FBF8-IOOT9WGQ55IL2I03NJPZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수]]></title>
-            <link>http://newstapa.org/article/iA5QS</link>
-            <guid>http://newstapa.org/article/iA5QS</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 대통령과 뉴라이트 그리고 아스팔트 보수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/19185453-2325-DB32-A1D5-CNPF31O2F2DPXENGKCRY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
