@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 07:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 08:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중앙지검 수사과장의 조의금 실종 사건 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NdZgx</link>
+            <guid>http://newstapa.org/article/NdZgx</guid>
+            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중앙지검 수사과장의 조의금 실종 사건]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16164800-42CD-D56D-B71B-AQOJUE9UJDJQUSWTE126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Kmzm8</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07110503-3727-392D-28BF-AIGIRSVYY6ASGWO6B49C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ② (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/UhkbB</link>
-            <guid>http://newstapa.org/article/UhkbB</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ②]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04145952-92DB-6982-6D47-PQ5AHP0MUIIKKDKCFPS6.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[중앙지검 수사과장의 조의금 실종 사건 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/NdZgx</link>
+            <guid>http://newstapa.org/article/NdZgx</guid>
+            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중앙지검 수사과장의 조의금 실종 사건]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16164800-42CD-D56D-B71B-AQOJUE9UJDJQUSWTE126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26152839-4AC4-7C7E-3ED3-HNOVO8I79BMS5HQD58WV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/O6YHg</link>
-            <guid>http://newstapa.org/article/O6YHg</guid>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[예외가 원칙이 된 '윤석열 명예훼손' 압수수색]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/25162844-B5F7-94B3-CB5F-UKU5BVIYNIFP8WVB4C1M.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[중앙지검 수사과장의 조의금 실종 사건 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/NdZgx</link>
+            <guid>http://newstapa.org/article/NdZgx</guid>
+            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[중앙지검 수사과장의 조의금 실종 사건]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16164800-42CD-D56D-B71B-AQOJUE9UJDJQUSWTE126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ② (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[불법 압색] '윤석열 명예훼손' 수사팀, '김건희 의혹' 등 사건 무관 취재자료 털어]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/18185927-0F58-03A2-9BB9-6CM3V9OLI9ZRXSM9NZ8W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/B_ZiQ</link>
-            <guid>http://newstapa.org/article/B_ZiQ</guid>
-            <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[사법개혁 프로젝트] 헌재 정치권 눈치보기 사건 1185일 만에 선고키로]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/17135430-D0FB-260E-EE55-H18ZGK3ZWMTVGO28AQQY.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3208,11 +3208,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중앙지검 수사과장의 조의금 실종 사건 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241016161503559</link>
+            <guid>https://v.daum.net/v/20241016161503559</guid>
+            <pubDate>Wed, 16 Oct 2024 08:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241016161503559" class="link_column" data-tiara-layer="중앙지검_수사과장의_조의금_실종_사건_alltab"><div class="cont_thumb"><strong class="tit_txt">중앙지검 수사과장의 조의금 실종 사건</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016170337220hskg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016170337220hskg.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241016100003066</link>
             <guid>https://v.daum.net/v/20241016100003066</guid>
             <pubDate>Wed, 16 Oct 2024 02:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241016100003066" class="link_column" data-tiara-layer="검찰의_‘특활비_잔액표’_집단_비공개…_세금_오남용_숨기려_무단_삭제_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016100005288mzpm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241016100003066" class="link_column" data-tiara-layer="검찰의_‘특활비_잔액표’_집단_비공개…_세금_오남용_숨기려_무단_삭제_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016100005288mzpm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016100005288mzpm.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3220,7 +3228,7 @@
             <link>https://v.daum.net/v/20241016080004864</link>
             <guid>https://v.daum.net/v/20241016080004864</guid>
             <pubDate>Tue, 15 Oct 2024 23:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241016080004864" class="link_column" data-tiara-layer="일본_전범기업과_공모해_관세_포탈한_한국지역난방공사_alltab"><div class="cont_thumb"><strong class="tit_txt">일본 전범기업과 공모해 관세 포탈한 한국지역난방공사</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016080005808vneb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241016080004864" class="link_column" data-tiara-layer="일본_전범기업과_공모해_관세_포탈한_한국지역난방공사_alltab"><div class="cont_thumb"><strong class="tit_txt">일본 전범기업과 공모해 관세 포탈한 한국지역난방공사</strong><span class="info_txt"><span class="txt_info">9시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016080005808vneb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016080005808vneb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3228,7 +3236,7 @@
             <link>https://v.daum.net/v/20241015170502023</link>
             <guid>https://v.daum.net/v/20241015170502023</guid>
             <pubDate>Tue, 15 Oct 2024 08:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241015170502023" class="link_column" data-tiara-layer="[변화]_'재산_축소_신고'_장진영_국민의힘_당협위원장_공직선거법_위반_기소_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015170504504imuh.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241015170502023" class="link_column" data-tiara-layer="[변화]_'재산_축소_신고'_장진영_국민의힘_당협위원장_공직선거법_위반_기소_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015170504504imuh.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015170504504imuh.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3437,14 +3445,6 @@
             <pubDate>Wed, 25 Sep 2024 08:16:40 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240925164504009" class="link_column" data-tiara-layer="[백지_입양기록③]아동_정보_틀려도_수정은_미지수?_입양인_&quot;가치_없는_자료&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록③]아동 정보 틀려도 수정은 미지수? 입양인 "가치 없는 자료"</strong><span class="info_txt"><span class="txt_info">2024. 9. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925164513522dfah.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925164513522dfah.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 미규명 진실] ⑨ 피해자 모임, 정부는 방치했나 방해했나 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20240925112503404</link>
-            <guid>https://v.daum.net/v/20240925112503404</guid>
-            <pubDate>Wed, 25 Sep 2024 03:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20240925112503404" class="link_column" data-tiara-layer="[이태원_참사_미규명_진실]_⑨_피해자_모임,_정부는_방치했나_방해했나_alltab"><div class="cont_thumb"><strong class="tit_txt">[이태원 참사 미규명 진실] ⑨ 피해자 모임, 정부는 방치했나 방해했나</strong><span class="info_txt"><span class="txt_info">2024. 9. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925112505168ytrw.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202409%2F25%2Fnewstapa%2F20240925112505168ytrw.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
