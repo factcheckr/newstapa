@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 10:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 11:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '윤석열 수사팀'의 조우형 봐주기, 결정적 증거 나왔다]]></title>
+            <link>http://newstapa.org/article/oHYqZ</link>
+            <guid>http://newstapa.org/article/oHYqZ</guid>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '윤석열 수사팀'의 조우형 봐주기, 결정적 증거 나왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17185751-E4BB-8FAF-BEA7-8V7HTVHZTDVJDIKNSR78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뉴스타파 v. 윤석열>③ 대검 ‘윤석열 수사팀’, 조우형 자백 덮었다]]></title>
+            <link>http://newstapa.org/article/M_3xE</link>
+            <guid>http://newstapa.org/article/M_3xE</guid>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt;③ 대검 ‘윤석열 수사팀’, 조우형 자백 덮었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17152628-D898-DAD8-2AE4-W2BA0M4SI3KI4TE1NEZU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급방송] '김건희 불기소'를 반박한다]]></title>
+            <link>http://newstapa.org/article/zKF-b</link>
+            <guid>http://newstapa.org/article/zKF-b</guid>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[긴급방송] '김건희 불기소'를 반박한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17185636-19EF-AE0D-1D1B-RC2JGDJXEP6VNXONQEJG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]“감사원이 답변 정해놓고 조사”, ‘TV조선사건’ 법정 증언 잇달아]]></title>
             <link>http://newstapa.org/article/leX0d</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[언론장악 카르텔]⑩ '3억 연봉' 배후에 김건희 측근들, 김대남 녹취록에 등장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/10142418-6274-4118-2689-EXQJC2N17H11VZIPHMBZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열>① 박영수, ‘대검중수부 조우형 불입건’ 성공보수 1억 원]]></title>
-            <link>http://newstapa.org/article/oa_o7</link>
-            <guid>http://newstapa.org/article/oa_o7</guid>
-            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt;① 박영수, ‘대검중수부 조우형 불입건’ 성공보수 1억 원]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/08162219-D849-F320-FA0C-8EFP9HQN6HKORVHJS3R5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40년 전 목격담 담은 윤석열표 북한인권보고서]]></title>
-            <link>http://newstapa.org/article/GUFfI</link>
-            <guid>http://newstapa.org/article/GUFfI</guid>
-            <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[40년 전 목격담 담은 윤석열표 북한인권보고서]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07173257-3474-82A5-9265-UIQW0SSIPW33BR5QPD67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4대강 녹색 독, 콧속에 스며들다]]></title>
-            <link>http://newstapa.org/article/u4464</link>
-            <guid>http://newstapa.org/article/u4464</guid>
-            <pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[4대강 녹색 독, 콧속에 스며들다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07102816-3213-4EFA-3CDF-4V906KBISBH5NBKREWES.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
