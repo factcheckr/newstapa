@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 04:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 05:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN] 조선일보의 ‘신종 돈벌이’…‘조선몰’ 제품 광고 기사]]></title>
+            <link>http://newstapa.org/article/OOIja</link>
+            <guid>http://newstapa.org/article/OOIja</guid>
+            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN] 조선일보의 ‘신종 돈벌이’…‘조선몰’ 제품 광고 기사]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/18113156-15A8-B892-0ABA-ZU2ZZQYPNAVS1SPGT1CH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBC 고발 시민단체, 대통령실 김대남이 만들고 관리했다]]></title>
             <link>http://newstapa.org/article/rkKmr</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘공언련’ 대표와 국힘 ‘귀순 용사’…방통위 산하기관장들의 과거]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/13171503-7B94-635B-EAEC-VDCNYJ4OCHZC7A40ZFFO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다]]></title>
-            <link>http://newstapa.org/article/i8lyY</link>
-            <guid>http://newstapa.org/article/i8lyY</guid>
-            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09133353-D71F-F81D-9906-J7QRSO6HPJ8LYW46L1N3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
