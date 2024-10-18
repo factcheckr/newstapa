@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 08:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 09:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['플랫폼 경제' 가면 쓴 임금 체불, 만나플러스 사태]]></title>
+            <link>http://newstapa.org/article/xT0dn</link>
+            <guid>http://newstapa.org/article/xT0dn</guid>
+            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['플랫폼 경제' 가면 쓴 임금 체불, 만나플러스 사태]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/18175149-C8FF-E53C-2747-CJ6J9OF0I4L4GM4DGF24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한화오션의 노조 대응 문건 입수, 목표는 "강성노조 파행 분위기 공유"]]></title>
+            <link>http://newstapa.org/article/WeayW</link>
+            <guid>http://newstapa.org/article/WeayW</guid>
+            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한화오션의 노조 대응 문건 입수, 목표는 "강성노조 파행 분위기 공유"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/14234703-6253-0FF4-E54E-TT55YA0EFE2F9QG8IK4S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN] 조선일보의 ‘신종 돈벌이’…‘조선몰’ 제품 광고 기사]]></title>
             <link>http://newstapa.org/article/OOIja</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[언론장악 카르텔]⑪ 김대남 "尹 명예훼손 수사는 총선용 입틀막 수사"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/11150019-0C68-FA8A-8D76-O0VBKXWCV2N1H3QPEMD6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 환경부는 낙동강 주민들을 상대로 녹조 생체실험을 하려는 것인가?]]></title>
-            <link>http://newstapa.org/article/xxMay</link>
-            <guid>http://newstapa.org/article/xxMay</guid>
-            <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 환경부는 낙동강 주민들을 상대로 녹조 생체실험을 하려는 것인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/11144904-713B-4781-F71F-EE7WX38C2G5K49YHG8J3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열>② “조우형이 곧 부산저축은행”...2011년 이강길 대검중수부 진술]]></title>
-            <link>http://newstapa.org/article/FHqtY</link>
-            <guid>http://newstapa.org/article/FHqtY</guid>
-            <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt;② “조우형이 곧 부산저축은행”...2011년 이강길 대검중수부 진술]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/11104948-B297-B428-D56B-SMLOWKRE08CLSYA3ASBH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
