@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 04:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 05:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/jiK0I</link>
+            <guid>http://newstapa.org/article/jiK0I</guid>
+            <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/21132157-DB08-6496-C2D0-KUC1S74UUXOUSI1P5EN4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/fvMXt</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15165428-0117-6464-70BB-OE84O3BKQ17I4KEN6JCS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]⑫ 방심위 '청부민원' 닮은 국민권익위 '청부신고' 의혹 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/bePty</link>
-            <guid>http://newstapa.org/article/bePty</guid>
-            <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔]⑫ 방심위 '청부민원' 닮은 국민권익위 '청부신고' 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15135628-DD5D-914C-AB8F-NXYDU02ASVCJD53PNS1Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/07113759-D0A4-4258-10D1-J5IJ8RFUD9UBYUA4KLOO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/jiK0I</link>
+            <guid>http://newstapa.org/article/jiK0I</guid>
+            <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/21132157-DB08-6496-C2D0-KUC1S74UUXOUSI1P5EN4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 환경부는 낙동강 주민들을 상대로 녹조 생체실험을 하려는 것인가? (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/xxMay</link>
             <guid>http://newstapa.org/article/xxMay</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/07172324-60B4-ED8B-D0DE-O7DMS71SJ4YEX8SEQQ9C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/LW61T</link>
-            <guid>http://newstapa.org/article/LW61T</guid>
-            <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오송 지하차도 참사... 행복청은 설계 오류, 환경부는 직무 유기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/25173540-5999-26EF-18D9-FPBVDUYOJIMY8HERZ51Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05192603-D914-C5A7-512D-0HKMS4P1GSR91L9PYR6D.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/jiK0I</link>
+            <guid>http://newstapa.org/article/jiK0I</guid>
+            <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/21132157-DB08-6496-C2D0-KUC1S74UUXOUSI1P5EN4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 환경부는 낙동강 주민들을 상대로 녹조 생체실험을 하려는 것인가? (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/xxMay</link>
             <guid>http://newstapa.org/article/xxMay</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;현장에서&gt; 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/30172433-563A-A0C6-FD6E-BMUVSKIQKA1Z8BO7XDPR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/8A_CG</link>
-            <guid>http://newstapa.org/article/8A_CG</guid>
-            <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국에 잠든 '셰프의 꿈'... 이태원 참사 프랑스 유가족 인터뷰]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/24145433-4609-9B11-9756-ZIHSI2RN96ZZCH960KSM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3208,11 +3208,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241021140007441</link>
+            <guid>https://v.daum.net/v/20241021140007441</guid>
+            <pubDate>Mon, 21 Oct 2024 05:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241021140007441" class="link_column" data-tiara-layer="[뉴스타파X살아지구]_숨의_격차,_미세먼지_속_아이들은_정확한_정보를_받고_있을까_alltab"><div class="cont_thumb"><strong class="tit_txt">[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까</strong><span class="info_txt"><span class="txt_info">13분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021140010353tlbu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021140010353tlbu.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241021100003139</link>
             <guid>https://v.daum.net/v/20241021100003139</guid>
             <pubDate>Mon, 21 Oct 2024 02:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241021100003139" class="link_column" data-tiara-layer="[백지_입양기록④]_어느_공공기관이_10년_곪은_문제를_덮는_방법_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021100004777plht.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241021100003139" class="link_column" data-tiara-layer="[백지_입양기록④]_어느_공공기관이_10년_곪은_문제를_덮는_방법_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021100004777plht.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021100004777plht.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3236,7 +3244,7 @@
             <link>https://v.daum.net/v/20241018134144389</link>
             <guid>https://v.daum.net/v/20241018134144389</guid>
             <pubDate>Fri, 18 Oct 2024 05:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241018134144389" class="link_column" data-tiara-layer="[KINN]_조선일보의_‘신종_돈벌이’…‘조선몰’_제품_광고_기사_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 조선일보의 ‘신종 돈벌이’…‘조선몰’ 제품 광고 기사</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018134145663puzs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241018134144389" class="link_column" data-tiara-layer="[KINN]_조선일보의_‘신종_돈벌이’…‘조선몰’_제품_광고_기사_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 조선일보의 ‘신종 돈벌이’…‘조선몰’ 제품 광고 기사</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018134145663puzs.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018134145663puzs.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3332,7 +3340,7 @@
             <link>https://v.daum.net/v/20241015140005801</link>
             <guid>https://v.daum.net/v/20241015140005801</guid>
             <pubDate>Tue, 15 Oct 2024 05:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241015140005801" class="link_column" data-tiara-layer="[언론장악_카르텔]⑫_방심위_'청부민원'_닮은_국민권익위_'청부신고'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]⑫ 방심위 '청부민원' 닮은 국민권익위 '청부신고' 의혹</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015140006439ikiz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241015140005801" class="link_column" data-tiara-layer="[언론장악_카르텔]⑫_방심위_'청부민원'_닮은_국민권익위_'청부신고'_의혹_alltab"><div class="cont_thumb"><strong class="tit_txt">[언론장악 카르텔]⑫ 방심위 '청부민원' 닮은 국민권익위 '청부신고' 의혹</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015140006439ikiz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015140006439ikiz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3437,14 +3445,6 @@
             <pubDate>Fri, 04 Oct 2024 06:16:53 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241004142003701" class="link_column" data-tiara-layer="'고발사주'_발언_대통령실_비서관,_류희림_'청부민원'과도_연결됐나_alltab"><div class="cont_thumb"><strong class="tit_txt">'고발사주' 발언 대통령실 비서관, 류희림 '청부민원'과도 연결됐나</strong><span class="info_txt"><span class="txt_info">2024. 10. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018102922336zxqj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018102922336zxqj.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241003200502015</link>
-            <guid>https://v.daum.net/v/20241003200502015</guid>
-            <pubDate>Thu, 03 Oct 2024 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241003200502015" class="link_column" data-tiara-layer="[주간_뉴스타파]_윤석열의_교육부는_왜_그_교과서를_지키려_하나_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤석열의 교육부는 왜 그 교과서를 지키려 하나</strong><span class="info_txt"><span class="txt_info">2024. 10. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018102927153iuph.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018102927153iuph.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
