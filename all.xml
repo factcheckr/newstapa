@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 00:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 02:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’ (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/hivm8</link>
+            <guid>http://newstapa.org/article/hivm8</guid>
+            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/23161213-003F-5159-8A96-8KBUUUEQF4CKE47DR2MI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/wfMco</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균, 국정에도 개입?...대통령 발표 정보 사전 입수 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16181056-DDD4-F6F9-5DFF-SU34Q083MOH9M7CB9FFD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙지검 수사과장의 조의금 실종 사건 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/NdZgx</link>
-            <guid>http://newstapa.org/article/NdZgx</guid>
-            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중앙지검 수사과장의 조의금 실종 사건]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16164800-42CD-D56D-B71B-AQOJUE9UJDJQUSWTE126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아동권리보장원 부실 질타한 국회, '적극 행정이다' 황당 답변한 원장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/07113759-D0A4-4258-10D1-J5IJ8RFUD9UBYUA4KLOO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’ (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/hivm8</link>
+            <guid>http://newstapa.org/article/hivm8</guid>
+            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/23161213-003F-5159-8A96-8KBUUUEQF4CKE47DR2MI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/jiK0I</link>
             <guid>http://newstapa.org/article/jiK0I</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['환경 논란' 용산어린이정원 확장...이번엔 '분수' 설치]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/18110024-A7F1-768A-65B5-2AKUH5N6V2ZFEVYYDQVH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가? (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/Qdozm</link>
-            <guid>http://newstapa.org/article/Qdozm</guid>
-            <pubDate>Mon, 07 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이명박 4대강'에서 '윤석열 4대강'으로 - 보 유지, 무엇이 문제인가?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/07172324-60B4-ED8B-D0DE-O7DMS71SJ4YEX8SEQQ9C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아동권리보장원 부실 질타한 국회, '적극 행정이다' 황당 답변한 원장 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/09104206-F206-5C1B-F123-QNZJIDHUIT58XRC4QY7X.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’ (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/hivm8</link>
+            <guid>http://newstapa.org/article/hivm8</guid>
+            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/23161213-003F-5159-8A96-8KBUUUEQF4CKE47DR2MI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/jiK0I</link>
             <guid>http://newstapa.org/article/jiK0I</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[세월호 진상규명 10년..."왜 침몰했고 왜 못 구했나"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/18094333-7101-96B2-FDAA-ZQDBQOOIOUGB0HT1OY9S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<현장에서> 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/vYrK_</link>
-            <guid>http://newstapa.org/article/vYrK_</guid>
-            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;현장에서&gt; 윤석열 대통령, '이태원 특별법' 거부... 그럼에도 진상조사는 필요하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/01/30172433-563A-A0C6-FD6E-BMUVSKIQKA1Z8BO7XDPR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3208,6 +3208,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’ (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241024100144953</link>
+            <guid>https://v.daum.net/v/20241024100144953</guid>
+            <pubDate>Thu, 24 Oct 2024 02:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241024100144953" class="link_column" data-tiara-layer="[뉴스타파X살아지구]_숨의_격차,_미세먼지_속_아이들①_전국_초등학교_1/3은_‘정보_사각지대’_alltab"><div class="cont_thumb"><strong class="tit_txt">[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F24%2Fnewstapa%2F20241024100145568dire.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F24%2Fnewstapa%2F20241024100145568dire.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241022164143095</link>
             <guid>https://v.daum.net/v/20241022164143095</guid>
@@ -3244,7 +3252,7 @@
             <link>https://v.daum.net/v/20241021100003139</link>
             <guid>https://v.daum.net/v/20241021100003139</guid>
             <pubDate>Mon, 21 Oct 2024 02:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241021100003139" class="link_column" data-tiara-layer="[백지_입양기록④]_어느_공공기관이_10년_곪은_문제를_덮는_방법_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021100004777plht.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241021100003139" class="link_column" data-tiara-layer="[백지_입양기록④]_어느_공공기관이_10년_곪은_문제를_덮는_방법_alltab"><div class="cont_thumb"><strong class="tit_txt">[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021100004777plht.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F21%2Fnewstapa%2F20241021100004777plht.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3276,7 +3284,7 @@
             <link>https://v.daum.net/v/20241018100145173</link>
             <guid>https://v.daum.net/v/20241018100145173</guid>
             <pubDate>Fri, 18 Oct 2024 02:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241018100145173" class="link_column" data-tiara-layer="[쿠팡은_바뀌지_않는다_2]_③_로켓배송의_'방패'..._영입인사_분석_alltab"><div class="cont_thumb"><strong class="tit_txt">[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018114007044bqgt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241018100145173" class="link_column" data-tiara-layer="[쿠팡은_바뀌지_않는다_2]_③_로켓배송의_'방패'..._영입인사_분석_alltab"><div class="cont_thumb"><strong class="tit_txt">[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018114007044bqgt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018114007044bqgt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3437,14 +3445,6 @@
             <pubDate>Mon, 07 Oct 2024 02:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241007110002612" class="link_column" data-tiara-layer="4대강_녹색_독,_콧속에_스며들다_alltab"><div class="cont_thumb"><strong class="tit_txt">4대강 녹색 독, 콧속에 스며들다</strong><span class="info_txt"><span class="txt_info">2024. 10. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F07%2Fnewstapa%2F20241007110004194trbi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F07%2Fnewstapa%2F20241007110004194trbi.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '돈봉투 수수' 의혹 정우택 전 국회부의장 기소 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241004182004465</link>
-            <guid>https://v.daum.net/v/20241004182004465</guid>
-            <pubDate>Fri, 04 Oct 2024 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241004182004465" class="link_column" data-tiara-layer="[변화]_'돈봉투_수수'_의혹_정우택_전_국회부의장_기소_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] '돈봉투 수수' 의혹 정우택 전 국회부의장 기소</strong><span class="info_txt"><span class="txt_info">2024. 10. 4.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F04%2Fnewstapa%2F20241004182006154lglu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F04%2Fnewstapa%2F20241004182006154lglu.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
