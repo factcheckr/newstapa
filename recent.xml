@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 05:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 06:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동두천시, 옛 성병관리소 철거 지지 ‘관제 데모’ 개입 의혹]]></title>
+            <link>http://newstapa.org/article/alX2x</link>
+            <guid>http://newstapa.org/article/alX2x</guid>
+            <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[동두천시, 옛 성병관리소 철거 지지 ‘관제 데모’ 개입 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/25135724-8AD5-41CB-46F6-79CNZ2NWZN9K09BP1MZD.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대선 직전, 명태균 수 차례 서울행 티켓 확인..."윤 총장이 보고서 안 온다고 난리다"]]></title>
             <link>http://newstapa.org/article/kv74j</link>
@@ -45,7 +53,7 @@
             <guid>http://newstapa.org/article/hivm8</guid>
             <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/23161213-003F-5159-8A96-8KBUUUEQF4CKE47DR2MI.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/25142203-973E-C085-AD65-K8WADH86D9A620HJ95PG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[MBC 고발 시민단체, 대통령실 김대남이 만들고 관리했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17223648-7A43-01EA-02C7-B8PP7HHD447IJRHY8806.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '윤석열 수사팀'의 조우형 봐주기, 결정적 증거 나왔다]]></title>
-            <link>http://newstapa.org/article/oHYqZ</link>
-            <guid>http://newstapa.org/article/oHYqZ</guid>
-            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '윤석열 수사팀'의 조우형 봐주기, 결정적 증거 나왔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17185751-E4BB-8FAF-BEA7-8V7HTVHZTDVJDIKNSR78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
