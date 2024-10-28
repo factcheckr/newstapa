@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 08:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 09:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/x7T1i</link>
+            <guid>http://newstapa.org/article/x7T1i</guid>
+            <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/28171728-006D-EAEE-D35F-WKZG32YYNV07MFJ5HRIN.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집방송]‘명태균 여론조사’ 조작 최초 확인... 윤석열 2등에서 1등 됐다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/p73ri</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들은 정확한 정보를 받고 있을까]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/21132157-DB08-6496-C2D0-KUC1S74UUXOUSI1P5EN4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/fvMXt</link>
-            <guid>http://newstapa.org/article/fvMXt</guid>
-            <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[백지 입양기록④] 어느 공공기관이 10년 곪은 문제를 덮는 방법]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/18180022-5771-5EA8-1EF2-5QH1DD68FKI77NXS8YX0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특집방송]‘명태균 여론조사’ 조작 최초 확인... 윤석열 2등에서 1등 됐다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16164800-42CD-D56D-B71B-AQOJUE9UJDJQUSWTE126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/x7T1i</link>
+            <guid>http://newstapa.org/article/x7T1i</guid>
+            <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/28171728-006D-EAEE-D35F-WKZG32YYNV07MFJ5HRIN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[난중칼럼] 대한민국 검찰의 ‘아무’ 사건과 ‘아무 아닌’ 사건 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/TbBLl</link>
             <guid>http://newstapa.org/article/TbBLl</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰 ‘뇌피셜’ 공소장에 판사도 “이게 명예훼손 공소장 맞나?”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/01191656-E92E-7E6C-FA31-KTHDIVXUIA83GWHMESZR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/vhuHD</link>
-            <guid>http://newstapa.org/article/vhuHD</guid>
-            <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/22135138-4768-DD1A-EA6C-V4CXOK5NUK6AVJBQDGJF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰의 ‘특활비 잔액표’ 집단 비공개… 세금 오남용 숨기려 무단 삭제 의혹 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3208,11 +3208,18 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241028172144668</link>
+            <guid>https://v.daum.net/v/20241028172144668</guid>
+            <pubDate>Mon, 28 Oct 2024 09:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241028172144668" class="link_column" data-tiara-layer="[현장에서]_그렇다면_법원은_공소기각을_준비해야_한다_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다</strong><span class="info_txt"><span class="txt_info">52분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[특집방송]‘명태균 여론조사’ 조작 최초 확인...  윤석열 2등에서 1등 됐다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241028100520585</link>
             <guid>https://v.daum.net/v/20241028100520585</guid>
             <pubDate>Mon, 28 Oct 2024 03:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241028100520585" class="link_column" data-tiara-layer="[특집방송]‘명태균_여론조사’_조작_최초_확인...__윤석열_2등에서_1등_됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집방송]‘명태균 여론조사’ 조작 최초 확인...  윤석열 2등에서 1등 됐다</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100523343hprs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241028100520585" class="link_column" data-tiara-layer="[특집방송]‘명태균_여론조사’_조작_최초_확인...__윤석열_2등에서_1등_됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집방송]‘명태균 여론조사’ 조작 최초 확인...  윤석열 2등에서 1등 됐다</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100523343hprs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100523343hprs.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3220,7 +3227,7 @@
             <link>https://v.daum.net/v/20241028100502577</link>
             <guid>https://v.daum.net/v/20241028100502577</guid>
             <pubDate>Mon, 28 Oct 2024 03:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241028100502577" class="link_column" data-tiara-layer="지난_대선,_'윤석열_1등'_여론조사가_조작됐다...._증거_첫_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">지난 대선, '윤석열 1등' 여론조사가 조작됐다.... 증거 첫 확인</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100519514iuwm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241028100502577" class="link_column" data-tiara-layer="지난_대선,_'윤석열_1등'_여론조사가_조작됐다...._증거_첫_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">지난 대선, '윤석열 1등' 여론조사가 조작됐다.... 증거 첫 확인</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100519514iuwm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100519514iuwm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3228,7 +3235,7 @@
             <link>https://v.daum.net/v/20241028100143393</link>
             <guid>https://v.daum.net/v/20241028100143393</guid>
             <pubDate>Mon, 28 Oct 2024 03:24:16 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241028100143393" class="link_column" data-tiara-layer="윤_V._홍_뒤집힌_여론조사,_최소_8건_조작_확인..._명태균_“외부_유출하는_거”_alltab"><div class="cont_thumb"><strong class="tit_txt">윤 V. 홍 뒤집힌 여론조사, 최소 8건 조작 확인... 명태균 “외부 유출하는 거”</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100154789afkb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241028100143393" class="link_column" data-tiara-layer="윤_V._홍_뒤집힌_여론조사,_최소_8건_조작_확인..._명태균_“외부_유출하는_거”_alltab"><div class="cont_thumb"><strong class="tit_txt">윤 V. 홍 뒤집힌 여론조사, 최소 8건 조작 확인... 명태균 “외부 유출하는 거”</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100154789afkb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F28%2Fnewstapa%2F20241028100154789afkb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3276,7 +3283,7 @@
             <link>https://v.daum.net/v/20241024175003545</link>
             <guid>https://v.daum.net/v/20241024175003545</guid>
             <pubDate>Thu, 24 Oct 2024 09:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241024175003545" class="link_column" data-tiara-layer="강혜경_녹음파일로_정리한_'명태균_의혹'의_모든_것_alltab"><div class="cont_thumb"><strong class="tit_txt">강혜경 녹음파일로 정리한 '명태균 의혹'의 모든 것</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F24%2Fnewstapa%2F20241024175012599tgev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241024175003545" class="link_column" data-tiara-layer="강혜경_녹음파일로_정리한_'명태균_의혹'의_모든_것_alltab"><div class="cont_thumb"><strong class="tit_txt">강혜경 녹음파일로 정리한 '명태균 의혹'의 모든 것</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F24%2Fnewstapa%2F20241024175012599tgev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F24%2Fnewstapa%2F20241024175012599tgev.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3438,14 +3445,6 @@
             <pubDate>Tue, 15 Oct 2024 23:13:07 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241016080004864" class="link_column" data-tiara-layer="일본_전범기업과_공모해_관세_포탈한_한국지역난방공사_alltab"><div class="cont_thumb"><strong class="tit_txt">일본 전범기업과 공모해 관세 포탈한 한국지역난방공사</strong><span class="info_txt"><span class="txt_info">2024. 10. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016080005808vneb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F16%2Fnewstapa%2F20241016080005808vneb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241015170502023</link>
-            <guid>https://v.daum.net/v/20241015170502023</guid>
-            <pubDate>Tue, 15 Oct 2024 08:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241015170502023" class="link_column" data-tiara-layer="[변화]_'재산_축소_신고'_장진영_국민의힘_당협위원장_공직선거법_위반_기소_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소</strong><span class="info_txt"><span class="txt_info">2024. 10. 15.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015170504504imuh.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F15%2Fnewstapa%2F20241015170504504imuh.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
