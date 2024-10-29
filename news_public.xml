@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Oct 2024 08:16:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 09:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[답변은 회피하고 군인 존중 요구한 채해병 사건 '키맨' 임기훈]]></title>
+            <link>http://newstapa.org/article/IBybC</link>
+            <guid>http://newstapa.org/article/IBybC</guid>
+            <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[답변은 회피하고 군인 존중 요구한 채해병 사건 '키맨' 임기훈]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/29175307-1A53-6508-2ACF-GK36K1LZQWC9GFKV68XM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대선 전날 만든 '명태균 메모장' 파일 입수...'윤석열 직보' 정황]]></title>
             <link>http://newstapa.org/article/uwuj-</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[긴급방송] '김건희 불기소'를 반박한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17185636-19EF-AE0D-1D1B-RC2JGDJXEP6VNXONQEJG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균, 국정에도 개입?...대통령 발표 정보 사전 입수 정황]]></title>
-            <link>http://newstapa.org/article/1YAn1</link>
-            <guid>http://newstapa.org/article/1YAn1</guid>
-            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균, 국정에도 개입?...대통령 발표 정보 사전 입수 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16181056-DDD4-F6F9-5DFF-SU34Q083MOH9M7CB9FFD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
