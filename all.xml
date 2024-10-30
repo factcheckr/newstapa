@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 07:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 08:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023 미국의 한국 도청, 무엇이 사실인가? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Xf-YG</link>
+            <guid>http://newstapa.org/article/Xf-YG</guid>
+            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023 미국의 한국 도청, 무엇이 사실인가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/30164836-4A26-FEA1-7654-5E06RECL1E57F4AN39JM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특별기고] 윤석열 정부의 정보공개법 개악 시도, 반드시 막아야 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/lUVyL</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대통령실 김대남, 극우 유튜버 '맞불 집회' 사주한 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/23220234-AD6B-0FEF-F4C5-K26S7K5EABYB2PP6VQ8P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’ (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/hivm8</link>
-            <guid>http://newstapa.org/article/hivm8</guid>
-            <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차, 미세먼지 속 아이들① 전국 초등학교 1/3은 ‘정보 사각지대’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/25142203-973E-C085-AD65-K8WADH86D9A620HJ95PG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특별기고] 윤석열 정부의 정보공개법 개악 시도, 반드시 막아야 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/29190014-930C-BD7D-106C-107QJHY1X0CICVZ0HCGE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 미국의 한국 도청, 무엇이 사실인가? (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/Xf-YG</link>
+            <guid>http://newstapa.org/article/Xf-YG</guid>
+            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2023 미국의 한국 도청, 무엇이 사실인가?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/30164836-4A26-FEA1-7654-5E06RECL1E57F4AN39JM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[40년 전 목격담 담은 윤석열표 북한인권보고서 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/GUFfI</link>
             <guid>http://newstapa.org/article/GUFfI</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Mon, 18 Apr 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, 미군기지 환경오염 보고서 31권 '원문 공개']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/18095554-5B50-0CB8-819D-WOUQ10WGFXE4Q29FLH3D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/nOJV-</link>
-            <guid>http://newstapa.org/article/nOJV-</guid>
-            <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[추가 반환 용산기지에도 중금속 검출...공원화 차질 우려]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/03/25171815-059F-0E00-D8B7-81UN263XKRE3STTYZIUU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[두바이 잠금 해제] ②박정희 때 부정축재 김치열의 장남, 두바이 부동산 10여 채 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3208,11 +3208,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2023 미국의 한국 도청, 무엇이 사실인가? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241030165003080</link>
+            <guid>https://v.daum.net/v/20241030165003080</guid>
+            <pubDate>Wed, 30 Oct 2024 08:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241030165003080" class="link_column" data-tiara-layer="2023_미국의_한국_도청,_무엇이_사실인가?_alltab"><div class="cont_thumb"><strong class="tit_txt">2023 미국의 한국 도청, 무엇이 사실인가?</strong><span class="info_txt"><span class="txt_info">26분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030165005311yrrz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030165005311yrrz.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[특별기고] 윤석열 정부의 정보공개법 개악 시도, 반드시 막아야 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241030140004239</link>
             <guid>https://v.daum.net/v/20241030140004239</guid>
             <pubDate>Wed, 30 Oct 2024 05:13:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241030140004239" class="link_column" data-tiara-layer="[특별기고]_윤석열_정부의_정보공개법_개악_시도,_반드시_막아야_alltab"><div class="cont_thumb"><strong class="tit_txt">[특별기고] 윤석열 정부의 정보공개법 개악 시도, 반드시 막아야</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030140006036mkbs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241030140004239" class="link_column" data-tiara-layer="[특별기고]_윤석열_정부의_정보공개법_개악_시도,_반드시_막아야_alltab"><div class="cont_thumb"><strong class="tit_txt">[특별기고] 윤석열 정부의 정보공개법 개악 시도, 반드시 막아야</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030140006036mkbs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030140006036mkbs.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3220,7 +3228,7 @@
             <link>https://v.daum.net/v/20241030112143012</link>
             <guid>https://v.daum.net/v/20241030112143012</guid>
             <pubDate>Wed, 30 Oct 2024 03:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241030112143012" class="link_column" data-tiara-layer="“윤_총장이_궁금해한다”..._조작_여론조사,_윤석열_후보_‘직보’_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">“윤 총장이 궁금해한다”... 조작 여론조사, 윤석열 후보 ‘직보’ 정황</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030112152214mzvt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241030112143012" class="link_column" data-tiara-layer="“윤_총장이_궁금해한다”..._조작_여론조사,_윤석열_후보_‘직보’_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">“윤 총장이 궁금해한다”... 조작 여론조사, 윤석열 후보 ‘직보’ 정황</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030112152214mzvt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F30%2Fnewstapa%2F20241030112152214mzvt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3228,7 +3236,7 @@
             <link>https://v.daum.net/v/20241029175646619</link>
             <guid>https://v.daum.net/v/20241029175646619</guid>
             <pubDate>Tue, 29 Oct 2024 09:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241029175646619" class="link_column" data-tiara-layer="답변은_회피하고_군인_존중_요구한_채해병_사건_'키맨'_임기훈_alltab"><div class="cont_thumb"><strong class="tit_txt">답변은 회피하고 군인 존중 요구한 채해병 사건 '키맨' 임기훈</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241029175646619" class="link_column" data-tiara-layer="답변은_회피하고_군인_존중_요구한_채해병_사건_'키맨'_임기훈_alltab"><div class="cont_thumb"><strong class="tit_txt">답변은 회피하고 군인 존중 요구한 채해병 사건 '키맨' 임기훈</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대선 전날 만든 '명태균 메모장' 파일 입수...'윤석열 직보' 정황 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3282,7 +3290,7 @@
             <link>https://v.daum.net/v/20241025161503070</link>
             <guid>https://v.daum.net/v/20241025161503070</guid>
             <pubDate>Fri, 25 Oct 2024 08:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241025161503070" class="link_column" data-tiara-layer="“김건희의_〇〇〇〇_알려줘”...뉴타_챗봇에_들어온_최다_질문은?_alltab"><div class="cont_thumb"><strong class="tit_txt">“김건희의 〇〇〇〇 알려줘”...뉴타 챗봇에 들어온 최다 질문은?</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F25%2Fnewstapa%2F20241025161504799ggqx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241025161503070" class="link_column" data-tiara-layer="“김건희의_〇〇〇〇_알려줘”...뉴타_챗봇에_들어온_최다_질문은?_alltab"><div class="cont_thumb"><strong class="tit_txt">“김건희의 〇〇〇〇 알려줘”...뉴타 챗봇에 들어온 최다 질문은?</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F25%2Fnewstapa%2F20241025161504799ggqx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F25%2Fnewstapa%2F20241025161504799ggqx.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3436,14 +3444,6 @@
             <pubDate>Thu, 17 Oct 2024 11:11:28 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241017193653813" class="link_column" data-tiara-layer="[긴급방송]_'김건희_불기소'를_반박한다_alltab"><div class="cont_thumb"><strong class="tit_txt">[긴급방송] '김건희 불기소'를 반박한다</strong><span class="info_txt"><span class="txt_info">2024. 10. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018102834018hxrr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F18%2Fnewstapa%2F20241018102834018hxrr.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]“감사원이 답변 정해놓고 조사”, ‘TV조선사건’ 법정 증언 잇달아 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241017175651276</link>
-            <guid>https://v.daum.net/v/20241017175651276</guid>
-            <pubDate>Thu, 17 Oct 2024 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241017175651276" class="link_column" data-tiara-layer="[KINN]“감사원이_답변_정해놓고_조사”,_‘TV조선사건’_법정_증언_잇달아_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN]“감사원이 답변 정해놓고 조사”, ‘TV조선사건’ 법정 증언 잇달아</strong><span class="info_txt"><span class="txt_info">2024. 10. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F17%2Fnewstapa%2F20241017175652685ddoq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F17%2Fnewstapa%2F20241017175652685ddoq.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
