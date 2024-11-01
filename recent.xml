@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 02:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 03:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열에 ‘여론조사 무상 제공’ 정황 또… “대통령 부부한테 돈 받은 거 있습니까”]]></title>
+            <link>http://newstapa.org/article/Tv7rk</link>
+            <guid>http://newstapa.org/article/Tv7rk</guid>
+            <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열에 ‘여론조사 무상 제공’ 정황 또… “대통령 부부한테 돈 받은 거 있습니까”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/01112544-1BB4-23C7-15DA-TNAMH0K2GGL7WM80NQ5X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다]]></title>
             <link>http://newstapa.org/article/WRQ1I</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 27 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 캠프 정책총괄 "대선 당일에도 명태균 보고서로 회의했다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/26235737-9E44-4E9C-A9CB-IXP5C0IEX0M2D2EPF92M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“김건희의 〇〇〇〇 알려줘”...뉴타 챗봇에 들어온 최다 질문은?]]></title>
-            <link>http://newstapa.org/article/OwOqf</link>
-            <guid>http://newstapa.org/article/OwOqf</guid>
-            <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“김건희의 〇〇〇〇 알려줘”...뉴타 챗봇에 들어온 최다 질문은?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/25140407-2939-24AA-F5B9-NJJR5NZJZYAJ608CYPW3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
