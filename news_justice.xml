@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 07:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 08:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<뉴스타파 v. 윤석열>⑤ 검찰 측 핵심 증인 남욱, 법정 위증 자백]]></title>
+            <link>http://newstapa.org/article/vc3UQ</link>
+            <guid>http://newstapa.org/article/vc3UQ</guid>
+            <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt;⑤ 검찰 측 핵심 증인 남욱, 법정 위증 자백]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/01140935-9326-D72E-B152-TLVDT8J8ZTRVUOA64CRH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> ④ 윤석열, 2011년 본인 손으로 대장동 브로커 '조우형 출국금지']]></title>
             <link>http://newstapa.org/article/XNjiv</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '윤석열 명예훼손' 무차별 통신조회, 검찰이 숨긴 사실들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/15193243-7917-9C36-8901-IUSM59N637EXXVGNQYA4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 검찰은 공소기각을 노리고 있다]]></title>
-            <link>http://newstapa.org/article/rF8hc</link>
-            <guid>http://newstapa.org/article/rF8hc</guid>
-            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 검찰은 공소기각을 노리고 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09101840-591A-C133-6883-DXGY6RDIJ2CKB6R7EA1S.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
