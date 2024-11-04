@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 08:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></title>
+            <link>http://newstapa.org/article/rS_gk</link>
+            <guid>http://newstapa.org/article/rS_gk</guid>
+            <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/04170320-411D-0846-59AE-WWCLJW25DONJ8IVBIVWR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희 측근 녹음파일...'캠프 공약' 수정하고 인사 개입한 정황]]></title>
             <link>http://newstapa.org/article/EsiHY</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대선 전날 만든 '명태균 메모장' 파일 입수...'윤석열 직보' 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/29153133-A578-6096-F63C-Q3TLXZ9OYLR8ALYYNU5M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다]]></title>
-            <link>http://newstapa.org/article/x7T1i</link>
-            <guid>http://newstapa.org/article/x7T1i</guid>
-            <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 그렇다면 법원은 공소기각을 준비해야 한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/28171728-006D-EAEE-D35F-WKZG32YYNV07MFJ5HRIN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

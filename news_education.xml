@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 교육</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 07:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 08:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></title>
+            <link>http://newstapa.org/article/rS_gk</link>
+            <guid>http://newstapa.org/article/rS_gk</guid>
+            <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/04170320-411D-0846-59AE-WWCLJW25DONJ8IVBIVWR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학력평가원, 검정 승인 근거 '납본 증명서'도 허위 내용으로 신청]]></title>
             <link>http://newstapa.org/article/wfMco</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[최외출 영남대 총장과 28년 전의 비밀]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/10/06131613-CA2E-C541-FA96-0KGI5MM0KUYYG6ZIMPJ9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></title>
-            <link>http://newstapa.org/article/NKDRk</link>
-            <guid>http://newstapa.org/article/NKDRk</guid>
-            <pubDate>Tue, 30 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[비선실세 최외출의 제자들... 그들은 이렇게 교수가 됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/30164533-10E5-3A4F-CE44-R2NB815ARN7KWKTGM74I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
