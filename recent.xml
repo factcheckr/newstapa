@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 05:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 06:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나]]></title>
+            <link>http://newstapa.org/article/VSyqK</link>
+            <guid>http://newstapa.org/article/VSyqK</guid>
+            <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/07134114-1985-F5FD-7A23-FSXRJWKRCVZ4NO5FNR0H.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[대통령 친구 이철우 교수 “강남 화랑 말고 양재동에도 있었다”]]></title>
             <link>http://newstapa.org/article/7fBq4</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023 미국의 한국 도청, 무엇이 사실인가?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/30164836-4A26-FEA1-7654-5E06RECL1E57F4AN39JM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특별기고] 윤석열 정부의 정보공개법 개악 시도, 반드시 막아야]]></title>
-            <link>http://newstapa.org/article/lUVyL</link>
-            <guid>http://newstapa.org/article/lUVyL</guid>
-            <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특별기고] 윤석열 정부의 정보공개법 개악 시도, 반드시 막아야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/30113619-4870-F561-A1FD-YD3V36Z0G90LVMJV34B8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
