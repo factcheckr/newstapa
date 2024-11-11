@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 02:15:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 03:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2952,6 +2952,22 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] '재산 축소 신고' 장진영 국민의힘 당협위원장 공직선거법 위반 기소 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/SVMBI</link>
+            <guid>https://www.newstapa.org/article/SVMBI</guid>
+            <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.15]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15165428-0117-6464-70BB-OE84O3BKQ17I4KEN6JCS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] '돈봉투 수수' 의혹 정우택 전 국회부의장 기소 (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/U-phn</link>
+            <guid>https://www.newstapa.org/article/U-phn</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.10.04]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04180829-9CEC-F153-65F6-7JGTNJVQK6YEF28C2JBD.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화] 과거 정당 가입자 법관 배제법 위헌 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/vhuHD</link>
             <guid>https://www.newstapa.org/article/vhuHD</guid>
@@ -3062,22 +3078,6 @@
             <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.02.10]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/10160001-885D-A0AC-A5EE-M189002K8ZBK310TNK9W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 환경부, 녹조 독소 관리 개선 발표 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/MRDov</link>
-            <guid>https://www.newstapa.org/article/MRDov</guid>
-            <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.02.06]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/02/06152402-4333-82B6-1DA8-AKJPTJ59REMYT8A5RBK8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 검찰이 덮은 공무원 뇌물 사건, 뉴스타파 보도 뒤 경찰이 강제수사 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/OI3aU</link>
-            <guid>https://www.newstapa.org/article/OI3aU</guid>
-            <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.01.03]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/01/03111813-FDE5-BA99-6E95-T565UBDOOBHG3FRZHP98.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요 (뉴스타파 ─ 참여)]]></title>
