@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 10:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 11:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '뉴스타파 윤석열 커피 보도'라는 조직적 거짓말]]></title>
+            <link>http://newstapa.org/article/MHhjk</link>
+            <guid>http://newstapa.org/article/MHhjk</guid>
+            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '뉴스타파 윤석열 커피 보도'라는 조직적 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/14192043-C22C-F6C7-65EA-OXSZFWZ0WO1FMTB90TI7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<뉴스타파 v. 윤석열>⑥ 정부여당발 희대의 가짜뉴스 '윤석열 커피']]></title>
+            <link>http://newstapa.org/article/6JKXj</link>
+            <guid>http://newstapa.org/article/6JKXj</guid>
+            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt;⑥ 정부여당발 희대의 가짜뉴스 '윤석열 커피']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/14192005-872D-7F7F-67D3-JBV6BQG7KK6F7SX3KF9C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 인도네시아 석탄발전소 뇌물 혐의로 현대건설 수사]]></title>
             <link>http://newstapa.org/article/2GIEr</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[대통령 친구 이철우 교수 "강남 화랑 사무실, 나도 얘기 들었다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/05082419-BECF-C524-F2F4-UXD7P73UY6JCBYJRLPYF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></title>
-            <link>http://newstapa.org/article/rS_gk</link>
-            <guid>http://newstapa.org/article/rS_gk</guid>
-            <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[학력평가원 교과서 채택 단 2곳, 채택 학교는 '박근혜 국정교과서 연구학교' 전력]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/04170320-411D-0846-59AE-WWCLJW25DONJ8IVBIVWR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 측근 녹음파일...'캠프 공약' 수정하고 인사 개입한 정황]]></title>
-            <link>http://newstapa.org/article/EsiHY</link>
-            <guid>http://newstapa.org/article/EsiHY</guid>
-            <pubDate>Sun, 03 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희 측근 녹음파일...'캠프 공약' 수정하고 인사 개입한 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/02232512-1810-B483-5F75-N5VITGHSUNAOOG60MR9H.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
