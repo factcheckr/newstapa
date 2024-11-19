@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 02:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 03:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/kW2BF</link>
+            <guid>http://newstapa.org/article/kW2BF</guid>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18170228-6C89-6929-BA53-JOO08P2173IUIUQZS7ZL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판례 무시하고 ‘특활비 잔액표’ 숨긴 검찰... 뉴스타파, 행정소송 제기 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ze27d</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["윤석열 취임 직후, 김건희-명태균 두 차례 몰래 만났다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/11235245-84E1-FF45-1D14-HTLFTNR8EU86JMONDWSW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특별기고] 검찰 특수활동비, 전액 삭감은 물론 수사가 필요 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/qDhp5</link>
-            <guid>http://newstapa.org/article/qDhp5</guid>
-            <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특별기고] 검찰 특수활동비, 전액 삭감은 물론 수사가 필요]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/11131551-D952-5D7C-9468-A08A8CEBWUA2ISC44DJP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판례 무시하고 ‘특활비 잔액표’ 숨긴 검찰... 뉴스타파, 행정소송 제기 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/21170312-42F4-AC15-F9F0-PHRM37ZKOXZ0J9CAWR1L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/kW2BF</link>
+            <guid>http://newstapa.org/article/kW2BF</guid>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18170228-6C89-6929-BA53-JOO08P2173IUIUQZS7ZL.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/WRQ1I</link>
             <guid>http://newstapa.org/article/WRQ1I</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["한국과 덴마크 정부, 불법 입양 알고 있었다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13163358-6A57-ACF6-809D-8W7AT6SHWXNJHP9OQ13Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 미규명 진실] ⑥ '교통 통제 실패' 그리고 놓쳐버린 골든타임 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/m6zDz</link>
-            <guid>http://newstapa.org/article/m6zDz</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이태원 참사 미규명 진실] ⑥ '교통 통제 실패' 그리고 놓쳐버린 골든타임]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13094423-35ED-7200-21B0-4TAKUJK5H42JUPFJWPIH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3208,11 +3208,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241119112503060</link>
+            <guid>https://v.daum.net/v/20241119112503060</guid>
+            <pubDate>Tue, 19 Nov 2024 03:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241119112503060" class="link_column" data-tiara-layer="무시와_차별,_망각...아리셀_참사_유족들은_얼어붙은_길_위에_있다_alltab"><div class="cont_thumb"><strong class="tit_txt">무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F19%2Fnewstapa%2F20241119112504844zpik.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F19%2Fnewstapa%2F20241119112504844zpik.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[판례 무시하고 ‘특활비 잔액표’ 숨긴 검찰... 뉴스타파, 행정소송 제기 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241118142502308</link>
             <guid>https://v.daum.net/v/20241118142502308</guid>
             <pubDate>Mon, 18 Nov 2024 06:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241118142502308" class="link_column" data-tiara-layer="판례_무시하고_‘특활비_잔액표’_숨긴_검찰..._뉴스타파,_행정소송_제기_alltab"><div class="cont_thumb"><strong class="tit_txt">판례 무시하고 ‘특활비 잔액표’ 숨긴 검찰... 뉴스타파, 행정소송 제기</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118142504219lcsc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241118142502308" class="link_column" data-tiara-layer="판례_무시하고_‘특활비_잔액표’_숨긴_검찰..._뉴스타파,_행정소송_제기_alltab"><div class="cont_thumb"><strong class="tit_txt">판례 무시하고 ‘특활비 잔액표’ 숨긴 검찰... 뉴스타파, 행정소송 제기</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118142504219lcsc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118142504219lcsc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3252,7 +3260,7 @@
             <link>https://v.daum.net/v/20241115112143426</link>
             <guid>https://v.daum.net/v/20241115112143426</guid>
             <pubDate>Fri, 15 Nov 2024 03:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241115112143426" class="link_column" data-tiara-layer="[현장에서]_미국의_도청을_‘도청’이라_말하지_못하는_한국_언론_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 미국의 도청을 ‘도청’이라 말하지 못하는 한국 언론</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241115112143426" class="link_column" data-tiara-layer="[현장에서]_미국의_도청을_‘도청’이라_말하지_못하는_한국_언론_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 미국의 도청을 ‘도청’이라 말하지 못하는 한국 언론</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[언론장악 카르텔]⑬윤석열 정부 ‘돈줄’ 쥐고 활짝 핀 단체들 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3435,14 +3443,6 @@
             <pubDate>Fri, 01 Nov 2024 03:28:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241101122003344" class="link_column" data-tiara-layer="윤석열에_‘여론조사_무상_제공’_정황_또…_“대통령_부부한테_돈_받은_거_있습니까”_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열에 ‘여론조사 무상 제공’ 정황 또… “대통령 부부한테 돈 받은 거 있습니까”</strong><span class="info_txt"><span class="txt_info">2024. 11. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F01%2Fnewstapa%2F20241101134236225xfuc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F01%2Fnewstapa%2F20241101134236225xfuc.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241031200731098</link>
-            <guid>https://v.daum.net/v/20241031200731098</guid>
-            <pubDate>Thu, 31 Oct 2024 11:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241031200731098" class="link_column" data-tiara-layer="[주간_뉴스타파]_이태원_참사_2주기_:_기억은_가깝고,_법은_멀다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다</strong><span class="info_txt"><span class="txt_info">2024. 10. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F31%2Fnewstapa%2F20241031200735035sihx.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202410%2F31%2Fnewstapa%2F20241031200735035sihx.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
