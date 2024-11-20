@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 07:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 08:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[창원지검, 尹 캠프 '명태균 보고서' 증언한 신용한 씨 참고인 소환]]></title>
+            <link>http://newstapa.org/article/WD1-H</link>
+            <guid>http://newstapa.org/article/WD1-H</guid>
+            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[창원지검, 尹 캠프 '명태균 보고서' 증언한 신용한 씨 참고인 소환]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20170435-1564-BB9B-B444-X5OPPSFA0D3UD732UUBW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명태균의 여론조사 '설계'... 윤석열 띄우고 이재명 낮췄다]]></title>
+            <link>http://newstapa.org/article/sb3Vl</link>
+            <guid>http://newstapa.org/article/sb3Vl</guid>
+            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균의 여론조사 '설계'... 윤석열 띄우고 이재명 낮췄다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20160347-F2DE-545B-8E5A-E0H12RTHNDIMF8RR34XJ.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나]]></title>
             <link>http://newstapa.org/article/Cv0I0</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt;⑥ 정부여당발 희대의 가짜뉴스 '윤석열 커피']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/14192005-872D-7F7F-67D3-JBV6BQG7KK6F7SX3KF9C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 인도네시아 석탄발전소 뇌물 혐의로 현대건설 수사]]></title>
-            <link>http://newstapa.org/article/2GIEr</link>
-            <guid>http://newstapa.org/article/2GIEr</guid>
-            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 인도네시아 석탄발전소 뇌물 혐의로 현대건설 수사]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/14102959-EF48-8407-B4A7-51YUFQYIUE89FP9ATZL0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1·2심 모두 승소... '윤석열 대통령실 직원 명단' 최초 공개 임박]]></title>
-            <link>http://newstapa.org/article/p0zmN</link>
-            <guid>http://newstapa.org/article/p0zmN</guid>
-            <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[1·2심 모두 승소... '윤석열 대통령실 직원 명단' 최초 공개 임박]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/13095748-9276-9BE2-7C42-69UQC7ROJ2K7Q7KZRITL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
