@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 10:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 11:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/zNztF</link>
+            <guid>http://newstapa.org/article/zNztF</guid>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21173042-93E5-D993-02B9-DTNVTJ06DQHCQWOIQJSV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[징역 3년 구형... 박정훈 최후 진술"책임있는 자 처벌하는 게 왜 잘못인가" (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/-XL5K</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[돌아온 트럼피즘, 협상 테이블 위에 멀리건은 없다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18133639-62E7-44A0-7482-53CBL5AVIAH403ST5Z23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 미국의 도청을 ‘도청’이라 말하지 못하는 한국 언론 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/C4dlv</link>
-            <guid>http://newstapa.org/article/C4dlv</guid>
-            <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 미국의 도청을 ‘도청’이라 말하지 못하는 한국 언론]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/15111551-5C46-9C9D-36B1-D5L0P7MZA8GQLBHSD2FU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[징역 3년 구형... 박정훈 최후 진술"책임있는 자 처벌하는 게 왜 잘못인가" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/12135604-7511-A63F-FF88-Y077KGCXGJ3NRC57PZSX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/zNztF</link>
+            <guid>http://newstapa.org/article/zNztF</guid>
+            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21173042-93E5-D993-02B9-DTNVTJ06DQHCQWOIQJSV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/rOWcA</link>
             <guid>http://newstapa.org/article/rOWcA</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ②]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183229-E88E-9F4F-D923-I2J74ZYE9DC9X8FFNF90.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’ (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/BFWvk</link>
-            <guid>http://newstapa.org/article/BFWvk</guid>
-            <pubDate>Wed, 29 Jun 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[나는 청년 수급자입니다② 경력은 ‘빈 칸’, 재산은 ‘0원’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/29190014-930C-BD7D-106C-107QJHY1X0CICVZ0HCGE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시계제로의 한반도, 김정은의 '파병 베팅'은 무엇을 노리나 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -3208,11 +3208,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241121200502234</link>
+            <guid>https://v.daum.net/v/20241121200502234</guid>
+            <pubDate>Thu, 21 Nov 2024 11:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241121200502234" class="link_column" data-tiara-layer="[주간_뉴스타파]_의료위기①_Acute_on_Chronic_:_수면_위로_드러난_의료_위기_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기</strong><span class="info_txt"><span class="txt_info">6분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121200506477jlnk.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121200506477jlnk.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[징역 3년 구형... 박정훈 최후 진술"책임있는 자 처벌하는 게 왜 잘못인가" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241121182503399</link>
             <guid>https://v.daum.net/v/20241121182503399</guid>
             <pubDate>Thu, 21 Nov 2024 10:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241121182503399" class="link_column" data-tiara-layer="징역_3년_구형..._박정훈_최후_진술&quot;책임있는_자_처벌하는_게_왜_잘못인가&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">징역 3년 구형... 박정훈 최후 진술"책임있는 자 처벌하는 게 왜 잘못인가"</strong><span class="info_txt"><span class="txt_info">48분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121182504773qmih.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241121182503399" class="link_column" data-tiara-layer="징역_3년_구형..._박정훈_최후_진술&quot;책임있는_자_처벌하는_게_왜_잘못인가&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">징역 3년 구형... 박정훈 최후 진술"책임있는 자 처벌하는 게 왜 잘못인가"</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121182504773qmih.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121182504773qmih.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3220,7 +3228,7 @@
             <link>https://v.daum.net/v/20241121113503358</link>
             <guid>https://v.daum.net/v/20241121113503358</guid>
             <pubDate>Thu, 21 Nov 2024 03:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241121113503358" class="link_column" data-tiara-layer="[현장에서]_국회_청문회_앞둔_'문제적_기업'_쿠팡을_바꾸려면_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121113505212cpdl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241121113503358" class="link_column" data-tiara-layer="[현장에서]_국회_청문회_앞둔_'문제적_기업'_쿠팡을_바꾸려면_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121113505212cpdl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F21%2Fnewstapa%2F20241121113505212cpdl.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3347,7 +3355,7 @@
             <link>https://v.daum.net/v/20241114200504525</link>
             <guid>https://v.daum.net/v/20241114200504525</guid>
             <pubDate>Thu, 14 Nov 2024 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241114200504525" class="link_column" data-tiara-layer="[주간_뉴스타파]_'뉴스타파_윤석열_커피_보도'라는_조직적_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '뉴스타파 윤석열 커피 보도'라는 조직적 거짓말</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133207399cdws.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241114200504525" class="link_column" data-tiara-layer="[주간_뉴스타파]_'뉴스타파_윤석열_커피_보도'라는_조직적_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '뉴스타파 윤석열 커피 보도'라는 조직적 거짓말</strong><span class="info_txt"><span class="txt_info">2024. 11. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133207399cdws.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133207399cdws.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3355,7 +3363,7 @@
             <link>https://v.daum.net/v/20241114200002382</link>
             <guid>https://v.daum.net/v/20241114200002382</guid>
             <pubDate>Thu, 14 Nov 2024 11:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241114200002382" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>⑥_정부여당발_희대의_가짜뉴스_'윤석열_커피'_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt;⑥ 정부여당발 희대의 가짜뉴스 '윤석열 커피'</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133211425awqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241114200002382" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>⑥_정부여당발_희대의_가짜뉴스_'윤석열_커피'_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt;⑥ 정부여당발 희대의 가짜뉴스 '윤석열 커피'</strong><span class="info_txt"><span class="txt_info">2024. 11. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133211425awqz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133211425awqz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3435,14 +3443,6 @@
             <pubDate>Thu, 07 Nov 2024 11:11:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241107200144640" class="link_column" data-tiara-layer="[주간_뉴스타파]_'명태균_게이트'_기자회견,_대통령의_대국민_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '명태균 게이트' 기자회견, 대통령의 대국민 거짓말</strong><span class="info_txt"><span class="txt_info">2024. 11. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133220989bvvy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F18%2Fnewstapa%2F20241118133220989bvvy.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241107150003702</link>
-            <guid>https://v.daum.net/v/20241107150003702</guid>
-            <pubDate>Thu, 07 Nov 2024 06:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241107150003702" class="link_column" data-tiara-layer="[뉴스타파X살아지구]_숨의_격차_미세먼지속_아이들③_1년_중_며칠이나_'건강위험'에_노출됐나_alltab"><div class="cont_thumb"><strong class="tit_txt">[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나</strong><span class="info_txt"><span class="txt_info">2024. 11. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F07%2Fnewstapa%2F20241107150006883wkur.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F07%2Fnewstapa%2F20241107150006883wkur.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
