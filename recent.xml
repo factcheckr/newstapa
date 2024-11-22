@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 00:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 02:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 법관 기피 신청은 불법 기소 자백이다]]></title>
+            <link>http://newstapa.org/article/4G58L</link>
+            <guid>http://newstapa.org/article/4G58L</guid>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 법관 기피 신청은 불법 기소 자백이다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/22110527-E30D-3061-DB07-ZOSNHZ1RRCM2AOTSS3WY.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자유언론실천선언 50년㉕] 자유언론의 길 ‘우리대장 천관우’]]></title>
+            <link>http://newstapa.org/article/Iag7N</link>
+            <guid>http://newstapa.org/article/Iag7N</guid>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[자유언론실천선언 50년㉕] 자유언론의 길 ‘우리대장 천관우’]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21165334-D72B-5859-BC86-7MSKRPT401UA8REMU48T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강남 화랑서 TV토론 준비한 윤석열..."이재명 트라우마 자극하라"]]></title>
             <link>http://newstapa.org/article/WAF1t</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[여론공작팀 추적]② "단톡방은 선대위 직속 본부"... 윤 캠프 '여론공작팀' 실체]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/17164206-9C4B-3D2E-52A8-9ZZGXFCJTS2I907FQUVF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여론공작팀 추적]① ‘여론 공작팀’ 정황 담긴 '윤석열 캠프' 문건 입수]]></title>
-            <link>http://newstapa.org/article/T65yI</link>
-            <guid>http://newstapa.org/article/T65yI</guid>
-            <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[여론공작팀 추적]① ‘여론 공작팀’ 정황 담긴 '윤석열 캠프' 문건 입수]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/17154431-9124-1EB8-1F3F-Y30LZ84NRU2RK6H28AQT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["명태균이 오세훈·이준석 당선시키고, 차기 대통령도 언급"]]></title>
-            <link>http://newstapa.org/article/erRwX</link>
-            <guid>http://newstapa.org/article/erRwX</guid>
-            <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["명태균이 오세훈·이준석 당선시키고, 차기 대통령도 언급"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/16223040-7FED-2EF6-B0E7-HSPKGKFFX63MKF3EUC1W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
