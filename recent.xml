@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Nov 2024 00:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 02:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명태균, 지상욱 여의도연구원장 의뢰로 지방선거 여론조사 실시]]></title>
+            <link>http://newstapa.org/article/kIcL_</link>
+            <guid>http://newstapa.org/article/kIcL_</guid>
+            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균, 지상욱 여의도연구원장 의뢰로 지방선거 여론조사 실시]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/23095702-CC15-C0B7-264D-D7KY8KDAP6VCW19QQ9YY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오세훈 최측근, 강혜경 계좌로 3300만 원 입금... "여론조사 비용 대납"]]></title>
             <link>http://newstapa.org/article/WjC61</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18170228-6C89-6929-BA53-JOO08P2173IUIUQZS7ZL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판례 무시하고 ‘특활비 잔액표’ 숨긴 검찰... 뉴스타파, 행정소송 제기]]></title>
-            <link>http://newstapa.org/article/ze27d</link>
-            <guid>http://newstapa.org/article/ze27d</guid>
-            <pubDate>Mon, 18 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[판례 무시하고 ‘특활비 잔액표’ 숨긴 검찰... 뉴스타파, 행정소송 제기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18133844-73C5-88FE-F804-IBM425RG3RGXJ3QX1LRE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
