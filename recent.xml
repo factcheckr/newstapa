@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 11:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 12:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오세훈 스폰서' 강혜경에게 "명태균에 20억 주고 사건 덮자"]]></title>
+            <link>http://newstapa.org/article/zgpDZ</link>
+            <guid>http://newstapa.org/article/zgpDZ</guid>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['오세훈 스폰서' 강혜경에게 "명태균에 20억 주고 사건 덮자"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/25195623-FEA1-61E2-6C3E-6FIP83BPA5H0QKC1BZ5Y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘 여의도연구원, '명태균 용역비'로 3천만원 지급했다]]></title>
             <link>http://newstapa.org/article/XqNrA</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균의 여론조사 '설계'... 윤석열 띄우고 이재명 낮췄다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21110546-8714-87A3-E235-W9QI0LZGWMQ31PMDF4D2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나]]></title>
-            <link>http://newstapa.org/article/Cv0I0</link>
-            <guid>http://newstapa.org/article/Cv0I0</guid>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['이해충돌 방지 규정' 지운 평가원, 교과서 부실 검정 자인하나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20140247-5681-314C-314E-9WS5494OUCJLGOJN1WYL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

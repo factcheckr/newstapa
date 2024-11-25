@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Nov 2024 11:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Nov 2024 12:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오세훈 스폰서' 강혜경에게 "명태균에 20억 주고 사건 덮자"]]></title>
+            <link>http://newstapa.org/article/zgpDZ</link>
+            <guid>http://newstapa.org/article/zgpDZ</guid>
+            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['오세훈 스폰서' 강혜경에게 "명태균에 20억 주고 사건 덮자"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/25195623-FEA1-61E2-6C3E-6FIP83BPA5H0QKC1BZ5Y.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘 여의도연구원, '명태균 용역비'로 3천만원 지급했다]]></title>
             <link>http://newstapa.org/article/XqNrA</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 17 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[여론공작팀 추적]① ‘여론 공작팀’ 정황 담긴 '윤석열 캠프' 문건 입수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/17154431-9124-1EB8-1F3F-Y30LZ84NRU2RK6H28AQT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["명태균이 오세훈·이준석 당선시키고, 차기 대통령도 언급"]]></title>
-            <link>http://newstapa.org/article/erRwX</link>
-            <guid>http://newstapa.org/article/erRwX</guid>
-            <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["명태균이 오세훈·이준석 당선시키고, 차기 대통령도 언급"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/16223040-7FED-2EF6-B0E7-HSPKGKFFX63MKF3EUC1W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
