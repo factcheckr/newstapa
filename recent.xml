@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 22:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 23:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['오세훈 스폰서' 김한정 육성 공개 "강 실장, 국민의힘은 살리자"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/26225016-E936-245E-FD48-K679EFHTSCBI89BTHB7T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명태균 “위원장한테 보여줘야 돼”... 대선 캠프 ‘윗선’에도 직보 정황]]></title>
+            <link>http://newstapa.org/article/-B-Hr</link>
+            <guid>http://newstapa.org/article/-B-Hr</guid>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균 “위원장한테 보여줘야 돼”... 대선 캠프 ‘윗선’에도 직보 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/27080906-A191-BE4E-E64A-MCPPNCPVUOQ1KF7BQLZD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오세훈 스폰서' 김 회장 측근들, 서울시 산하기관 줄줄이 취업]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[징역 3년 구형... 박정훈 최후 진술"책임있는 자 처벌하는 게 왜 잘못인가"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21173735-FA80-AA02-1826-8HTR3G9JOK4YACRAL3IG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면]]></title>
-            <link>http://newstapa.org/article/iTy7e</link>
-            <guid>http://newstapa.org/article/iTy7e</guid>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21105624-3899-44D8-2211-2U7I3SHWAQNLGOGFDICD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

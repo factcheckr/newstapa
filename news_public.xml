@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 22:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 23:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['오세훈 스폰서' 김한정 육성 공개 "강 실장, 국민의힘은 살리자"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/26225016-E936-245E-FD48-K679EFHTSCBI89BTHB7T.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명태균 “위원장한테 보여줘야 돼”... 대선 캠프 ‘윗선’에도 직보 정황]]></title>
+            <link>http://newstapa.org/article/-B-Hr</link>
+            <guid>http://newstapa.org/article/-B-Hr</guid>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균 “위원장한테 보여줘야 돼”... 대선 캠프 ‘윗선’에도 직보 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/27080906-A191-BE4E-E64A-MCPPNCPVUOQ1KF7BQLZD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['오세훈 스폰서' 김 회장 측근들, 서울시 산하기관 줄줄이 취업]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역대급 불통 정부의 알권리 후퇴]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20003337-E056-823B-6464-7BWRTFXY11W8RYYPJBDQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 캠프 인사 개입 정황 최소 3건... 명태균 ‘비선 실세’ 의혹]]></title>
-            <link>http://newstapa.org/article/8I64Q</link>
-            <guid>http://newstapa.org/article/8I64Q</guid>
-            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 캠프 인사 개입 정황 최소 3건... 명태균 ‘비선 실세’ 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/19174400-ABB0-4B3E-6097-IWSKU3X4LEJGBXZS4EA6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
