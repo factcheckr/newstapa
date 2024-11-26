@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Nov 2024 13:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Nov 2024 14:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오세훈 스폰서' 김한정 육성 공개 "강 실장, 국민의힘은 살리자"]]></title>
+            <link>http://newstapa.org/article/MdZvK</link>
+            <guid>http://newstapa.org/article/MdZvK</guid>
+            <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['오세훈 스폰서' 김한정 육성 공개 "강 실장, 국민의힘은 살리자"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/26225016-E936-245E-FD48-K679EFHTSCBI89BTHB7T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오세훈 스폰서' 김 회장 측근들, 서울시 산하기관 줄줄이 취업]]></title>
             <link>http://newstapa.org/article/e2-A3</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21105624-3899-44D8-2211-2U7I3SHWAQNLGOGFDICD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시계제로의 한반도, 김정은의 '파병 베팅'은 무엇을 노리나]]></title>
-            <link>http://newstapa.org/article/P0Q2m</link>
-            <guid>http://newstapa.org/article/P0Q2m</guid>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[시계제로의 한반도, 김정은의 '파병 베팅'은 무엇을 노리나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/20182953-36DE-F845-E6B4-HVVVWY912OHY3UIBZB0W.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
