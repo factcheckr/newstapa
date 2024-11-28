@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 10:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 11:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 꼬리에 꼬리를 무는 명태균 게이트 '완벽 정리']]></title>
+            <link>http://newstapa.org/article/IrOYP</link>
+            <guid>http://newstapa.org/article/IrOYP</guid>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 꼬리에 꼬리를 무는 명태균 게이트 '완벽 정리']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28200026-3C3E-8898-4697-U7BKHJBE0MSWSO6SJ33G.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></title>
             <link>http://newstapa.org/article/JxVMQ</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오세훈 최측근, 강혜경 계좌로 3300만 원 입금... "여론조사 비용 대납"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/22155628-1097-76FD-672B-6EM9DSEZMC2M6PZO1FNT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 법관 기피 신청은 불법 기소 자백이다]]></title>
-            <link>http://newstapa.org/article/4G58L</link>
-            <guid>http://newstapa.org/article/4G58L</guid>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 법관 기피 신청은 불법 기소 자백이다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/22110527-E30D-3061-DB07-ZOSNHZ1RRCM2AOTSS3WY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
