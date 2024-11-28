@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 07:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 08:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></title>
+            <link>http://newstapa.org/article/JxVMQ</link>
+            <guid>http://newstapa.org/article/JxVMQ</guid>
+            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28160627-8D7B-005D-3DAD-348UA8UJ65TIVGSHC24K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 법관 기피 신청은 불법 기소 자백이다]]></title>
             <link>http://newstapa.org/article/4G58L</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 만든 필리핀의 유령 '北 공작원 리호남']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22191800-B276-2096-A3FA-EFAML2M9HGK7MPTHF2FI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개]]></title>
-            <link>http://newstapa.org/article/0A4Px</link>
-            <guid>http://newstapa.org/article/0A4Px</guid>
-            <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[대북송금 X파일] “北 공작원 리호남, 필리핀에 없었다” 결정적 증거 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/22201131-F82F-8667-E224-3I9RK3WZQ6CPT8IDFT5O.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
