@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 21:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 22:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언론장악 카르텔]⑭ 尹 정권 '언론장악 돌격대'로 환생한 여론공작 '좀비들']]></title>
+            <link>http://newstapa.org/article/H_5lh</link>
+            <guid>http://newstapa.org/article/H_5lh</guid>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[언론장악 카르텔]⑭ 尹 정권 '언론장악 돌격대'로 환생한 여론공작 '좀비들']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28231632-423A-28FF-EDD1-TFRZJCG7RUX6SFX9D2CC.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 꼬리에 꼬리를 무는 명태균 게이트 '완벽 정리']]></title>
             <link>http://newstapa.org/article/IrOYP</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균, 지상욱 여의도연구원장 의뢰로 지방선거 여론조사 실시]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/24124947-112C-89A6-1CF1-BLTH1G0L55YYI6H7P8XG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오세훈 최측근, 강혜경 계좌로 3300만 원 입금... "여론조사 비용 대납"]]></title>
-            <link>http://newstapa.org/article/WjC61</link>
-            <guid>http://newstapa.org/article/WjC61</guid>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[오세훈 최측근, 강혜경 계좌로 3300만 원 입금... "여론조사 비용 대납"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/22155628-1097-76FD-672B-6EM9DSEZMC2M6PZO1FNT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
