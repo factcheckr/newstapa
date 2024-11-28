@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 00:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 02:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오세훈 스폰서' 김한정, "'오빠 전화 왔죠?' 김건희 육성 나도 들었다"]]></title>
+            <link>http://newstapa.org/article/9SijR</link>
+            <guid>http://newstapa.org/article/9SijR</guid>
+            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['오세훈 스폰서' 김한정, "'오빠 전화 왔죠?' 김건희 육성 나도 들었다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/27211634-1A4A-D49E-697C-15BG7OQGUO4452N2899I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["불러주는 대로 만들어"...명태균, 여론조사 보고서 100% 조작]]></title>
             <link>http://newstapa.org/article/s6JR1</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["불러주는 대로 만들어"...명태균, 여론조사 보고서 100% 조작]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/27160135-ACA4-F625-539E-3BFOL83XFW9KHYZK8J4A.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오세훈 스폰서' 김한정, "오세훈이 명태균 만나라고 했다"]]></title>
+            <link>http://newstapa.org/article/cTpfe</link>
+            <guid>http://newstapa.org/article/cTpfe</guid>
+            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['오세훈 스폰서' 김한정, "오세훈이 명태균 만나라고 했다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28104002-FEB4-5D06-6E25-CA9A46MF0CCDCNPYNF4M.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명태균 “위원장한테 보여줘야 돼”... 대선 캠프 ‘윗선’에도 직보 정황]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[자유언론실천선언 50년㉕] 자유언론의 길 ‘우리대장 천관우’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21165334-D72B-5859-BC86-7MSKRPT401UA8REMU48T.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강남 화랑서 TV토론 준비한 윤석열..."이재명 트라우마 자극하라"]]></title>
-            <link>http://newstapa.org/article/WAF1t</link>
-            <guid>http://newstapa.org/article/WAF1t</guid>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[강남 화랑서 TV토론 준비한 윤석열..."이재명 트라우마 자극하라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21205327-9586-26E0-3B2B-5PK8NA4CIIL8S4UKZLDP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기]]></title>
-            <link>http://newstapa.org/article/zNztF</link>
-            <guid>http://newstapa.org/article/zNztF</guid>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 의료위기① Acute on Chronic : 수면 위로 드러난 의료 위기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21173042-93E5-D993-02B9-DTNVTJ06DQHCQWOIQJSV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
