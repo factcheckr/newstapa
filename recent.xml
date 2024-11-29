@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 07:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 08:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["검찰 특활비를 수사하라" 상설 특검 수사요구안 발의]]></title>
+            <link>http://newstapa.org/article/i636x</link>
+            <guid>http://newstapa.org/article/i636x</guid>
+            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["검찰 특활비를 수사하라" 상설 특검 수사요구안 발의]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/29095847-741D-6B23-B2A9-1N0RBF8TA1NWWHFRFFPT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오세훈 스폰서' 김한정, "우리 돈으로 이준석 여론조사해 띄웠다"]]></title>
             <link>http://newstapa.org/article/QFoR3</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균, 국민의힘 공식 발표 7일 전 “김한표 컷오프” 미리 알았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/25102257-5053-978F-1EE5-O47PAOMS6AXXWC229L9J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균, 서울 서초갑 재보선 국민의힘 경선에도 개입 확인]]></title>
-            <link>http://newstapa.org/article/wAD_t</link>
-            <guid>http://newstapa.org/article/wAD_t</guid>
-            <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균, 서울 서초갑 재보선 국민의힘 경선에도 개입 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/24114830-6CE4-26B0-ADED-VB2VZAD10X63K2CGW8SL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
