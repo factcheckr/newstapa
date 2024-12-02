@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 13:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 14:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍준표 시장 ‘명태균 여론조사’ 총 8회...국힘 '당원 명부'도 넘어갔다]]></title>
+            <link>http://newstapa.org/article/0ZCmU</link>
+            <guid>http://newstapa.org/article/0ZCmU</guid>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[홍준표 시장 ‘명태균 여론조사’ 총 8회...국힘 '당원 명부'도 넘어갔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/02223132-1394-6820-7C47-ZHB2W6OFSNFZMAV3Q7YT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오세훈 스폰서', 명태균 '대선 여론조사비' 1420만원 입금 내역 확인]]></title>
             <link>http://newstapa.org/article/l4kTT</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['오세훈 스폰서' 강혜경에게 "명태균에 20억 주고 사건 덮자"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/25195623-FEA1-61E2-6C3E-6FIP83BPA5H0QKC1BZ5Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 여의도연구원, '명태균 용역비'로 3천만원 지급했다]]></title>
-            <link>http://newstapa.org/article/XqNrA</link>
-            <guid>http://newstapa.org/article/XqNrA</guid>
-            <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 여의도연구원, '명태균 용역비'로 3천만원 지급했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/25165908-5AB0-5D34-2DB7-I4T9SAYMZNENABTKPUHA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
