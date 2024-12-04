@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 10:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 11:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['계엄령 국무회의' 연락 못 받은 장관 최소 2명]]></title>
+            <link>http://newstapa.org/article/4k0mq</link>
+            <guid>http://newstapa.org/article/4k0mq</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['계엄령 국무회의' 연락 못 받은 장관 최소 2명]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04193952-B634-0531-0F9A-MOA1EU5CFUWEQ2ILY7KU.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특집방송] '12.3 윤석열 내란 사건' 막전막후]]></title>
+            <link>http://newstapa.org/article/fqHNP</link>
+            <guid>http://newstapa.org/article/fqHNP</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집방송] '12.3 윤석열 내란 사건' 막전막후]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04184007-FE4F-C4FC-3AF0-ECHEVEVQLMXVBO7JHLFG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 계엄 엄포에 맞선 시민들...그 '진심'을 듣다]]></title>
+            <link>http://newstapa.org/article/YhJPz</link>
+            <guid>http://newstapa.org/article/YhJPz</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 계엄 엄포에 맞선 시민들...그 '진심'을 듣다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04175914-1A6D-0F87-3659-PIBTX8HD3JESAZZL5JPA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['계엄령 해제' 놓고 계엄군-국회 촌각 다툼, 민주주의 역사 바꾼 2시간]]></title>
             <link>http://newstapa.org/article/9wlKb</link>
@@ -110,30 +134,6 @@
             <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['스폰서' 김한정, '오세훈 대통령' 프로젝트로 여론조사업체 설립]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/29160322-D373-AF9E-6709-OH52YK6DS5RZ0G55UN48.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안철수 1등→오세훈 1등… 명태균, 단일화 앞두고 여론조사 조작]]></title>
-            <link>http://newstapa.org/article/DTHKk</link>
-            <guid>http://newstapa.org/article/DTHKk</guid>
-            <pubDate>Sat, 30 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[안철수 1등→오세훈 1등… 명태균, 단일화 앞두고 여론조사 조작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/30120739-1A8E-8D91-F8C1-3W6IQEY00QK7TD25DYSO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["검찰 특활비를 수사하라" 상설 특검 수사요구안 발의]]></title>
-            <link>http://newstapa.org/article/i636x</link>
-            <guid>http://newstapa.org/article/i636x</guid>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["검찰 특활비를 수사하라" 상설 특검 수사요구안 발의]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/29095847-741D-6B23-B2A9-1N0RBF8TA1NWWHFRFFPT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오세훈 스폰서' 김한정, "우리 돈으로 이준석 여론조사해 띄웠다"]]></title>
-            <link>http://newstapa.org/article/QFoR3</link>
-            <guid>http://newstapa.org/article/QFoR3</guid>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['오세훈 스폰서' 김한정, "우리 돈으로 이준석 여론조사해 띄웠다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/29155725-1AAB-BCF4-101C-82ESQC6JF1ZX9D0DCRO2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
