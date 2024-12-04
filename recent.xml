@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 06:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 07:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘처단’ 반복한 역대급 포고문…과거 계엄 포고문과 비교]]></title>
+            <link>http://newstapa.org/article/DVt5a</link>
+            <guid>http://newstapa.org/article/DVt5a</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘처단’ 반복한 역대급 포고문…과거 계엄 포고문과 비교]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04154319-A82C-D255-B0C1-OFQ34UR4QAQWE3GTB5S0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 탄핵소추안 공개 "대통령 윤석열의 탄핵을 소추한다"]]></title>
+            <link>http://newstapa.org/article/GlPj-</link>
+            <guid>http://newstapa.org/article/GlPj-</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 탄핵소추안 공개 "대통령 윤석열의 탄핵을 소추한다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04152201-AA47-F233-9007-YQY0TPBI97NQO2LICWOI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중앙선관위에도 계엄군 진입...주요 헌법기관 장악 시도]]></title>
             <link>http://newstapa.org/article/nm0vU</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 꼬리에 꼬리를 무는 명태균 게이트 '완벽 정리']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28200026-3C3E-8898-4697-U7BKHJBE0MSWSO6SJ33G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></title>
-            <link>http://newstapa.org/article/JxVMQ</link>
-            <guid>http://newstapa.org/article/JxVMQ</guid>
-            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28160627-8D7B-005D-3DAD-348UA8UJ65TIVGSHC24K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오세훈 스폰서' 김한정, "'오빠 전화 왔죠?' 김건희 육성 나도 들었다"]]></title>
-            <link>http://newstapa.org/article/9SijR</link>
-            <guid>http://newstapa.org/article/9SijR</guid>
-            <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['오세훈 스폰서' 김한정, "'오빠 전화 왔죠?' 김건희 육성 나도 들었다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/27211634-1A4A-D49E-697C-15BG7OQGUO4452N2899I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
