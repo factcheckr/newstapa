@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 09:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 10:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"]]></title>
+            <link>http://newstapa.org/article/aMTda</link>
+            <guid>http://newstapa.org/article/aMTda</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05190342-85C8-0F2C-E8D1-SO9Y1ILTTI0CDMG4IA57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라]]></title>
             <link>http://newstapa.org/article/lyKlb</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[홍준표 시장 ‘명태균 여론조사’ 총 8회...국힘 '당원 명부'도 넘어갔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/02223132-1394-6820-7C47-ZHB2W6OFSNFZMAV3Q7YT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오세훈 스폰서', 명태균 '대선 여론조사비' 1420만원 입금 내역 확인]]></title>
-            <link>http://newstapa.org/article/l4kTT</link>
-            <guid>http://newstapa.org/article/l4kTT</guid>
-            <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['오세훈 스폰서', 명태균 '대선 여론조사비' 1420만원 입금 내역 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/29162904-32CF-5252-6F4C-3Z3N291NO6NLPV4ID9D5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
