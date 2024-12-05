@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 13:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 14:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나]]></title>
+            <link>http://newstapa.org/article/54Fdo</link>
+            <guid>http://newstapa.org/article/54Fdo</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05205521-1A4F-DA60-0B6A-B705EGXTUZZI9YN8NKNX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다]]></title>
             <link>http://newstapa.org/article/BeYFD</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균, “윤 쪽” 여론조사로 최악의 ‘여론조작 재료’ 마련]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/03141955-68A7-6C34-27E1-QC87Q598IP1WVPSPWROA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['홍준표 여론조사' 의뢰한 최측근 "대구시장, 퍼센트 불러주이소"]]></title>
-            <link>http://newstapa.org/article/3XEaj</link>
-            <guid>http://newstapa.org/article/3XEaj</guid>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['홍준표 여론조사' 의뢰한 최측근 "대구시장, 퍼센트 불러주이소"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/03141254-DD64-DCB7-CCFC-FTFTZ9VONKQ4BEQ74NUY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
