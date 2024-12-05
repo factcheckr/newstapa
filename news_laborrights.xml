@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 10:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 11:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></title>
+            <link>http://newstapa.org/article/QIr9h</link>
+            <guid>http://newstapa.org/article/QIr9h</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175534-1491-DDA2-DC3B-XHSTB8ZN3L2HJV9D175U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면]]></title>
             <link>http://newstapa.org/article/iTy7e</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[이태원 참사 미규명 진실] ⑦ 재난 관리 능력 '제로'...용산구는 왜 무능했나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/19160517-ED47-3105-3B43-PRBTZIL97X5S3OAO0KXR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></title>
-            <link>http://newstapa.org/article/Qpvya</link>
-            <guid>http://newstapa.org/article/Qpvya</guid>
-            <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/13134353-9C1A-96BB-D1D2-9FB4XH9JIO91MBEQQVX3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 10:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 11:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다]]></title>
+            <link>http://newstapa.org/article/BeYFD</link>
+            <guid>http://newstapa.org/article/BeYFD</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05194206-E7F7-400A-44AF-XHYB1Z2PXY514R0W4E1Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></title>
+            <link>http://newstapa.org/article/QIr9h</link>
+            <guid>http://newstapa.org/article/QIr9h</guid>
+            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175534-1491-DDA2-DC3B-XHSTB8ZN3L2HJV9D175U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"]]></title>
             <link>http://newstapa.org/article/aMTda</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['홍준표 여론조사' 의뢰한 최측근 "대구시장, 퍼센트 불러주이소"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/03141254-DD64-DCB7-CCFC-FTFTZ9VONKQ4BEQ74NUY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특별기고] 상설특검법에 딱 맞는 ‘검찰 특활비 특검’ 신속하게 통과돼야]]></title>
-            <link>http://newstapa.org/article/kFZY2</link>
-            <guid>http://newstapa.org/article/kFZY2</guid>
-            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특별기고] 상설특검법에 딱 맞는 ‘검찰 특활비 특검’ 신속하게 통과돼야]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/02170042-134F-63CB-E6D3-91MILGL7N93BLN20JZFP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍준표 시장 ‘명태균 여론조사’ 총 8회...국힘 '당원 명부'도 넘어갔다]]></title>
-            <link>http://newstapa.org/article/0ZCmU</link>
-            <guid>http://newstapa.org/article/0ZCmU</guid>
-            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[홍준표 시장 ‘명태균 여론조사’ 총 8회...국힘 '당원 명부'도 넘어갔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/02223132-1394-6820-7C47-ZHB2W6OFSNFZMAV3Q7YT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
