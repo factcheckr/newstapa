@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 02:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 03:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘내란죄’ 긴급분석, 전두환 5·17 VS 윤석열의 12·3]]></title>
+            <link>http://newstapa.org/article/Hi6K8</link>
+            <guid>http://newstapa.org/article/Hi6K8</guid>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘내란죄’ 긴급분석, 전두환 5·17 VS 윤석열의 12·3]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06095240-BFC5-D94B-D7C4-AZWFVI8ND9BCTW1MSKRX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다]]></title>
             <link>http://newstapa.org/article/E_yko</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중앙선관위에도 계엄군 진입...주요 헌법기관 장악 시도]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04133650-F907-9C1F-B667-QF0YIRWLV2LEEZXF182J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기습 계엄 미국에 사전 통보 안했다... 외신 "정치적 도박","대실패"]]></title>
-            <link>http://newstapa.org/article/j38lC</link>
-            <guid>http://newstapa.org/article/j38lC</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[기습 계엄 미국에 사전 통보 안했다... 외신 "정치적 도박","대실패"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04142126-D941-294A-A69D-DIIM21BZ88S1DI1UM8D4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
