@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 00:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 02:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/E_yko</link>
+            <guid>http://newstapa.org/article/E_yko</guid>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05150341-400B-FECC-7AB5-3S83YL9QXPQ0PMTX70QH.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/54Fdo</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04142126-D941-294A-A69D-DIIM21BZ88S1DI1UM8D4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이재명 대표 인터뷰 "김건희 특검 미루고 윤석열 탄핵에 집중...한동훈과 소통할 것" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/YNsQa</link>
-            <guid>http://newstapa.org/article/YNsQa</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 대표 인터뷰 "김건희 특검 미루고 윤석열 탄핵에 집중...한동훈과 소통할 것"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04142448-03DB-887C-3BF0-BIB70A7840JMF7WKVOTJ.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/E_yko</link>
+            <guid>http://newstapa.org/article/E_yko</guid>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05150341-400B-FECC-7AB5-3S83YL9QXPQ0PMTX70QH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[기습 계엄 미국에 사전 통보 안했다... 외신 "정치적 도박","대실패"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04142126-D941-294A-A69D-DIIM21BZ88S1DI1UM8D4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 대표 인터뷰 "김건희 특검 미루고 윤석열 탄핵에 집중...한동훈과 소통할 것" (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/YNsQa</link>
-            <guid>http://newstapa.org/article/YNsQa</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재명 대표 인터뷰 "김건희 특검 미루고 윤석열 탄핵에 집중...한동훈과 소통할 것"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04142448-03DB-887C-3BF0-BIB70A7840JMF7WKVOTJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3208,11 +3208,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241206112003639</link>
+            <guid>https://v.daum.net/v/20241206112003639</guid>
+            <pubDate>Fri, 06 Dec 2024 02:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241206112003639" class="link_column" data-tiara-layer="[윤석열의_내란]그날,_서울의_밤을_기록하다_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 내란]그날, 서울의 밤을 기록하다</strong><span class="info_txt"><span class="txt_info">5분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F06%2Fnewstapa%2F20241206112004759tswy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F06%2Fnewstapa%2F20241206112004759tswy.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 내란 사건, 드러나는 진실들 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241205232004089</link>
             <guid>https://v.daum.net/v/20241205232004089</guid>
             <pubDate>Thu, 05 Dec 2024 15:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205232004089" class="link_column" data-tiara-layer="[주간_뉴스타파]_윤석열_내란_사건,_드러나는_진실들_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤석열 내란 사건, 드러나는 진실들</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205232007443pivn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205232004089" class="link_column" data-tiara-layer="[주간_뉴스타파]_윤석열_내란_사건,_드러나는_진실들_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤석열 내란 사건, 드러나는 진실들</strong><span class="info_txt"><span class="txt_info">12시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205232007443pivn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205232007443pivn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3220,7 +3228,7 @@
             <link>https://v.daum.net/v/20241205223003807</link>
             <guid>https://v.daum.net/v/20241205223003807</guid>
             <pubDate>Thu, 05 Dec 2024 14:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205223003807" class="link_column" data-tiara-layer="국회에_선_12.3_비상계엄_책임자들,_몰랐거나_뻔뻔하거나_alltab"><div class="cont_thumb"><strong class="tit_txt">국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나</strong><span class="info_txt"><span class="txt_info">11시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205223010761jtfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205223003807" class="link_column" data-tiara-layer="국회에_선_12.3_비상계엄_책임자들,_몰랐거나_뻔뻔하거나_alltab"><div class="cont_thumb"><strong class="tit_txt">국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나</strong><span class="info_txt"><span class="txt_info">12시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205223010761jtfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205223010761jtfe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3228,7 +3236,7 @@
             <link>https://v.daum.net/v/20241205200003273</link>
             <guid>https://v.daum.net/v/20241205200003273</guid>
             <pubDate>Thu, 05 Dec 2024 11:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205200003273" class="link_column" data-tiara-layer="계엄사령관_임명_50분_전,_중앙선관위에_3공수특전단_투입됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다</strong><span class="info_txt"><span class="txt_info">13시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205200013126zquf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205200003273" class="link_column" data-tiara-layer="계엄사령관_임명_50분_전,_중앙선관위에_3공수특전단_투입됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205200013126zquf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205200013126zquf.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3236,7 +3244,7 @@
             <link>https://v.daum.net/v/20241205192504671</link>
             <guid>https://v.daum.net/v/20241205192504671</guid>
             <pubDate>Thu, 05 Dec 2024 11:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205192504671" class="link_column" data-tiara-layer="계엄_포고령으로_본_윤석열의_정적들_alltab"><div class="cont_thumb"><strong class="tit_txt">계엄 포고령으로 본 윤석열의 정적들</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205192509344kprh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205192504671" class="link_column" data-tiara-layer="계엄_포고령으로_본_윤석열의_정적들_alltab"><div class="cont_thumb"><strong class="tit_txt">계엄 포고령으로 본 윤석열의 정적들</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205192509344kprh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205192509344kprh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3244,14 +3252,14 @@
             <link>https://v.daum.net/v/20241205190503266</link>
             <guid>https://v.daum.net/v/20241205190503266</guid>
             <pubDate>Thu, 05 Dec 2024 10:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205190503266" class="link_column" data-tiara-layer="미_국무부_&quot;비상_계엄_불법&quot;_언급...미_싱크탱크는_&quot;한미동맹에_부정적&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205190503266" class="link_column" data-tiara-layer="미_국무부_&quot;비상_계엄_불법&quot;_언급...미_싱크탱크는_&quot;한미동맹에_부정적&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241205180003739</link>
             <guid>https://v.daum.net/v/20241205180003739</guid>
             <pubDate>Thu, 05 Dec 2024 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205180003739" class="link_column" data-tiara-layer="[윤석열의_내란]_12·3_계엄_국무회의_기록을_공개하라_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205180004975mmkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205180003739" class="link_column" data-tiara-layer="[윤석열의_내란]_12·3_계엄_국무회의_기록을_공개하라_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205180004975mmkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205180004975mmkh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3354,7 +3362,7 @@
             <link>https://v.daum.net/v/20241203100003774</link>
             <guid>https://v.daum.net/v/20241203100003774</guid>
             <pubDate>Tue, 03 Dec 2024 02:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241203100003774" class="link_column" data-tiara-layer="[특별기고]_상설특검법에_딱_맞는_‘검찰_특활비_특검’_신속하게_통과돼야_alltab"><div class="cont_thumb"><strong class="tit_txt">[특별기고] 상설특검법에 딱 맞는 ‘검찰 특활비 특검’ 신속하게 통과돼야</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F03%2Fnewstapa%2F20241203100005904objj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241203100003774" class="link_column" data-tiara-layer="[특별기고]_상설특검법에_딱_맞는_‘검찰_특활비_특검’_신속하게_통과돼야_alltab"><div class="cont_thumb"><strong class="tit_txt">[특별기고] 상설특검법에 딱 맞는 ‘검찰 특활비 특검’ 신속하게 통과돼야</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F03%2Fnewstapa%2F20241203100005904objj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F03%2Fnewstapa%2F20241203100005904objj.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3370,7 +3378,7 @@
             <link>https://v.daum.net/v/20241201102648822</link>
             <guid>https://v.daum.net/v/20241201102648822</guid>
             <pubDate>Sun, 01 Dec 2024 02:48:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241201102648822" class="link_column" data-tiara-layer="'오세훈_스폰서',_명태균_'대선_여론조사비'_1420만원_입금_내역_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">'오세훈 스폰서', 명태균 '대선 여론조사비' 1420만원 입금 내역 확인</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F01%2Fnewstapa%2F20241201102650373uybb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241201102648822" class="link_column" data-tiara-layer="'오세훈_스폰서',_명태균_'대선_여론조사비'_1420만원_입금_내역_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">'오세훈 스폰서', 명태균 '대선 여론조사비' 1420만원 입금 내역 확인</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F01%2Fnewstapa%2F20241201102650373uybb.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F01%2Fnewstapa%2F20241201102650373uybb.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3436,14 +3444,6 @@
             <pubDate>Thu, 28 Nov 2024 04:16:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241128123144264" class="link_column" data-tiara-layer="'오세훈_스폰서'_김한정,_&quot;'오빠_전화_왔죠?'_김건희_육성_나도_들었다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'오세훈 스폰서' 김한정, "'오빠 전화 왔죠?' 김건희 육성 나도 들었다"</strong><span class="info_txt"><span class="txt_info">2024. 11. 28.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F28%2Fnewstapa%2F20241128123151790btdi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F28%2Fnewstapa%2F20241128123151790btdi.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['오세훈 스폰서' 김한정, "오세훈이 명태균 만나라고 했다" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241127173503127</link>
-            <guid>https://v.daum.net/v/20241127173503127</guid>
-            <pubDate>Wed, 27 Nov 2024 09:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241127173503127" class="link_column" data-tiara-layer="'오세훈_스폰서'_김한정,_&quot;오세훈이_명태균_만나라고_했다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'오세훈 스폰서' 김한정, "오세훈이 명태균 만나라고 했다"</strong><span class="info_txt"><span class="txt_info">2024. 11. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F27%2Fnewstapa%2F20241127190233994vuat.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202411%2F27%2Fnewstapa%2F20241127190233994vuat.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
