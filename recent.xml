@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 11:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 12:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 국무부의 손절 메시지 "한미동맹은 특정 대통령 초월"]]></title>
+            <link>http://newstapa.org/article/HadrV</link>
+            <guid>http://newstapa.org/article/HadrV</guid>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[미 국무부의 손절 메시지 "한미동맹은 특정 대통령 초월"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06192203-7955-81EA-A4F5-P1VQLW4RVVED280GKFMA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></title>
+            <link>http://newstapa.org/article/GKHlt</link>
+            <guid>http://newstapa.org/article/GKHlt</guid>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06202457-A96D-CFBD-CDC7-SKTLU4DIN3OIYRSS0K8I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 내란] 사법부, 역대 '계엄 포고령'에 연달아 '위헌·위법·무효' 판결]]></title>
             <link>http://newstapa.org/article/i1FSw</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 내란 사건, 드러나는 진실들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05230805-2E96-CC99-D458-1WYS7BX415FQGTYQ0W9C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['계엄령 국무회의' 연락 못 받은 장관 최소 2명]]></title>
-            <link>http://newstapa.org/article/4k0mq</link>
-            <guid>http://newstapa.org/article/4k0mq</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['계엄령 국무회의' 연락 못 받은 장관 최소 2명]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04193952-B634-0531-0F9A-MOA1EU5CFUWEQ2ILY7KU.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집방송] '12.3 윤석열 내란 사건' 막전막후]]></title>
-            <link>http://newstapa.org/article/fqHNP</link>
-            <guid>http://newstapa.org/article/fqHNP</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집방송] '12.3 윤석열 내란 사건' 막전막후]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04184007-FE4F-C4FC-3AF0-ECHEVEVQLMXVBO7JHLFG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
