@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 06:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 07:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리]]></title>
+            <link>http://newstapa.org/article/sIVaD</link>
+            <guid>http://newstapa.org/article/sIVaD</guid>
+            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06160518-9F6B-57DF-F2CE-7VYE87TN1U6ANI1YOJVT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 내란] 뉴스타파, 윤석열 내란 관련 국무회의 회의록 정보공개청구]]></title>
             <link>http://newstapa.org/article/CyS4j</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['계엄령 해제' 놓고 계엄군-국회 촌각 다툼, 민주주의 역사 바꾼 2시간]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04182937-A9D8-2D65-1B8B-15TTIAOTFS5XXZ8CV2WH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘윤석열 내란’ 6시간… 비상계엄 선포부터 해제까지]]></title>
-            <link>http://newstapa.org/article/zT41L</link>
-            <guid>http://newstapa.org/article/zT41L</guid>
-            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘윤석열 내란’ 6시간… 비상계엄 선포부터 해제까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/04172749-9131-3154-ABC6-IPF2XWHIT6SNFV129S4L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
