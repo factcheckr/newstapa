@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 11:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 12:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방첩사, 계엄 6달 전 합수본 설치 준비... 국수본과의 협약서 입수]]></title>
+            <link>http://newstapa.org/article/ObPHN</link>
+            <guid>http://newstapa.org/article/ObPHN</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[방첩사, 계엄 6달 전 합수본 설치 준비... 국수본과의 협약서 입수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08210315-FCA4-7EDB-1C82-R835ZOVZGLVYP8UQY4WC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[난중칼럼] 윤석열-한동훈 다단계 내란이 시작됐다.]]></title>
+            <link>http://newstapa.org/article/OMqy6</link>
+            <guid>http://newstapa.org/article/OMqy6</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[난중칼럼] 윤석열-한동훈 다단계 내란이 시작됐다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08201517-A203-B948-484A-YRK9EOD0CSP2QHGR1EJT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조태용 국정원장, 윤석열의 '1차장 임명' 국회에 숨겼다]]></title>
+            <link>http://newstapa.org/article/xGn6Y</link>
+            <guid>http://newstapa.org/article/xGn6Y</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[조태용 국정원장, 윤석열의 '1차장 임명' 국회에 숨겼다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08200315-AAF3-8AC3-F55C-VPSEVTMW7HDLT4ERG3US.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[긴급 기고] 질서있는 퇴진은 탄핵뿐이다]]></title>
             <link>http://newstapa.org/article/_en_6</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05194206-E7F7-400A-44AF-XHYB1Z2PXY514R0W4E1Q.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></title>
-            <link>http://newstapa.org/article/QIr9h</link>
-            <guid>http://newstapa.org/article/QIr9h</guid>
-            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175534-1491-DDA2-DC3B-XHSTB8ZN3L2HJV9D175U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"]]></title>
-            <link>http://newstapa.org/article/aMTda</link>
-            <guid>http://newstapa.org/article/aMTda</guid>
-            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미 국무부 "비상 계엄 불법" 언급...미 싱크탱크는 "한미동맹에 부정적"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05190342-85C8-0F2C-E8D1-SO9Y1ILTTI0CDMG4IA57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라]]></title>
-            <link>http://newstapa.org/article/lyKlb</link>
-            <guid>http://newstapa.org/article/lyKlb</guid>
-            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175415-1654-ACE3-EB32-EN8Y9OGT1AKTRAE4OICL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
