@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 13:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 14:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 모인 촛불들, '아파트' 합창하며 “한동훈·검찰의 2차 내란 막자”]]></title>
+            <link>http://newstapa.org/article/GE_Ms</link>
+            <guid>http://newstapa.org/article/GE_Ms</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다시 모인 촛불들, '아파트' 합창하며 “한동훈·검찰의 2차 내란 막자”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08222158-5B4E-C598-4956-AK6QVWB9W3HTQCF0ECL7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방첩사, 계엄 6달 전 합수본 설치 준비... 국수본과의 협약서 입수]]></title>
             <link>http://newstapa.org/article/ObPHN</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05205521-1A4F-DA60-0B6A-B705EGXTUZZI9YN8NKNX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다]]></title>
-            <link>http://newstapa.org/article/BeYFD</link>
-            <guid>http://newstapa.org/article/BeYFD</guid>
-            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[계엄사령관 임명 50분 전, 중앙선관위에 3공수특전단 투입됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05194206-E7F7-400A-44AF-XHYB1Z2PXY514R0W4E1Q.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

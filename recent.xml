@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 13:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 14:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시 모인 촛불들, '아파트' 합창하며 “한동훈·검찰의 2차 내란 막자”]]></title>
+            <link>http://newstapa.org/article/GE_Ms</link>
+            <guid>http://newstapa.org/article/GE_Ms</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다시 모인 촛불들, '아파트' 합창하며 “한동훈·검찰의 2차 내란 막자”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08222158-5B4E-C598-4956-AK6QVWB9W3HTQCF0ECL7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방첩사, 계엄 6달 전 합수본 설치 준비... 국수본과의 협약서 입수]]></title>
             <link>http://newstapa.org/article/ObPHN</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 내란] 뉴스타파, 윤석열 내란 관련 국무회의 회의록 정보공개청구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06134922-E99E-E70F-9EE4-JV4SDP03E3PERYQDNCW6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['비상계엄 심의' 국무회의 참석자 11인 확인…"정치적·법적 책임 피할 수 없어"]]></title>
-            <link>http://newstapa.org/article/m6QrO</link>
-            <guid>http://newstapa.org/article/m6QrO</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['비상계엄 심의' 국무회의 참석자 11인 확인…"정치적·법적 책임 피할 수 없어"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06134924-A499-3962-F754-UXF9QK563YMV9D2ITL63.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
