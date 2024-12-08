@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 08:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 09:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열-한동훈 ‘직계 라인’ 검찰 특수본 대거 포진...수사 주체 정당성 의문 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/WWovW</link>
+            <guid>http://newstapa.org/article/WWovW</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열-한동훈 ‘직계 라인’ 검찰 특수본 대거 포진...수사 주체 정당성 의문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08174540-C329-A8DB-3CF8-M96FD30QNDQ9A2GMESLE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[긴급 기고] 질서있는 퇴진은 탄핵뿐이다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/_en_6</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05150341-400B-FECC-7AB5-3S83YL9QXPQ0PMTX70QH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/54Fdo</link>
-            <guid>http://newstapa.org/article/54Fdo</guid>
-            <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국회에 선 12.3 비상계엄 책임자들, 몰랐거나 뻔뻔하거나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05205521-1A4F-DA60-0B6A-B705EGXTUZZI9YN8NKNX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[긴급 기고] 질서있는 퇴진은 탄핵뿐이다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175415-1654-ACE3-EB32-EN8Y9OGT1AKTRAE4OICL.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열-한동훈 ‘직계 라인’ 검찰 특수본 대거 포진...수사 주체 정당성 의문 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/WWovW</link>
+            <guid>http://newstapa.org/article/WWovW</guid>
+            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열-한동훈 ‘직계 라인’ 검찰 특수본 대거 포진...수사 주체 정당성 의문]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08174540-C329-A8DB-3CF8-M96FD30QNDQ9A2GMESLE.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[윤석열의 내란] 사법부, 역대 '계엄 포고령'에 연달아 '위헌·위법·무효' 판결 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/i1FSw</link>
             <guid>http://newstapa.org/article/i1FSw</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤석열 명예훼손' 수사 검찰, 기자 휴대폰 비밀번호 훔쳐갔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/23180151-59E5-921F-7D96-V7UMRL90QTM4HLVABTWZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ① (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/prD1l</link>
-            <guid>http://newstapa.org/article/prD1l</guid>
-            <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ①]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/19165726-8581-D26B-51D9-HR0P668Q6X4VBD1EF0QZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특별기고] 상설특검법에 딱 맞는 ‘검찰 특활비 특검’ 신속하게 통과돼야 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3208,18 +3208,25 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열-한동훈 ‘직계 라인’ 검찰 특수본 대거 포진...수사 주체 정당성 의문 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241208175005011</link>
+            <guid>https://v.daum.net/v/20241208175005011</guid>
+            <pubDate>Sun, 08 Dec 2024 09:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241208175005011" class="link_column" data-tiara-layer="윤석열-한동훈_‘직계_라인’_검찰_특수본_대거_포진...수사_주체_정당성_의문_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열-한동훈 ‘직계 라인’ 검찰 특수본 대거 포진...수사 주체 정당성 의문</strong><span class="info_txt"><span class="txt_info">22분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[긴급 기고] 질서있는 퇴진은 탄핵뿐이다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241208140504975</link>
             <guid>https://v.daum.net/v/20241208140504975</guid>
             <pubDate>Sun, 08 Dec 2024 05:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241208140504975" class="link_column" data-tiara-layer="[긴급_기고]_질서있는_퇴진은_탄핵뿐이다_alltab"><div class="cont_thumb"><strong class="tit_txt">[긴급 기고] 질서있는 퇴진은 탄핵뿐이다</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241208140504975" class="link_column" data-tiara-layer="[긴급_기고]_질서있는_퇴진은_탄핵뿐이다_alltab"><div class="cont_thumb"><strong class="tit_txt">[긴급 기고] 질서있는 퇴진은 탄핵뿐이다</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[탄핵 부결에 분노한 시민들 "내란 동조한 국민의힘, 역사의 죗값 치를 것" (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241208015503161</link>
             <guid>https://v.daum.net/v/20241208015503161</guid>
             <pubDate>Sat, 07 Dec 2024 17:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241208015503161" class="link_column" data-tiara-layer="탄핵_부결에_분노한_시민들_&quot;내란_동조한_국민의힘,_역사의_죗값_치를_것&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">탄핵 부결에 분노한 시민들 "내란 동조한 국민의힘, 역사의 죗값 치를 것"</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F08%2Fnewstapa%2F20241208015510463qzhn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241208015503161" class="link_column" data-tiara-layer="탄핵_부결에_분노한_시민들_&quot;내란_동조한_국민의힘,_역사의_죗값_치를_것&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">탄핵 부결에 분노한 시민들 "내란 동조한 국민의힘, 역사의 죗값 치를 것"</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F08%2Fnewstapa%2F20241208015510463qzhn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F08%2Fnewstapa%2F20241208015510463qzhn.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3227,7 +3234,7 @@
             <link>https://v.daum.net/v/20241208013503016</link>
             <guid>https://v.daum.net/v/20241208013503016</guid>
             <pubDate>Sat, 07 Dec 2024 17:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241208013503016" class="link_column" data-tiara-layer="국민의힘_집단_퇴장,_끝내_'윤석열_탄핵안'_무효처리_alltab"><div class="cont_thumb"><strong class="tit_txt">국민의힘 집단 퇴장, 끝내 '윤석열 탄핵안' 무효처리</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F08%2Fnewstapa%2F20241208013508655mhcs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241208013503016" class="link_column" data-tiara-layer="국민의힘_집단_퇴장,_끝내_'윤석열_탄핵안'_무효처리_alltab"><div class="cont_thumb"><strong class="tit_txt">국민의힘 집단 퇴장, 끝내 '윤석열 탄핵안' 무효처리</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F08%2Fnewstapa%2F20241208013508655mhcs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F08%2Fnewstapa%2F20241208013508655mhcs.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3264,7 +3271,7 @@
             <link>https://v.daum.net/v/20241206173003453</link>
             <guid>https://v.daum.net/v/20241206173003453</guid>
             <pubDate>Fri, 06 Dec 2024 09:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241206173003453" class="link_column" data-tiara-layer="[윤석열의_내란]_사법부,_역대_'계엄_포고령'에_연달아_'위헌·위법·무효'_판결_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 내란] 사법부, 역대 '계엄 포고령'에 연달아 '위헌·위법·무효' 판결</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F06%2Fnewstapa%2F20241206173005382klms.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241206173003453" class="link_column" data-tiara-layer="[윤석열의_내란]_사법부,_역대_'계엄_포고령'에_연달아_'위헌·위법·무효'_판결_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 내란] 사법부, 역대 '계엄 포고령'에 연달아 '위헌·위법·무효' 판결</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F06%2Fnewstapa%2F20241206173005382klms.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F06%2Fnewstapa%2F20241206173005382klms.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3367,7 +3374,7 @@
             <link>https://v.daum.net/v/20241205180003739</link>
             <guid>https://v.daum.net/v/20241205180003739</guid>
             <pubDate>Thu, 05 Dec 2024 09:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205180003739" class="link_column" data-tiara-layer="[윤석열의_내란]_12·3_계엄_국무회의_기록을_공개하라_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205180004975mmkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241205180003739" class="link_column" data-tiara-layer="[윤석열의_내란]_12·3_계엄_국무회의_기록을_공개하라_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 내란] 12·3 계엄 국무회의 기록을 공개하라</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205180004975mmkh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F05%2Fnewstapa%2F20241205180004975mmkh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3407,7 +3414,7 @@
             <link>https://v.daum.net/v/20241204181003617</link>
             <guid>https://v.daum.net/v/20241204181003617</guid>
             <pubDate>Wed, 04 Dec 2024 09:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241204181003617" class="link_column" data-tiara-layer="‘윤석열_내란’_6시간…_비상계엄_선포부터_해제까지_alltab"><div class="cont_thumb"><strong class="tit_txt">‘윤석열 내란’ 6시간… 비상계엄 선포부터 해제까지</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F04%2Fnewstapa%2F20241204181025520jgtl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241204181003617" class="link_column" data-tiara-layer="‘윤석열_내란’_6시간…_비상계엄_선포부터_해제까지_alltab"><div class="cont_thumb"><strong class="tit_txt">‘윤석열 내란’ 6시간… 비상계엄 선포부터 해제까지</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F04%2Fnewstapa%2F20241204181025520jgtl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F04%2Fnewstapa%2F20241204181025520jgtl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3433,13 +3440,6 @@
             <pubDate>Wed, 04 Dec 2024 06:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241204144504943" class="link_column" data-tiara-layer="중앙선관위에도_계엄군_진입...주요_헌법기관_장악_시도_alltab"><div class="cont_thumb"><strong class="tit_txt">중앙선관위에도 계엄군 진입...주요 헌법기관 장악 시도</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F04%2Fnewstapa%2F20241204144512634crev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F04%2Fnewstapa%2F20241204144512634crev.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[기습 계엄 미국에 사전 통보 안했다... 외신 "정치적 도박" , "대실패" (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241204142504165</link>
-            <guid>https://v.daum.net/v/20241204142504165</guid>
-            <pubDate>Wed, 04 Dec 2024 06:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241204142504165" class="link_column" data-tiara-layer="기습_계엄_미국에_사전_통보_안했다..._외신_&quot;정치적_도박&quot;_,_&quot;대실패&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">기습 계엄 미국에 사전 통보 안했다... 외신 "정치적 도박" , "대실패"</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
