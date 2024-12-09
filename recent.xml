@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 최측근 행정관 텔레그램 기록 삭제 정황... 조직적 증거 인멸 의혹]]></title>
+            <link>http://newstapa.org/article/TWM-b</link>
+            <guid>http://newstapa.org/article/TWM-b</guid>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 최측근 행정관 텔레그램 기록 삭제 정황... 조직적 증거 인멸 의혹]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/09175719-1DB7-9851-3AE0-6AWBD8DALHZ1LPX3Y7ME.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“윤석열 즉각 퇴진” ... 전 세계 교민들도 한 목소리]]></title>
+            <link>http://newstapa.org/article/rVlCG</link>
+            <guid>http://newstapa.org/article/rVlCG</guid>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“윤석열 즉각 퇴진” ... 전 세계 교민들도 한 목소리]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/09180125-DA85-47C8-E08E-58FFGBTBACPTO4SOCFL7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 내란] "상설 특검으로 간다. 검찰은 손 떼라"]]></title>
             <link>http://newstapa.org/article/LxwxT</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 내란] 사법부, 역대 '계엄 포고령'에 연달아 '위헌·위법·무효' 판결]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06172941-07BA-F514-60F7-JKP0HLG7LDAUSRY72RCX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회 입법조사처, 국가기관 처음으로 '윤석열 내란 성립' 보고]]></title>
-            <link>http://newstapa.org/article/_Jp1p</link>
-            <guid>http://newstapa.org/article/_Jp1p</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국회 입법조사처, 국가기관 처음으로 '윤석열 내란 성립' 보고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06161121-4BA6-989D-3C3C-MLMCLTUI9OID6TH0HOOH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리]]></title>
-            <link>http://newstapa.org/article/sIVaD</link>
-            <guid>http://newstapa.org/article/sIVaD</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06160518-9F6B-57DF-F2CE-7VYE87TN1U6ANI1YOJVT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

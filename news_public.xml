@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 09:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“윤석열 즉각 퇴진” ... 전 세계 교민들도 한 목소리]]></title>
+            <link>http://newstapa.org/article/rVlCG</link>
+            <guid>http://newstapa.org/article/rVlCG</guid>
+            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“윤석열 즉각 퇴진” ... 전 세계 교민들도 한 목소리]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/09180125-DA85-47C8-E08E-58FFGBTBACPTO4SOCFL7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 내란] "상설 특검으로 간다. 검찰은 손 떼라"]]></title>
             <link>http://newstapa.org/article/LxwxT</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘내란죄’ 긴급분석, 전두환 5·17 VS 윤석열의 12·3]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06095240-BFC5-D94B-D7C4-AZWFVI8ND9BCTW1MSKRX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다]]></title>
-            <link>http://newstapa.org/article/E_yko</link>
-            <guid>http://newstapa.org/article/E_yko</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 내란]그날, 서울의 밤을 기록하다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05150341-400B-FECC-7AB5-3S83YL9QXPQ0PMTX70QH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
