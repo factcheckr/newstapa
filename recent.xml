@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 07:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 08:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급기고] 당장 '폐기금지제도' 시행해 내란 기록 지켜내야]]></title>
+            <link>http://newstapa.org/article/v1D8Y</link>
+            <guid>http://newstapa.org/article/v1D8Y</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[긴급기고] 당장 '폐기금지제도' 시행해 내란 기록 지켜내야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10165527-F162-AA2F-7AB7-O0KY0WSR4G73V2DMSOHF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]비상계엄 보도에 등장한 ‘충청의 아들 윤’부터 박정희 동상까지]]></title>
             <link>http://newstapa.org/article/qQFxE</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미 국무부의 손절 메시지 "한미동맹은 특정 대통령 초월"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06192203-7955-81EA-A4F5-P1VQLW4RVVED280GKFMA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></title>
-            <link>http://newstapa.org/article/GKHlt</link>
-            <guid>http://newstapa.org/article/GKHlt</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06202457-A96D-CFBD-CDC7-SKTLU4DIN3OIYRSS0K8I.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
