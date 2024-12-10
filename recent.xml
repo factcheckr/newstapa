@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 14:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 15:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["선관위 썩었다" 윤석열 발언 공개...'부정선거' 대책단도 만들었다]]></title>
+            <link>http://newstapa.org/article/zf3Nk</link>
+            <guid>http://newstapa.org/article/zf3Nk</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["선관위 썩었다" 윤석열 발언 공개...'부정선거' 대책단도 만들었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10214244-E9C5-7DA2-8E71-UCXKWJKV5OIZ2TVIAM02.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 "국회의원 끌어내라" 직접 지시... 드러나는 친위 쿠데타 실체]]></title>
             <link>http://newstapa.org/article/rjoxv</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[탄핵 부결에 분노한 시민들 "내란 동조한 국민의힘, 역사의 죗값 치를 것"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/07225948-75FD-1AEF-C99F-02C3VINFUZJVITG30EGY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 집단 퇴장, 끝내 '윤석열 탄핵안' 무효처리]]></title>
-            <link>http://newstapa.org/article/7YGAV</link>
-            <guid>http://newstapa.org/article/7YGAV</guid>
-            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 집단 퇴장, 끝내 '윤석열 탄핵안' 무효처리]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/07231225-FCD8-1D0D-1A56-CA3XDKW3VAKYDA2JQKV4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
