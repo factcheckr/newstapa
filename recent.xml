@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 09:14:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 10:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계엄실무편람② 국방장관에게 지휘권 위임? 윤석열의 계엄이 내란인 이유]]></title>
+            <link>http://newstapa.org/article/TPrz-</link>
+            <guid>http://newstapa.org/article/TPrz-</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계엄실무편람② 국방장관에게 지휘권 위임? 윤석열의 계엄이 내란인 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10182425-54B9-600B-C6D5-1XPIYGA97QKIIXWWIJFN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계엄실무편람① 국방장관이 대통령에게 계엄 선포 건의? “불가”]]></title>
+            <link>http://newstapa.org/article/mP-EQ</link>
+            <guid>http://newstapa.org/article/mP-EQ</guid>
+            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[계엄실무편람① 국방장관이 대통령에게 계엄 선포 건의? “불가”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10180406-8D61-FC46-8EB5-QWLTST2G1LTXARW907QL.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[긴급기고] 당장 '폐기금지제도' 시행해 내란 기록 지켜내야]]></title>
             <link>http://newstapa.org/article/v1D8Y</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[미 의회, "윤석열 대통령의 계엄령 선포는 민주주의에 대한 모욕"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/07150549-90C2-4BDF-16B1-JZ1FFZQBPBJBZ9O66W9D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 내란 혐의자 '탄핵 반대'는 헌정 중단 시도다]]></title>
-            <link>http://newstapa.org/article/1p0nu</link>
-            <guid>http://newstapa.org/article/1p0nu</guid>
-            <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 내란 혐의자 '탄핵 반대'는 헌정 중단 시도다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/07114706-74DB-4961-0AF8-2YRD8W5UZK5RY6OVI3FO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 국무부의 손절 메시지 "한미동맹은 특정 대통령 초월"]]></title>
-            <link>http://newstapa.org/article/HadrV</link>
-            <guid>http://newstapa.org/article/HadrV</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[미 국무부의 손절 메시지 "한미동맹은 특정 대통령 초월"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06192203-7955-81EA-A4F5-P1VQLW4RVVED280GKFMA.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
