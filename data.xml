@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Dec 2024 08:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Dec 2024 09:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열의 내란 그날, 서울의 밤을 기록하다]]></title>
+            <link>https://pages.newstapa.org/2024/insurrection/</link>
+            <guid>https://pages.newstapa.org/2024/insurrection/</guid>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024년 12월 3일 밤 10시 23분, 윤석열 대통령이 비상 계엄을 선포했습니다. 그러나 시민들과 정치인들의 저항으로 계엄은 3시간여만에 막을 내렸습니다. 긴박했던 '내란의 밤'을 뉴스타파가 기록했습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11172758-7A81-4A16-B06C-R0PDQ7MIEXZHJY52GXOC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 정부 언론장악 네트워크]]></title>
             <link>https://pages.newstapa.org/2024/sna/</link>
