@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 07:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 08:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“끝까지 싸우겠다”... ‘내란수괴 윤석열’의 망상과 궤변, 거짓말]]></title>
+            <link>http://newstapa.org/article/E_d0V</link>
+            <guid>http://newstapa.org/article/E_d0V</guid>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“끝까지 싸우겠다”... ‘내란수괴 윤석열’의 망상과 궤변, 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/12164215-DD34-805B-690F-MLVW2NRM9GXIRDZ807EW.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12.7 여의도 탄핵집회 참석자 최소 28만명, 20대 여성이 가장 많았다]]></title>
             <link>http://newstapa.org/article/gWDhc</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 내란] "상설 특검으로 간다. 검찰은 손 떼라"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08214618-1C64-5DCA-A358-WM4H693O1K8V3OPJU3J0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙지검, '정치인 체포' 증언한 홍장원 전 1차장 소환 통보]]></title>
-            <link>http://newstapa.org/article/oLZGQ</link>
-            <guid>http://newstapa.org/article/oLZGQ</guid>
-            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[중앙지검, '정치인 체포' 증언한 홍장원 전 1차장 소환 통보]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08232526-DFDC-8E51-D31A-BNHMBQDO0ZC4OKPRQUS0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
