@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 00:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 02:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤석열의 내란] 부역자는 기록된다]]></title>
+            <link>http://newstapa.org/article/4hW1z</link>
+            <guid>http://newstapa.org/article/4hW1z</guid>
+            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열의 내란] 부역자는 기록된다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11202850-E3C4-B0ED-F14C-G6GWNNQ79JWXOHOKN2F5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집 다큐] 윤석열의 내란-국회의장실 100시간]]></title>
             <link>http://newstapa.org/article/NoVeR</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다시 모인 촛불들, '아파트' 합창하며 “한동훈·검찰의 2차 내란 막자”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08222158-5B4E-C598-4956-AK6QVWB9W3HTQCF0ECL7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 윤석열-한동훈 다단계 내란이 시작됐다.]]></title>
-            <link>http://newstapa.org/article/OMqy6</link>
-            <guid>http://newstapa.org/article/OMqy6</guid>
-            <pubDate>Sun, 08 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] 윤석열-한동훈 다단계 내란이 시작됐다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/08201517-A203-B948-484A-YRK9EOD0CSP2QHGR1EJT.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
