@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 12:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 13:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특별페이지] 개와 늑대의 시간, 윤석열 내란 수사를 기록하다]]></title>
+            <link>http://newstapa.org/article/ypnX2</link>
+            <guid>http://newstapa.org/article/ypnX2</guid>
+            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특별페이지] 개와 늑대의 시간, 윤석열 내란 수사를 기록하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13220329-BECA-46A6-B37D-9K501QCR6T4768FKOA0E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 포함 '카톡방'에 계엄군 '체포 명단' 등장]]></title>
             <link>http://newstapa.org/article/u8U2M</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["선관위 썩었다" 윤석열 발언 공개...'부정선거' 대책단도 만들었다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10214244-E9C5-7DA2-8E71-UCXKWJKV5OIZ2TVIAM02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 "국회의원 끌어내라" 직접 지시... 드러나는 친위 쿠데타 실체]]></title>
-            <link>http://newstapa.org/article/rjoxv</link>
-            <guid>http://newstapa.org/article/rjoxv</guid>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 "국회의원 끌어내라" 직접 지시... 드러나는 친위 쿠데타 실체]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10212844-7FF5-2457-F8E9-YCT3A0MEO5IF4UGTEHV7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
