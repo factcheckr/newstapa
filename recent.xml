@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 10:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 11:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 포함 '카톡방'에 계엄군 '체포 명단' 등장]]></title>
+            <link>http://newstapa.org/article/u8U2M</link>
+            <guid>http://newstapa.org/article/u8U2M</guid>
+            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 포함 '카톡방'에 계엄군 '체포 명단' 등장]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13183646-F3B5-D5ED-64C5-NVZXFIVTIT8KLM6FVQEM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무전망에 드러난 경찰의 거짓말 "국회 전면 통제, 계엄군은 들여보내라"]]></title>
+            <link>http://newstapa.org/article/c0u6h</link>
+            <guid>http://newstapa.org/article/c0u6h</guid>
+            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[무전망에 드러난 경찰의 거짓말 "국회 전면 통제, 계엄군은 들여보내라"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13185844-D448-DDFE-F8D8-LZ5M1IG6KA894Z3FROB3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부정선거? 음모론 망상 빠진 윤석열]]></title>
             <link>http://newstapa.org/article/hVGp2</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 "국회의원 끌어내라" 직접 지시... 드러나는 친위 쿠데타 실체]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10212844-7FF5-2457-F8E9-YCT3A0MEO5IF4UGTEHV7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계엄실무편람② 국방장관에게 지휘권 위임? 윤석열의 계엄이 내란인 이유]]></title>
-            <link>http://newstapa.org/article/TPrz-</link>
-            <guid>http://newstapa.org/article/TPrz-</guid>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[계엄실무편람② 국방장관에게 지휘권 위임? 윤석열의 계엄이 내란인 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10182425-54B9-600B-C6D5-1XPIYGA97QKIIXWWIJFN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계엄실무편람① 국방장관이 대통령에게 계엄 선포 건의? “불가”]]></title>
-            <link>http://newstapa.org/article/mP-EQ</link>
-            <guid>http://newstapa.org/article/mP-EQ</guid>
-            <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[계엄실무편람① 국방장관이 대통령에게 계엄 선포 건의? “불가”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/10180406-8D61-FC46-8EB5-QWLTST2G1LTXARW907QL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
