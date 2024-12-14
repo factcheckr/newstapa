@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Dec 2024 15:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Dec 2024 16:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역사 쓴 '응원봉' 시민들 "다시는 과거로 돌아가지 말자"]]></title>
+            <link>http://newstapa.org/article/AwlPo</link>
+            <guid>http://newstapa.org/article/AwlPo</guid>
+            <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[역사 쓴 '응원봉' 시민들 "다시는 과거로 돌아가지 말자"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/14231746-0693-B009-F057-DIK8A7WPZVYHV8QXYY43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['내란 수괴' 윤석열 2차 탄핵안 통과...국민의힘은 분열]]></title>
             <link>http://newstapa.org/article/BHfGO</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민은 “검찰 수사 안 돼”… 국민의힘은 “검찰 방해 안 돼”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11201313-1DED-C876-4881-5OMTFJ2JT7NIWH6PKVJH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 내란] "경찰이 윤석열 체포하라, 되도록 빨리"...강일구 전 서울청 반부패수사대장]]></title>
-            <link>http://newstapa.org/article/0EEdZ</link>
-            <guid>http://newstapa.org/article/0EEdZ</guid>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 내란] "경찰이 윤석열 체포하라, 되도록 빨리"...강일구 전 서울청 반부패수사대장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11194123-DD40-9F38-13AC-VRDPHC5D3BQVGQ7H0MI7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
