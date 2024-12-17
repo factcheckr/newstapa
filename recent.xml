@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 08:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 09:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌']]></title>
+            <link>http://newstapa.org/article/oa7jP</link>
+            <guid>http://newstapa.org/article/oa7jP</guid>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17153559-77C9-ABA7-658B-3274T2DP80B3JPZ0KWTN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[KINN]내란과 일본 언론2: ‘탄핵 당연’에서 ‘이재명에 친북좌파 딱지’까지]]></title>
+            <link>http://newstapa.org/article/dmx4z</link>
+            <guid>http://newstapa.org/article/dmx4z</guid>
+            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN]내란과 일본 언론2: ‘탄핵 당연’에서 ‘이재명에 친북좌파 딱지’까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17173456-D666-6F16-E648-JYE7LU418W0QSF3M2CZ0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역사 쓴 '응원봉' 시민들 "다시는 과거로 돌아가지 말자"]]></title>
             <link>http://newstapa.org/article/AwlPo</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 내란] 부역자는 기록된다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11202850-E3C4-B0ED-F14C-G6GWNNQ79JWXOHOKN2F5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 다큐] 윤석열의 내란-국회의장실 100시간]]></title>
-            <link>http://newstapa.org/article/NoVeR</link>
-            <guid>http://newstapa.org/article/NoVeR</guid>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 다큐] 윤석열의 내란-국회의장실 100시간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11204104-D7A8-114C-A768-F9BX6KBR75KBO5R98OAP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민은 “검찰 수사 안 돼”… 국민의힘은 “검찰 방해 안 돼”]]></title>
-            <link>http://newstapa.org/article/4i0Dx</link>
-            <guid>http://newstapa.org/article/4i0Dx</guid>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국민은 “검찰 수사 안 돼”… 국민의힘은 “검찰 방해 안 돼”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11201313-1DED-C876-4881-5OMTFJ2JT7NIWH6PKVJH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
