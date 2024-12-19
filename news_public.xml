@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 10:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 11:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 한국산 개표기가 해외 부정선거 원흉? 윤석열 망상 팩트체크]]></title>
+            <link>http://newstapa.org/article/gc8xY</link>
+            <guid>http://newstapa.org/article/gc8xY</guid>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 한국산 개표기가 해외 부정선거 원흉? 윤석열 망상 팩트체크]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/19200522-E4E4-3639-5C51-8LL7814431MCATOJ14MW.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열이 믿은 해외 '부정선거'...현지 언론과 협업해 팩트체크]]></title>
+            <link>http://newstapa.org/article/dyDp_</link>
+            <guid>http://newstapa.org/article/dyDp_</guid>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열이 믿은 해외 '부정선거'...현지 언론과 협업해 팩트체크]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/19200707-52B5-F200-5C15-LUJCX844S875A7PB1P7A.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탄핵날 ‘3040 여성과 아이들’ 크게 늘어, 여의도 집회인원 전주보다 50% 증가]]></title>
             <link>http://newstapa.org/article/swt9L</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[12.7 여의도 탄핵집회 참석자 최소 28만명, 20대 여성이 가장 많았다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/12115152-99C0-3087-453A-3IIZPXMMF0BPXS5QD740.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열의 내란] 부역자는 기록된다]]></title>
-            <link>http://newstapa.org/article/4hW1z</link>
-            <guid>http://newstapa.org/article/4hW1z</guid>
-            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열의 내란] 부역자는 기록된다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11202850-E3C4-B0ED-F14C-G6GWNNQ79JWXOHOKN2F5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 다큐] 윤석열의 내란-국회의장실 100시간]]></title>
-            <link>http://newstapa.org/article/NoVeR</link>
-            <guid>http://newstapa.org/article/NoVeR</guid>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 다큐] 윤석열의 내란-국회의장실 100시간]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11204104-D7A8-114C-A768-F9BX6KBR75KBO5R98OAP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
