@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 08:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 09:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서]부정선거 확인하려고 국정원이 선관위 보안점검 했을까?]]></title>
+            <link>http://newstapa.org/article/Tcv47</link>
+            <guid>http://newstapa.org/article/Tcv47</guid>
+            <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서]부정선거 확인하려고 국정원이 선관위 보안점검 했을까?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/20165322-BABE-5C0E-066B-V8W9XO9T8JFSZ4SY2H6X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 한국산 개표기가 해외 부정선거 원흉? 윤석열 망상 팩트체크]]></title>
             <link>http://newstapa.org/article/gc8xY</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“끝까지 싸우겠다”... ‘내란수괴 윤석열’의 망상과 궤변, 거짓말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/12164215-DD34-805B-690F-MLVW2NRM9GXIRDZ807EW.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12.7 여의도 탄핵집회 참석자 최소 28만명, 20대 여성이 가장 많았다]]></title>
-            <link>http://newstapa.org/article/gWDhc</link>
-            <guid>http://newstapa.org/article/gWDhc</guid>
-            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[12.7 여의도 탄핵집회 참석자 최소 28만명, 20대 여성이 가장 많았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/12115152-99C0-3087-453A-3IIZPXMMF0BPXS5QD740.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
