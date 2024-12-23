@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Dec 2024 09:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 10:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/ah0yX</link>
+            <guid>http://newstapa.org/article/ah0yX</guid>
+            <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/23183559-7452-07B6-4CB7-KJFUYQTZQUSTHVISBGFJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘윤석열 내란’ 국무회의 없었다... 의안 보고·심의·부서 全無 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/KG1uu</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 포함 '카톡방'에 계엄군 '체포 명단' 등장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13183646-F3B5-D5ED-64C5-NVZXFIVTIT8KLM6FVQEM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무전망에 드러난 경찰의 거짓말 "국회 전면 통제, 계엄군은 들여보내라" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/c0u6h</link>
-            <guid>http://newstapa.org/article/c0u6h</guid>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[무전망에 드러난 경찰의 거짓말 "국회 전면 통제, 계엄군은 들여보내라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13185844-D448-DDFE-F8D8-LZ5M1IG6KA894Z3FROB3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘윤석열 내란’ 국무회의 없었다... 의안 보고·심의·부서 全無 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/12191513-591B-820A-C494-MGNMG1O0GPVML3SUYC0A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/ah0yX</link>
+            <guid>http://newstapa.org/article/ah0yX</guid>
+            <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/23183559-7452-07B6-4CB7-KJFUYQTZQUSTHVISBGFJ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/oa7jP</link>
             <guid>http://newstapa.org/article/oa7jP</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[중앙지검 수사과장의 조의금 실종 사건]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/16164800-42CD-D56D-B71B-AQOJUE9UJDJQUSWTE126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ② (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/UhkbB</link>
-            <guid>http://newstapa.org/article/UhkbB</guid>
-            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[불법 압색] 한상진 또는 이건웅, 올가을 한 사람은 죽는다 ②]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/04145952-92DB-6982-6D47-PQ5AHP0MUIIKKDKCFPS6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특별기고] 상설특검법에 딱 맞는 ‘검찰 특활비 특검’ 신속하게 통과돼야 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3224,11 +3224,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241223185002577</link>
+            <guid>https://v.daum.net/v/20241223185002577</guid>
+            <pubDate>Mon, 23 Dec 2024 10:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241223185002577" class="link_column" data-tiara-layer="‘부정_선거’_‘가짜_뉴스’_확산시킨_윤석열의_40년_친구_alltab"><div class="cont_thumb"><strong class="tit_txt">‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구</strong><span class="info_txt"><span class="txt_info">23분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223185004412pmhq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223185004412pmhq.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[‘윤석열 내란’ 국무회의 없었다... 의안 보고·심의·부서 全無 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241223172503236</link>
             <guid>https://v.daum.net/v/20241223172503236</guid>
             <pubDate>Mon, 23 Dec 2024 09:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241223172503236" class="link_column" data-tiara-layer="‘윤석열_내란’_국무회의_없었다..._의안_보고·심의·부서_全無_alltab"><div class="cont_thumb"><strong class="tit_txt">‘윤석열 내란’ 국무회의 없었다... 의안 보고·심의·부서 全無</strong><span class="info_txt"><span class="txt_info">48분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223172507024ohty.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241223172503236" class="link_column" data-tiara-layer="‘윤석열_내란’_국무회의_없었다..._의안_보고·심의·부서_全無_alltab"><div class="cont_thumb"><strong class="tit_txt">‘윤석열 내란’ 국무회의 없었다... 의안 보고·심의·부서 全無</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223172507024ohty.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223172507024ohty.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3236,7 +3244,7 @@
             <link>https://v.daum.net/v/20241222195003744</link>
             <guid>https://v.daum.net/v/20241222195003744</guid>
             <pubDate>Sun, 22 Dec 2024 11:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241222195003744" class="link_column" data-tiara-layer="[특집_다큐]_윤석열의_내란-계엄을_막은_사람들_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 다큐] 윤석열의 내란-계엄을 막은 사람들</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223101113839rqih.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241222195003744" class="link_column" data-tiara-layer="[특집_다큐]_윤석열의_내란-계엄을_막은_사람들_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 다큐] 윤석열의 내란-계엄을 막은 사람들</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223101113839rqih.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F23%2Fnewstapa%2F20241223101113839rqih.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3453,14 +3461,6 @@
             <guid>https://v.daum.net/v/20241211145004929</guid>
             <pubDate>Wed, 11 Dec 2024 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241211145004929" class="link_column" data-tiara-layer="[반론보도]_<[백지_입양기록①]10년을_했는데_엉터리?...복지부,_입양_기록_전산화_사업_감사_착수>_관련_alltab"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 기록 전산화 사업 감사 착수&gt; 관련</strong><span class="info_txt"><span class="txt_info">2024. 12. 11.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA["선관위 썩었다" 윤석열 발언 공개...'부정선거' 대책단도 만들었다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241210233503751</link>
-            <guid>https://v.daum.net/v/20241210233503751</guid>
-            <pubDate>Tue, 10 Dec 2024 15:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241210233503751" class="link_column" data-tiara-layer="&quot;선관위_썩었다&quot;_윤석열_발언_공개...'부정선거'_대책단도_만들었다_alltab"><div class="cont_thumb"><strong class="tit_txt">"선관위 썩었다" 윤석열 발언 공개...'부정선거' 대책단도 만들었다</strong><span class="info_txt"><span class="txt_info">2024. 12. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F11%2Fnewstapa%2F20241211155115416kdkg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F11%2Fnewstapa%2F20241211155115416kdkg.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
