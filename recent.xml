@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 02:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 03:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰"]]></title>
+            <link>http://newstapa.org/article/InF09</link>
+            <guid>http://newstapa.org/article/InF09</guid>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24112339-AC18-F770-5497-1NGS8ADZFM1O7BOCPKNZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구]]></title>
             <link>http://newstapa.org/article/ah0yX</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특별페이지] 개와 늑대의 시간, 윤석열 내란 수사를 기록하다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13220329-BECA-46A6-B37D-9K501QCR6T4768FKOA0E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 포함 '카톡방'에 계엄군 '체포 명단' 등장]]></title>
-            <link>http://newstapa.org/article/u8U2M</link>
-            <guid>http://newstapa.org/article/u8U2M</guid>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 포함 '카톡방'에 계엄군 '체포 명단' 등장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13183646-F3B5-D5ED-64C5-NVZXFIVTIT8KLM6FVQEM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
