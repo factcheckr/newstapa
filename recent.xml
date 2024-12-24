@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 08:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 09:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키르기스 대통령이 부정선거 영웅? 야당 대표 체포하고 '불출마 각서'까지]]></title>
+            <link>http://newstapa.org/article/wP14A</link>
+            <guid>http://newstapa.org/article/wP14A</guid>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[키르기스 대통령이 부정선거 영웅? 야당 대표 체포하고 '불출마 각서'까지]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24180044-5A6A-2C66-A1D2-85YLI0OXUMX2MHEM962T.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가예산 주무르는 ‘숨은 권력 찾기’...1·2심 이겼지만 기재부 상고]]></title>
             <link>http://newstapa.org/article/dDP0r</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['내란 수괴' 윤석열 2차 탄핵안 통과...국민의힘은 분열]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/14235046-7BA5-9272-F302-A7D7OWV8O4F0BYNOR6YZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란과 일본 언론…전두환 쿠데타와 비교에서 윤석열 몰락의 아쉬움까지]]></title>
-            <link>http://newstapa.org/article/oJI8U</link>
-            <guid>http://newstapa.org/article/oJI8U</guid>
-            <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN] 내란과 일본 언론…전두환 쿠데타와 비교에서 윤석열 몰락의 아쉬움까지]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/14173846-D7B5-F2DA-E7FD-EDQ5XDTQINW0O2DDNNPX.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
