@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 21:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 22:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“계좌번호 좀 내주이소”...홍준표 최측근이 여론조사비 대납]]></title>
+            <link>http://newstapa.org/article/9VIWE</link>
+            <guid>http://newstapa.org/article/9VIWE</guid>
+            <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“계좌번호 좀 내주이소”...홍준표 최측근이 여론조사비 대납]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24172814-1DA3-5564-8D6E-FKAEW0I2KJ6O82IQK9T6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키르기스 대통령이 부정선거 영웅? 야당 대표 체포하고 '불출마 각서'까지]]></title>
             <link>http://newstapa.org/article/wP14A</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[역사 쓴 '응원봉' 시민들 "다시는 과거로 돌아가지 말자"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/14231746-0693-B009-F057-DIK8A7WPZVYHV8QXYY43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내란 수괴' 윤석열 2차 탄핵안 통과...국민의힘은 분열]]></title>
-            <link>http://newstapa.org/article/BHfGO</link>
-            <guid>http://newstapa.org/article/BHfGO</guid>
-            <pubDate>Sat, 14 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['내란 수괴' 윤석열 2차 탄핵안 통과...국민의힘은 분열]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/14235046-7BA5-9272-F302-A7D7OWV8O4F0BYNOR6YZ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
