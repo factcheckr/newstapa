@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 03:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 04:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["윤석열은 계엄 천재"...부정선거 여론공작팀 몸통 찾았다]]></title>
+            <link>http://newstapa.org/article/kDCOI</link>
+            <guid>http://newstapa.org/article/kDCOI</guid>
+            <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["윤석열은 계엄 천재"...부정선거 여론공작팀 몸통 찾았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/26210817-37BE-7A9E-E739-NVSSY4W35QRRAJHGDFJM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 내란은 끝나지 않았다... 버티는 윤석열, 감싸는 국힘]]></title>
             <link>http://newstapa.org/article/yugCo</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무전망에 드러난 경찰의 거짓말 "국회 전면 통제, 계엄군은 들여보내라"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13185844-D448-DDFE-F8D8-LZ5M1IG6KA894Z3FROB3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부정선거? 음모론 망상 빠진 윤석열]]></title>
-            <link>http://newstapa.org/article/hVGp2</link>
-            <guid>http://newstapa.org/article/hVGp2</guid>
-            <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[부정선거? 음모론 망상 빠진 윤석열]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/13174233-8E14-60C6-967F-LGYF2959EX780Q18QOJH.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
