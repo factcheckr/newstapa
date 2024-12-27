@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 프로젝트</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 11:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 12:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열의 내란]]></title>
+            <link>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%EC%9D%98%20%EB%82%B4%EB%9E%80</link>
+            <guid>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%EC%9D%98%20%EB%82%B4%EB%9E%80</guid>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령이 비상 계엄 발표를 통해 시도한 국가 내란 사태를 추적, 취재합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/27203739-AF11-D535-3313-JR2RHM5K3C3IFNY82NAI.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명태균 게이트 추적]]></title>
+            <link>https://newstapa.org/tags/%EB%AA%85%ED%83%9C%EA%B7%A0%20%EA%B2%8C%EC%9D%B4%ED%8A%B8</link>
+            <guid>https://newstapa.org/tags/%EB%AA%85%ED%83%9C%EA%B7%A0%20%EA%B2%8C%EC%9D%B4%ED%8A%B8</guid>
+            <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여론조사 조작, 공천개입, 산업단지 정보 유출 등 명태균 씨를 둘러싼 의혹을 추적합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/27203641-37ED-52FE-4BFA-AO3IMKYNV4I63CWCOSXQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[언론장악 카르텔 추적]]></title>
             <link>https://newstapa.org/tags/%EC%96%B8%EB%A1%A0%EC%9E%A5%EC%95%85%20%EC%B9%B4%EB%A5%B4%ED%85%94</link>
@@ -14,6 +30,14 @@
             <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정권의 언론장악 기도가 끝없이 이어지고 있습니다. 뉴스타파와 미디어오늘, 시사IN, 오마이뉴스, 한겨레신문 등 5개 언론사가 모여 현 정부의 언론장악 실태를 추적했습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/20150451-4C3D-AFB2-E316-TB8D1VS97BM6EW7NJ3BC.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파 v. 윤석열 사건]]></title>
+            <link>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%AA%85%EC%98%88%ED%9B%BC%EC%86%90%20%EC%82%AC%EA%B1%B4</link>
+            <guid>https://newstapa.org/tags/%EC%9C%A4%EC%84%9D%EC%97%B4%20%EB%AA%85%EC%98%88%ED%9B%BC%EC%86%90%20%EC%82%AC%EA%B1%B4</guid>
+            <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰이 뉴스타파 기자들을 '윤석열 명예훼손' 혐의로 수사한 끝에 재판에 넘겼습니다. 검찰의 불법적 수사 행태와 재판 과정을 추적해 보도합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/27204055-474E-0594-BF95-ZWPOYPEW4I09T5B0PQ3U.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채 해병 사건 수사 외압 의혹]]></title>
