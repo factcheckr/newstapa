@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Dec 2024 02:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2024 03:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍준표 여론조사비 입금자는 '홍 캠프 직원'이었다]]></title>
+            <link>http://newstapa.org/article/BoA1N</link>
+            <guid>http://newstapa.org/article/BoA1N</guid>
+            <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[홍준표 여론조사비 입금자는 '홍 캠프 직원'이었다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/28001330-22D3-6869-0220-9JV4QED1VDASPXYK0SRS.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]내란과 일본언론 3: 편파 방송…윤석열은 미화, 이재명은 비난]]></title>
             <link>http://newstapa.org/article/iD_mE</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서]부정선거 확인하려고 국정원이 선관위 보안점검 했을까?]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/20165322-BABE-5C0E-066B-V8W9XO9T8JFSZ4SY2H6X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 한국산 개표기가 해외 부정선거 원흉? 윤석열 망상 팩트체크]]></title>
-            <link>http://newstapa.org/article/gc8xY</link>
-            <guid>http://newstapa.org/article/gc8xY</guid>
-            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 한국산 개표기가 해외 부정선거 원흉? 윤석열 망상 팩트체크]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/19200522-E4E4-3639-5C51-8LL7814431MCATOJ14MW.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
