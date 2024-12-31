@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 외교안보</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 09:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말]]></title>
+            <link>http://newstapa.org/article/5c-q5</link>
+            <guid>http://newstapa.org/article/5c-q5</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/31165003-CFCC-21CA-7334-R14IBW9AYI7GC9R8QI5K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 의회, "윤석열 대통령의 계엄령 선포는 민주주의에 대한 모욕"]]></title>
             <link>http://newstapa.org/article/WlURl</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] ‘2024 위기의 한반도’ 1부 &lt;김정은의 헤어질 결심?&gt;]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/11150107-8560-30EF-F045-45IUXATG78TKWLXX0TGG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'"]]></title>
-            <link>http://newstapa.org/article/8k_uv</link>
-            <guid>http://newstapa.org/article/8k_uv</guid>
-            <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김영호 통일부 장관 후보자 "이승만, 박정희보다 '더 천재'"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/11140646-1C97-4D82-EE9A-UWYFJYR7PZTVK4VHDRAI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

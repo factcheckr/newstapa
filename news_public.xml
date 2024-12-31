@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 09:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말]]></title>
+            <link>http://newstapa.org/article/5c-q5</link>
+            <guid>http://newstapa.org/article/5c-q5</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/31165003-CFCC-21CA-7334-R14IBW9AYI7GC9R8QI5K.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김용현 변호인, 3년 전 "군사 충돌 일으켜서라도 계엄" 발언]]></title>
             <link>http://newstapa.org/article/KnTdU</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[탄핵날 ‘3040 여성과 아이들’ 크게 늘어, 여의도 집회인원 전주보다 50% 증가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/19153947-A89C-669A-6C10-I0HYEH48GSJ7TSA9DJUI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역사 쓴 '응원봉' 시민들 "다시는 과거로 돌아가지 말자"]]></title>
-            <link>http://newstapa.org/article/AwlPo</link>
-            <guid>http://newstapa.org/article/AwlPo</guid>
-            <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[역사 쓴 '응원봉' 시민들 "다시는 과거로 돌아가지 말자"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/14231746-0693-B009-F057-DIK8A7WPZVYHV8QXYY43.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
