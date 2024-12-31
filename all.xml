@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 09:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 10:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제주항공 여객기 참사] 정부의 혼선과 풀어야 할 의문들 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/RpA44</link>
+            <guid>http://newstapa.org/article/RpA44</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[제주항공 여객기 참사] 정부의 혼선과 풀어야 할 의문들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/31180119-F42C-4E94-4C01-5KPAG6ZT6JKJMYT7WDLA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5c-q5</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국가예산 주무르는 ‘숨은 권력 찾기’...1·2심 이겼지만 기재부 상고]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24155238-381A-9F77-6961-O8895YEURW6CGET4REAF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/InF09</link>
-            <guid>http://newstapa.org/article/InF09</guid>
-            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24112339-AC18-F770-5497-1NGS8ADZFM1O7BOCPKNZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/25161708-45AF-3E9E-3420-RNWAXNYLMGM52J21DONO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[제주항공 여객기 참사] 정부의 혼선과 풀어야 할 의문들 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/RpA44</link>
+            <guid>http://newstapa.org/article/RpA44</guid>
+            <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[제주항공 여객기 참사] 정부의 혼선과 풀어야 할 의문들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/31180119-F42C-4E94-4C01-5KPAG6ZT6JKJMYT7WDLA.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/VSyqK</link>
             <guid>http://newstapa.org/article/VSyqK</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Thu, 11 Jul 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[오송 참사 1주기 ③ 피해자 인터뷰 : 책임자들은 지상에, 우리는 여전히 지하에]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/07/11191410-9C7E-4B73-23FD-6RZ6KB14FI5E9VDFBS29.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 금강파괴2 - 생물다양성 파괴하는 세종보 재가동 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/90bwa</link>
-            <guid>http://newstapa.org/article/90bwa</guid>
-            <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 금강파괴2 - 생물다양성 파괴하는 세종보 재가동]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/06/26170527-1964-8D46-F6FE-GZ3CEOG24ILTMMWCC0D1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[감사원, '한국사 교과서 검정 자격 조작' 관련 교육부 등 감사 착수 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3248,11 +3248,18 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[여인형·이진우 전 사령관의 새빨간 거짓말 (뉴스타파 ─ 다음뉴스)]]></title>
+            <title><![CDATA[[제주항공 여객기 참사] 정부의 혼선과 풀어야 할 의문들 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20241231183003154</link>
+            <guid>https://v.daum.net/v/20241231183003154</guid>
+            <pubDate>Tue, 31 Dec 2024 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241231183003154" class="link_column" data-tiara-layer="[제주항공_여객기_참사]_정부의_혼선과_풀어야_할_의문들_alltab"><div class="cont_thumb"><strong class="tit_txt">[제주항공 여객기 참사] 정부의 혼선과 풀어야 할 의문들</strong><span class="info_txt"><span class="txt_info">43분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241231173503936</link>
             <guid>https://v.daum.net/v/20241231173503936</guid>
             <pubDate>Tue, 31 Dec 2024 09:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241231173503936" class="link_column" data-tiara-layer="여인형·이진우_전_사령관의_새빨간_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">여인형·이진우 전 사령관의 새빨간 거짓말</strong><span class="info_txt"><span class="txt_info">37분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231173505094dyio.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241231173503936" class="link_column" data-tiara-layer="1~2일_전_내란_계획_메모한_여인형·이진우...'사전에_몰랐다'_거짓말_alltab"><div class="cont_thumb"><strong class="tit_txt">1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231173505094dyio.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231173505094dyio.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3260,7 +3267,7 @@
             <link>https://v.daum.net/v/20241231112503805</link>
             <guid>https://v.daum.net/v/20241231112503805</guid>
             <pubDate>Tue, 31 Dec 2024 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241231112503805" class="link_column" data-tiara-layer="김용현_변호인,_3년_전_&quot;군사_충돌_일으켜서라도_계엄&quot;_발언_alltab"><div class="cont_thumb"><strong class="tit_txt">김용현 변호인, 3년 전 "군사 충돌 일으켜서라도 계엄" 발언</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231134315852axvb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241231112503805" class="link_column" data-tiara-layer="김용현_변호인,_3년_전_&quot;군사_충돌_일으켜서라도_계엄&quot;_발언_alltab"><div class="cont_thumb"><strong class="tit_txt">김용현 변호인, 3년 전 "군사 충돌 일으켜서라도 계엄" 발언</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231134315852axvb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231134315852axvb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3268,7 +3275,7 @@
             <link>https://v.daum.net/v/20241230222503527</link>
             <guid>https://v.daum.net/v/20241230222503527</guid>
             <pubDate>Mon, 30 Dec 2024 14:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241230222503527" class="link_column" data-tiara-layer="한국_장비로_콩고_부정선거?_현지_언론도_모르게_창작한_'소설'_alltab"><div class="cont_thumb"><strong class="tit_txt">한국 장비로 콩고 부정선거? 현지 언론도 모르게 창작한 '소설'</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F30%2Fnewstapa%2F20241230222518408soeh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241230222503527" class="link_column" data-tiara-layer="한국_장비로_콩고_부정선거?_현지_언론도_모르게_창작한_'소설'_alltab"><div class="cont_thumb"><strong class="tit_txt">한국 장비로 콩고 부정선거? 현지 언론도 모르게 창작한 '소설'</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F30%2Fnewstapa%2F20241230222518408soeh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F30%2Fnewstapa%2F20241230222518408soeh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3300,7 +3307,7 @@
             <link>https://v.daum.net/v/20241227190502030</link>
             <guid>https://v.daum.net/v/20241227190502030</guid>
             <pubDate>Fri, 27 Dec 2024 10:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241227190502030" class="link_column" data-tiara-layer="윤석열_&quot;총_쏴서_문_부숴&quot;,&quot;계엄_2번_3번_하면_된다&quot;..._내란_입증_발언_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 "총 쏴서 문 부숴","계엄 2번 3번 하면 된다"... 내란 입증 발언 공개</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F27%2Fnewstapa%2F20241227190504594ulsc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241227190502030" class="link_column" data-tiara-layer="윤석열_&quot;총_쏴서_문_부숴&quot;,&quot;계엄_2번_3번_하면_된다&quot;..._내란_입증_발언_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 "총 쏴서 문 부숴","계엄 2번 3번 하면 된다"... 내란 입증 발언 공개</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F27%2Fnewstapa%2F20241227190504594ulsc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F27%2Fnewstapa%2F20241227190504594ulsc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3308,7 +3315,7 @@
             <link>https://v.daum.net/v/20241227183505509</link>
             <guid>https://v.daum.net/v/20241227183505509</guid>
             <pubDate>Fri, 27 Dec 2024 10:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241227183505509" class="link_column" data-tiara-layer="'국회의장_체포조'_의혹..._경찰은_알고_있었나_alltab"><div class="cont_thumb"><strong class="tit_txt">'국회의장 체포조' 의혹... 경찰은 알고 있었나</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152243286jisb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241227183505509" class="link_column" data-tiara-layer="'국회의장_체포조'_의혹..._경찰은_알고_있었나_alltab"><div class="cont_thumb"><strong class="tit_txt">'국회의장 체포조' 의혹... 경찰은 알고 있었나</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152243286jisb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152243286jisb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3477,14 +3484,6 @@
             <pubDate>Sat, 14 Dec 2024 16:13:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241215005415727" class="link_column" data-tiara-layer="'내란_수괴'_윤석열_2차_탄핵안_통과...국민의힘은_분열_alltab"><div class="cont_thumb"><strong class="tit_txt">'내란 수괴' 윤석열 2차 탄핵안 통과...국민의힘은 분열</strong><span class="info_txt"><span class="txt_info">2024. 12. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152227420mhia.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152227420mhia.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN] 내란과 일본 언론…전두환 쿠데타와 비교에서 윤석열 몰락의 아쉬움까지 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241214174503964</link>
-            <guid>https://v.daum.net/v/20241214174503964</guid>
-            <pubDate>Sat, 14 Dec 2024 09:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241214174503964" class="link_column" data-tiara-layer="[KINN]_내란과_일본_언론…전두환_쿠데타와_비교에서_윤석열_몰락의_아쉬움까지_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN] 내란과 일본 언론…전두환 쿠데타와 비교에서 윤석열 몰락의 아쉬움까지</strong><span class="info_txt"><span class="txt_info">2024. 12. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F14%2Fnewstapa%2F20241214174505655xrer.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F14%2Fnewstapa%2F20241214174505655xrer.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
