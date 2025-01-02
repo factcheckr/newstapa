@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 10:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 11:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/r1_k0</link>
+            <guid>http://newstapa.org/article/r1_k0</guid>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/02173423-8D2D-BC8B-679E-KUF145EDXTKXCLRFBC6Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/meyK3</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 내란은 끝나지 않았다... 버티는 윤석열, 감싸는 국힘]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/26192556-DABF-BD9A-5D17-6K752ZYCB4DZ8F5SVDK2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[‘진실의 수호자’ 5만 시대] 회원의 힘①: 검찰 특활비⋅특경비 587억 전액 삭감 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/Wry5q</link>
-            <guid>http://newstapa.org/article/Wry5q</guid>
-            <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[‘진실의 수호자’ 5만 시대] 회원의 힘①: 검찰 특활비⋅특경비 587억 전액 삭감]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/26155105-2918-2419-2536-QNG0P0K7J7R1A8BCFAPC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2017/09/326e5971009b2f261075bcc7b68f8c988893d6c8a5029d466f7580bae13e9741077829d58ca57f3b331958295240c9defa10346d40905e97ec7b6c1cb022649b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
+            <link>http://newstapa.org/article/r1_k0</link>
+            <guid>http://newstapa.org/article/r1_k0</guid>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/02173423-8D2D-BC8B-679E-KUF145EDXTKXCLRFBC6Z.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[돌아온 트럼피즘, 협상 테이블 위에 멀리건은 없다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
             <link>http://newstapa.org/article/tTJ1F</link>
             <guid>http://newstapa.org/article/tTJ1F</guid>
@@ -894,14 +902,6 @@
             <pubDate>Tue, 31 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[최초 소송] 600조 국가 예산의 ‘보이지 않는 손’을 공개하라]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/05/30151957-6C62-B028-AF72-D514VD4MCZ9NBCO55962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다 (뉴스타파 ─ 뉴스 ─ 경제소비자)]]></title>
-            <link>http://newstapa.org/article/mDXEi</link>
-            <guid>http://newstapa.org/article/mDXEi</guid>
-            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[데이팅 앱 '아만다', 가짜 여성 계정 만들어 이용자 속였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/04/14121747-E111-4144-C2BC-XOPGZ520VQ11MWN2QOOZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴스타파X살아지구] 숨의 격차 미세먼지속 아이들③ 1년 중 며칠이나 '건강위험'에 노출됐나 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
@@ -3248,11 +3248,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250102200004181</link>
+            <guid>https://v.daum.net/v/20250102200004181</guid>
+            <pubDate>Thu, 02 Jan 2025 11:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250102200004181" class="link_column" data-tiara-layer="[주간_뉴스타파]_탄핵_늦추는_내란_동조자들,_볼모_잡힌_2025년_경제_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 탄핵 늦추는 내란 동조자들, 볼모 잡힌 2025년 경제</strong><span class="info_txt"><span class="txt_info">11분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102200015573fptm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102200015573fptm.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250102170004913</link>
             <guid>https://v.daum.net/v/20250102170004913</guid>
             <pubDate>Thu, 02 Jan 2025 08:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250102170004913" class="link_column" data-tiara-layer="[긴급_기고]_대통령_경호처가_알아야_할_27년_전_특수공무집행방해_판례_alltab"><div class="cont_thumb"><strong class="tit_txt">[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102170006103izqw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250102170004913" class="link_column" data-tiara-layer="[긴급_기고]_대통령_경호처가_알아야_할_27년_전_특수공무집행방해_판례_alltab"><div class="cont_thumb"><strong class="tit_txt">[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102170006103izqw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102170006103izqw.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3363,7 +3371,7 @@
             <link>https://v.daum.net/v/20241226200003315</link>
             <guid>https://v.daum.net/v/20241226200003315</guid>
             <pubDate>Thu, 26 Dec 2024 11:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241226200003315" class="link_column" data-tiara-layer="[주간_뉴스타파]_내란은_끝나지_않았다..._버티는_윤석열,_감싸는_국힘_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내란은 끝나지 않았다... 버티는 윤석열, 감싸는 국힘</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152252310ohoq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241226200003315" class="link_column" data-tiara-layer="[주간_뉴스타파]_내란은_끝나지_않았다..._버티는_윤석열,_감싸는_국힘_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내란은 끝나지 않았다... 버티는 윤석열, 감싸는 국힘</strong><span class="info_txt"><span class="txt_info">2024. 12. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152252310ohoq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152252310ohoq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3476,14 +3484,6 @@
             <pubDate>Wed, 18 Dec 2024 02:20:27 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241218100001387" class="link_column" data-tiara-layer="'국민_입틀막'_계엄법,_선진국에선_기본권_제한_불가_alltab"><div class="cont_thumb"><strong class="tit_txt">'국민 입틀막' 계엄법, 선진국에선 기본권 제한 불가</strong><span class="info_txt"><span class="txt_info">2024. 12. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152213891jvcg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152213891jvcg.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌' (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241217175004562</link>
-            <guid>https://v.daum.net/v/20241217175004562</guid>
-            <pubDate>Tue, 17 Dec 2024 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241217175004562" class="link_column" data-tiara-layer="헌법재판관_성향_분석..._6명_중_5명이_'긴급조치는_위헌'_alltab"><div class="cont_thumb"><strong class="tit_txt">헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌'</strong><span class="info_txt"><span class="txt_info">2024. 12. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217175005906zxjn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217175005906zxjn.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
