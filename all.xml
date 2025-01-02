@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 07:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 08:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/meyK3</link>
+            <guid>http://newstapa.org/article/meyK3</guid>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/02164659-A1D2-DCF4-AEC0-7ED02LMX1YXH9W03JZ3I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2024 뉴스타파 회원의 밤 '함께 쓰는 우산' (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/s1vw8</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[‘진실의 수호자’ 5만 시대] 회원의 힘①: 검찰 특활비⋅특경비 587억 전액 삭감]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/26155105-2918-2419-2536-QNG0P0K7J7R1A8BCFAPC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“계좌번호 좀 내주이소”...홍준표 최측근이 여론조사비 대납 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/9VIWE</link>
-            <guid>http://newstapa.org/article/9VIWE</guid>
-            <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“계좌번호 좀 내주이소”...홍준표 최측근이 여론조사비 대납]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24172814-1DA3-5564-8D6E-FKAEW0I2KJ6O82IQK9T6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1~2일 전 내란 계획 메모한 여인형·이진우...'사전에 몰랐다' 거짓말 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/19153947-A89C-669A-6C10-I0HYEH48GSJ7TSA9DJUI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/meyK3</link>
+            <guid>http://newstapa.org/article/meyK3</guid>
+            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/02164659-A1D2-DCF4-AEC0-7ED02LMX1YXH9W03JZ3I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['국회의장 체포조' 의혹... 경찰은 알고 있었나 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/5KQdO</link>
             <guid>http://newstapa.org/article/5KQdO</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[난중칼럼] 대한민국 검찰의 ‘아무’ 사건과 ‘아무 아닌’ 사건]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/21182345-6DCE-F7C0-624B-37T9GB8N3NFED02I3BTJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] '윤석열 수사팀'의 조우형 봐주기, 결정적 증거 나왔다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/oHYqZ</link>
-            <guid>http://newstapa.org/article/oHYqZ</guid>
-            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] '윤석열 수사팀'의 조우형 봐주기, 결정적 증거 나왔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17185751-E4BB-8FAF-BEA7-8V7HTVHZTDVJDIKNSR78.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 부정 사용 범벅 검찰 특수활동비... 80억 원 → 0원 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3248,6 +3248,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250102170004913</link>
+            <guid>https://v.daum.net/v/20250102170004913</guid>
+            <pubDate>Thu, 02 Jan 2025 08:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250102170004913" class="link_column" data-tiara-layer="[긴급_기고]_대통령_경호처가_알아야_할_27년_전_특수공무집행방해_판례_alltab"><div class="cont_thumb"><strong class="tit_txt">[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례</strong><span class="info_txt"><span class="txt_info">15분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102170006103izqw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102170006103izqw.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[2024 뉴스타파 회원의 밤 '함께 쓰는 우산' (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20241231210003085</link>
             <guid>https://v.daum.net/v/20241231210003085</guid>
@@ -3476,14 +3484,6 @@
             <pubDate>Tue, 17 Dec 2024 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241217175004562" class="link_column" data-tiara-layer="헌법재판관_성향_분석..._6명_중_5명이_'긴급조치는_위헌'_alltab"><div class="cont_thumb"><strong class="tit_txt">헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌'</strong><span class="info_txt"><span class="txt_info">2024. 12. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217175005906zxjn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217175005906zxjn.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]내란과 일본 언론2: ‘탄핵 당연’에서 ‘이재명에 친북좌파 딱지’까지 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20241217173503070</link>
-            <guid>https://v.daum.net/v/20241217173503070</guid>
-            <pubDate>Tue, 17 Dec 2024 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241217173503070" class="link_column" data-tiara-layer="[KINN]내란과_일본_언론2:_‘탄핵_당연’에서_‘이재명에_친북좌파_딱지’까지_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN]내란과 일본 언론2: ‘탄핵 당연’에서 ‘이재명에 친북좌파 딱지’까지</strong><span class="info_txt"><span class="txt_info">2024. 12. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217173504561ywzj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217173504561ywzj.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

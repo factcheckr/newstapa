@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 07:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 08:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례]]></title>
+            <link>https://v.daum.net/v/20250102170004913</link>
+            <guid>https://v.daum.net/v/20250102170004913</guid>
+            <pubDate>Thu, 02 Jan 2025 08:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250102170004913" class="link_column" data-tiara-layer="[긴급_기고]_대통령_경호처가_알아야_할_27년_전_특수공무집행방해_판례_alltab"><div class="cont_thumb"><strong class="tit_txt">[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례</strong><span class="info_txt"><span class="txt_info">15분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102170006103izqw.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F02%2Fnewstapa%2F20250102170006103izqw.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[2024 뉴스타파 회원의 밤 '함께 쓰는 우산']]></title>
             <link>https://v.daum.net/v/20241231210003085</link>
@@ -236,14 +244,6 @@
             <pubDate>Tue, 17 Dec 2024 09:14:18 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241217175004562" class="link_column" data-tiara-layer="헌법재판관_성향_분석..._6명_중_5명이_'긴급조치는_위헌'_alltab"><div class="cont_thumb"><strong class="tit_txt">헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌'</strong><span class="info_txt"><span class="txt_info">2024. 12. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217175005906zxjn.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217175005906zxjn.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]내란과 일본 언론2: ‘탄핵 당연’에서 ‘이재명에 친북좌파 딱지’까지]]></title>
-            <link>https://v.daum.net/v/20241217173503070</link>
-            <guid>https://v.daum.net/v/20241217173503070</guid>
-            <pubDate>Tue, 17 Dec 2024 09:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241217173503070" class="link_column" data-tiara-layer="[KINN]내란과_일본_언론2:_‘탄핵_당연’에서_‘이재명에_친북좌파_딱지’까지_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN]내란과 일본 언론2: ‘탄핵 당연’에서 ‘이재명에 친북좌파 딱지’까지</strong><span class="info_txt"><span class="txt_info">2024. 12. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217173504561ywzj.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F17%2Fnewstapa%2F20241217173504561ywzj.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
