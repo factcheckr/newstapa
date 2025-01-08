@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 09:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다]]></title>
+            <link>http://newstapa.org/article/NzPjK</link>
+            <guid>http://newstapa.org/article/NzPjK</guid>
+            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/08173109-153F-586F-20CF-JG5V6KMDN9CQ8W5C7R48.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]내란과 일본언론 3: 편파 방송…윤석열은 미화, 이재명은 비난]]></title>
             <link>http://newstapa.org/article/iD_mE</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[언론장악 카르텔]⑫ 방심위 '청부민원' 닮은 국민권익위 '청부신고' 의혹]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/15135628-DD5D-914C-AB8F-NXYDU02ASVCJD53PNS1Z.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]⑪ 김대남 "尹 명예훼손 수사는 총선용 입틀막 수사"]]></title>
-            <link>http://newstapa.org/article/dNBm7</link>
-            <guid>http://newstapa.org/article/dNBm7</guid>
-            <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔]⑪ 김대남 "尹 명예훼손 수사는 총선용 입틀막 수사"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/11150019-0C68-FA8A-8D76-O0VBKXWCV2N1H3QPEMD6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

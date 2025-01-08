@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 08:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 09:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다]]></title>
+            <link>https://v.daum.net/v/20250108173504668</link>
+            <guid>https://v.daum.net/v/20250108173504668</guid>
+            <pubDate>Wed, 08 Jan 2025 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250108173504668" class="link_column" data-tiara-layer="선거연수원서_중국_해커_90명_체포?_'부정선거'_악순환의_고리_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다</strong><span class="info_txt"><span class="txt_info">38분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108173506087jpda.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108173506087jpda.png" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[신년 기고] 윤석열을 낳은 검찰 특활비, 부활은 절대 안 돼]]></title>
             <link>https://v.daum.net/v/20250106162502688</link>
@@ -235,14 +243,6 @@
             <pubDate>Thu, 19 Dec 2024 12:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241219201016244" class="link_column" data-tiara-layer="윤석열이_믿은_해외_'부정선거'...현지_언론과_협업해_팩트체크_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열이 믿은 해외 '부정선거'...현지 언론과 협업해 팩트체크</strong><span class="info_txt"><span class="txt_info">2024. 12. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152330817yixa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152330817yixa.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[키르기스스탄 기자 인터뷰 "한국산 전자개표기는 부정선거와 관련없다"]]></title>
-            <link>https://v.daum.net/v/20241219201002235</link>
-            <guid>https://v.daum.net/v/20241219201002235</guid>
-            <pubDate>Thu, 19 Dec 2024 12:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20241219201002235" class="link_column" data-tiara-layer="키르기스스탄_기자_인터뷰_&quot;한국산_전자개표기는_부정선거와_관련없다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">키르기스스탄 기자 인터뷰 "한국산 전자개표기는 부정선거와 관련없다"</strong><span class="info_txt"><span class="txt_info">2024. 12. 19.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152209063jtjh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202412%2F31%2Fnewstapa%2F20241231152209063jtjh.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
