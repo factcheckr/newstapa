@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 08:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 09:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘도리도리’ 코칭한 명태균 "부동시 때문이라 말하라"]]></title>
+            <link>http://newstapa.org/article/-Evkw</link>
+            <guid>http://newstapa.org/article/-Evkw</guid>
+            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘도리도리’ 코칭한 명태균 "부동시 때문이라 말하라"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09184306-4F8B-E194-A553-8UVOLE93VUEK6G25VZH7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></title>
+            <link>http://newstapa.org/article/V32_V</link>
+            <guid>http://newstapa.org/article/V32_V</guid>
+            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10145028-00F9-9345-C85D-ZT71RGZBHPYHXOXGOBKM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집방송] 명-윤-김 카톡 추가 공개... 선대위원장도 명태균이 찍었다]]></title>
             <link>http://newstapa.org/article/EVfTU</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 "총 쏴서 문 부숴","계엄 2번 3번 하면 된다"... 내란 입증 발언 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/27185851-6307-E65F-27E0-M27RZEIV91NRZBLVREGX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤석열은 계엄 천재"...부정선거 여론공작팀 몸통 찾았다]]></title>
-            <link>http://newstapa.org/article/kDCOI</link>
-            <guid>http://newstapa.org/article/kDCOI</guid>
-            <pubDate>Fri, 27 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["윤석열은 계엄 천재"...부정선거 여론공작팀 몸통 찾았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/26210817-37BE-7A9E-E739-NVSSY4W35QRRAJHGDFJM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 내란은 끝나지 않았다... 버티는 윤석열, 감싸는 국힘]]></title>
-            <link>http://newstapa.org/article/yugCo</link>
-            <guid>http://newstapa.org/article/yugCo</guid>
-            <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 내란은 끝나지 않았다... 버티는 윤석열, 감싸는 국힘]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/26192556-DABF-BD9A-5D17-6K752ZYCB4DZ8F5SVDK2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
