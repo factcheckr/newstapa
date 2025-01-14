@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 14:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 15:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파 데이터포털]]></title>
+            <link>https://data.newstapa.org/</link>
+            <guid>https://data.newstapa.org/</guid>
+            <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17143836-A5D7-8B91-9AA3-9ZWV50OC6V8INHWE8W5N.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명태균 게이트, 판도라의 상자를 열다]]></title>
             <link>https://pages.newstapa.org/2025/pandora/</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 27 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한국전쟁 기간 민간인학살 사건을 전수조사해 제작한 특별 페이지입니다. 총 57,882명에 이르는 민간인을 학살한 주체가 과연 누구인지, 또 희생자들이 언제, 어디서, 어떻게, 왜 학살로 내몰렸는지 입체적으로 확인할 수 있습니다.]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/27180311-E8E2-9D04-288B-CTQ6LIQBN5PS31K8LENH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파 데이터포털]]></title>
-            <link>https://data.newstapa.org/</link>
-            <guid>https://data.newstapa.org/</guid>
-            <pubDate>Tue, 07 Jul 2020 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 수집한 각종 데이터를 누구나 열람하고 다운받을 수 있는 ‘뉴스타파 데이터포털’ 사이트 를 제작해 오픈합니다. 지난 2012년 뉴스타파 출범 이후 지금까지 수집한 데이터 세트가 수록돼 있습니다.]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17143836-A5D7-8B91-9AA3-9ZWV50OC6V8INHWE8W5N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공직자 재산 공개]]></title>
