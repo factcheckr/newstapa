@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 데이터</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 13:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 14:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명태균 게이트, 판도라의 상자를 열다]]></title>
+            <link>https://pages.newstapa.org/2025/pandora/</link>
+            <guid>https://pages.newstapa.org/2025/pandora/</guid>
+            <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[107쪽 분량의 검찰 수사보고서에 포함된 명태균과 윤석열·김건희 부부의 카카오톡 및 텔레그램 대화 화면 캡처 이미지 280건을 복원해 공개합니다.]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/14230630-E1F0-095D-798D-YCHM9VC4SF89YLYL7V28.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 내란, 부역자는 기록된다]]></title>
             <link>https://pages.newstapa.org/2024/traitors/</link>
