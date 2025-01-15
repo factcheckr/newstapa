@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 10:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 11:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 체포, 끝이 아니다]]></title>
+            <link>http://newstapa.org/article/WrAgs</link>
+            <guid>http://newstapa.org/article/WrAgs</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 체포, 끝이 아니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15193933-A29E-90AF-7E61-VK8NTRKZH3C6MON7ZM3W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내란수괴' 윤석열 체포, 이제는 '진상 규명 vs 절차 지연' 싸움]]></title>
+            <link>http://newstapa.org/article/xiLEE</link>
+            <guid>http://newstapa.org/article/xiLEE</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['내란수괴' 윤석열 체포, 이제는 '진상 규명 vs 절차 지연' 싸움]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15185155-6572-D585-815B-X57SMG6TPDYZT9Z9D1M4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헌정 사상 최초 현직 대통령 체포, 15일 만에 끝난 버티기]]></title>
+            <link>http://newstapa.org/article/g7wZg</link>
+            <guid>http://newstapa.org/article/g7wZg</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헌정 사상 최초 현직 대통령 체포, 15일 만에 끝난 버티기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15191400-18A2-002B-8D6F-UV4J0SW1MU4AAJ2PPNID.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></title>
             <link>http://newstapa.org/article/XwGNo</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[동체착륙의 재구성...ADS-B 항적 데이터 분석]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09161353-F79E-416A-9385-57973NHPTRLV37XXV9X9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새떼와 콘크리트... 안전과 비용 사이 타협의 결과]]></title>
-            <link>http://newstapa.org/article/L-Zon</link>
-            <guid>http://newstapa.org/article/L-Zon</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[새떼와 콘크리트... 안전과 비용 사이 타협의 결과]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09194659-B177-04D8-4A1B-UFVYIX54F7N7YBH5YL1C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집방송] 명-윤-김 카톡 추가 공개... 선대위원장도 명태균이 찍었다]]></title>
-            <link>http://newstapa.org/article/EVfTU</link>
-            <guid>http://newstapa.org/article/EVfTU</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집방송] 명-윤-김 카톡 추가 공개... 선대위원장도 명태균이 찍었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09185407-0D4B-2391-6CA8-TDW59XWPJ7AINW3HH887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 명태균 카톡 공개, 尹 캠프 본부장급 인사 직접 했다]]></title>
-            <link>http://newstapa.org/article/BqAwr</link>
-            <guid>http://newstapa.org/article/BqAwr</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['킹메이커' 명태균 카톡 공개, 尹 캠프 본부장급 인사 직접 했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09175140-C88C-0CCB-1814-9EEG1EIXLFMK9Q6SY3M5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

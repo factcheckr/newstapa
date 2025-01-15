@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 10:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 11:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 체포, 끝이 아니다]]></title>
+            <link>http://newstapa.org/article/WrAgs</link>
+            <guid>http://newstapa.org/article/WrAgs</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 체포, 끝이 아니다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15193933-A29E-90AF-7E61-VK8NTRKZH3C6MON7ZM3W.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내란수괴' 윤석열 체포, 이제는 '진상 규명 vs 절차 지연' 싸움]]></title>
+            <link>http://newstapa.org/article/xiLEE</link>
+            <guid>http://newstapa.org/article/xiLEE</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['내란수괴' 윤석열 체포, 이제는 '진상 규명 vs 절차 지연' 싸움]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15185155-6572-D585-815B-X57SMG6TPDYZT9Z9D1M4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헌정 사상 최초 현직 대통령 체포, 15일 만에 끝난 버티기]]></title>
+            <link>http://newstapa.org/article/g7wZg</link>
+            <guid>http://newstapa.org/article/g7wZg</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[헌정 사상 최초 현직 대통령 체포, 15일 만에 끝난 버티기]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15191400-18A2-002B-8D6F-UV4J0SW1MU4AAJ2PPNID.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></title>
             <link>http://newstapa.org/article/XwGNo</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특집방송] '명태균-김건희·윤석열' 카톡 입수... 윤석열 기소할 물증 나왔다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/08193805-94F5-0DC6-55B7-HKGYODYXI3OWFGLSAAC9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희-명태균 카톡 공개...'명태균 보고서' 받은 김건희 반응은 "충성"]]></title>
-            <link>http://newstapa.org/article/_e0cT</link>
-            <guid>http://newstapa.org/article/_e0cT</guid>
-            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김건희-명태균 카톡 공개...'명태균 보고서' 받은 김건희 반응은 "충성"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/01153454-4F88-CC0D-02F9-EFR9ULV5X71VU0XL52QM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열-김건희 ‘명태균 보고서’ 수수… 검찰, 범죄 혐의 물증 잡고도 ‘침묵’]]></title>
-            <link>http://newstapa.org/article/g2IMY</link>
-            <guid>http://newstapa.org/article/g2IMY</guid>
-            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열-김건희 ‘명태균 보고서’ 수수… 검찰, 범죄 혐의 물증 잡고도 ‘침묵’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/06104750-2C5B-D350-ECCD-T0MYNPQLTY98MD0KNIBJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["전두환 발언에 TK 지지율 올라" 명태균 보고에 윤석열 "ㅇㅋ"]]></title>
-            <link>http://newstapa.org/article/cCFoC</link>
-            <guid>http://newstapa.org/article/cCFoC</guid>
-            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["전두환 발언에 TK 지지율 올라" 명태균 보고에 윤석열 "ㅇㅋ"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/06111859-488A-8E13-095C-3HPXSXXJW6MNXYDFVFY5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
