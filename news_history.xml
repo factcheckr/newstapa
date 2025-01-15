@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 역사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 08:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></title>
+            <link>http://newstapa.org/article/XwGNo</link>
+            <guid>http://newstapa.org/article/XwGNo</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15162723-D65A-487E-1EF6-74B56STNDVHN4YICLXWI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[난중칼럼] 검찰은 '윤석열 내란' 수사에서 손을 떼라]]></title>
             <link>http://newstapa.org/article/GKHlt</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["친일 인사 거부"... 초유의 '따로 따로' 광복절 기념식]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/15195748-B751-452B-7D57-T0WWOWAREBLSMAGLFHTR.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다]]></title>
-            <link>http://newstapa.org/article/i8lyY</link>
-            <guid>http://newstapa.org/article/i8lyY</guid>
-            <pubDate>Fri, 09 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[자유언론실천선언 50년㉑] '개'라고 불린 기자들...자유 언론은 해방이었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/09133353-D71F-F81D-9906-J7QRSO6HPJ8LYW46L1N3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

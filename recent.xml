@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 08:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></title>
+            <link>http://newstapa.org/article/XwGNo</link>
+            <guid>http://newstapa.org/article/XwGNo</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15162723-D65A-487E-1EF6-74B56STNDVHN4YICLXWI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집방송] 명태균 카톡 담은 '검찰 수사보고서' 전면 공개]]></title>
             <link>http://newstapa.org/article/JrIV9</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['킹메이커' 명태균 카톡 공개, 尹 캠프 본부장급 인사 직접 했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09175140-C88C-0CCB-1814-9EEG1EIXLFMK9Q6SY3M5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 명태균에게 물은 윤석열, "연합뉴스 인터뷰 방향 좀"]]></title>
-            <link>http://newstapa.org/article/eDkW_</link>
-            <guid>http://newstapa.org/article/eDkW_</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['킹메이커' 명태균에게 물은 윤석열, "연합뉴스 인터뷰 방향 좀"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09113106-2466-5859-D5A9-FXCKAFBYUSR14SVDVJKP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

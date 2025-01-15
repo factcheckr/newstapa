@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 08:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></title>
+            <link>http://newstapa.org/article/XwGNo</link>
+            <guid>http://newstapa.org/article/XwGNo</guid>
+            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15162723-D65A-487E-1EF6-74B56STNDVHN4YICLXWI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집방송] 명태균 카톡 담은 '검찰 수사보고서' 전면 공개]]></title>
             <link>http://newstapa.org/article/JrIV9</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["전두환 발언에 TK 지지율 올라" 명태균 보고에 윤석열 "ㅇㅋ"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/06111859-488A-8E13-095C-3HPXSXXJW6MNXYDFVFY5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 체포 불발…법원 체포 영장 무시한 경호처]]></title>
-            <link>http://newstapa.org/article/0dSpp</link>
-            <guid>http://newstapa.org/article/0dSpp</guid>
-            <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 체포 불발…법원 체포 영장 무시한 경호처]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/03211454-E1D9-FC03-2DFA-Y32044711KWV2SZLXFQ2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
