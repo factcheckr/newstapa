@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jan 2025 08:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 09:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박정훈 1심 무죄... 이젠 '윤석열의 외압'을 수사할 때]]></title>
+            <link>http://newstapa.org/article/ocVSL</link>
+            <guid>http://newstapa.org/article/ocVSL</guid>
+            <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[박정훈 1심 무죄... 이젠 '윤석열의 외압'을 수사할 때]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/16180012-8769-3E35-3538-REVK2OIKZJ9AMHDZHVE5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 윤석열 체포, 끝이 아니다]]></title>
             <link>http://newstapa.org/article/WrAgs</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['킹메이커' 명태균에게 물은 윤석열, "연합뉴스 인터뷰 방향 좀"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09113106-2466-5859-D5A9-FXCKAFBYUSR14SVDVJKP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집방송] '명태균-김건희·윤석열' 카톡 입수... 윤석열 기소할 물증 나왔다]]></title>
-            <link>http://newstapa.org/article/uVvAl</link>
-            <guid>http://newstapa.org/article/uVvAl</guid>
-            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집방송] '명태균-김건희·윤석열' 카톡 입수... 윤석열 기소할 물증 나왔다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/08193805-94F5-0DC6-55B7-HKGYODYXI3OWFGLSAAC9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
