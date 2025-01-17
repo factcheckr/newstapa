@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 06:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 07:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></title>
+            <link>http://newstapa.org/article/8IrM1</link>
+            <guid>http://newstapa.org/article/8IrM1</guid>
+            <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/17153236-AF24-349A-5C07-E8Q2U7G6AF8EWRMQ8EF9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박정훈 1심 무죄... 이젠 '윤석열의 외압'을 수사할 때]]></title>
             <link>http://newstapa.org/article/ocVSL</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['킹메이커' 명태균 카톡 공개, 尹 캠프 본부장급 인사 직접 했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09175140-C88C-0CCB-1814-9EEG1EIXLFMK9Q6SY3M5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 명태균에게 물은 윤석열, "연합뉴스 인터뷰 방향 좀"]]></title>
-            <link>http://newstapa.org/article/eDkW_</link>
-            <guid>http://newstapa.org/article/eDkW_</guid>
-            <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['킹메이커' 명태균에게 물은 윤석열, "연합뉴스 인터뷰 방향 좀"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09113106-2466-5859-D5A9-FXCKAFBYUSR14SVDVJKP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
