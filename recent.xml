@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 03:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 04:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></title>
+            <link>http://newstapa.org/article/3UaQT</link>
+            <guid>http://newstapa.org/article/3UaQT</guid>
+            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/19122928-8308-697D-64E2-0K9KHWPBXLVBTXHND4NM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]내란과 일본언론4: 주간후지, 공수처는 한국판 ‘게슈타포’]]></title>
             <link>http://newstapa.org/article/-o_iM</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10145028-00F9-9345-C85D-ZT71RGZBHPYHXOXGOBKM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 무안공항에 모인 기자들... 언론의 '조별 과제'가 시험대에 오르다]]></title>
-            <link>http://newstapa.org/article/3M2Rx</link>
-            <guid>http://newstapa.org/article/3M2Rx</guid>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 무안공항에 모인 기자들... 언론의 '조별 과제'가 시험대에 오르다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10160401-8A04-34A3-C17A-9U8SMS130U70ICT5TARQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

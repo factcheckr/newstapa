@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jan 2025 03:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 04:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></title>
+            <link>https://v.daum.net/v/20250119131003658</link>
+            <guid>https://v.daum.net/v/20250119131003658</guid>
+            <pubDate>Sun, 19 Jan 2025 04:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250119131003658" class="link_column" data-tiara-layer="윤석열_구속,_파괴된_헌정_회복_첫_걸음_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 구속, 파괴된 헌정 회복 첫 걸음</strong><span class="info_txt"><span class="txt_info">4분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F19%2Fnewstapa%2F20250119131015979lwel.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F19%2Fnewstapa%2F20250119131015979lwel.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]내란과 일본언론4: 주간후지, 공수처는 한국판 ‘게슈타포’]]></title>
             <link>https://v.daum.net/v/20250117172502449</link>
@@ -238,13 +246,6 @@
             <pubDate>Wed, 08 Jan 2025 09:13:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250108173504668" class="link_column" data-tiara-layer="선거연수원서_중국_해커_90명_체포?_'부정선거'_악순환의_고리_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다</strong><span class="info_txt"><span class="txt_info">2025. 1. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108173506087jpda.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108173506087jpda.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[신년 기고] 윤석열을 낳은 검찰 특활비, 부활은 절대 안 돼]]></title>
-            <link>https://v.daum.net/v/20250106162502688</link>
-            <guid>https://v.daum.net/v/20250106162502688</guid>
-            <pubDate>Mon, 06 Jan 2025 08:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250106162502688" class="link_column" data-tiara-layer="[신년_기고]_윤석열을_낳은_검찰_특활비,_부활은_절대_안_돼_alltab"><div class="cont_thumb"><strong class="tit_txt">[신년 기고] 윤석열을 낳은 검찰 특활비, 부활은 절대 안 돼</strong><span class="info_txt"><span class="txt_info">2025. 1. 6.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
