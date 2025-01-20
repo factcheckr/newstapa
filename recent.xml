@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 03:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 04:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다]]></title>
+            <link>http://newstapa.org/article/C_G6k</link>
+            <guid>http://newstapa.org/article/C_G6k</guid>
+            <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/20093311-587C-EF4B-03C8-XCEFYQC59IZ2BURJ480P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></title>
             <link>http://newstapa.org/article/3UaQT</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘도리도리’ 코칭한 명태균 "부동시 때문이라 말하라"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09184306-4F8B-E194-A553-8UVOLE93VUEK6G25VZH7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></title>
-            <link>http://newstapa.org/article/V32_V</link>
-            <guid>http://newstapa.org/article/V32_V</guid>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10145028-00F9-9345-C85D-ZT71RGZBHPYHXOXGOBKM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

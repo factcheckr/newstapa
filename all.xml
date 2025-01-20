@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 03:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 04:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/C_G6k</link>
+            <guid>http://newstapa.org/article/C_G6k</guid>
+            <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/20093311-587C-EF4B-03C8-XCEFYQC59IZ2BURJ480P.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/3UaQT</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘도리도리’ 코칭한 명태균 "부동시 때문이라 말하라"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09184306-4F8B-E194-A553-8UVOLE93VUEK6G25VZH7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/V32_V</link>
-            <guid>http://newstapa.org/article/V32_V</guid>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10145028-00F9-9345-C85D-ZT71RGZBHPYHXOXGOBKM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/21170312-42F4-AC15-F9F0-PHRM37ZKOXZ0J9CAWR1L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/C_G6k</link>
+            <guid>http://newstapa.org/article/C_G6k</guid>
+            <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/20093311-587C-EF4B-03C8-XCEFYQC59IZ2BURJ480P.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 무안공항에 모인 기자들... 언론의 '조별 과제'가 시험대에 오르다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/3M2Rx</link>
             <guid>http://newstapa.org/article/3M2Rx</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17203021-86EC-D8D1-6422-WADP3A8IAJYJ80HLKCLG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ② 과로와 공짜노동... 로켓배송은 죽음을 향한다 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/gw_2T</link>
-            <guid>http://newstapa.org/article/gw_2T</guid>
-            <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ② 과로와 공짜노동... 로켓배송은 죽음을 향한다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/30103002-C41A-D6F9-01EE-DS1XTQXJT57XWM8LHJLT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 제주항공 참사, 밝혀야 할 것과 바꿔야 할 것 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3256,11 +3256,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250120131005556</link>
+            <guid>https://v.daum.net/v/20250120131005556</guid>
+            <pubDate>Mon, 20 Jan 2025 04:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250120131005556" class="link_column" data-tiara-layer="다가온_'쿠팡_청문회'..._핵심은_'야간노동'이다_alltab"><div class="cont_thumb"><strong class="tit_txt">다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다</strong><span class="info_txt"><span class="txt_info">4분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F20%2Fnewstapa%2F20250120131007066ndko.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F20%2Fnewstapa%2F20250120131007066ndko.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250119131003658</link>
             <guid>https://v.daum.net/v/20250119131003658</guid>
             <pubDate>Sun, 19 Jan 2025 04:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250119131003658" class="link_column" data-tiara-layer="윤석열_구속,_파괴된_헌정_회복_첫_걸음_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 구속, 파괴된 헌정 회복 첫 걸음</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F19%2Fnewstapa%2F20250119131015979lwel.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250119131003658" class="link_column" data-tiara-layer="윤석열_구속,_파괴된_헌정_회복_첫_걸음_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 구속, 파괴된 헌정 회복 첫 걸음</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F19%2Fnewstapa%2F20250119131015979lwel.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F19%2Fnewstapa%2F20250119131015979lwel.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3486,14 +3494,6 @@
             <pubDate>Wed, 08 Jan 2025 12:21:43 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250108210003541" class="link_column" data-tiara-layer="&quot;전두환_발언에_TK_지지율_올라&quot;_명태균_보고에_윤석열_&quot;ㅇㅋ&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">"전두환 발언에 TK 지지율 올라" 명태균 보고에 윤석열 "ㅇㅋ"</strong><span class="info_txt"><span class="txt_info">2025. 1. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108210011939imrm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108210011939imrm.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250108173504668</link>
-            <guid>https://v.daum.net/v/20250108173504668</guid>
-            <pubDate>Wed, 08 Jan 2025 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250108173504668" class="link_column" data-tiara-layer="선거연수원서_중국_해커_90명_체포?_'부정선거'_악순환의_고리_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">선거연수원서 중국 해커 90명 체포? '부정선거' 악순환의 고리 찾았다</strong><span class="info_txt"><span class="txt_info">2025. 1. 8.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108173506087jpda.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F08%2Fnewstapa%2F20250108173506087jpda.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
