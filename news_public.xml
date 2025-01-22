@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 11:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 12:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고]]></title>
+            <link>http://newstapa.org/article/bmGoW</link>
+            <guid>http://newstapa.org/article/bmGoW</guid>
+            <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/22210702-51CC-1CA3-73B8-DA7BYV8NME2F7H06PNBO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[윤석열의 해석 개헌] 7. 윤석열은 헌법을 살해하려 한다]]></title>
             <link>http://newstapa.org/article/6uFum</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘도리도리’ 코칭한 명태균 "부동시 때문이라 말하라"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09184306-4F8B-E194-A553-8UVOLE93VUEK6G25VZH7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></title>
-            <link>http://newstapa.org/article/V32_V</link>
-            <guid>http://newstapa.org/article/V32_V</guid>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“장님 무사와 주술사” 증명 카톡... 김건희가 ‘대선 후보’였다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10145028-00F9-9345-C85D-ZT71RGZBHPYHXOXGOBKM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
