@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 04:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 05:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의' (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/aY3VR</link>
+            <guid>http://newstapa.org/article/aY3VR</guid>
+            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23123333-45D5-170F-5B0D-WKXMY6QV75CWDLLOKAPG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/oged1</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“남쪽 순방길 조심하라”...명태균 '꿈'으로 뒤집힌 순방 일정]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09191051-40D2-79A1-A892-GS2UAD53NAR2S3WAXSWN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 여론조작 의심한 김건희 “윤석열 1등, 제발요ㅠ” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/mNrtF</link>
-            <guid>http://newstapa.org/article/mNrtF</guid>
-            <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[민주당 여론조작 의심한 김건희 “윤석열 1등, 제발요ㅠ”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/14204828-A77F-2E00-CDA9-82NCL35454WSNEKOR2J1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/11/21170312-42F4-AC15-F9F0-PHRM37ZKOXZ0J9CAWR1L.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의' (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/aY3VR</link>
+            <guid>http://newstapa.org/article/aY3VR</guid>
+            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23123333-45D5-170F-5B0D-WKXMY6QV75CWDLLOKAPG.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/C_G6k</link>
             <guid>http://newstapa.org/article/C_G6k</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한화오션의 노조 대응 문건 입수, 목표는 "강성노조 파행 분위기 공유"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/14234703-6253-0FF4-E54E-TT55YA0EFE2F9QG8IK4S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/m_22d</link>
-            <guid>http://newstapa.org/article/m_22d</guid>
-            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17203021-86EC-D8D1-6422-WADP3A8IAJYJ80HLKCLG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 제주항공 참사, 밝혀야 할 것과 바꿔야 할 것 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3260,7 +3260,7 @@
             <link>https://v.daum.net/v/20250123105552126</link>
             <guid>https://v.daum.net/v/20250123105552126</guid>
             <pubDate>Thu, 23 Jan 2025 02:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250123105552126" class="link_column" data-tiara-layer="‘서부지법_난동’_구속_유튜버는_김건희_팬클럽_‘퀸건희’_운영자_alltab"><div class="cont_thumb"><strong class="tit_txt">‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F23%2Fnewstapa%2F20250123105554267bugq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250123105552126" class="link_column" data-tiara-layer="‘서부지법_난동’_구속_유튜버는_김건희_팬클럽_‘퀸건희’_운영자_alltab"><div class="cont_thumb"><strong class="tit_txt">‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F23%2Fnewstapa%2F20250123105554267bugq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F23%2Fnewstapa%2F20250123105554267bugq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3268,7 +3268,7 @@
             <link>https://v.daum.net/v/20250122211003556</link>
             <guid>https://v.daum.net/v/20250122211003556</guid>
             <pubDate>Wed, 22 Jan 2025 12:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250122211003556" class="link_column" data-tiara-layer="[내란_국조특위]_우두머리는_안_나오고,_연루자들은_입_다물고_alltab"><div class="cont_thumb"><strong class="tit_txt">[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F22%2Fnewstapa%2F20250122211009854avwj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250122211003556" class="link_column" data-tiara-layer="[내란_국조특위]_우두머리는_안_나오고,_연루자들은_입_다물고_alltab"><div class="cont_thumb"><strong class="tit_txt">[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F22%2Fnewstapa%2F20250122211009854avwj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F22%2Fnewstapa%2F20250122211009854avwj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3276,7 +3276,7 @@
             <link>https://v.daum.net/v/20250120133003002</link>
             <guid>https://v.daum.net/v/20250120133003002</guid>
             <pubDate>Mon, 20 Jan 2025 05:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250120133003002" class="link_column" data-tiara-layer="[윤석열의_해석_개헌]_7._윤석열은_헌법을_살해하려_한다_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 해석 개헌] 7. 윤석열은 헌법을 살해하려 한다</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250120133003002" class="link_column" data-tiara-layer="[윤석열의_해석_개헌]_7._윤석열은_헌법을_살해하려_한다_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열의 해석 개헌] 7. 윤석열은 헌법을 살해하려 한다</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다 (뉴스타파 ─ 다음뉴스)]]></title>

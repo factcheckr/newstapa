@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 04:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 05:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의']]></title>
+            <link>http://newstapa.org/article/aY3VR</link>
+            <guid>http://newstapa.org/article/aY3VR</guid>
+            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[쿠팡, 노동자 사망 "책임 없다"더니... 국회 청문회 앞두고 '합의']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23123333-45D5-170F-5B0D-WKXMY6QV75CWDLLOKAPG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다]]></title>
             <link>http://newstapa.org/article/C_G6k</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[한화오션의 노조 대응 문건 입수, 목표는 "강성노조 파행 분위기 공유"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/14234703-6253-0FF4-E54E-TT55YA0EFE2F9QG8IK4S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석]]></title>
-            <link>http://newstapa.org/article/m_22d</link>
-            <guid>http://newstapa.org/article/m_22d</guid>
-            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/17203021-86EC-D8D1-6422-WADP3A8IAJYJ80HLKCLG.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
