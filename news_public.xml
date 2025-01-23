@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 00:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 02:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자]]></title>
+            <link>http://newstapa.org/article/oged1</link>
+            <guid>http://newstapa.org/article/oged1</guid>
+            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23104243-D6DD-D879-0069-8PLJSMR4DJEOJ4RA0UXO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고]]></title>
             <link>http://newstapa.org/article/bmGoW</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균 게이트, 판도라의 상자를 열다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/14221016-E65C-A37D-C1C1-MH7F6M7XSAOBXY7I67CV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘도리도리’ 코칭한 명태균 "부동시 때문이라 말하라"]]></title>
-            <link>http://newstapa.org/article/-Evkw</link>
-            <guid>http://newstapa.org/article/-Evkw</guid>
-            <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘도리도리’ 코칭한 명태균 "부동시 때문이라 말하라"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09184306-4F8B-E194-A553-8UVOLE93VUEK6G25VZH7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
