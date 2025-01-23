@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 10:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 11:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변]]></title>
+            <link>http://newstapa.org/article/N5ziV</link>
+            <guid>http://newstapa.org/article/N5ziV</guid>
+            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23190147-E6FE-1F6C-7EBC-USX6JB91Q6B83BPDTKVX.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공수처, '윤석열 내란 사건' 검찰에 기소 요구...'2차 계엄' 증거 확보]]></title>
             <link>http://newstapa.org/article/nHQ2u</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06160518-9F6B-57DF-F2CE-7VYE87TN1U6ANI1YOJVT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></title>
-            <link>http://newstapa.org/article/JxVMQ</link>
-            <guid>http://newstapa.org/article/JxVMQ</guid>
-            <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28160627-8D7B-005D-3DAD-348UA8UJ65TIVGSHC24K.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
