@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 09:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 10:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공수처, '윤석열 내란 사건' 검찰에 기소 요구...'2차 계엄' 증거 확보]]></title>
+            <link>http://newstapa.org/article/nHQ2u</link>
+            <guid>http://newstapa.org/article/nHQ2u</guid>
+            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[공수처, '윤석열 내란 사건' 검찰에 기소 요구...'2차 계엄' 증거 확보]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23182008-7697-E5CD-98EF-OPDRFJAV9O7D53DYK8Y3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></title>
             <link>http://newstapa.org/article/8IrM1</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[뉴스타파, ‘윤석열 명예훼손’ 불법 수사 ‘국가배상소송’ 제기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/28160627-8D7B-005D-3DAD-348UA8UJ65TIVGSHC24K.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 법관 기피 신청은 불법 기소 자백이다]]></title>
-            <link>http://newstapa.org/article/4G58L</link>
-            <guid>http://newstapa.org/article/4G58L</guid>
-            <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 법관 기피 신청은 불법 기소 자백이다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/22110527-E30D-3061-DB07-ZOSNHZ1RRCM2AOTSS3WY.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
