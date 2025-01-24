@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 10:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 11:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NfgzY</link>
+            <guid>http://newstapa.org/article/NfgzY</guid>
+            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/22160231-A38F-3442-2BF4-U2ALT7FMLVQVBN7PPN3E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/GcXfW</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헌정 사상 최초 현직 대통령 체포, 15일 만에 끝난 버티기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15191400-18A2-002B-8D6F-UV4J0SW1MU4AAJ2PPNID.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/XwGNo</link>
-            <guid>http://newstapa.org/article/XwGNo</guid>
-            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15162723-D65A-487E-1EF6-74B56STNDVHN4YICLXWI.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/14204828-A77F-2E00-CDA9-82NCL35454WSNEKOR2J1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/NfgzY</link>
+            <guid>http://newstapa.org/article/NfgzY</guid>
+            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/22160231-A38F-3442-2BF4-U2ALT7FMLVQVBN7PPN3E.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/N5ziV</link>
             <guid>http://newstapa.org/article/N5ziV</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06172941-07BA-F514-60F7-JKP0HLG7LDAUSRY72RCX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/sIVaD</link>
-            <guid>http://newstapa.org/article/sIVaD</guid>
-            <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열은 도대체 왜?...비상계엄 미스터리]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/06160518-9F6B-57DF-F2CE-7VYE87TN1U6ANI1YOJVT.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/NfgzY</link>
+            <guid>http://newstapa.org/article/NfgzY</guid>
+            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/22160231-A38F-3442-2BF4-U2ALT7FMLVQVBN7PPN3E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[신년 기고] 윤석열을 낳은 검찰 특활비, 부활은 절대 안 돼 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -510,14 +518,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194729-75AF-583F-6BF1-GHYWL871F7TED8KKDX60.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/WA00E</link>
-            <guid>http://newstapa.org/article/WA00E</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 허리디스크 한방병원과 수상한 건강보험 적용]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08195356-6EC0-9B9A-4F6B-SE4Z0QUF0D5O0NHZ9VWU.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[쿠팡은 바뀌지 않는다 2] ③ 로켓배송의 '방패'... 영입인사 분석 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -3256,11 +3256,19 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250124192503026</link>
+            <guid>https://v.daum.net/v/20250124192503026</guid>
+            <pubDate>Fri, 24 Jan 2025 11:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250124192503026" class="link_column" data-tiara-layer="[영상_기고]_윤석열_탄핵되면_정보공개소송은_각하?_alltab"><div class="cont_thumb"><strong class="tit_txt">[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하?</strong><span class="info_txt"><span class="txt_info">46분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124192507413zfpa.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124192507413zfpa.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250124173003100</link>
             <guid>https://v.daum.net/v/20250124173003100</guid>
             <pubDate>Fri, 24 Jan 2025 09:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250124173003100" class="link_column" data-tiara-layer="명태균과_윤석열·김건희_부부_메시지_280여_건_전체_복원·공개_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124173005172gvuu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250124173003100" class="link_column" data-tiara-layer="명태균과_윤석열·김건희_부부_메시지_280여_건_전체_복원·공개_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124173005172gvuu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124173005172gvuu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3268,7 +3276,7 @@
             <link>https://v.daum.net/v/20250124110614281</link>
             <guid>https://v.daum.net/v/20250124110614281</guid>
             <pubDate>Fri, 24 Jan 2025 02:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250124110614281" class="link_column" data-tiara-layer="[주간_뉴스타파]_탄핵심판_중간점검_:_유신시대로_회귀한_윤석열_궤변_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124142424387hahj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250124110614281" class="link_column" data-tiara-layer="[주간_뉴스타파]_탄핵심판_중간점검_:_유신시대로_회귀한_윤석열_궤변_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변</strong><span class="info_txt"><span class="txt_info">9시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124142424387hahj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F24%2Fnewstapa%2F20250124142424387hahj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3484,14 +3492,6 @@
             <pubDate>Thu, 09 Jan 2025 11:11:02 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250109200003846" class="link_column" data-tiara-layer="새떼와_콘크리트..._안전과_비용_사이_타협의_결과_alltab"><div class="cont_thumb"><strong class="tit_txt">새떼와 콘크리트... 안전과 비용 사이 타협의 결과</strong><span class="info_txt"><span class="txt_info">2025. 1. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F09%2Fnewstapa%2F20250109200006172uahk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F09%2Fnewstapa%2F20250109200006172uahk.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집방송] 명-윤-김 카톡 추가 공개... 선대위원장도 명태균이 찍었다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250109190523760</link>
-            <guid>https://v.daum.net/v/20250109190523760</guid>
-            <pubDate>Thu, 09 Jan 2025 10:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250109190523760" class="link_column" data-tiara-layer="[특집방송]_명-윤-김_카톡_추가_공개..._선대위원장도_명태균이_찍었다_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집방송] 명-윤-김 카톡 추가 공개... 선대위원장도 명태균이 찍었다</strong><span class="info_txt"><span class="txt_info">2025. 1. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F09%2Fnewstapa%2F20250109190529912ximf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F09%2Fnewstapa%2F20250109190529912ximf.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

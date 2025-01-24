@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 10:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 11:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하?]]></title>
+            <link>http://newstapa.org/article/NfgzY</link>
+            <guid>http://newstapa.org/article/NfgzY</guid>
+            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/22160231-A38F-3442-2BF4-U2ALT7FMLVQVBN7PPN3E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개]]></title>
             <link>http://newstapa.org/article/GcXfW</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헌정 사상 최초 현직 대통령 체포, 15일 만에 끝난 버티기]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15191400-18A2-002B-8D6F-UV4J0SW1MU4AAJ2PPNID.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></title>
-            <link>http://newstapa.org/article/XwGNo</link>
-            <guid>http://newstapa.org/article/XwGNo</guid>
-            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[국가기록원, 12·3 내란 기록물 폐기 금지 결정... 만시지탄]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15162723-D65A-487E-1EF6-74B56STNDVHN4YICLXWI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
