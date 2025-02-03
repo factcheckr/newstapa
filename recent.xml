@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 08:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 09:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></title>
+            <link>http://newstapa.org/article/awkfg</link>
+            <guid>http://newstapa.org/article/awkfg</guid>
+            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/03175937-B3E9-954E-5953-BPRSM3NU4GEQTRM4NBTR.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낙동강 주민들 콧속에서 녹조 독소 검출… 국민 건강 우려 확산]]></title>
+            <link>http://newstapa.org/article/fJFNS</link>
+            <guid>http://newstapa.org/article/fJFNS</guid>
+            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[낙동강 주민들 콧속에서 녹조 독소 검출… 국민 건강 우려 확산]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/03165709-8D94-3891-8008-EFTI6P608K18S4RIN5XO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1997, IMF 거대한 거짓말]]></title>
             <link>http://newstapa.org/article/D2uaj</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[박정훈 1심 무죄... 이젠 '윤석열의 외압'을 수사할 때]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/16180012-8769-3E35-3538-REVK2OIKZJ9AMHDZHVE5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 윤석열 체포, 끝이 아니다]]></title>
-            <link>http://newstapa.org/article/WrAgs</link>
-            <guid>http://newstapa.org/article/WrAgs</guid>
-            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 체포, 끝이 아니다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15193933-A29E-90AF-7E61-VK8NTRKZH3C6MON7ZM3W.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['내란수괴' 윤석열 체포, 이제는 '진상 규명 vs 절차 지연' 싸움]]></title>
-            <link>http://newstapa.org/article/xiLEE</link>
-            <guid>http://newstapa.org/article/xiLEE</guid>
-            <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['내란수괴' 윤석열 체포, 이제는 '진상 규명 vs 절차 지연' 싸움]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/15185155-6572-D585-815B-X57SMG6TPDYZT9Z9D1M4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
