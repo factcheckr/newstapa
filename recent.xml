@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 11:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 12:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '뻥카'로 드러난 윤석열의 탄핵심판 히든카드]]></title>
+            <link>http://newstapa.org/article/h_a9u</link>
+            <guid>http://newstapa.org/article/h_a9u</guid>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '뻥카'로 드러난 윤석열의 탄핵심판 히든카드]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/07201635-FC8D-3795-DED1-WZMLAON5D63R41UYY882.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검경, 윤석열 핵심 측근 이상민 조준... 내란 관여 정황]]></title>
             <link>http://newstapa.org/article/q7qYJ</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/19122928-8308-697D-64E2-0K9KHWPBXLVBTXHND4NM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[KINN]내란과 일본언론4: 주간후지, 공수처는 한국판 ‘게슈타포’]]></title>
-            <link>http://newstapa.org/article/-o_iM</link>
-            <guid>http://newstapa.org/article/-o_iM</guid>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[KINN]내란과 일본언론4: 주간후지, 공수처는 한국판 ‘게슈타포’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/17172422-1C00-01C8-820D-G470PNUPAKSFA4KNU1LF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
