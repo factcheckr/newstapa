@@ -241,10 +241,12 @@ waitUntil = "networkidle"
 [kakao]
 title = "뉴스타파 ─ 카카오톡 채널"
 url = "https://pf.kakao.com/_xkxkxjXl/posts"
-entrySelector = "div > div.area_card"
-titleSelector = "div:nth-child(2) > div.wrap_archive_txt > a > strong"
-linkSelector = "div:nth-child(2) > div.wrap_archive_txt > a"
-contentSelector = "div:nth-child(2) > div.wrap_archive_txt > a > div.desc_card"
+entrySelector = "div.area_card"
+titleSelector = ".wrap_archive_txt a.link_title strong.tit_card"
+linkSelector = ".wrap_archive_txt a.link_title"
+contentSelector = ".wrap_archive_txt a.link_title div.desc_card"
+imageSelector = ".wrap_archive_content .wrap_fit_thumb"
+dateSelector = ".wrap_bottom_util .item_date .txt_date"
 waitUntil = "networkidle"
 
 [daumnews]
