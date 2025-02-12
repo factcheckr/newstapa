@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 00:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 02:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자]]></title>
+            <link>http://newstapa.org/article/ZU57c</link>
+            <guid>http://newstapa.org/article/ZU57c</guid>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/12104239-AA3E-6326-9D39-NY8PAXBQHYENJCT0OS71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '뻥카'로 드러난 윤석열의 탄핵심판 히든카드]]></title>
             <link>http://newstapa.org/article/h_a9u</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[다가온 '쿠팡 청문회'... 핵심은 '야간노동'이다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/20093311-587C-EF4B-03C8-XCEFYQC59IZ2BURJ480P.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></title>
-            <link>http://newstapa.org/article/3UaQT</link>
-            <guid>http://newstapa.org/article/3UaQT</guid>
-            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/19122928-8308-697D-64E2-0K9KHWPBXLVBTXHND4NM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

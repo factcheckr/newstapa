@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Feb 2025 00:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Feb 2025 02:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자]]></title>
+            <link>http://newstapa.org/article/ZU57c</link>
+            <guid>http://newstapa.org/article/ZU57c</guid>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/12104239-AA3E-6326-9D39-NY8PAXBQHYENJCT0OS71.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '뻥카'로 드러난 윤석열의 탄핵심판 히든카드]]></title>
             <link>http://newstapa.org/article/h_a9u</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균 '국정 개입' 정황...김건희 “이태원 어쩌면 좋을까요?”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/13164745-750A-667B-3860-86CPWDC2YXUQQQZC5OOP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“남쪽 순방길 조심하라”...명태균 '꿈'으로 뒤집힌 순방 일정]]></title>
-            <link>http://newstapa.org/article/sEQL2</link>
-            <guid>http://newstapa.org/article/sEQL2</guid>
-            <pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“남쪽 순방길 조심하라”...명태균 '꿈'으로 뒤집힌 순방 일정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09191051-40D2-79A1-A892-GS2UAD53NAR2S3WAXSWN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
