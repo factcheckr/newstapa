@@ -241,12 +241,10 @@ waitUntil = "networkidle"
 [kakao]
 title = "뉴스타파 ─ 카카오톡 채널"
 url = "https://pf.kakao.com/_xkxkxjXl/posts"
-entrySelector = "div > div.wrap_post"
-titleSelector = "div:nth-child(2) > div.post_txt > strong > span"
-linkSelector = "div:nth-child(2) > div.post_txt > p > a"
-contentSelector = "div:nth-child(2) > div.post_txt > p > span"
-dateSelector = "div.post_profile > div.wrap_info > span > a"
-dateFormat = "M월 d일 yyyy a hh:mm"
+entrySelector = "div > div.area_card"
+titleSelector = "div:nth-child(2) > div.wrap_archive_txt > a > strong"
+linkSelector = "div:nth-child(2) > div.wrap_archive_txt > a"
+contentSelector = "div:nth-child(2) > div.wrap_archive_txt > a > div.desc_card"
 waitUntil = "networkidle"
 
 [daumnews]
