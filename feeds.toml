@@ -241,7 +241,7 @@ waitUntil = "networkidle"
 [kakao]
 title = "뉴스타파 ─ 카카오톡 채널"
 url = "https://pf.kakao.com/_xkxkxjXl/posts"
-entrySelector = "div.area_card:not(.card_util):not(.card_profile)"
+entrySelector = "div.area_card:not(.card_util):not(.card_profile):has(strong.tit_card)"
 titleSelector = "div.wrap_archive_txt > a.link_title > strong.tit_card"
 linkSelector = "div.wrap_archive_txt > a.link_title"
 contentSelector = "div.wrap_archive_txt > a.link_title > div.desc_card"
