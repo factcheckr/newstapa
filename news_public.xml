@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 09:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 10:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특집 방송] 탄핵 심판 막바지… ‘부정선거’ 음모론 무너졌다]]></title>
+            <link>http://newstapa.org/article/5TDUu</link>
+            <guid>http://newstapa.org/article/5TDUu</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 방송] 탄핵 심판 막바지… ‘부정선거’ 음모론 무너졌다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14190334-DCAD-8BB9-FE1E-KGNUFW6FCH7S9CX6T803.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립]]></title>
             <link>http://newstapa.org/article/HPjyv</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열의 해석 개헌] 7. 윤석열은 헌법을 살해하려 한다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/20132904-A5A6-906B-A515-54AI0B8SG1UWQBE9IBN7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></title>
-            <link>http://newstapa.org/article/3UaQT</link>
-            <guid>http://newstapa.org/article/3UaQT</guid>
-            <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/19122928-8308-697D-64E2-0K9KHWPBXLVBTXHND4NM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

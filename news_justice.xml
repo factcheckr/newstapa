@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 09:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 10:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획]]></title>
+            <link>http://newstapa.org/article/jNZ1x</link>
+            <guid>http://newstapa.org/article/jNZ1x</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14175326-DD04-DAF2-DCC0-A5V0COOO2GN87KK00OPR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 명품시계 밀수 면세점 전 대표, 법정 구속...뉴스타파 보도 5년 8개월만]]></title>
             <link>http://newstapa.org/article/uZQUo</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17153559-77C9-ABA7-658B-3274T2DP80B3JPZ0KWTN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 최측근 행정관 텔레그램 기록 삭제 정황... 조직적 증거 인멸 의혹]]></title>
-            <link>http://newstapa.org/article/TWM-b</link>
-            <guid>http://newstapa.org/article/TWM-b</guid>
-            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 최측근 행정관 텔레그램 기록 삭제 정황... 조직적 증거 인멸 의혹]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/09175719-1DB7-9851-3AE0-6AWBD8DALHZ1LPX3Y7ME.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
