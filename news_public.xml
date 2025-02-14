@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 07:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 08:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립]]></title>
+            <link>http://newstapa.org/article/HPjyv</link>
+            <guid>http://newstapa.org/article/HPjyv</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14165704-63AB-432F-DF87-G83DF6K1YG7KDU1874H9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명태균 게이트 ‘부실 수사’ 가리키는 검찰 보고서 원본 공개]]></title>
             <link>http://newstapa.org/article/PRabx</link>
@@ -126,14 +134,6 @@
             <pubDate>Sun, 19 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 구속, 파괴된 헌정 회복 첫 걸음]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/19122928-8308-697D-64E2-0K9KHWPBXLVBTXHND4NM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></title>
-            <link>http://newstapa.org/article/8IrM1</link>
-            <guid>http://newstapa.org/article/8IrM1</guid>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/17153236-AF24-349A-5C07-E8Q2U7G6AF8EWRMQ8EF9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
