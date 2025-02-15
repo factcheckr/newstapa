@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Feb 2025 00:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 02:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말'> 관련]]></title>
+            <link>http://newstapa.org/article/lSmNY</link>
+            <guid>http://newstapa.org/article/lSmNY</guid>
+            <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[반론보도] &lt;[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말'&gt; 관련]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/15105255-9398-36A7-4561-HIQ7RPPQKZ8JR59FMTHG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집 방송] 탄핵 심판 막바지… ‘부정선거’ 음모론 무너졌다]]></title>
             <link>http://newstapa.org/article/5TDUu</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] ‘우리법 재판소’라는 프레임이 불러올 결과]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/04110641-10A6-106A-D8AA-UWB8Y3F8LU5SUR90Y5PN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></title>
-            <link>http://newstapa.org/article/awkfg</link>
-            <guid>http://newstapa.org/article/awkfg</guid>
-            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/03175937-B3E9-954E-5953-BPRSM3NU4GEQTRM4NBTR.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
