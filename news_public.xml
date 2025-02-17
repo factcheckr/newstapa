@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 14:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 15:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["박사님 덕분입니다"...명태균, 대통령경호처 '인사청탁' 정황]]></title>
+            <link>http://newstapa.org/article/_Au6K</link>
+            <guid>http://newstapa.org/article/_Au6K</guid>
+            <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA["박사님 덕분입니다"...명태균, 대통령경호처 '인사청탁' 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/17215800-0830-E848-7518-AQK4R1DSRLR1V6WMFFFJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["윤석열, 국방·안보 현안 다룬 유튜브 보내" 최측근 신원식 검찰 진술]]></title>
             <link>http://newstapa.org/article/_V8KK</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23104243-D6DD-D879-0069-8PLJSMR4DJEOJ4RA0UXO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고]]></title>
-            <link>http://newstapa.org/article/bmGoW</link>
-            <guid>http://newstapa.org/article/bmGoW</guid>
-            <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/22210702-51CC-1CA3-73B8-DA7BYV8NME2F7H06PNBO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
