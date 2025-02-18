@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 14:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 15:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩]]></title>
+            <link>http://newstapa.org/article/hHGX7</link>
+            <guid>http://newstapa.org/article/hHGX7</guid>
+            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/18215229-1BAB-0DEC-7B3E-BTN6OBOXVZETQPTZJU73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["박사님 덕분입니다"...명태균, 대통령경호처 '인사청탁' 정황]]></title>
             <link>http://newstapa.org/article/_Au6K</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23190147-E6FE-1F6C-7EBC-USX6JB91Q6B83BPDTKVX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자]]></title>
-            <link>http://newstapa.org/article/oged1</link>
-            <guid>http://newstapa.org/article/oged1</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23104243-D6DD-D879-0069-8PLJSMR4DJEOJ4RA0UXO.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
