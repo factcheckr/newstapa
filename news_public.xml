@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 00:48:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 02:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></title>
+            <link>http://newstapa.org/article/BZJw9</link>
+            <guid>http://newstapa.org/article/BZJw9</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19003039-272E-6024-5E9B-I5PF80UMBCGS9RN6E29E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></title>
             <link>http://newstapa.org/article/-C7r1</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] '뻥카'로 드러난 윤석열의 탄핵심판 히든카드]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/07201635-FC8D-3795-DED1-WZMLAON5D63R41UYY882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개]]></title>
-            <link>http://newstapa.org/article/GcXfW</link>
-            <guid>http://newstapa.org/article/GcXfW</guid>
-            <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/24170943-3D2B-0C34-DDB2-ZE38N1J9WL4AF20MXFQV.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
