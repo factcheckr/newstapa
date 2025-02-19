@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 08:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명태균, '컷오프 위기' 김진태에 '김건희 폰번호' 전송]]></title>
+            <link>http://newstapa.org/article/qswEk</link>
+            <guid>http://newstapa.org/article/qswEk</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균, '컷오프 위기' 김진태에 '김건희 폰번호' 전송]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19141837-7C34-D9E0-ADB3-GOJ34UH9Z0ZGTRZXEWMJ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탄핵심판 증거 채택 쟁점 된 이진우 조서, "대통령 지시로 임무 더럽혀져"]]></title>
             <link>http://newstapa.org/article/Sw7bb</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[“김영선이 준 돈은 월급”… 검찰은 ‘명태균 게이트’를 뭉개려 했다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/13160656-4229-5DB6-F75B-E0I00SVYKMMH9KRYGAEC.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자]]></title>
-            <link>http://newstapa.org/article/ZU57c</link>
-            <guid>http://newstapa.org/article/ZU57c</guid>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/12104239-AA3E-6326-9D39-NY8PAXBQHYENJCT0OS71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
