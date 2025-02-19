@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 23:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 00:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/-C7r1</link>
+            <guid>http://newstapa.org/article/-C7r1</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/16120711-12F2-BB2B-5E83-6DP086YTDDED961SSMAE.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/hHGX7</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/12143455-31E9-435E-38D7-XWN7KVCH1UGTLX25WUWO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/ZU57c</link>
-            <guid>http://newstapa.org/article/ZU57c</guid>
-            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정권의 대통령기록을 온전하게 이관하자]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/12104239-AA3E-6326-9D39-NY8PAXBQHYENJCT0OS71.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/-C7r1</link>
+            <guid>http://newstapa.org/article/-C7r1</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/16120711-12F2-BB2B-5E83-6DP086YTDDED961SSMAE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균과 윤석열·김건희 부부 메시지 280여 건 전체 복원·공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/24170943-3D2B-0C34-DDB2-ZE38N1J9WL4AF20MXFQV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/N5ziV</link>
-            <guid>http://newstapa.org/article/N5ziV</guid>
-            <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 탄핵심판 중간점검 : 유신시대로 회귀한 윤석열 궤변]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23190147-E6FE-1F6C-7EBC-USX6JB91Q6B83BPDTKVX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[지난해 12월 29일 발생한 '제주항공 여객기 참사'를 취재하기 위해 수많은 기자들이 무안국제공항에 모였습니다. 그동안 언론은 재난참사 현장에서 경쟁에 매몰돼 피해자의 인권을 무시하는 등 여러 비윤리적 행태를 보이며 비판받아 왔습니다.<br><br>이번에는 어떨까요. 무안공항에서 이번 참사를 취재하며 유가족 대표단과 언론의 모습을 바로 옆에서 지켜본 현장 취재기자는 ‘아직 부족하지만, 분명 나아진 점이 있다'고 평가했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/3M2Rx</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250219094503254</link>
+            <guid>https://v.daum.net/v/20250219094503254</guid>
+            <pubDate>Wed, 19 Feb 2025 00:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250219094503254" class="link_column" data-tiara-layer="'김건희_공천개입설'_담은_국민의힘_대외비_감사보고서_alltab"><div class="cont_thumb"><strong class="tit_txt">'김건희 공천개입설' 담은 국민의힘 대외비 감사보고서</strong><span class="info_txt"><span class="txt_info">3분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F19%2Fnewstapa%2F20250219094512243sbwc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F19%2Fnewstapa%2F20250219094512243sbwc.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250218231503732</link>
             <guid>https://v.daum.net/v/20250218231503732</guid>
             <pubDate>Tue, 18 Feb 2025 15:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250218231503732" class="link_column" data-tiara-layer="명태균_녹음_속_'대우조선_파업_보고서'_입수...거짓·과장_수두룩_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩</strong><span class="info_txt"><span class="txt_info">8시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F18%2Fnewstapa%2F20250218231504640kata.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250218231503732" class="link_column" data-tiara-layer="명태균_녹음_속_'대우조선_파업_보고서'_입수...거짓·과장_수두룩_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩</strong><span class="info_txt"><span class="txt_info">10시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F18%2Fnewstapa%2F20250218231504640kata.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F18%2Fnewstapa%2F20250218231504640kata.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250216093503726</link>
             <guid>https://v.daum.net/v/20250216093503726</guid>
             <pubDate>Sun, 16 Feb 2025 00:53:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250216093503726" class="link_column" data-tiara-layer="&quot;윤석열,_국방·안보_현안_다룬_유튜브_보내&quot;_최측근_신원식_검찰_진술_alltab"><div class="cont_thumb"><strong class="tit_txt">"윤석열, 국방·안보 현안 다룬 유튜브 보내" 최측근 신원식 검찰 진술</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F16%2Fnewstapa%2F20250216093504814pycu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250216093503726" class="link_column" data-tiara-layer="&quot;윤석열,_국방·안보_현안_다룬_유튜브_보내&quot;_최측근_신원식_검찰_진술_alltab"><div class="cont_thumb"><strong class="tit_txt">"윤석열, 국방·안보 현안 다룬 유튜브 보내" 최측근 신원식 검찰 진술</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F16%2Fnewstapa%2F20250216093504814pycu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F16%2Fnewstapa%2F20250216093504814pycu.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3621,14 +3629,6 @@
             <pubDate>Thu, 23 Jan 2025 02:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250123105552126" class="link_column" data-tiara-layer="‘서부지법_난동’_구속_유튜버는_김건희_팬클럽_‘퀸건희’_운영자_alltab"><div class="cont_thumb"><strong class="tit_txt">‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자</strong><span class="info_txt"><span class="txt_info">2025. 1. 23.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F23%2Fnewstapa%2F20250123105554267bugq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F23%2Fnewstapa%2F20250123105554267bugq.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250122211003556</link>
-            <guid>https://v.daum.net/v/20250122211003556</guid>
-            <pubDate>Wed, 22 Jan 2025 12:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250122211003556" class="link_column" data-tiara-layer="[내란_국조특위]_우두머리는_안_나오고,_연루자들은_입_다물고_alltab"><div class="cont_thumb"><strong class="tit_txt">[내란 국조특위] 우두머리는 안 나오고, 연루자들은 입 다물고</strong><span class="info_txt"><span class="txt_info">2025. 1. 22.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F22%2Fnewstapa%2F20250122211009854avwj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202501%2F22%2Fnewstapa%2F20250122211009854avwj.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
