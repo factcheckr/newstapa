@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 05:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 06:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄핵심판 증거 채택 쟁점 된 이진우 조서, "대통령 지시로 임무 더럽혀져"]]></title>
+            <link>http://newstapa.org/article/Sw7bb</link>
+            <guid>http://newstapa.org/article/Sw7bb</guid>
+            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탄핵심판 증거 채택 쟁점 된 이진우 조서, "대통령 지시로 임무 더럽혀져"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19141504-E3C0-A134-399E-YLG7MCGFJ0405OQ7NEIG.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></title>
             <link>http://newstapa.org/article/BZJw9</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, CCTV로 '명태균 황금폰' 속 김건희 텔레그램 확보]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/13165723-7537-B932-3AB1-2KZKNH0YYCDZJ9QSMXMI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“김영선이 준 돈은 월급”… 검찰은 ‘명태균 게이트’를 뭉개려 했다]]></title>
-            <link>http://newstapa.org/article/cvjJA</link>
-            <guid>http://newstapa.org/article/cvjJA</guid>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[“김영선이 준 돈은 월급”… 검찰은 ‘명태균 게이트’를 뭉개려 했다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/13160656-4229-5DB6-F75B-E0I00SVYKMMH9KRYGAEC.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
