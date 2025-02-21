@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 07:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 08:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하]]></title>
+            <link>http://newstapa.org/article/iLBwf</link>
+            <guid>http://newstapa.org/article/iLBwf</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21151849-7550-8602-8CC8-B23OV4X5ZHB7JG54TFEH.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여의도연구원에 '오세훈 여론조사' 넘기고, '단일화 개입'도 확인한 검찰]]></title>
+            <link>http://newstapa.org/article/aogLX</link>
+            <guid>http://newstapa.org/article/aogLX</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[여의도연구원에 '오세훈 여론조사' 넘기고, '단일화 개입'도 확인한 검찰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21151805-D7DE-DF25-32DA-DB28IP6D5N7XYHRZ9Q6V.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상구성] 일본군 '위안부' 피해자 길원옥을 기억하며...]]></title>
             <link>http://newstapa.org/article/VtYFl</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[국민의힘, 극우 유사언론 불러 '5·18 유공자가 부정선거' 강연]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14133402-2A55-0307-4F68-QSYN6KR31YEP5NPG1L69.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 명태균 게이트 '부실 수사' 가리키는 검찰 보고서 공개]]></title>
-            <link>http://newstapa.org/article/0gqmF</link>
-            <guid>http://newstapa.org/article/0gqmF</guid>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 명태균 게이트 '부실 수사' 가리키는 검찰 보고서 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/13143015-84AB-9E46-D35E-D3KZ970GWPCK4M9BUUCV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김건희 녹음파일' 등 '공천개입' 확인한 검찰 수사보고서 공개]]></title>
-            <link>http://newstapa.org/article/sBtvQ</link>
-            <guid>http://newstapa.org/article/sBtvQ</guid>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김건희 녹음파일' 등 '공천개입' 확인한 검찰 수사보고서 공개]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/13165625-6F20-FADF-65B4-9C9YTYEI8BNWL567KF94.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
