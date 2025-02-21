@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 10:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 11:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/ZkRMs</link>
+            <guid>http://newstapa.org/article/ZkRMs</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21183645-54A1-96E8-0B37-B5GMCFZTMP1KZO338FCK.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/pQNx5</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14190334-DCAD-8BB9-FE1E-KGNUFW6FCH7S9CX6T803.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/jNZ1x</link>
-            <guid>http://newstapa.org/article/jNZ1x</guid>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14175326-DD04-DAF2-DCC0-A5V0COOO2GN87KK00OPR.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/ZkRMs</link>
+            <guid>http://newstapa.org/article/ZkRMs</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21183645-54A1-96E8-0B37-B5GMCFZTMP1KZO338FCK.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['김건희 녹음파일' 등 '공천개입' 확인한 검찰 수사보고서 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/13165625-6F20-FADF-65B4-9C9YTYEI8BNWL567KF94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘명태균 황금폰’ 놓친 검찰, 부실 압수수색 정황 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/1dKSD</link>
-            <guid>http://newstapa.org/article/1dKSD</guid>
-            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘명태균 황금폰’ 놓친 검찰, 부실 압수수색 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/13165837-A8F6-36B0-87ED-BNY4YY51UPQP053A2VDX.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[12.3 비상계엄 선포 47일 만에 법원이 윤석열 대통령에 대한 구속영장을 발부했습니다. 구속이 결정되자 윤 대통령의 극렬 지지자들은 법원에 난입해 유리창으로 법원 문을 깨거나 내부 기물을 파손하고, 외벽을 훼손하면서 법원 일대를 무법 천지로 만들어 시민들에게 충격을 주었습니다. <br><br>하지만 민주주의와 법치주의가 계속 작동하는 한, 윤 대통령에 대한 법적 단죄는 정해진 절차대로 진행될 예정입니다. 이번 구속영장 발부로 윤 대통령은 최대 20일 동안 구속 수사를 받게 됩니다. <br><br>현직 대통령이 구속되는 오늘의 장면은 우리 헌정사의 비극이기도 하지만, 한편으로는 현직 대통령 또한 법치주의의 엄정한 잣대에는 예외가 될 수 없다는 점을 말해주는 장면이기도 합니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/m5Omw4zPZWQ</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/3UaQT</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250221200003746</link>
+            <guid>https://v.daum.net/v/20250221200003746</guid>
+            <pubDate>Fri, 21 Feb 2025 11:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221200003746" class="link_column" data-tiara-layer="[주간_뉴스타파]_윤석열_탄핵_심판,_주사위는_던져졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다</strong><span class="info_txt"><span class="txt_info">11분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221200009768dftg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221200009768dftg.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250221185515831</link>
             <guid>https://v.daum.net/v/20250221185515831</guid>
             <pubDate>Fri, 21 Feb 2025 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221185515831" class="link_column" data-tiara-layer="제주항공_참사_유가족_인터뷰_:_하루하루_버티고_있다_alltab"><div class="cont_thumb"><strong class="tit_txt">제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다</strong><span class="info_txt"><span class="txt_info">18분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185528956kxnt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221185515831" class="link_column" data-tiara-layer="제주항공_참사_유가족_인터뷰_:_하루하루_버티고_있다_alltab"><div class="cont_thumb"><strong class="tit_txt">제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185528956kxnt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185528956kxnt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250221185503826</link>
             <guid>https://v.daum.net/v/20250221185503826</guid>
             <pubDate>Fri, 21 Feb 2025 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221185503826" class="link_column" data-tiara-layer="‘항공분야’_국토부_고위직_이력_분석…24년_전보다_‘전문성’_후퇴_우려_alltab"><div class="cont_thumb"><strong class="tit_txt">‘항공분야’ 국토부 고위직 이력 분석…24년 전보다 ‘전문성’ 후퇴 우려</strong><span class="info_txt"><span class="txt_info">18분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185514682uexq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221185503826" class="link_column" data-tiara-layer="‘항공분야’_국토부_고위직_이력_분석…24년_전보다_‘전문성’_후퇴_우려_alltab"><div class="cont_thumb"><strong class="tit_txt">‘항공분야’ 국토부 고위직 이력 분석…24년 전보다 ‘전문성’ 후퇴 우려</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185514682uexq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185514682uexq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20250221182503329</link>
             <guid>https://v.daum.net/v/20250221182503329</guid>
             <pubDate>Fri, 21 Feb 2025 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221182503329" class="link_column" data-tiara-layer="트럼프_취임식에_쿠팡_100만_달러,_한화_50만_달러_로비_alltab"><div class="cont_thumb"><strong class="tit_txt">트럼프 취임식에 쿠팡 100만 달러, 한화 50만 달러 로비</strong><span class="info_txt"><span class="txt_info">48분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221182505179yenv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221182503329" class="link_column" data-tiara-layer="트럼프_취임식에_쿠팡_100만_달러,_한화_50만_달러_로비_alltab"><div class="cont_thumb"><strong class="tit_txt">트럼프 취임식에 쿠팡 100만 달러, 한화 50만 달러 로비</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221182505179yenv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221182505179yenv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250221165502952</link>
             <guid>https://v.daum.net/v/20250221165502952</guid>
             <pubDate>Fri, 21 Feb 2025 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221165502952" class="link_column" data-tiara-layer="검찰,_국힘_대외비보고서_분석_완료...국힘은_&quot;3류_추리소설&quot;로_폄하_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221165509554ojjh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221165502952" class="link_column" data-tiara-layer="검찰,_국힘_대외비보고서_분석_완료...국힘은_&quot;3류_추리소설&quot;로_폄하_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221165509554ojjh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221165509554ojjh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20250221163503361</link>
             <guid>https://v.daum.net/v/20250221163503361</guid>
             <pubDate>Fri, 21 Feb 2025 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221163503361" class="link_column" data-tiara-layer="여의도연구원에_'오세훈_여론조사'_넘기고,_'단일화_개입'도_확인한_검찰_alltab"><div class="cont_thumb"><strong class="tit_txt">여의도연구원에 '오세훈 여론조사' 넘기고, '단일화 개입'도 확인한 검찰</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221163513687samr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221163503361" class="link_column" data-tiara-layer="여의도연구원에_'오세훈_여론조사'_넘기고,_'단일화_개입'도_확인한_검찰_alltab"><div class="cont_thumb"><strong class="tit_txt">여의도연구원에 '오세훈 여론조사' 넘기고, '단일화 개입'도 확인한 검찰</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221163513687samr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221163513687samr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3623,13 +3631,6 @@
             <pubDate>Fri, 07 Feb 2025 09:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250207180503234" class="link_column" data-tiara-layer="검경,_윤석열_핵심_측근_이상민_조준..._내란_관여_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">검경, 윤석열 핵심 측근 이상민 조준... 내란 관여 정황</strong><span class="info_txt"><span class="txt_info">2025. 2. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F07%2Fnewstapa%2F20250207180504421yepy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F07%2Fnewstapa%2F20250207180504421yepy.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] ‘우리법 재판소’라는 프레임이 불러올 결과 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250204111003781</link>
-            <guid>https://v.daum.net/v/20250204111003781</guid>
-            <pubDate>Tue, 04 Feb 2025 03:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250204111003781" class="link_column" data-tiara-layer="[현장에서]_‘우리법_재판소’라는_프레임이_불러올_결과_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] ‘우리법 재판소’라는 프레임이 불러올 결과</strong><span class="info_txt"><span class="txt_info">2025. 2. 4.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
