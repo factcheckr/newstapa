@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 03:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 04:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/27092922-FCFC-3B80-89EE-IV3Y0CQNBNBDSH3XZOE1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명태균 마지막 통화기록에 등장한 의원님들]]></title>
+            <link>http://newstapa.org/article/eGCYL</link>
+            <guid>http://newstapa.org/article/eGCYL</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균 마지막 통화기록에 등장한 의원님들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/26200655-E9D5-9CC4-A94B-KH58SJDQK6CRP4KZLJOO.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건희 ‘공기업 취업’ 제안 후, 실제로 작성된 김영선 이력서]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19003039-272E-6024-5E9B-I5PF80UMBCGS9RN6E29E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></title>
-            <link>http://newstapa.org/article/-C7r1</link>
-            <guid>http://newstapa.org/article/-C7r1</guid>
-            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/16120711-12F2-BB2B-5E83-6DP086YTDDED961SSMAE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
