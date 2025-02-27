@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 00:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 02:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말]]></title>
+            <link>http://newstapa.org/article/hXeRM</link>
+            <guid>http://newstapa.org/article/hXeRM</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/27092922-FCFC-3B80-89EE-IV3Y0CQNBNBDSH3XZOE1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건희 ‘공기업 취업’ 제안 후, 실제로 작성된 김영선 이력서]]></title>
             <link>http://newstapa.org/article/Kjarh</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/16120711-12F2-BB2B-5E83-6DP086YTDDED961SSMAE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩]]></title>
-            <link>http://newstapa.org/article/hHGX7</link>
-            <guid>http://newstapa.org/article/hHGX7</guid>
-            <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/18215229-1BAB-0DEC-7B3E-BTN6OBOXVZETQPTZJU73.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

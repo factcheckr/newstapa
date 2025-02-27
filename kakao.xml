@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-02-27T00:49:46.511Z</updated>
+    <updated>2025-02-27T02:17:49.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/949946c/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명태균 마지막 통화기록에 등장한 의원님들]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/108543447</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/108543447"/>
+        <updated>2025-02-27T02:17:37.760Z</updated>
+        <content type="html"><![CDATA[지난해 9월, 명태균 게이트가 세상에 알려진 뒤 명 씨가 사용한 휴대전화에는 어떤 이름들이 등장할까요.<br>검찰이 명 씨의 휴대전화 두 대를 압수했는데, 여기에는 현직 국회의원, 대학교수, 지자체장들의 이름이 수두룩합니다.<br><br>김영선 의원뿐 아니라 신성범, 주호영, 조은희 국민의힘 의원과 이준석, 천하람 개혁신당 의원, 김진태 강원지사 등도 등장합니다.<br><br>이밖에도 명 씨의 인사 청탁을 국민의힘 의원들이나 김건희 여사 등에게 전달하는 메신저 역할을 한 교수와, 명 씨를 ‘공명 선생’이라 부르며 명 씨의 딸에게 수백만 원 상당의 그림을 선물한 전직 보좌관도 명 씨와 100여 차례 통화한 것으로 확인됐습니다. <br><br>명태균 게이트가 불거진 뒤 누가 어떤 목적으로 명 씨와 통화했는지 기사에서 확인하세요.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/YS9ug4wt4j4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/eGCYL</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희 ‘공기업 취업’ 제안 후, 실제로 작성된 김영선 이력서]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108525134</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108205744"/>
         <updated>2025-02-12T11:29:38.583Z</updated>
         <content type="html"><![CDATA[지난 21일 열린 국회 ‘쿠팡 청문회’ 직전 쿠팡이 사망 노동자 3명의 유가족과 합의를 했습니다. 그동안 쿠팡은 이들 노동자 죽음에 “책임 없다”는 입장을 고수해 왔습니다. 그런데 경영진이 대거 증인으로 불려나오는 청문회를 앞두자 갑자기 유가족과 접촉해 합의한 것입니다. <br><br>뉴스타파는 청문회에 나온 강한승 쿠팡 대표에게 직접 그 이유를 물어봤습니다. 하지만 강 대표는 취재진을 피해 도망쳤고, 쿠팡 측은 완력으로 뉴스타파의 질문을 막았습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/W-MVeKJdiaY</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/aY3VR</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘서부지법 난동’ 구속 유튜버는 김건희 팬클럽 ‘퀸건희’ 운영자]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108202939</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108202939"/>
-        <updated>2025-02-12T11:29:38.584Z</updated>
-        <content type="html"><![CDATA[지난 19일 서울서부지방법원 난동 사건에 연루돼 구속된 극우 유튜버가 김건희 팬클럽 '퀸건희'의 SNS 운영자였던 사실이 확인됐습니다.<br><br>윤 대통령 부부의 사정을 잘 아는 여권 관계자 A씨는 22일 뉴스타파와의 통화에서 "유튜버 '젊은시각'이 김건희 팬클럽 인스타그램을 운영했다" 라고 밝혔습니다. 젊은시각은 23일 기준 구독자 84만 명을 보유한 극우 유튜버로, 서부지법 난동 사태에 연루돼 구속 수사를 받고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/oged1</span>]]></content>
     </entry>
 </feed>
