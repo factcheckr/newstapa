@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 02:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 03:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/16120711-12F2-BB2B-5E83-6DP086YTDDED961SSMAE.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[명태균 마지막 통화기록에 등장한 의원님들 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/eGCYL</link>
+            <guid>http://newstapa.org/article/eGCYL</guid>
+            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균 마지막 통화기록에 등장한 의원님들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/26200655-E9D5-9CC4-A94B-KH58SJDQK6CRP4KZLJOO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김건희 ‘공기업 취업’ 제안 후, 실제로 작성된 김영선 이력서 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/Kjarh</link>
             <guid>http://newstapa.org/article/Kjarh</guid>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[특집 방송] 탄핵 심판 막바지… ‘부정선거’ 음모론 무너졌다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14190334-DCAD-8BB9-FE1E-KGNUFW6FCH7S9CX6T803.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/HPjyv</link>
-            <guid>http://newstapa.org/article/HPjyv</guid>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14165704-63AB-432F-DF87-G83DF6K1YG7KDU1874H9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3400,7 +3400,7 @@
             <link>https://v.daum.net/v/20250227110003529</link>
             <guid>https://v.daum.net/v/20250227110003529</guid>
             <pubDate>Thu, 27 Feb 2025 02:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227110003529" class="link_column" data-tiara-layer="[현장에서]_용두사미로_끝난_쿠팡의_'뉴스타파_입막음'_소송_전말_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말</strong><span class="info_txt"><span class="txt_info">17분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227110004674pdyp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227110003529" class="link_column" data-tiara-layer="[현장에서]_용두사미로_끝난_쿠팡의_'뉴스타파_입막음'_소송_전말_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227110004674pdyp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227110004674pdyp.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,8 +3408,8 @@
             <link>https://v.daum.net/v/20250227100003505</link>
             <guid>https://v.daum.net/v/20250227100003505</guid>
             <pubDate>Thu, 27 Feb 2025 02:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227100003505" class="link_column" data-tiara-layer="명태균_마지막_통화기록에_등장한_의원님들_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 마지막 통화기록에 등장한 의원님들</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227100005509rplm.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227100005509rplm.png" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227100003505" class="link_column" data-tiara-layer="명태균_마지막_통화기록에_등장한_의원님들_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 마지막 통화기록에 등장한 의원님들</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227121751539pgvk.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227121751539pgvk.png" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[김건희 ‘공기업 취업’ 제안 후, 실제로 작성된 김영선 이력서 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3424,7 +3424,7 @@
             <link>https://v.daum.net/v/20250225120004594</link>
             <guid>https://v.daum.net/v/20250225120004594</guid>
             <pubDate>Tue, 25 Feb 2025 03:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250225120004594" class="link_column" data-tiara-layer="[현장에서]_'김건희-명태균_특검'_필요성_입증한_검찰_수사보고서_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] '김건희-명태균 특검' 필요성 입증한 검찰 수사보고서</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F25%2Fnewstapa%2F20250225120005991ojzt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250225120004594" class="link_column" data-tiara-layer="[현장에서]_'김건희-명태균_특검'_필요성_입증한_검찰_수사보고서_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] '김건희-명태균 특검' 필요성 입증한 검찰 수사보고서</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F25%2Fnewstapa%2F20250225120005991ojzt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F25%2Fnewstapa%2F20250225120005991ojzt.png" length="0" type="image/q70/"/>
         </item>
         <item>
