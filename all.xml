@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 10:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 11:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모래 위를 걷는 투명 인간의 발자국 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/0FzQe</link>
+            <guid>http://newstapa.org/article/0FzQe</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모래 위를 걷는 투명 인간의 발자국]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28155103-21D0-3F58-EF52-TFLUK37UMM3NBAWV6RDO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/hqC_W</link>
@@ -29,7 +37,7 @@
             <guid>http://newstapa.org/article/ibJDE</guid>
             <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 명태균 공천 개입, 이준석은 떳떳한가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/27165533-ABE2-74D6-8161-BJTFTIZ5LEHUDQGR1D80.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28195953-F22F-70DD-1E5D-WURKEH528Z1387B9IATR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 부부-명태균-이준석의 ‘VIP 공천선물’ (뉴스타파 ─ 뉴스)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21182356-34D3-B95D-E2FB-D0VSZLEWFFZ4N6EWSG76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/iLBwf</link>
-            <guid>http://newstapa.org/article/iLBwf</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21151849-7550-8602-8CC8-B23OV4X5ZHB7JG54TFEH.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/hqC_W</link>
             <guid>http://newstapa.org/article/hqC_W</guid>
@@ -157,7 +157,7 @@
             <guid>http://newstapa.org/article/ibJDE</guid>
             <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 명태균 공천 개입, 이준석은 떳떳한가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/27165533-ABE2-74D6-8161-BJTFTIZ5LEHUDQGR1D80.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28195953-F22F-70DD-1E5D-WURKEH528Z1387B9IATR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 부부-명태균-이준석의 ‘VIP 공천선물’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/29111646-0039-C2FB-851E-4HEY90P6KETN7ELIQJ7K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모래 위를 걷는 투명 인간의 발자국 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/0FzQe</link>
+            <guid>http://newstapa.org/article/0FzQe</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모래 위를 걷는 투명 인간의 발자국]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28155103-21D0-3F58-EF52-TFLUK37UMM3NBAWV6RDO.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/hXeRM</link>
             <guid>http://newstapa.org/article/hXeRM</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/31192143-1EE5-CF79-2C9A-05C84X4FS1K777UIVFDL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 2주기] ① 우리는 아직, 보내지 않았다 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/CCThY</link>
-            <guid>http://newstapa.org/article/CCThY</guid>
-            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이태원 참사 2주기] ① 우리는 아직, 보내지 않았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/31180401-F739-2BFE-5BD4-PE145J372Q324KLDQS1A.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[영풍 석포제련소 하청노동자로 일하다 급성 백혈병에 걸린 진현철 씨가 1심에 이어 2심에서도 산업재해를 인정받았습니다. 진 씨는 지난 2009년부터 석포제련소에서 불순물 찌꺼기를 제거하는 일을 하다가 2017년 급성 백혈병 진단을 받았습니다.<br><br>법원은 진현철 씨가 포름알데히드 등 유해 물질에 장기간 노출된 점, 석포제련소의 작업 환경 관리가 부실한 점 등을 들어 진 씨의 백혈병이 산업재해라고 판단했습니다. 진 씨는 뉴스타파와의 통화에서 "석포제련소 하청업체 퇴직자들도 산재를 인정받고, 이로 인해 석포제련소가 근로자 환경 개선을 최우선으로 생각했으면 좋겠다" 라고 말했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/awkfg</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[모래 위를 걷는 투명 인간의 발자국 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250228200002756</link>
+            <guid>https://v.daum.net/v/20250228200002756</guid>
+            <pubDate>Fri, 28 Feb 2025 11:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250228200002756" class="link_column" data-tiara-layer="모래_위를_걷는_투명_인간의_발자국_alltab"><div class="cont_thumb"><strong class="tit_txt">모래 위를 걷는 투명 인간의 발자국</strong><span class="info_txt"><span class="txt_info">12분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228200009763fieq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228200009763fieq.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250228190003869</link>
             <guid>https://v.daum.net/v/20250228190003869</guid>
             <pubDate>Fri, 28 Feb 2025 10:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250228190003869" class="link_column" data-tiara-layer="국힘_통한_'뒷거래'_실패_후,_조선일보_선택한_명태균_alltab"><div class="cont_thumb"><strong class="tit_txt">국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균</strong><span class="info_txt"><span class="txt_info">14분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228190011767afki.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250228190003869" class="link_column" data-tiara-layer="국힘_통한_'뒷거래'_실패_후,_조선일보_선택한_명태균_alltab"><div class="cont_thumb"><strong class="tit_txt">국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228190011767afki.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228190011767afki.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250228154003559</link>
             <guid>https://v.daum.net/v/20250228154003559</guid>
             <pubDate>Fri, 28 Feb 2025 07:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250228154003559" class="link_column" data-tiara-layer="김진태-명태균_카톡에_'김건희_여사님'_수시로_등장_alltab"><div class="cont_thumb"><strong class="tit_txt">김진태-명태균 카톡에 '김건희 여사님' 수시로 등장</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228154004498cejc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250228154003559" class="link_column" data-tiara-layer="김진태-명태균_카톡에_'김건희_여사님'_수시로_등장_alltab"><div class="cont_thumb"><strong class="tit_txt">김진태-명태균 카톡에 '김건희 여사님' 수시로 등장</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228154004498cejc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F28%2Fnewstapa%2F20250228154004498cejc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20250227201029103</link>
             <guid>https://v.daum.net/v/20250227201029103</guid>
             <pubDate>Thu, 27 Feb 2025 11:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227201029103" class="link_column" data-tiara-layer="[주간_뉴스타파]_명태균_공천_개입,_이준석은_떳떳한가_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 명태균 공천 개입, 이준석은 떳떳한가</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201040397xnfo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227201029103" class="link_column" data-tiara-layer="[주간_뉴스타파]_명태균_공천_개입,_이준석은_떳떳한가_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 명태균 공천 개입, 이준석은 떳떳한가</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201040397xnfo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201040397xnfo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250227201019098</link>
             <guid>https://v.daum.net/v/20250227201019098</guid>
             <pubDate>Thu, 27 Feb 2025 11:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227201019098" class="link_column" data-tiara-layer="윤석열_부부-명태균-이준석의_‘VIP_공천선물’_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 부부-명태균-이준석의 ‘VIP 공천선물’</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201029401wqbv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227201019098" class="link_column" data-tiara-layer="윤석열_부부-명태균-이준석의_‘VIP_공천선물’_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 부부-명태균-이준석의 ‘VIP 공천선물’</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201029401wqbv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201029401wqbv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20250227201003093</link>
             <guid>https://v.daum.net/v/20250227201003093</guid>
             <pubDate>Thu, 27 Feb 2025 11:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227201003093" class="link_column" data-tiara-layer="명태균_&quot;이준석이_김영선_공천_약속했다&quot;_검찰_진술_최초_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 "이준석이 김영선 공천 약속했다" 검찰 진술 최초 확인</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201019125fsno.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227201003093" class="link_column" data-tiara-layer="명태균_&quot;이준석이_김영선_공천_약속했다&quot;_검찰_진술_최초_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 "이준석이 김영선 공천 약속했다" 검찰 진술 최초 확인</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201019125fsno.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201019125fsno.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20250221200003746</link>
             <guid>https://v.daum.net/v/20250221200003746</guid>
             <pubDate>Fri, 21 Feb 2025 11:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221200003746" class="link_column" data-tiara-layer="[주간_뉴스타파]_윤석열_탄핵_심판,_주사위는_던져졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221200009768dftg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221200003746" class="link_column" data-tiara-layer="[주간_뉴스타파]_윤석열_탄핵_심판,_주사위는_던져졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다</strong><span class="info_txt"><span class="txt_info">2025. 2. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221200009768dftg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221200009768dftg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3625,14 +3633,6 @@
             <pubDate>Fri, 14 Feb 2025 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250214181502057" class="link_column" data-tiara-layer="'노상원_수첩'_내용_입수..._수거대상_목록과_처리_계획_alltab"><div class="cont_thumb"><strong class="tit_txt">'노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획</strong><span class="info_txt"><span class="txt_info">2025. 2. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214181504442fxdy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214181504442fxdy.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250214170004206</link>
-            <guid>https://v.daum.net/v/20250214170004206</guid>
-            <pubDate>Fri, 14 Feb 2025 08:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250214170004206" class="link_column" data-tiara-layer="[변화]_뉴스타파X참여연대,_'대통령실_직원_명단_공개소송'_최종_승소..._첫_판례_확립_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립</strong><span class="info_txt"><span class="txt_info">2025. 2. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214170005739srgy.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214170005739srgy.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

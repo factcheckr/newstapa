@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 10:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 11:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모래 위를 걷는 투명 인간의 발자국]]></title>
+            <link>http://newstapa.org/article/0FzQe</link>
+            <guid>http://newstapa.org/article/0FzQe</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[모래 위를 걷는 투명 인간의 발자국]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28155103-21D0-3F58-EF52-TFLUK37UMM3NBAWV6RDO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말]]></title>
             <link>http://newstapa.org/article/hXeRM</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/31192143-1EE5-CF79-2C9A-05C84X4FS1K777UIVFDL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 2주기] ① 우리는 아직, 보내지 않았다]]></title>
-            <link>http://newstapa.org/article/CCThY</link>
-            <guid>http://newstapa.org/article/CCThY</guid>
-            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이태원 참사 2주기] ① 우리는 아직, 보내지 않았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/31180401-F739-2BFE-5BD4-PE145J372Q324KLDQS1A.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
