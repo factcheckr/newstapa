@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-02-28T06:17:49.430Z</updated>
+    <updated>2025-02-28T07:13:39.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/949946c/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김진태-명태균 카톡에 '김건희 여사님' 수시로 등장]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/108566068</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/108566068"/>
+        <updated>2025-02-28T07:13:28.104Z</updated>
+        <content type="html"><![CDATA[뉴스타파는 검찰 기록 속에 드러난 김진태 강원도지사와 정치브로커 명태균 씨의 긴밀한 관계에 대해 연속보도하고 있습니다. 앞서 뉴스타파는 명 씨와 김 지사의 메신저 대화 속에서 김건희 여사가 2022년 지방선거 당시 김 지사의 공천에 개입한 것으로 보이는 정황을 보도했습니다. <br> <br>취재 결과, 이들의 관계는 이때 한 번만이 아니었습니다. 김 지사는 당선 전 명 씨에게 여론조사와 관련된 질문을 수시로 했고, 당선 후에는 레고랜드 사태나 국민의힘 당 대표 경선 등 각종 정치 현안에 대해 조언을 구하기도 한 것으로 파악됐습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/cpG9N</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명태균 공천 개입, 이준석은 떳떳한가 〈주간 뉴스타파〉]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108554915</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108289414"/>
         <updated>2025-02-12T11:29:38.577Z</updated>
         <content type="html"><![CDATA[낙동강 인근 주민들의 콧속에서 남세균(녹조) 독소인 마이크로시스틴이 검출됐습니다. 낙동강 인근 주민 97명을 대상으로 비강 검사를 진행한 결과, 검사 대상의 47%인 46명에게서 독소가 검출된 것입니다. 독소가 검출된 주민들은 재채기, 콧물, 코막힘 등 건강 이상 증상을 호소했습니다.<br><br>그러나 환경부는 녹조 독소의 공기 중 전파 및 인체 유입 가능성을 지속적으로 부인하고 있습니다. 낙동강네트워크, 환경운동연합 등 환경단체들은 오늘(3일) 기자회견을 열어 정부와 정치권에 녹조 문제 대책 마련을 촉구했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Ro9qgO-tJ28</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/fJFNS</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 탄핵되면 정보공개소송은 각하?]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108228583</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108228583"/>
-        <updated>2025-02-12T11:29:38.579Z</updated>
-        <content type="html"><![CDATA[지난 10일 서울고등법원에서 대통령비서실의 특수활동비 등 예산 집행 정보와 수의계약 내용을 공개하라는 판결이 선고됐습니다. 지난 2022년 8월 뉴스타파와 시민단체가 정보공개 소송을 제기한지 2년 5개월만에 2심 판결이 나온 것입니다.<br><br>그런데 만약 3심 판결 이전에 대통령 임기가 종료된다면, 대통령실의 모든 자료는 대통령기록실로 이관되어 보호받게 됩니다. 윤석열 대통령이 탄핵될 경우 오히려 대통령실 자료를 볼 수 없게 되는 것입니다. 국민의 알권리 보장을 위해 대통령기록물법 개정이 필요하다는 지적이 나옵니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/nXg2fXgiIJQ</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/NfgzY</span>]]></content>
     </entry>
 </feed>
