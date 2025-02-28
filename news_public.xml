@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 09:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 10:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균]]></title>
+            <link>http://newstapa.org/article/hqC_W</link>
+            <guid>http://newstapa.org/article/hqC_W</guid>
+            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28185552-1833-494D-484C-ATR1UWLS8FYTJ4T91NI4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김진태-명태균 카톡에 '김건희 여사님' 수시로 등장]]></title>
             <link>http://newstapa.org/article/cpG9N</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19003039-272E-6024-5E9B-I5PF80UMBCGS9RN6E29E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></title>
-            <link>http://newstapa.org/article/-C7r1</link>
-            <guid>http://newstapa.org/article/-C7r1</guid>
-            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김건희 공천개입설' 담은 국민의힘 대외비 감사보고서]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/16120711-12F2-BB2B-5E83-6DP086YTDDED961SSMAE.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
