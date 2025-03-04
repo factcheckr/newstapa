@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 06:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 07:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></title>
+            <link>https://www.newstapa.org/article/awkfg</link>
+            <guid>https://www.newstapa.org/article/awkfg</guid>
+            <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.03]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/03175937-B3E9-954E-5953-BPRSM3NU4GEQTRM4NBTR.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 부정 사용 범벅 검찰 특수활동비... 80억 원 → 0원]]></title>
             <link>https://www.newstapa.org/article/YL3IU</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.04.21]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]국회⋅법원⋅헌법재판소⋅부산광역시 보도 17일만에 모두 정정공고 완료]]></title>
-            <link>https://www.newstapa.org/article/g8QiW</link>
-            <guid>https://www.newstapa.org/article/g8QiW</guid>
-            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.21]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21101141-78A9-971F-3A14-8TKZZGUJWWRHROJWP11D.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
