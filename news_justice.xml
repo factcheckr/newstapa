@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 09:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 10:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>http://newstapa.org/article/iiyhf</guid>
             <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/04182851-4915-D371-79CC-67OGA41AHA3YYX4Z8ZQG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획]]></title>
