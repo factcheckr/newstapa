@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 08:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></title>
+            <link>http://newstapa.org/article/iiyhf</link>
+            <guid>http://newstapa.org/article/iiyhf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획]]></title>
             <link>http://newstapa.org/article/jNZ1x</link>
@@ -126,14 +133,6 @@
             <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/23183559-7452-07B6-4CB7-KJFUYQTZQUSTHVISBGFJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌']]></title>
-            <link>http://newstapa.org/article/oa7jP</link>
-            <guid>http://newstapa.org/article/oa7jP</guid>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17153559-77C9-ABA7-658B-3274T2DP80B3JPZ0KWTN.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

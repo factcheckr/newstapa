@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 08:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></title>
+            <link>http://newstapa.org/article/iiyhf</link>
+            <guid>http://newstapa.org/article/iiyhf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균]]></title>
             <link>http://newstapa.org/article/hqC_W</link>
@@ -126,14 +133,6 @@
             <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[탄핵심판 증거 채택 쟁점 된 이진우 조서, "대통령 지시로 임무 더럽혀져"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19141504-E3C0-A134-399E-YLG7MCGFJ0405OQ7NEIG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></title>
-            <link>http://newstapa.org/article/BZJw9</link>
-            <guid>http://newstapa.org/article/BZJw9</guid>
-            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19003039-272E-6024-5E9B-I5PF80UMBCGS9RN6E29E.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

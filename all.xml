@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 08:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21182356-34D3-B95D-E2FB-D0VSZLEWFFZ4N6EWSG76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/iiyhf</link>
+            <guid>http://newstapa.org/article/iiyhf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국힘 통한 '뒷거래' 실패 후, 조선일보 선택한 명태균 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
             <link>http://newstapa.org/article/hqC_W</link>
             <guid>http://newstapa.org/article/hqC_W</guid>
@@ -256,12 +263,11 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19141504-E3C0-A134-399E-YLG7MCGFJ0405OQ7NEIG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/BZJw9</link>
-            <guid>http://newstapa.org/article/BZJw9</guid>
-            <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 김건희 통신조회로 '22대 총선개입' 정황 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/19003039-272E-6024-5E9B-I5PF80UMBCGS9RN6E29E.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/iiyhf</link>
+            <guid>http://newstapa.org/article/iiyhf</guid>
+            <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></content:encoded>
         </item>
         <item>
             <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +388,6 @@
             <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[‘부정 선거’ ‘가짜 뉴스’ 확산시킨 윤석열의 40년 친구]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/23183559-7452-07B6-4CB7-KJFUYQTZQUSTHVISBGFJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/oa7jP</link>
-            <guid>http://newstapa.org/article/oa7jP</guid>
-            <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[헌법재판관 성향 분석... 6명 중 5명이 '긴급조치는 위헌']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/17153559-77C9-ABA7-658B-3274T2DP80B3JPZ0KWTN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3396,6 +3394,14 @@
             <content:encoded><![CDATA[영풍 석포제련소 하청노동자로 일하다 급성 백혈병에 걸린 진현철 씨가 1심에 이어 2심에서도 산업재해를 인정받았습니다. 진 씨는 지난 2009년부터 석포제련소에서 불순물 찌꺼기를 제거하는 일을 하다가 2017년 급성 백혈병 진단을 받았습니다.<br><br>법원은 진현철 씨가 포름알데히드 등 유해 물질에 장기간 노출된 점, 석포제련소의 작업 환경 관리가 부실한 점 등을 들어 진 씨의 백혈병이 산업재해라고 판단했습니다. 진 씨는 뉴스타파와의 통화에서 "석포제련소 하청업체 퇴직자들도 산재를 인정받고, 이로 인해 석포제련소가 근로자 환경 개선을 최우선으로 생각했으면 좋겠다" 라고 말했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/awkfg</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250304180504661</link>
+            <guid>https://v.daum.net/v/20250304180504661</guid>
+            <pubDate>Tue, 04 Mar 2025 09:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250304180504661" class="link_column" data-tiara-layer="[윤석열_이후의_헌법]_①윤석열_파면_이후_60일_안에_대통령_선거_없을_수도_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열 이후의 헌법] ①윤석열 파면 이후 60일 안에 대통령 선거 없을 수도</strong><span class="info_txt"><span class="txt_info">9분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304180505485hpvv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304180505485hpvv.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[모래 위를 걷는 투명 인간의 발자국 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250228200002756</link>
             <guid>https://v.daum.net/v/20250228200002756</guid>
@@ -3464,7 +3470,7 @@
             <link>https://v.daum.net/v/20250225180503507</link>
             <guid>https://v.daum.net/v/20250225180503507</guid>
             <pubDate>Tue, 25 Feb 2025 09:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250225180503507" class="link_column" data-tiara-layer="김건희_‘공기업_취업’_제안_후,_실제로_작성된_김영선_이력서_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 ‘공기업 취업’ 제안 후, 실제로 작성된 김영선 이력서</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F25%2Fnewstapa%2F20250225180511336ftpj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250225180503507" class="link_column" data-tiara-layer="김건희_‘공기업_취업’_제안_후,_실제로_작성된_김영선_이력서_alltab"><div class="cont_thumb"><strong class="tit_txt">김건희 ‘공기업 취업’ 제안 후, 실제로 작성된 김영선 이력서</strong><span class="info_txt"><span class="txt_info">2025. 2. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F25%2Fnewstapa%2F20250225180511336ftpj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F25%2Fnewstapa%2F20250225180511336ftpj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3625,14 +3631,6 @@
             <pubDate>Fri, 14 Feb 2025 10:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250214190503787" class="link_column" data-tiara-layer="[특집_방송]_탄핵_심판_막바지…_‘부정선거’_음모론_무너졌다_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 방송] 탄핵 심판 막바지… ‘부정선거’ 음모론 무너졌다</strong><span class="info_txt"><span class="txt_info">2025. 2. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214190507841fype.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214190507841fype.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250214181502057</link>
-            <guid>https://v.daum.net/v/20250214181502057</guid>
-            <pubDate>Fri, 14 Feb 2025 10:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250214181502057" class="link_column" data-tiara-layer="'노상원_수첩'_내용_입수..._수거대상_목록과_처리_계획_alltab"><div class="cont_thumb"><strong class="tit_txt">'노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획</strong><span class="info_txt"><span class="txt_info">2025. 2. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214181504442fxdy.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F14%2Fnewstapa%2F20250214181504442fxdy.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
