@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 08:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 09:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특집 기획] 한일 극우의 데칼코마니 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/H-7pM</link>
+            <guid>http://newstapa.org/article/H-7pM</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 기획] 한일 극우의 데칼코마니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/05165405-3A58-258D-8387-07LL37N6J3AYVDQFA3R1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍준표 여론조사비 입금 석 달 뒤, 대구시 공무원 채용 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/V4oZu</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21183645-54A1-96E8-0B37-B5GMCFZTMP1KZO338FCK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/pQNx5</link>
-            <guid>http://newstapa.org/article/pQNx5</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21140514-BD09-2C76-2565-6R67HAFJAP3RFLXBDPCU.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[홍준표 여론조사비 입금 석 달 뒤, 대구시 공무원 채용 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1672,6 +1672,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183218-517E-521C-72AC-XNOJM971K99T2Y0B7YK1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[특집 기획] 한일 극우의 데칼코마니 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
+            <link>http://newstapa.org/article/H-7pM</link>
+            <guid>http://newstapa.org/article/H-7pM</guid>
+            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[특집 기획] 한일 극우의 데칼코마니]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/05165405-3A58-258D-8387-07LL37N6J3AYVDQFA3R1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트럼프 취임식에 쿠팡 100만 달러, 한화 50만 달러 로비 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
             <link>http://newstapa.org/article/kIWLE</link>
             <guid>http://newstapa.org/article/kIWLE</guid>
@@ -1790,14 +1798,6 @@
             <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[40년 전 목격담 담은 윤석열표 북한인권보고서]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/07173257-3474-82A5-9265-UIQW0SSIPW33BR5QPD67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특집 기획] ‘2024 위기의 한반도’ 2부 <김정은의 전쟁할 결심?> (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
-            <link>http://newstapa.org/article/CEqB6</link>
-            <guid>http://newstapa.org/article/CEqB6</guid>
-            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[특집 기획] ‘2024 위기의 한반도’ 2부 &lt;김정은의 전쟁할 결심?&gt;]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/04/17140828-9C36-3835-9BB3-35AA8CBJIE28FV92SUH1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 인도네시아 석탄발전소 뇌물 혐의로 현대건설 수사 (뉴스타파 ─ 뉴스 ─ 국제협업)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[영풍 석포제련소 하청노동자로 일하다 급성 백혈병에 걸린 진현철 씨가 1심에 이어 2심에서도 산업재해를 인정받았습니다. 진 씨는 지난 2009년부터 석포제련소에서 불순물 찌꺼기를 제거하는 일을 하다가 2017년 급성 백혈병 진단을 받았습니다.<br><br>법원은 진현철 씨가 포름알데히드 등 유해 물질에 장기간 노출된 점, 석포제련소의 작업 환경 관리가 부실한 점 등을 들어 진 씨의 백혈병이 산업재해라고 판단했습니다. 진 씨는 뉴스타파와의 통화에서 "석포제련소 하청업체 퇴직자들도 산재를 인정받고, 이로 인해 석포제련소가 근로자 환경 개선을 최우선으로 생각했으면 좋겠다" 라고 말했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/awkfg</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[특집 기획] 한일 극우의 데칼코마니 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250305180002296</link>
+            <guid>https://v.daum.net/v/20250305180002296</guid>
+            <pubDate>Wed, 05 Mar 2025 09:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250305180002296" class="link_column" data-tiara-layer="[특집_기획]_한일_극우의_데칼코마니_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 기획] 한일 극우의 데칼코마니</strong><span class="info_txt"><span class="txt_info">14분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305180014514xrdl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305180014514xrdl.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[홍준표 여론조사비 입금 석 달 뒤, 대구시 공무원 채용 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250304184502544</link>
             <guid>https://v.daum.net/v/20250304184502544</guid>
             <pubDate>Tue, 04 Mar 2025 10:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250304184502544" class="link_column" data-tiara-layer="홍준표_여론조사비_입금_석_달_뒤,_대구시_공무원_채용_alltab"><div class="cont_thumb"><strong class="tit_txt">홍준표 여론조사비 입금 석 달 뒤, 대구시 공무원 채용</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304184504162cixe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250304184502544" class="link_column" data-tiara-layer="홍준표_여론조사비_입금_석_달_뒤,_대구시_공무원_채용_alltab"><div class="cont_thumb"><strong class="tit_txt">홍준표 여론조사비 입금 석 달 뒤, 대구시 공무원 채용</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304184504162cixe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304184504162cixe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250304180504661</link>
             <guid>https://v.daum.net/v/20250304180504661</guid>
             <pubDate>Tue, 04 Mar 2025 09:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250304180504661" class="link_column" data-tiara-layer="[윤석열_이후의_헌법]_①_윤석열_파면_이후_60일_안에_대통령_선거_없을_수도_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열 이후의 헌법] ① 윤석열 파면 이후 60일 안에 대통령 선거 없을 수도</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304180505485hpvv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250304180504661" class="link_column" data-tiara-layer="[윤석열_이후의_헌법]_①_윤석열_파면_이후_60일_안에_대통령_선거_없을_수도_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열 이후의 헌법] ① 윤석열 파면 이후 60일 안에 대통령 선거 없을 수도</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304180505485hpvv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F04%2Fnewstapa%2F20250304180505485hpvv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,13 +3634,6 @@
             <pubDate>Sun, 16 Feb 2025 00:53:47 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250216093503726" class="link_column" data-tiara-layer="&quot;윤석열,_국방·안보_현안_다룬_유튜브_보내&quot;_최측근_신원식_검찰_진술_alltab"><div class="cont_thumb"><strong class="tit_txt">"윤석열, 국방·안보 현안 다룬 유튜브 보내" 최측근 신원식 검찰 진술</strong><span class="info_txt"><span class="txt_info">2025. 2. 16.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F16%2Fnewstapa%2F20250216093504814pycu.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F16%2Fnewstapa%2F20250216093504814pycu.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] <[쿠팡은 바뀌지 않는다 2] ① <잠입취재> '로켓배송' 종착지에서 본 '쿠팡의 거짓말'> 관련 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250215110003413</link>
-            <guid>https://v.daum.net/v/20250215110003413</guid>
-            <pubDate>Sat, 15 Feb 2025 02:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250215110003413" class="link_column" data-tiara-layer="[반론보도]_<[쿠팡은_바뀌지_않는다_2]_①_<잠입취재>_'로켓배송'_종착지에서_본_'쿠팡의_거짓말'>_관련_alltab"><div class="cont_thumb"><strong class="tit_txt">[반론보도] &lt;[쿠팡은 바뀌지 않는다 2] ① &lt;잠입취재&gt; '로켓배송' 종착지에서 본 '쿠팡의 거짓말'&gt; 관련</strong><span class="info_txt"><span class="txt_info">2025. 2. 15.</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
     </channel>
 </rss>
