@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 02:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 03:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민의힘 김은혜, 지역구 시의원 '공천 비리' 정황 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/GcPWs</link>
+            <guid>http://newstapa.org/article/GcPWs</guid>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 김은혜, 지역구 시의원 '공천 비리' 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06113518-2435-7C5B-BDBC-G9O1EO181N28E0RGBI73.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/5QguL</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/25082635-0639-99B5-1CF9-DKE2BP4HSR9NWWAWUVSC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[명태균 카카오톡...여의도연구원장 통해 '홍준표 복당' 추진 정황 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/91QRT</link>
-            <guid>http://newstapa.org/article/91QRT</guid>
-            <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 카카오톡...여의도연구원장 통해 '홍준표 복당' 추진 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/24175817-6070-4E44-2624-K0YLIRSZY8M9FZVBLAYX.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국민의힘 김은혜, 지역구 시의원 '공천 비리' 정황 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/GcPWs</link>
+            <guid>http://newstapa.org/article/GcPWs</guid>
+            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[국민의힘 김은혜, 지역구 시의원 '공천 비리' 정황]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06113518-2435-7C5B-BDBC-G9O1EO181N28E0RGBI73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 윤석열 탄핵 심판, 주사위는 던져졌다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21183645-54A1-96E8-0B37-B5GMCFZTMP1KZO338FCK.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/iLBwf</link>
-            <guid>http://newstapa.org/article/iLBwf</guid>
-            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/21151849-7550-8602-8CC8-B23OV4X5ZHB7JG54TFEH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA['내란 우두머리' 윤석열 대통령에 대한 탄핵 심판 6차 변론기일이 어제(6일) 열렸습니다. 헌법재판소가 정해 놓은 8차례 변론기일 중 약 3/4이 진행된 셈입니다.<br><br>그동안의 탄핵 심판에는 윤석열 대통령을 비롯해 김용현 전 국방부 장관, 이진우 전 수도방위사령관, 여인형 전 방첩사령관 등 12.3 내란의 핵심 인물들이 증인으로 출석했습니다. 이번 주 &lt;주간 뉴스타파&gt;는 6차 변론까지 진행된 윤석열 대통령 탄핵 심판의 쟁점과 주요 증인들의 진술 내용을 종합적으로 분석했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/m3Y7JSRlViE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/h_a9u</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국민의힘 김은혜, 지역구 시의원 '공천 비리' 정황 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250306114003885</link>
+            <guid>https://v.daum.net/v/20250306114003885</guid>
+            <pubDate>Thu, 06 Mar 2025 03:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250306114003885" class="link_column" data-tiara-layer="국민의힘_김은혜,_지역구_시의원_'공천_비리'_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">국민의힘 김은혜, 지역구 시의원 '공천 비리' 정황</strong><span class="info_txt"><span class="txt_info">43분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F06%2Fnewstapa%2F20250306114005223zzql.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F06%2Fnewstapa%2F20250306114005223zzql.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250305182514078</link>
             <guid>https://v.daum.net/v/20250305182514078</guid>
             <pubDate>Wed, 05 Mar 2025 10:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250305182514078" class="link_column" data-tiara-layer="윤석열_범죄_혐의_담긴_녹음파일...검찰은_8개월_뭉갰다_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305182522056gxsi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250305182514078" class="link_column" data-tiara-layer="윤석열_범죄_혐의_담긴_녹음파일...검찰은_8개월_뭉갰다_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305182522056gxsi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305182522056gxsi.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250305182502069</link>
             <guid>https://v.daum.net/v/20250305182502069</guid>
             <pubDate>Wed, 05 Mar 2025 10:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250305182502069" class="link_column" data-tiara-layer="검찰_'캐비닛_보고서'_4건이_핵심...윤_부부_혐의_입증됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰 '캐비닛 보고서' 4건이 핵심...윤 부부 혐의 입증됐다</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305182504245rmvx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250305182502069" class="link_column" data-tiara-layer="검찰_'캐비닛_보고서'_4건이_핵심...윤_부부_혐의_입증됐다_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰 '캐비닛 보고서' 4건이 핵심...윤 부부 혐의 입증됐다</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305182504245rmvx.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305182504245rmvx.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20250305180002296</link>
             <guid>https://v.daum.net/v/20250305180002296</guid>
             <pubDate>Wed, 05 Mar 2025 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250305180002296" class="link_column" data-tiara-layer="[특집_기획]_한일_극우의_데칼코마니_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 기획] 한일 극우의 데칼코마니</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305180014514xrdl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250305180002296" class="link_column" data-tiara-layer="[특집_기획]_한일_극우의_데칼코마니_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집 기획] 한일 극우의 데칼코마니</strong><span class="info_txt"><span class="txt_info">18시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305180014514xrdl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F05%2Fnewstapa%2F20250305180014514xrdl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3634,6 @@
             <pubDate>Tue, 18 Feb 2025 15:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250218231503732" class="link_column" data-tiara-layer="명태균_녹음_속_'대우조선_파업_보고서'_입수...거짓·과장_수두룩_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 녹음 속 '대우조선 파업 보고서' 입수...거짓·과장 수두룩</strong><span class="info_txt"><span class="txt_info">2025. 2. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F18%2Fnewstapa%2F20250218231504640kata.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F18%2Fnewstapa%2F20250218231504640kata.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA["박사님 덕분입니다"...명태균, 대통령경호처 '인사청탁' 정황 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250217233003872</link>
-            <guid>https://v.daum.net/v/20250217233003872</guid>
-            <pubDate>Mon, 17 Feb 2025 15:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250217233003872" class="link_column" data-tiara-layer="&quot;박사님_덕분입니다&quot;...명태균,_대통령경호처_'인사청탁'_정황_alltab"><div class="cont_thumb"><strong class="tit_txt">"박사님 덕분입니다"...명태균, 대통령경호처 '인사청탁' 정황</strong><span class="info_txt"><span class="txt_info">2025. 2. 17.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F18%2Fnewstapa%2F20250218134232291rcto.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F18%2Fnewstapa%2F20250218134232291rcto.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
