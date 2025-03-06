@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-03-06T04:16:17.977Z</updated>
+    <updated>2025-03-06T05:14:10.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/949946c/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 김은혜, 지역구 시의원 '공천 비리' 정황]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/108627421</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/108627421"/>
+        <updated>2025-03-06T05:13:59.452Z</updated>
+        <content type="html"><![CDATA[정당의 공직선거 후보자 공천은 공정해야 한다'는 명제는 아무리 강조해도 지나치지 않습니다. 민의를 반영하는 선거에 내세울 정당의 후보자를 선출하는 과정이기 때문입니다. <br><br>그런데 지난 2022년 지방선거 성남시의원 비례대표 선출 때 '부정공천'이 발생한 정황이 뉴스타파 취재 결과 확인됐습니다. 이미 비례대표 예비후보자들에 대한 면접 등 공천 절차가 진행된 상황에서 면접 대상도 아니었던 인사가 비례대표 공천을 받은 것으로 드러났습니다. <br><br>국민의힘 내부 인사들은 당시 공천권을 행사한 인사로 분당갑 당협위원장이었던 김은혜 의원을 지목하고 있습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/GcPWs</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰 '캐비닛 보고서' 4건이 핵심...윤 부부 혐의 입증됐다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108618674</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108410218"/>
         <updated>2025-02-14T05:12:33.863Z</updated>
         <content type="html"><![CDATA[국민의힘 지역 당협에서 부정선거 음모론과 5·18 민주화 운동 왜곡 내용을 담은 강연을 개최한 사실이 확인됐습니다. 강연자로 초청된 극우 유사언론 '스카이데일리'의 대표는 "5·18 광주 민주화 운동은 북한이 주도한 내란이다"고 주장했고, '5·18과 부정선거가 연관돼 있다'는 망언도 쏟아냈습니다.<br><br>국민의힘 중앙당은 "강연 진행 사실을 몰랐다. 경위를 먼저 파악하겠다"고 밝혔습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/ASCVgxBtWC4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/8qm0F</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1시간에 몰아보는 탄핵 심판, 윤석열이 윤석열 하는 중 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108342805</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108342805"/>
-        <updated>2025-02-12T11:29:38.573Z</updated>
-        <content type="html"><![CDATA['내란 우두머리' 윤석열 대통령에 대한 탄핵 심판 6차 변론기일이 어제(6일) 열렸습니다. 헌법재판소가 정해 놓은 8차례 변론기일 중 약 3/4이 진행된 셈입니다.<br><br>그동안의 탄핵 심판에는 윤석열 대통령을 비롯해 김용현 전 국방부 장관, 이진우 전 수도방위사령관, 여인형 전 방첩사령관 등 12.3 내란의 핵심 인물들이 증인으로 출석했습니다. 이번 주 &lt;주간 뉴스타파&gt;는 6차 변론까지 진행된 윤석열 대통령 탄핵 심판의 쟁점과 주요 증인들의 진술 내용을 종합적으로 분석했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/m3Y7JSRlViE</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/h_a9u</span>]]></content>
     </entry>
 </feed>
