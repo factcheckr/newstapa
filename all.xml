@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Mar 2025 14:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 15:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/habfc</link>
+            <guid>http://newstapa.org/article/habfc</guid>
+            <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/08223329-2C87-BA51-0625-VKYRPSI4E1QSBLHAMMYZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중앙지법 움직인 윤석열의 법기술...구속 취소 결정문 분석 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/lkPeG</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28185552-1833-494D-484C-ATR1UWLS8FYTJ4T91NI4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김진태-명태균 카톡에 '김건희 여사님' 수시로 등장 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/cpG9N</link>
-            <guid>http://newstapa.org/article/cpG9N</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김진태-명태균 카톡에 '김건희 여사님' 수시로 등장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/25142037-8DEB-A9F9-DCFC-P882QJP29MUSZFYVQVW5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/habfc</link>
+            <guid>http://newstapa.org/article/habfc</guid>
+            <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/08223329-2C87-BA51-0625-VKYRPSI4E1QSBLHAMMYZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중앙지법 움직인 윤석열의 법기술...구속 취소 결정문 분석 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28195953-F22F-70DD-1E5D-WURKEH528Z1387B9IATR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 부부-명태균-이준석의 ‘VIP 공천선물’ (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/w8GVt</link>
-            <guid>http://newstapa.org/article/w8GVt</guid>
-            <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 부부-명태균-이준석의 ‘VIP 공천선물’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/27133126-0161-992A-0011-4KXXQ093I67RY55OZH6I.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/habfc</link>
+            <guid>http://newstapa.org/article/habfc</guid>
+            <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/08223329-2C87-BA51-0625-VKYRPSI4E1QSBLHAMMYZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열-김건희 ‘명태균 보고서’ 수수… 검찰, 범죄 혐의 물증 잡고도 ‘침묵’]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/06104750-2C5B-D350-ECCD-T0MYNPQLTY98MD0KNIBJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/meyK3</link>
-            <guid>http://newstapa.org/article/meyK3</guid>
-            <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[긴급 기고] 대통령 경호처가 알아야 할 27년 전 특수공무집행방해 판례]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/02164659-A1D2-DCF4-AEC0-7ED02LMX1YXH9W03JZ3I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3396,6 +3396,14 @@
             <content:encoded><![CDATA[지난해 12월 29일 '제주항공 여객기 참사'가 발생하고, 50여 일이 흘렀습니다. 시민 179명이 사망하고 2명이 다친 최대의 항공 참사지만, 사고 진상 규명과 후속 대책 마련은 더디기만 합니다. 그 사이 유가족들은 잔혹한 '2차 가해'에 시달렸습니다. <br><br>지난 11일 뉴스타파는 제주항공 참사 유가족협의회를 만났습니다. 참사 이후, 고통스런 일상을 보내고 있는 유가족들은 철저한 진상조사와 투명한 정보공개, 고립된 피해자에 대한 지원을 요구했습니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/lPTiEIEpOrA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/pQNx5</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250308231503861</link>
+            <guid>https://v.daum.net/v/20250308231503861</guid>
+            <pubDate>Sat, 08 Mar 2025 15:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250308231503861" class="link_column" data-tiara-layer="'윤석열_석방'…_10년_전과_180도_달라진_검찰의_판단_alltab"><div class="cont_thumb"><strong class="tit_txt">'윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단</strong><span class="info_txt"><span class="txt_info">55분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F08%2Fnewstapa%2F20250308231513685jkux.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F08%2Fnewstapa%2F20250308231513685jkux.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[중앙지법 움직인 윤석열의 법기술...구속 취소 결정문 분석 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250307225503278</link>
             <guid>https://v.daum.net/v/20250307225503278</guid>
@@ -3626,14 +3634,6 @@
             <pubDate>Fri, 21 Feb 2025 10:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221182503329" class="link_column" data-tiara-layer="트럼프_취임식에_쿠팡_100만_달러,_한화_50만_달러_로비_alltab"><div class="cont_thumb"><strong class="tit_txt">트럼프 취임식에 쿠팡 100만 달러, 한화 50만 달러 로비</strong><span class="info_txt"><span class="txt_info">2025. 2. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221182505179yenv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221182505179yenv.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250221165502952</link>
-            <guid>https://v.daum.net/v/20250221165502952</guid>
-            <pubDate>Fri, 21 Feb 2025 08:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221165502952" class="link_column" data-tiara-layer="검찰,_국힘_대외비보고서_분석_완료...국힘은_&quot;3류_추리소설&quot;로_폄하_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰, 국힘 대외비보고서 분석 완료...국힘은 "3류 추리소설"로 폄하</strong><span class="info_txt"><span class="txt_info">2025. 2. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221165509554ojjh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221165509554ojjh.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
