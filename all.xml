@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 05:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 06:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기고] 윤석열 석방과 법원·검찰 책임론 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NLfoB</link>
+            <guid>http://newstapa.org/article/NLfoB</guid>
+            <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 윤석열 석방과 법원·검찰 책임론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/09131952-D0C9-DE3D-E428-3DCO1V0PYUJ8RN8S83SP.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰이 압수한 김영선 메모 “명태균 털면, 윤석열 판도라 열린다” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/ycDBC</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/04182851-4915-D371-79CC-67OGA41AHA3YYX4Z8ZQG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모래 위를 걷는 투명 인간의 발자국 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/0FzQe</link>
-            <guid>http://newstapa.org/article/0FzQe</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[모래 위를 걷는 투명 인간의 발자국]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28201439-164F-34A7-A195-XO43J4LYLBB93X5O672D.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[기고] 윤석열 석방과 법원·검찰 책임론 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/NLfoB</link>
+            <guid>http://newstapa.org/article/NLfoB</guid>
+            <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 윤석열 석방과 법원·검찰 책임론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/09131952-D0C9-DE3D-E428-3DCO1V0PYUJ8RN8S83SP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰이 압수한 김영선 메모 “명태균 털면, 윤석열 판도라 열린다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/28185552-1833-494D-484C-ATR1UWLS8FYTJ4T91NI4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김진태-명태균 카톡에 '김건희 여사님' 수시로 등장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/cpG9N</link>
-            <guid>http://newstapa.org/article/cpG9N</guid>
-            <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[김진태-명태균 카톡에 '김건희 여사님' 수시로 등장]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/25142037-8DEB-A9F9-DCFC-P882QJP29MUSZFYVQVW5.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[기고] 윤석열 석방과 법원·검찰 책임론 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/NLfoB</link>
+            <guid>http://newstapa.org/article/NLfoB</guid>
+            <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[기고] 윤석열 석방과 법원·검찰 책임론]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/09131952-D0C9-DE3D-E428-3DCO1V0PYUJ8RN8S83SP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[내란죄 철회 '논란'은 없다 : 세력 결집 노린 윤석열의 어깃장]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/09140334-663F-055A-A951-QLZVA30TGA28G4HZ85LM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열-김건희 ‘명태균 보고서’ 수수… 검찰, 범죄 혐의 물증 잡고도 ‘침묵’ (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/g2IMY</link>
-            <guid>http://newstapa.org/article/g2IMY</guid>
-            <pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열-김건희 ‘명태균 보고서’ 수수… 검찰, 범죄 혐의 물증 잡고도 ‘침묵’]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/06104750-2C5B-D350-ECCD-T0MYNPQLTY98MD0KNIBJ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[지난해 12월 29일 '제주항공 여객기 참사'가 발생하고, 50여 일이 흘렀습니다. 시민 179명이 사망하고 2명이 다친 최대의 항공 참사지만, 사고 진상 규명과 후속 대책 마련은 더디기만 합니다. 그 사이 유가족들은 잔혹한 '2차 가해'에 시달렸습니다. <br><br>지난 11일 뉴스타파는 제주항공 참사 유가족협의회를 만났습니다. 참사 이후, 고통스런 일상을 보내고 있는 유가족들은 철저한 진상조사와 투명한 정보공개, 고립된 피해자에 대한 지원을 요구했습니다.<br><br>🎬 더 자세한 내용을 영상으로 확인하세요 : <span class="link_url">https://youtu.be/lPTiEIEpOrA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/pQNx5</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[기고] 윤석열 석방과 법원·검찰 책임론 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250309141504488</link>
+            <guid>https://v.daum.net/v/20250309141504488</guid>
+            <pubDate>Sun, 09 Mar 2025 06:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250309141504488" class="link_column" data-tiara-layer="[기고]_윤석열_석방과_법원·검찰_책임론_alltab"><div class="cont_thumb"><strong class="tit_txt">[기고] 윤석열 석방과 법원·검찰 책임론</strong><span class="info_txt"><span class="txt_info">59분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F09%2Fnewstapa%2F20250309141505671mgmr.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F09%2Fnewstapa%2F20250309141505671mgmr.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[검찰이 압수한 김영선 메모 “명태균 털면, 윤석열 판도라 열린다” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250309134003780</link>
             <guid>https://v.daum.net/v/20250309134003780</guid>
             <pubDate>Sun, 09 Mar 2025 05:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250309134003780" class="link_column" data-tiara-layer="검찰이_압수한_김영선_메모_“명태균_털면,_윤석열_판도라_열린다”_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰이 압수한 김영선 메모 “명태균 털면, 윤석열 판도라 열린다”</strong><span class="info_txt"><span class="txt_info">30분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F09%2Fnewstapa%2F20250309135631064bqxv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250309134003780" class="link_column" data-tiara-layer="검찰이_압수한_김영선_메모_“명태균_털면,_윤석열_판도라_열린다”_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰이 압수한 김영선 메모 “명태균 털면, 윤석열 판도라 열린다”</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F09%2Fnewstapa%2F20250309135631064bqxv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F09%2Fnewstapa%2F20250309135631064bqxv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250308231503861</link>
             <guid>https://v.daum.net/v/20250308231503861</guid>
             <pubDate>Sat, 08 Mar 2025 15:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250308231503861" class="link_column" data-tiara-layer="'윤석열_석방'…_10년_전과_180도_달라진_검찰의_판단_alltab"><div class="cont_thumb"><strong class="tit_txt">'윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단</strong><span class="info_txt"><span class="txt_info">14시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F08%2Fnewstapa%2F20250308231513685jkux.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250308231503861" class="link_column" data-tiara-layer="'윤석열_석방'…_10년_전과_180도_달라진_검찰의_판단_alltab"><div class="cont_thumb"><strong class="tit_txt">'윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F08%2Fnewstapa%2F20250308231513685jkux.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F08%2Fnewstapa%2F20250308231513685jkux.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250307145504662</link>
             <guid>https://v.daum.net/v/20250307145504662</guid>
             <pubDate>Fri, 07 Mar 2025 06:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250307145504662" class="link_column" data-tiara-layer="대법원_판결_무시하고_'직원_명단'_숨긴_윤석열_대통령실_alltab"><div class="cont_thumb"><strong class="tit_txt">대법원 판결 무시하고 '직원 명단' 숨긴 윤석열 대통령실</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F07%2Fnewstapa%2F20250307145506018nubf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250307145504662" class="link_column" data-tiara-layer="대법원_판결_무시하고_'직원_명단'_숨긴_윤석열_대통령실_alltab"><div class="cont_thumb"><strong class="tit_txt">대법원 판결 무시하고 '직원 명단' 숨긴 윤석열 대통령실</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F07%2Fnewstapa%2F20250307145506018nubf.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F07%2Fnewstapa%2F20250307145506018nubf.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3634,6 @@
             <pubDate>Fri, 21 Feb 2025 10:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221185515831" class="link_column" data-tiara-layer="제주항공_참사_유가족_인터뷰_:_하루하루_버티고_있다_alltab"><div class="cont_thumb"><strong class="tit_txt">제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다</strong><span class="info_txt"><span class="txt_info">2025. 2. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185528956kxnt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185528956kxnt.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[‘항공분야’ 국토부 고위직 이력 분석…24년 전보다 ‘전문성’ 후퇴 우려 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250221185503826</link>
-            <guid>https://v.daum.net/v/20250221185503826</guid>
-            <pubDate>Fri, 21 Feb 2025 10:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250221185503826" class="link_column" data-tiara-layer="‘항공분야’_국토부_고위직_이력_분석…24년_전보다_‘전문성’_후퇴_우려_alltab"><div class="cont_thumb"><strong class="tit_txt">‘항공분야’ 국토부 고위직 이력 분석…24년 전보다 ‘전문성’ 후퇴 우려</strong><span class="info_txt"><span class="txt_info">2025. 2. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185514682uexq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F21%2Fnewstapa%2F20250221185514682uexq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
