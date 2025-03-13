@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Mar 2025 02:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 03:25:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄핵 불복 노리는 국민의힘… ‘제2 내란’ 우려]]></title>
+            <link>http://newstapa.org/article/JXoTY</link>
+            <guid>http://newstapa.org/article/JXoTY</guid>
+            <pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[탄핵 불복 노리는 국민의힘… ‘제2 내란’ 우려]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/13114315-7CC2-CFC8-8CC6-EZYUXI2O25BZCGFBNVLY.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[180도 뒤집힌 '세비 반띵'… 두 달 만에 '정상 월급→공천 대가']]></title>
             <link>http://newstapa.org/article/lvZc7</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/05132905-6EBB-7E8D-8F90-ZMB4PSLW04U97KY7YJ9E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 '캐비닛 보고서' 4건이 핵심...윤 부부 혐의 입증됐다]]></title>
-            <link>http://newstapa.org/article/GcLPJ</link>
-            <guid>http://newstapa.org/article/GcLPJ</guid>
-            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 '캐비닛 보고서' 4건이 핵심...윤 부부 혐의 입증됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/05182121-6C11-646F-A997-HTVC7VAEB8XG3YSI2GEP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
