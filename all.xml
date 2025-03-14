@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 02:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 03:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/tjmNI</link>
+            <guid>http://newstapa.org/article/tjmNI</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/v4j93</link>
@@ -126,14 +133,6 @@
             <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 청년 정치인 이준석과 명태균의 은밀한 거래]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06182421-C98F-B10F-F23E-SYGO7CA3BM28R4U3KY8X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 "꼭 대통령 만들겁니다" 이준석 "사장님 감사합니다" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/I7PzR</link>
-            <guid>http://newstapa.org/article/I7PzR</guid>
-            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 "꼭 대통령 만들겁니다" 이준석 "사장님 감사합니다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06183023-3F04-6725-954E-WJT6GCJLHY4HWPT8GIB4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +263,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06183023-3F04-6725-954E-WJT6GCJLHY4HWPT8GIB4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/tjmNI</link>
+            <guid>http://newstapa.org/article/tjmNI</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[180도 뒤집힌 '세비 반띵'… 두 달 만에 '정상 월급→공천 대가' (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/lvZc7</link>
             <guid>http://newstapa.org/article/lvZc7</guid>
@@ -382,14 +388,6 @@
             <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공수처, '윤석열 내란 사건' 검찰에 기소 요구...'2차 계엄' 증거 확보]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23182008-7697-E5CD-98EF-OPDRFJAV9O7D53DYK8Y3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/8IrM1</link>
-            <guid>http://newstapa.org/article/8IrM1</guid>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/17153236-AF24-349A-5C07-E8Q2U7G6AF8EWRMQ8EF9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하? (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3396,11 +3394,19 @@
             <content:encoded><![CDATA[뉴스타파는 검찰 기록 속에 드러난 김진태 강원도지사와 정치브로커 명태균 씨의 긴밀한 관계에 대해 연속보도하고 있습니다. 앞서 뉴스타파는 명 씨와 김 지사의 메신저 대화 속에서 김건희 여사가 2022년 지방선거 당시 김 지사의 공천에 개입한 것으로 보이는 정황을 보도했습니다. <br> <br>취재 결과, 이들의 관계는 이때 한 번만이 아니었습니다. 김 지사는 당선 전 명 씨에게 여론조사와 관련된 질문을 수시로 했고, 당선 후에는 레고랜드 사태나 국민의힘 당 대표 경선 등 각종 정치 현안에 대해 조언을 구하기도 한 것으로 파악됐습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/cpG9N</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250314120003800</link>
+            <guid>https://v.daum.net/v/20250314120003800</guid>
+            <pubDate>Fri, 14 Mar 2025 03:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250314120003800" class="link_column" data-tiara-layer="[현장에서]_윤석열의_내란,_검찰의_내란_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 내란, 검찰의 내란</strong><span class="info_txt"><span class="txt_info">24분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314120004447knhi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314120004447knhi.png" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250313200524276</link>
             <guid>https://v.daum.net/v/20250313200524276</guid>
             <pubDate>Thu, 13 Mar 2025 11:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200524276" class="link_column" data-tiara-layer="[주간_뉴스타파]_7천억대_정부_계약에_명태균과_'VIP'_등장_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200532987idtt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200524276" class="link_column" data-tiara-layer="[주간_뉴스타파]_7천억대_정부_계약에_명태균과_'VIP'_등장_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200532987idtt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200532987idtt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,15 +3414,15 @@
             <link>https://v.daum.net/v/20250313200503272</link>
             <guid>https://v.daum.net/v/20250313200503272</guid>
             <pubDate>Thu, 13 Mar 2025 11:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200503272" class="link_column" data-tiara-layer="방산_대기업_특혜_의혹,_그_뒤에_명태균과_'VIP'_그림자_alltab"><div class="cont_thumb"><strong class="tit_txt">방산 대기업 특혜 의혹, 그 뒤에 명태균과 'VIP' 그림자</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200524237qmsq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200524237qmsq.jpg" length="0" type="image/q70/"/>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200503272" class="link_column" data-tiara-layer="방산_대기업_특혜_의혹,_그_뒤에_명태균과_'VIP'_그림자_alltab"><div class="cont_thumb"><strong class="tit_txt">방산 대기업 특혜 의혹, 그 뒤에 명태균과 'VIP' 그림자</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314113057422kuqq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314113057422kuqq.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[7100억 KTX 사업 따낸 현대로템, 명태균에게 '감사' 카톡 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250313200003135</link>
             <guid>https://v.daum.net/v/20250313200003135</guid>
             <pubDate>Thu, 13 Mar 2025 11:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200003135" class="link_column" data-tiara-layer="7100억_KTX_사업_따낸_현대로템,_명태균에게_'감사'_카톡_alltab"><div class="cont_thumb"><strong class="tit_txt">7100억 KTX 사업 따낸 현대로템, 명태균에게 '감사' 카톡</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200004510oxqc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200003135" class="link_column" data-tiara-layer="7100억_KTX_사업_따낸_현대로템,_명태균에게_'감사'_카톡_alltab"><div class="cont_thumb"><strong class="tit_txt">7100억 KTX 사업 따낸 현대로템, 명태균에게 '감사' 카톡</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200004510oxqc.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200004510oxqc.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3430,7 @@
             <link>https://v.daum.net/v/20250313114503944</link>
             <guid>https://v.daum.net/v/20250313114503944</guid>
             <pubDate>Thu, 13 Mar 2025 03:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313114503944" class="link_column" data-tiara-layer="탄핵_불복_노리는_국민의힘…_‘제2_내란’_우려_alltab"><div class="cont_thumb"><strong class="tit_txt">탄핵 불복 노리는 국민의힘… ‘제2 내란’ 우려</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313114505310bowg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313114503944" class="link_column" data-tiara-layer="탄핵_불복_노리는_국민의힘…_‘제2_내란’_우려_alltab"><div class="cont_thumb"><strong class="tit_txt">탄핵 불복 노리는 국민의힘… ‘제2 내란’ 우려</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313114505310bowg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313114505310bowg.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3632,6 @@
             <pubDate>Thu, 27 Feb 2025 11:11:57 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227201003093" class="link_column" data-tiara-layer="명태균_&quot;이준석이_김영선_공천_약속했다&quot;_검찰_진술_최초_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균 "이준석이 김영선 공천 약속했다" 검찰 진술 최초 확인</strong><span class="info_txt"><span class="txt_info">2025. 2. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201019125fsno.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227201019125fsno.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250227110003529</link>
-            <guid>https://v.daum.net/v/20250227110003529</guid>
-            <pubDate>Thu, 27 Feb 2025 02:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250227110003529" class="link_column" data-tiara-layer="[현장에서]_용두사미로_끝난_쿠팡의_'뉴스타파_입막음'_소송_전말_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 용두사미로 끝난 쿠팡의 '뉴스타파 입막음' 소송 전말</strong><span class="info_txt"><span class="txt_info">2025. 2. 27.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227110004674pdyp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202502%2F27%2Fnewstapa%2F20250227110004674pdyp.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

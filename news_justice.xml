@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 02:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 03:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></title>
+            <link>http://newstapa.org/article/tjmNI</link>
+            <guid>http://newstapa.org/article/tjmNI</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[180도 뒤집힌 '세비 반띵'… 두 달 만에 '정상 월급→공천 대가']]></title>
             <link>http://newstapa.org/article/lvZc7</link>
@@ -126,14 +133,6 @@
             <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[공수처, '윤석열 내란 사건' 검찰에 기소 요구...'2차 계엄' 증거 확보]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/23182008-7697-E5CD-98EF-OPDRFJAV9O7D53DYK8Y3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></title>
-            <link>http://newstapa.org/article/8IrM1</link>
-            <guid>http://newstapa.org/article/8IrM1</guid>
-            <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[내란 국조특위] 내란 수괴 윤석열은 증인석에 설 것인가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/17153236-AF24-349A-5C07-E8Q2U7G6AF8EWRMQ8EF9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

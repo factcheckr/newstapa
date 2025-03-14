@@ -4,9 +4,16 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 02:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 03:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></title>
+            <link>http://newstapa.org/article/tjmNI</link>
+            <guid>http://newstapa.org/article/tjmNI</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장]]></title>
             <link>http://newstapa.org/article/v4j93</link>
@@ -126,14 +133,6 @@
             <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 청년 정치인 이준석과 명태균의 은밀한 거래]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06182421-C98F-B10F-F23E-SYGO7CA3BM28R4U3KY8X.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 "꼭 대통령 만들겁니다" 이준석 "사장님 감사합니다"]]></title>
-            <link>http://newstapa.org/article/I7PzR</link>
-            <guid>http://newstapa.org/article/I7PzR</guid>
-            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 "꼭 대통령 만들겁니다" 이준석 "사장님 감사합니다"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06183023-3F04-6725-954E-WJT6GCJLHY4HWPT8GIB4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
