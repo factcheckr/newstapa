@@ -4,7 +4,7 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 04:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>http://newstapa.org/article/tjmNI</guid>
             <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/14131831-0496-2A6E-FA60-BZZ6HYSXCU8MNC9PW6LV.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[180도 뒤집힌 '세비 반띵'… 두 달 만에 '정상 월급→공천 대가']]></title>
