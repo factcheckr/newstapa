@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 10:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 11:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥페이크의 공범들 ① 텔레그램 '겹지방' 에 잠입하다]]></title>
+            <link>http://newstapa.org/article/_NwuP</link>
+            <guid>http://newstapa.org/article/_NwuP</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크의 공범들 ① 텔레그램 '겹지방' 에 잠입하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/14183734-45BD-1736-DB82-KNQFH77H11HMNSR8A8AF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></title>
             <link>http://newstapa.org/article/tjmNI</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[부정선거론 주장대로면 트럼프 당선도 부정선거]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06175455-6AE7-12C7-CF77-XTF9WQ89E8NRKV2R7WEN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 청년 정치인 이준석과 명태균의 은밀한 거래]]></title>
-            <link>http://newstapa.org/article/y6BOK</link>
-            <guid>http://newstapa.org/article/y6BOK</guid>
-            <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 청년 정치인 이준석과 명태균의 은밀한 거래]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/06182421-C98F-B10F-F23E-SYGO7CA3BM28R4U3KY8X.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

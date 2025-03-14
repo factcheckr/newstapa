@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 10:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 11:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[딥페이크의 공범들 ① 텔레그램 '겹지방' 에 잠입하다]]></title>
+            <link>http://newstapa.org/article/_NwuP</link>
+            <guid>http://newstapa.org/article/_NwuP</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크의 공범들 ① 텔레그램 '겹지방' 에 잠입하다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/14183734-45BD-1736-DB82-KNQFH77H11HMNSR8A8AF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모래 위를 걷는 투명 인간의 발자국]]></title>
             <link>http://newstapa.org/article/0FzQe</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[무시와 차별, 망각...아리셀 참사 유족들은 얼어붙은 길 위에 있다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/18170228-6C89-6929-BA53-JOO08P2173IUIUQZS7ZL.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다]]></title>
-            <link>http://newstapa.org/article/WRQ1I</link>
-            <guid>http://newstapa.org/article/WRQ1I</guid>
-            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 이태원 참사 2주기 : 기억은 가깝고, 법은 멀다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/10/31192143-1EE5-CF79-2C9A-05C84X4FS1K777UIVFDL.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
