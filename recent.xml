@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 03:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 04:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소]]></title>
+            <link>http://newstapa.org/article/JF_KX</link>
+            <guid>http://newstapa.org/article/JF_KX</guid>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/19112541-9F4E-66FB-B431-E4WO5A36EBWIUQH5FK9D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[명태균 육성파일에 등장한 현대차그룹 회장님과 사장님]]></title>
             <link>http://newstapa.org/article/_SLTH</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[180도 뒤집힌 '세비 반띵'… 두 달 만에 '정상 월급→공천 대가']]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/11171428-85A4-3CD4-96A5-D72OWC0OQNJ1RUMTOBRE.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 이후의 헌법] ② 윤석열 석방과 검찰의 미래]]></title>
-            <link>http://newstapa.org/article/dCcwD</link>
-            <guid>http://newstapa.org/article/dCcwD</guid>
-            <pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 이후의 헌법] ② 윤석열 석방과 검찰의 미래]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/10172514-014E-9A8E-55EB-RVEMUF33AU6D12TZ97R1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

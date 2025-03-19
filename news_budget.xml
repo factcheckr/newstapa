@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 예산감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 03:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 04:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소]]></title>
+            <link>http://newstapa.org/article/JF_KX</link>
+            <guid>http://newstapa.org/article/JF_KX</guid>
+            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/19112541-9F4E-66FB-B431-E4WO5A36EBWIUQH5FK9D.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상 기고] 윤석열 탄핵되면 정보공개소송은 각하?]]></title>
             <link>http://newstapa.org/article/NfgzY</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194328-7098-371A-5723-KAZUNXYK9KFRSUSGAX56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발]]></title>
-            <link>http://newstapa.org/article/KmGMz</link>
-            <guid>http://newstapa.org/article/KmGMz</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[자생한방병원, 복지부 기준 어기고 수개월간 건강보험 급여 받다 적발]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194729-75AF-583F-6BF1-GHYWL871F7TED8KKDX60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
