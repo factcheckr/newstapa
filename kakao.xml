@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-03-19T09:18:22.929Z</updated>
+    <updated>2025-03-19T10:15:28.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/1a04e23/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰이 놓친 김영선 ‘차량과 휴대폰’, 뉴스타파가 찾았다]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/108773377</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/108773377"/>
+        <updated>2025-03-19T10:15:18.588Z</updated>
+        <content type="html"><![CDATA[김영선 전 국민의힘 의원이 검찰 압수수색을 피해 숨겨둔 차량의 위치와 휴대전화의 행방이 확인됐습니다. 지난해 검찰은 두 차례 압수수색을 통해 김 전 의원의 자택과 사무실 등을 압수수색했는데, 이때 압수하지 못한 증거물들입니다. &nbsp;<br><br>뉴스타파가 검찰 수사기록을 분석한 결과, 김 전 의원의 차량과 휴대전화를 숨긴 사람은 지인 박모 씨였습니다. 박 씨는 뉴스타파와의 통화에서 "결정적인 것은 다 내가 갖고 있다"고 주장했습니다. 실제로 뉴스타파는 박 씨의 자택 주차장에서 김영선 소유 체어맨 차량을 찾았습니다.  <br><br>박 씨는 취재진에게 “(나한테) 새로운 것도 많이 있다. 우리는 조용히 대포 쏠 때, 대포를 쏠 것”이라며 휴대전화 내용과 동영상을 조만간 공개할 뜻을 밝혔습니다.  체어맨 차량이 실제로 발견됨에 따라, 그의 주장은 사실일 가능성이 높은 상황입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/nLQ3nd7E-Fg</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/LDRB8</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[윤석열 이후의 헌법] ③ 정치의 사법화 다음 사법의 무력화]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108772328</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108637743"/>
         <updated>2025-03-07T02:20:02.380Z</updated>
         <content type="html"><![CDATA[국내의 부정선거론자들은 사전투표와 선거당일의 득표율이 차이가 난 만큼 지난 총선과 대선 모두 사전투표가 조작됐다고 주장합니다. <br><br>그런데 뉴스타파가 지난해 11월 미국 대선의 개표 데이터를 분석해봤더니 미국 대선에서도 사전투표와 득표율 차이가 큰 곳이 수두룩했습니다. 이들 주장대로면 트럼프가 당선된 미국 대선도 부정선거인 셈인데 정작 미국에선 부정선거 이야기가 없습니다. 음모론자들의 주장이 엉터리이기 때문입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/1UCSS</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년 정치인 이준석과 명태균의 은밀한 거래 〈주간 뉴스타파〉]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108633389</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108633389"/>
-        <updated>2025-03-06T11:12:22.789Z</updated>
-        <content type="html"><![CDATA[뉴스타파는 지난 주, <br>공천 개입 사건에서 윤석열 대통령 부부와 함께<br>당시 이준석 대표가 국민의힘 안에서 <br>핵심적인 역할을 맡았던 정황을 보도했는데요, <br><br>이준석 의원은<br>본인은 “원칙을 어긴 적이 없다” 강하게 부정했습니다. <br>공당의 대표로서 정치 브로커와 나눈 부적절한 대화가 드러났지만 <br>유감 표명조차 없었습니다. <br><br>오늘 뉴스타파는 명씨와 이준석 의원의 <br>대화 내용을 추가로 공개합니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/wbM7PO2_24Q</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/y6BOK</span>]]></content>
     </entry>
 </feed>
