@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-03-20T00:51:06.690Z</updated>
+    <updated>2025-03-20T02:21:14.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/1a04e23/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍종민 최후진술 “자기의 양심을 속이지 않고 살아가겠다”]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/108777904</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/108777904"/>
+        <updated>2025-03-20T02:21:02.441Z</updated>
+        <content type="html"><![CDATA[동아일보, 조선일보 등 여러 언론사 기자가 박정희 정권과 독재에 야합한 사주에 맞서 ‘자유언론실천선언’을 발표한 지 50년이 지났습니다. 이들 수백 명의 언론인은 회사에서 무자비하게 쫓겨났지만 이들이 주창한 자유언론 정신은 지금까지 면면히 이어지고 있습니다.<br><br>뉴스타파는 살벌한 유신법정에서도 언론인의 기개를 굽히지 않았던 ‘진짜 기자’들이 피를 토하듯 쏟아낸 최후진술 원문을 공개합니다.<br><br>〈장윤환 최후진술 "어떠한 자유도 하늘에서 저절로 떨어지는 것은 아닙니다"〉 편에 이어 이번에는 역시 같은 법정에 섰던 홍종민 전 동아일보 기자의 최후진술을 소개합니다. 1979년 7월 25일 서울고등법원 213호 법정 현장입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/4iHZ-_8bjpc</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/KSteU</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰이 놓친 김영선 ‘차량과 휴대폰’, 뉴스타파가 찾았다]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108773377</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108637749"/>
         <updated>2025-03-07T02:20:02.379Z</updated>
         <content type="html"><![CDATA[2020년 4·15 국회의원 선거때도 명태균 씨가 홍준표 대구시장에 대한 '맞춤형 여론조사'를 벌인 정황을 확인했습니다. 21대 총선 당시 홍 시장은 '경남 밀양→경남 양산을→대구 수성구을'로 출마지를 바꿨는데, 각 지역에 출마 선언을 하기 전에 명 씨가 미리 여론조사를 돌려준 겁니다.<br><br>강혜경 씨는 "홍 시장의 최측근 박재기 씨가 2020년 홍준표 여론조사 비용 명목으로 5,000만원을 명 씨에게 전달했다"고 말했습니다. 박 씨는 2022년 대구시장 선거때 홍준표 여론조사를 대납한 인물입니다.<br><br>명 씨가 맞춤형 여론조사 보고서를 들고 홍 시장에게 대면 보고를 했단 주장도 제기된 만큼 검찰이 이 내용이 사실인지 확인할 것으로 보입니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/b7OJm</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부정선거론 주장대로면 트럼프 당선도 부정선거]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108637743</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108637743"/>
-        <updated>2025-03-07T02:20:02.380Z</updated>
-        <content type="html"><![CDATA[국내의 부정선거론자들은 사전투표와 선거당일의 득표율이 차이가 난 만큼 지난 총선과 대선 모두 사전투표가 조작됐다고 주장합니다. <br><br>그런데 뉴스타파가 지난해 11월 미국 대선의 개표 데이터를 분석해봤더니 미국 대선에서도 사전투표와 득표율 차이가 큰 곳이 수두룩했습니다. 이들 주장대로면 트럼프가 당선된 미국 대선도 부정선거인 셈인데 정작 미국에선 부정선거 이야기가 없습니다. 음모론자들의 주장이 엉터리이기 때문입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/1UCSS</span>]]></content>
     </entry>
 </feed>
