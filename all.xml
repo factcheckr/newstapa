@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 09:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 10:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/9JQzx</link>
+            <guid>http://newstapa.org/article/9JQzx</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21182146-0F57-A267-D39E-JMFP1PJA78XHQVK3SAQT.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/p3eaS</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/14183734-45BD-1736-DB82-KNQFH77H11HMNSR8A8AF.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/tjmNI</link>
-            <guid>http://newstapa.org/article/tjmNI</guid>
-            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/14131831-0496-2A6E-FA60-BZZ6HYSXCU8MNC9PW6LV.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/9JQzx</link>
+            <guid>http://newstapa.org/article/9JQzx</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21182146-0F57-A267-D39E-JMFP1PJA78XHQVK3SAQT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -256,12 +264,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/09131952-D0C9-DE3D-E428-3DCO1V0PYUJ8RN8S83SP.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰이 압수한 김영선 메모 “명태균 털면, 윤석열 판도라 열린다” (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/ycDBC</link>
-            <guid>http://newstapa.org/article/ycDBC</guid>
-            <pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 압수한 김영선 메모 “명태균 털면, 윤석열 판도라 열린다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/09133727-8472-E533-596D-JP1B9VYOV74LIY6SR2L7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/9JQzx</link>
+            <guid>http://newstapa.org/article/9JQzx</guid>
+            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21182146-0F57-A267-D39E-JMFP1PJA78XHQVK3SAQT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[윤석열 이후의 헌법] ③ 정치의 사법화 다음 사법의 무력화 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[검경, 윤석열 핵심 측근 이상민 조준... 내란 관여 정황]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/07180100-A543-3662-16B5-C087SX2QHBAC5SDJFRO5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] ‘우리법 재판소’라는 프레임이 불러올 결과 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/F38ho</link>
-            <guid>http://newstapa.org/article/F38ho</guid>
-            <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] ‘우리법 재판소’라는 프레임이 불러올 결과]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/04110641-10A6-106A-D8AA-UWB8Y3F8LU5SUR90Y5PN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[검찰이 ‘명태균 게이트’ 실체 규명의 핵심 단초인 속칭 ‘세비 반띵’ 사건을 아무 문제 없는 ‘정상적인 월급’으로 결론 지었다가, 불과 두 달 만에 범죄 혐의와 직결된 ‘국회의원 공천 대가’로, 수사 결과를 완전히 뒤바꾼 사실이 뉴스타파의 검찰 수사기록 검증 결과, 확인됐습니다.<br><br>늑장 압수수색 등을 통해 당초 ‘세비 반띵’ 사건을 뭉개려던 검찰이, 정치권의 윤석열 대통령 공천 개입 육성 공개 등으로 인해 ‘명태균 게이트’의 실체를 은폐하기 어려운 상황이 되자, 급하게 ‘세비 반띵’의 수사 결과를 뒤집은 것 아니냐는 의혹이 나옵니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/btzsAtAhK7o</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/lvZc7</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250321190003361</link>
+            <guid>https://v.daum.net/v/20250321190003361</guid>
+            <pubDate>Fri, 21 Mar 2025 10:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250321190003361" class="link_column" data-tiara-layer="[주간_뉴스타파]_내란_수사기록으로_본_'정치인_체포'의_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실</strong><span class="info_txt"><span class="txt_info">14분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321190015976yefb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321190015976yefb.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250320185003086</link>
             <guid>https://v.daum.net/v/20250320185003086</guid>
             <pubDate>Thu, 20 Mar 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320185003086" class="link_column" data-tiara-layer="윤석열_대통령실의_직원_명단_'불법_은폐'..._끝까지_간다_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320185003086" class="link_column" data-tiara-layer="윤석열_대통령실의_직원_명단_'불법_은폐'..._끝까지_간다_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250320184002822</link>
             <guid>https://v.daum.net/v/20250320184002822</guid>
             <pubDate>Thu, 20 Mar 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320184002822" class="link_column" data-tiara-layer="[현장_인터뷰]_조선_하청_노동자가_30m_철탑에_오른_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320184016272erfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320184002822" class="link_column" data-tiara-layer="[현장_인터뷰]_조선_하청_노동자가_30m_철탑에_오른_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320184016272erfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320184016272erfe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250319184502613</link>
             <guid>https://v.daum.net/v/20250319184502613</guid>
             <pubDate>Wed, 19 Mar 2025 10:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250319184502613" class="link_column" data-tiara-layer="검찰이_놓친_김영선_‘체어맨과_휴대폰’,_뉴스타파가_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰이 놓친 김영선 ‘체어맨과 휴대폰’, 뉴스타파가 찾았다</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F19%2Fnewstapa%2F20250319184510973ahce.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250319184502613" class="link_column" data-tiara-layer="검찰이_놓친_김영선_‘체어맨과_휴대폰’,_뉴스타파가_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰이 놓친 김영선 ‘체어맨과 휴대폰’, 뉴스타파가 찾았다</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F19%2Fnewstapa%2F20250319184510973ahce.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F19%2Fnewstapa%2F20250319184510973ahce.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3634,6 @@
             <pubDate>Fri, 07 Mar 2025 02:20:13 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250307102506373" class="link_column" data-tiara-layer="악어와_악어새처럼...&quot;명태균,_홍준표_맞춤형_여론조사_직접_보고&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">악어와 악어새처럼..."명태균, 홍준표 맞춤형 여론조사 직접 보고"</strong><span class="info_txt"><span class="txt_info">2025. 3. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F07%2Fnewstapa%2F20250307102508125uuuo.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F07%2Fnewstapa%2F20250307102508125uuuo.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[부정선거론 주장대로면 트럼프 당선도 부정선거 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250307100003352</link>
-            <guid>https://v.daum.net/v/20250307100003352</guid>
-            <pubDate>Fri, 07 Mar 2025 02:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250307100003352" class="link_column" data-tiara-layer="부정선거론_주장대로면_트럼프_당선도_부정선거_alltab"><div class="cont_thumb"><strong class="tit_txt">부정선거론 주장대로면 트럼프 당선도 부정선거</strong><span class="info_txt"><span class="txt_info">2025. 3. 7.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F07%2Fnewstapa%2F20250307100004870epsh.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F07%2Fnewstapa%2F20250307100004870epsh.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
