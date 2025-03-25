@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 09:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 10:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장 인터뷰]여성 노동자 불탄 공장 위에서 사는 이유]]></title>
+            <link>http://newstapa.org/article/38P3t</link>
+            <guid>http://newstapa.org/article/38P3t</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장 인터뷰]여성 노동자 불탄 공장 위에서 사는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25180855-009A-8547-7AE3-GLZK5S9KMP92RO902PIV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유]]></title>
             <link>http://newstapa.org/article/-gz0w</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175534-1491-DDA2-DC3B-XHSTB8ZN3L2HJV9D175U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면]]></title>
-            <link>http://newstapa.org/article/iTy7e</link>
-            <guid>http://newstapa.org/article/iTy7e</guid>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21105624-3899-44D8-2211-2U7I3SHWAQNLGOGFDICD.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

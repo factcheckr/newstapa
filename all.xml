@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 09:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 10:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장 인터뷰]여성 노동자 불탄 공장 위에서 사는 이유 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/38P3t</link>
+            <guid>http://newstapa.org/article/38P3t</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장 인터뷰]여성 노동자 불탄 공장 위에서 사는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25180855-009A-8547-7AE3-GLZK5S9KMP92RO902PIV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘" (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/wOl6l</link>
+            <guid>http://newstapa.org/article/wOl6l</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25184429-CD52-01A8-7550-JPQ2ZGKSSE0KV1K6HFKF.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/8mKkJ</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균 육성파일에 등장한 현대차그룹 회장님과 사장님]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18162613-6888-BC8D-858B-MLECYJJEFXB5QK8KD8HI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자유언론실천은 끝나지 않은 여정입니다" 동아투위 50주년 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/XyL9T</link>
-            <guid>http://newstapa.org/article/XyL9T</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA["자유언론실천은 끝나지 않은 여정입니다" 동아투위 50주년]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18152823-A6A2-2AAF-A633-CI73M4BM5P13HKOERIPA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/xW7rq</link>
-            <guid>http://newstapa.org/article/xW7rq</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18160406-B1D4-4277-F8BC-HOUZSMGORIR9KU8VU3V4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/29111646-0039-C2FB-851E-4HEY90P6KETN7ELIQJ7K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장 인터뷰]여성 노동자 불탄 공장 위에서 사는 이유 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/38P3t</link>
+            <guid>http://newstapa.org/article/38P3t</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장 인터뷰]여성 노동자 불탄 공장 위에서 사는 이유]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25180855-009A-8547-7AE3-GLZK5S9KMP92RO902PIV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/-gz0w</link>
             <guid>http://newstapa.org/article/-gz0w</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175534-1491-DDA2-DC3B-XHSTB8ZN3L2HJV9D175U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/iTy7e</link>
-            <guid>http://newstapa.org/article/iTy7e</guid>
-            <pubDate>Thu, 21 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 국회 청문회 앞둔 '문제적 기업' 쿠팡을 바꾸려면]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/21105624-3899-44D8-2211-2U7I3SHWAQNLGOGFDICD.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1544,6 +1544,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/05155253-D9ED-36E5-44A4-Q3SG6H6VJHVK7ZGED5FB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘" (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
+            <link>http://newstapa.org/article/wOl6l</link>
+            <guid>http://newstapa.org/article/wOl6l</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25184429-CD52-01A8-7550-JPQ2ZGKSSE0KV1K6HFKF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[의료위기② 여기도 사람이 산다 : 지역에 의료는 있는가 (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
             <link>http://newstapa.org/article/Yq5Tz</link>
             <guid>http://newstapa.org/article/Yq5Tz</guid>
@@ -1662,14 +1670,6 @@
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 의료사고 7년... 법의 이름으로 퇴원을 명받다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/29140604-A074-48BD-0EBC-CMB6Z4BAFUP9Q1LLFF9G.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ① (뉴스타파 ─ 뉴스 ─ 보건복지)]]></title>
-            <link>http://newstapa.org/article/r_pJG</link>
-            <guid>http://newstapa.org/article/r_pJG</guid>
-            <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[병실 퇴거명령] 법원이 식물인간을 내쫓는 논리 ①]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/08/25183218-517E-521C-72AC-XNOJM971K99T2Y0B7YK1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특집 기획] 한일 극우의 데칼코마니 (뉴스타파 ─ 뉴스 ─ 외교안보)]]></title>
@@ -3256,6 +3256,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장 인터뷰]여성 노동자 불탄 공장 위에서 사는 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/108835159</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/108835159</guid>
+            <pubDate>Tue, 25 Mar 2025 10:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[경북 구미에는 화재로 전소된 공장 옥상에서 오늘(25일)로 443일을 보내고 있는 두 명의 여성 노동자가 있습니다.<br><br>'한국옵티칼하이테크'에서 2023년 2월 해고된 노동자 박정혜, 소현숙 씨입니다.<br><br>한국옵티칼은 일본 기업 '니토덴코'가 100% 지분을 가진 자회사인데요. <br>2003년 구미 외국인투자지역에 입주해 토지 무상임대, 법인세 감면 등 각종 혜택을 받고 해매다 수백억 원의 이익과 배당금을 챙겼습니다.<br><br>그런데 2022년 10월 4일 화재가 발생하자, 법인 청산을 결정하고 노동자들을 해고했습니다.<br><br>박정혜, 소현숙 씨는 니토덴코의 다른 자회사로 고용승계를 요구하며 작년 1월 공장 옥상에 올랐는데요. 그 기간이 길어져 국내 '최장기 고공농성'이라는 기록을 세웠습니다.<br><br>물도, 전기도 없는 공장 옥상에서 두 노동자가 1년 3개월을 버티며 꼭 하고 싶었던 말은 무엇이었을까요? <br><br>뉴스타파가 그 이야기를 들어봤습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/6FA5rL4TX1g</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/38P3t</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘" (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/108834946</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/108834946</guid>
+            <pubDate>Tue, 25 Mar 2025 10:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난 17일 서울의대 교수 4명(하은진 오주환 한세원 강희경)은 윤석열 정부의 일방적인 의대증원 통보에 반발하며 사직한 전공의와 집단 휴학 중인 의대생을 비판하는 성명을 냈습니다. 의료계 내부에서 비판의 목소리가 나온 건 이례적입니다.<br><br>서울의대 교수들은 1년 전만 해도 윤석열 정권이 밀어붙인 의대증원 정책에 반대했고, 한국 의료의 ‘미래’를 위한 심도 깊은 논의를 지지하고자 총파업을 결의하기도 했습니다. 하지만 서울의대 교수들은 자신들이 작심하고 의료계 내부를 비판하는 성명을 내게된 건 ‘대의는 잊고 동료들의 자유를 가로막는 전체주의적 지도부’를 더는 용인할 수 없어서라고 밝혔습니다.<br><br>그들의 생각을 자세히 묻고자 뉴스타파는 지난 19일 성명에 이름을 올린 서울의대 교수 3명을 인터뷰했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/ozoIONfkB0w</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/wOl6l</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/108832239</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/108832239</guid>
@@ -3382,25 +3396,19 @@
             <content:encoded><![CDATA[지난 주말 내란수괴 윤석열이 구속 52일만에 석방됐습니다. 윤석열은 마치 비상계엄 정당성을 인정받은 것처럼 탄핵 반대를 외치는 이들을 ‘애국 시민’이라고 지칭하고 서부지법 폭동범들에 대한 선처까지 요구했습니다. <br><br>뉴스타파는 곧 있을 헌재 탄핵 심판일에 앞서 윤석열의 비상계엄 주요 이유로 꼽히는 '명태균 게이트'를 다시 주목하고자 합니다. <br><br>뉴스타파는 명태균 게이트 검찰 수사기록을 확보해 지난 1월부터 연속보도하고 있습니다. 명 씨가 윤 대통령 부부와의 친분을 과시하며 여러 이권사업에 개입한 사실을 취재하던 중 민간인인 명 씨가 국내 최대 방산 기업인 한화와 또다른 방산대기업 현대로템 에 모종의 특혜를 준 정황을 포착했습니다.<br><br>오늘 주간 뉴스타파는 방산대기업들이 정부와 맺은 수천억대 계약 뒤에 드리운 명태균과 ‘VIP’의 그림자를 살펴봤습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/WwA2d5-wZV4</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/v4j93</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방산 대기업 특혜 의혹, 그 뒤에 명태균과 'VIP' 그림자 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108711097</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108711097</guid>
-            <pubDate>Thu, 13 Mar 2025 11:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 명태균 씨 PC를 압수해 포렌식하는 과정에서 민간인 명 씨가 국내 최대 방산 기업인 한화에 모종의 특혜를 준 정황을 포착했습니다. <br><br>명태균 씨와 김영선 의원실 보좌진들이 나눈 카카오톡에는 방위사업청이 한화가 생산하는 K-9 자주포, K21보병전투차량 등을 구매할 수 있도록 예산 확보를 돕는 장면이 곳곳에 등장합니다. 이들의 대화에 나오는 한화에어로스페이스 생산 무기 구매 대금은 500억 원이 넘었습니다.&nbsp;<br><br>특히 이들은 "K-9 자주포가 VIP 관심 사항"이라거나, "한화 요청 예산"이라는 발언도 했는데, 특혜의 배경에 VIP(대통령)가 직접 관여한 것 아니냐는 의혹이 제기되는 대목입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/m-pxF39gm4M</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/Glpb5</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[7100억 KTX 사업 따낸 현대로템, 명태균에게 '감사' 카톡 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108711084</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108711084</guid>
-            <pubDate>Thu, 13 Mar 2025 11:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 명태균 씨가 김영선 의원실 실세로 군림하면서 국내 방산대기업 현대로템의 2023년도 신규 고속철 입찰에까지 관여한 것으로 보이는 카카오톡 대화 내용을 확보한 것으로 파악됐습니다.<br><br>현대로템은 2023년 한국철도공사의 신규 고속철 도입 7,100억원 규모의 사업에 낙찰되었는데, 검찰이 확보한 자료에는 현대로템 커뮤니케이션실 상무가 신규고속철 사업 낙찰 소식을 명 씨에게 알리면서 도와주고 맘써준 은혜를 잊지 않겠다고 감사 카카오톡 메시지를 보낸 사실이 명시되어 있습니다.<br><br>뉴스타파 취재결과, 명 씨는 창원국가산단에 대기업 투자를 유치하기 위해 현대로템, 한화 등 창원 지역 소재 방산대기업과 자주 접촉하고 이들 방산기업과 관련한 방위사업청 예산 로비, 고속철 입찰 사업 등에 직접 개입한 것으로 확인됐습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/Yfjx_dlDbX8</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/xfM5L</span>]]></content:encoded>
+            <title><![CDATA[서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘" (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250325185003294</link>
+            <guid>https://v.daum.net/v/20250325185003294</guid>
+            <pubDate>Tue, 25 Mar 2025 10:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325185003294" class="link_column" data-tiara-layer="서울의대_교수_3인_인터뷰..._&quot;의대생_복귀_방해는_파시즘&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">서울의대 교수 3인 인터뷰... "의대생 복귀 방해는 파시즘"</strong><span class="info_txt"><span class="txt_info">24분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325185016970jidv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325185016970jidv.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250325155504260</link>
             <guid>https://v.daum.net/v/20250325155504260</guid>
             <pubDate>Tue, 25 Mar 2025 07:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325155504260" class="link_column" data-tiara-layer="[현장에서]_윤석열의_국무위원,_전두환의_국무위원_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 국무위원, 전두환의 국무위원</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325155504260" class="link_column" data-tiara-layer="[현장에서]_윤석열의_국무위원,_전두환의_국무위원_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 국무위원, 전두환의 국무위원</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3448,7 +3456,7 @@
             <link>https://v.daum.net/v/20250321190003361</link>
             <guid>https://v.daum.net/v/20250321190003361</guid>
             <pubDate>Fri, 21 Mar 2025 10:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250321190003361" class="link_column" data-tiara-layer="[주간_뉴스타파]_내란_수사기록으로_본_'정치인_체포'의_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321190015976yefb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250321190003361" class="link_column" data-tiara-layer="[주간_뉴스타파]_내란_수사기록으로_본_'정치인_체포'의_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321190015976yefb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321190015976yefb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3456,7 +3464,7 @@
             <link>https://v.daum.net/v/20250320185003086</link>
             <guid>https://v.daum.net/v/20250320185003086</guid>
             <pubDate>Thu, 20 Mar 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320185003086" class="link_column" data-tiara-layer="윤석열_대통령실의_직원_명단_'불법_은폐'..._끝까지_간다_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320185003086" class="link_column" data-tiara-layer="윤석열_대통령실의_직원_명단_'불법_은폐'..._끝까지_간다_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3464,7 +3472,7 @@
             <link>https://v.daum.net/v/20250320184002822</link>
             <guid>https://v.daum.net/v/20250320184002822</guid>
             <pubDate>Thu, 20 Mar 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320184002822" class="link_column" data-tiara-layer="[현장_인터뷰]_조선_하청_노동자가_30m_철탑에_오른_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320184016272erfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320184002822" class="link_column" data-tiara-layer="[현장_인터뷰]_조선_하청_노동자가_30m_철탑에_오른_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320184016272erfe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320184016272erfe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3480,7 +3488,7 @@
             <link>https://v.daum.net/v/20250319184502613</link>
             <guid>https://v.daum.net/v/20250319184502613</guid>
             <pubDate>Wed, 19 Mar 2025 10:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250319184502613" class="link_column" data-tiara-layer="검찰이_놓친_김영선_‘체어맨과_휴대폰’,_뉴스타파가_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰이 놓친 김영선 ‘체어맨과 휴대폰’, 뉴스타파가 찾았다</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F19%2Fnewstapa%2F20250319184510973ahce.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250319184502613" class="link_column" data-tiara-layer="검찰이_놓친_김영선_‘체어맨과_휴대폰’,_뉴스타파가_찾았다_alltab"><div class="cont_thumb"><strong class="tit_txt">검찰이 놓친 김영선 ‘체어맨과 휴대폰’, 뉴스타파가 찾았다</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F19%2Fnewstapa%2F20250319184510973ahce.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F19%2Fnewstapa%2F20250319184510973ahce.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3634,6 @@
             <pubDate>Mon, 10 Mar 2025 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250310173004377" class="link_column" data-tiara-layer="[윤석열_이후의_헌법]_②_윤석열_석방과_검찰의_미래_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열 이후의 헌법] ② 윤석열 석방과 검찰의 미래</strong><span class="info_txt"><span class="txt_info">2025. 3. 10.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F10%2Fnewstapa%2F20250310173007258rsqe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F10%2Fnewstapa%2F20250310173007258rsqe.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열 풀려나자, 명태균 “나도 곧 구속취소 신청” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250309175502160</link>
-            <guid>https://v.daum.net/v/20250309175502160</guid>
-            <pubDate>Sun, 09 Mar 2025 09:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250309175502160" class="link_column" data-tiara-layer="[현장에서]_윤석열_풀려나자,_명태균_“나도_곧_구속취소_신청”_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열 풀려나자, 명태균 “나도 곧 구속취소 신청”</strong><span class="info_txt"><span class="txt_info">2025. 3. 9.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F09%2Fnewstapa%2F20250309175504216tghi.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F09%2Fnewstapa%2F20250309175504216tghi.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
