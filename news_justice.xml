@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 06:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 07:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원]]></title>
+            <link>http://newstapa.org/article/8mKkJ</link>
+            <guid>http://newstapa.org/article/8mKkJ</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25155307-5DF0-E565-7FD1-7PAL0SB3FNWBEJPJAWFA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></title>
             <link>http://newstapa.org/article/9JQzx</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 명품시계 밀수 면세점 전 대표, 법정 구속...뉴스타파 보도 5년 8개월만]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/12143455-31E9-435E-38D7-XWN7KVCH1UGTLX25WUWO.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검경, 윤석열 핵심 측근 이상민 조준... 내란 관여 정황]]></title>
-            <link>http://newstapa.org/article/q7qYJ</link>
-            <guid>http://newstapa.org/article/q7qYJ</guid>
-            <pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검경, 윤석열 핵심 측근 이상민 조준... 내란 관여 정황]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/07180100-A543-3662-16B5-C087SX2QHBAC5SDJFRO5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

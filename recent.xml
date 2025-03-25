@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 06:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 07:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원]]></title>
+            <link>http://newstapa.org/article/8mKkJ</link>
+            <guid>http://newstapa.org/article/8mKkJ</guid>
+            <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25155307-5DF0-E565-7FD1-7PAL0SB3FNWBEJPJAWFA.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></title>
             <link>http://newstapa.org/article/9JQzx</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18160406-B1D4-4277-F8BC-HOUZSMGORIR9KU8VU3V4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍종민 최후진술 “자기의 양심을 속이지 않고 살아가겠다”]]></title>
-            <link>http://newstapa.org/article/KSteU</link>
-            <guid>http://newstapa.org/article/KSteU</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[홍종민 최후진술 “자기의 양심을 속이지 않고 살아가겠다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18144240-2BB4-C205-6962-W6GQWIGMF5UBTALEIZFI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
