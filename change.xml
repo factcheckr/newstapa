@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 변화</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 05:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 06:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 뉴스타파X참여연대, '대통령실 직원 명단 공개소송' 최종 승소... 첫 판례 확립]]></title>
+            <link>https://www.newstapa.org/article/HPjyv</link>
+            <guid>https://www.newstapa.org/article/HPjyv</guid>
+            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.14]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14165704-63AB-432F-DF87-G83DF6K1YG7KDU1874H9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 명품시계 밀수 면세점 전 대표, 법정 구속...뉴스타파 보도 5년 8개월만]]></title>
+            <link>https://www.newstapa.org/article/uZQUo</link>
+            <guid>https://www.newstapa.org/article/uZQUo</guid>
+            <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.02.12]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/12143455-31E9-435E-38D7-XWN7KVCH1UGTLX25WUWO.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 영풍제련소 '백혈병' 하청노동자...1심 이어 2심도 '산업재해' 인정]]></title>
             <link>https://www.newstapa.org/article/awkfg</link>
@@ -22,6 +38,14 @@
             <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2024.12.30]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/30112719-BA34-66EA-F6BA-1Q8CNXGZ0QAWE89J1091.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰"]]></title>
+            <link>https://www.newstapa.org/article/InF09</link>
+            <guid>https://www.newstapa.org/article/InF09</guid>
+            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2024.12.24]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24112339-AC18-F770-5497-1NGS8ADZFM1O7BOCPKNZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특별기고] 검찰 특수활동비, 전액 삭감은 물론 수사가 필요]]></title>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 11 Jul 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.07.11]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/07/11133411-9966-CF7C-A568-JYCFCXQP1ENK6W948KCS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 관광 학술지 절반 '등재 취소'...'논문 게재율' 조작 확인]]></title>
-            <link>https://www.newstapa.org/article/FuWju</link>
-            <guid>https://www.newstapa.org/article/FuWju</guid>
-            <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.17]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/17173351-6A9A-6E84-014A-B235XEEJP97PP0I9K25M.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화]뉴스타파, 부산 해운대그랜드호텔측에 최종 승소]]></title>
-            <link>https://www.newstapa.org/article/Tcnj0</link>
-            <guid>https://www.newstapa.org/article/Tcnj0</guid>
-            <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.05.02]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/05/02154810-E039-5D6A-18A9-AZ793QR04HZUHHF6F0W1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 행안부 "재난통신망 기록 보존 기준 마련하겠다"]]></title>
-            <link>https://www.newstapa.org/article/HcqQ9</link>
-            <guid>https://www.newstapa.org/article/HcqQ9</guid>
-            <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.04.21]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/04/21175537-F441-7464-DC41-4C4URCH6SE3IR5T08MH4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
