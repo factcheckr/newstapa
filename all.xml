@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 10:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 11:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/74aqg</link>
+            <guid>http://newstapa.org/article/74aqg</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/27180054-0A50-75CF-CFFC-8FN28KS28ICFL6WCD72X.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오세훈 압수수색 결정타는 '명태균 서울행 항공' 티켓 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Stc8j</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열의 망상과 12·3 그날 대한민국의 진짜 풍경]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/20113527-4FBF-2293-1B11-8HORGC9Y1SCB4UT67EME.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰이 놓친 김영선 ‘체어맨과 휴대폰’, 뉴스타파가 찾았다 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/LDRB8</link>
-            <guid>http://newstapa.org/article/LDRB8</guid>
-            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰이 놓친 김영선 ‘체어맨과 휴대폰’, 뉴스타파가 찾았다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/19183942-13DB-9A8F-FCA8-16DTFU74ARQYJPGZ079Y.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오세훈 압수수색 결정타는 '명태균 서울행 항공' 티켓 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/29111646-0039-C2FB-851E-4HEY90P6KETN7ELIQJ7K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/74aqg</link>
+            <guid>http://newstapa.org/article/74aqg</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/27180054-0A50-75CF-CFFC-8FN28KS28ICFL6WCD72X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/3fZTu</link>
             <guid>http://newstapa.org/article/3fZTu</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24112339-AC18-F770-5497-1NGS8ADZFM1O7BOCPKNZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[반론보도] <[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 기록 전산화 사업 감사 착수> 관련 (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/ehhzE</link>
-            <guid>http://newstapa.org/article/ehhzE</guid>
-            <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[반론보도] &lt;[백지 입양기록①]10년을 했는데 엉터리?...복지부, 입양 기록 전산화 사업 감사 착수&gt; 관련]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/11142601-A25E-BAF4-BA83-P1F5P3VRX6A4Z4AIAF8N.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -1288,6 +1288,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/24101336-948F-9E0C-65E4-M04EEP3LSQD9REQSR38P.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
+            <link>http://newstapa.org/article/74aqg</link>
+            <guid>http://newstapa.org/article/74aqg</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/27180054-0A50-75CF-CFFC-8FN28KS28ICFL6WCD72X.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[감사원, '한국사 교과서 검정 자격 조작' 관련 교육부 등 감사 착수 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
             <link>http://newstapa.org/article/3SofH</link>
             <guid>http://newstapa.org/article/3SofH</guid>
@@ -1406,14 +1414,6 @@
             <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[스포츠혁신 4년② 피해자는 떠나고 가해자는 남는다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/16151904-6C9C-B02C-4014-0NKUMOJK8NTAH9WQDMHF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
-            <link>http://newstapa.org/article/LHYJu</link>
-            <guid>http://newstapa.org/article/LHYJu</guid>
-            <pubDate>Fri, 09 Jun 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[스포츠혁신 4년① 인권 사각지대 '학교 밖 합숙소', 또 아이가 죽었다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/06/09161950-B90C-0DF1-EBB0-KKW4O7IPZ7O2NF0XUC0Z.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["자유언론실천은 끝나지 않은 여정입니다" 동아투위 50주년 (뉴스타파 ─ 뉴스 ─ 역사)]]></title>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/108861792</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/108861792</guid>
+            <pubDate>Thu, 27 Mar 2025 11:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[딥페이크 성범죄에 10대 미성년자들이 무방비로 노출되면서 학교가 흔들리고 있습니다. 지난해 교육부가 집계한 학교 딥페이크 성범죄 피해자는 948명에 이릅니다. 하지만 딥페이크 성범죄 문제에 대한 교육현장의 인식 변화와 대응은 더디기만 합니다. 가해자의 범행을 '그 나이 때 당연한 성적 호기심' 정도로 치부하면서 정작 피해자의 인권은 뒷전에 놓이는 일이 생깁니다.<br><br>뉴스타파는 한 중학교에서 발생한 딥페이크 성범죄 사건을 심층 취재했습니다. 학교의 미온적 대응으로 증거는 사라졌고, 가해학생에 대한 학교폭력심의위원회가 열려도 처분은 가벼웠습니다. 가해 학생들이 그대로 돌아와 피해 학생들과 한 반에서 생활하는 상황이 벌어지기도 했습니다. 학교 내 성범죄에 대한 교육계 전반의 인식이 달라지지 않으면 딥페이크 성범죄와 같은 일은 언제든 다시 발생할 수밖에 없습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/djUYg3wISzM</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/74aqg</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[오세훈 압수수색 결정타는 '명태균 서울행 항공' 티켓 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/108857842</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/108857842</guid>
@@ -3389,18 +3396,19 @@
             <content:encoded><![CDATA[‘뉴스타파저널리즘스쿨’이 배출한 독립언론 &lt;코트워치&gt;가 '재판 업데이트' 특별페이지를 제작해 선보입니다. 주요 재판 소식을 빠르고 쉽게 확인할 수 있습니다. <br><br>첫 시작은 '대통령 윤석열 탄핵심판'입니다. 1차 변론부터 11차 변론까지 탄핵심판 장면을 간결하게 정리했습니다. ‘12·3 내란' 사태 형사재판도 곧 정리해 업데이트할 예정입니다.<br><br>🔥 코트워치 '대통령 윤석열 탄핵심판' 특별페이지 보러가기: <span class="link_url">https://c-watch.org/archives/3567</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[딥페이크의 공범들 ① 텔레그램 '겹지방' 에 잠입하다 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108726238</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108726238</guid>
-            <pubDate>Fri, 14 Mar 2025 13:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[‘N번방-박사방’ 사건 이후 5년. 우리 사회가 목도한 현실은 더 잔혹하고, 더 빠르고, 더 쉽게 유포할 수 있는 ‘딥페이크’ 성범죄입니다. <br><br>추적단불꽃 원은지 대표와 뉴스타파는 2024년 12월 2일부터 2025년 3월 7일까지 약 3개월 간, 총 54개의 텔레그램 대화방에 잠입했습니다.<br><br>일명 ‘겹지방’ 즉 ‘겹치는 지인을 능욕하는’ 딥페이크 방이 버젓이 활동하고 있는 사실을 확인했습니다. 처벌받지 않은 공범자인 시청자, 소지자에 의해 딥페이크 ‘겹지방’ 등이 끊임없이 재탄생되고 확장되는 과정을 취재했습니다.<br><br>디지털 성범죄의 공범자의 문제를 추적단불꽃 X 뉴스타파는 ‘당신도 딥페이크 공범입니까?’ 시리즈를 통해 연속 보도할 예정입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/yjtdOzgGMiI</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/_NwuP</span>]]></content:encoded>
+            <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250327200003357</link>
+            <guid>https://v.daum.net/v/20250327200003357</guid>
+            <pubDate>Thu, 27 Mar 2025 11:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250327200003357" class="link_column" data-tiara-layer="[주간_뉴스타파]_딥페이크의_공범들②_학교_딥페이크,_가해자가_돌아왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다</strong><span class="info_txt"><span class="txt_info">11분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327200019104ozyo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327200019104ozyo.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[오세훈 압수수색 결정타는 '명태균 서울행 항공' 티켓 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250327151502375</link>
             <guid>https://v.daum.net/v/20250327151502375</guid>
             <pubDate>Thu, 27 Mar 2025 06:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250327151502375" class="link_column" data-tiara-layer="오세훈_압수수색_결정타는_'명태균_서울행_항공'_티켓_alltab"><div class="cont_thumb"><strong class="tit_txt">오세훈 압수수색 결정타는 '명태균 서울행 항공' 티켓</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327151504363aeav.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250327151502375" class="link_column" data-tiara-layer="오세훈_압수수색_결정타는_'명태균_서울행_항공'_티켓_alltab"><div class="cont_thumb"><strong class="tit_txt">오세훈 압수수색 결정타는 '명태균 서울행 항공' 티켓</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327151504363aeav.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F27%2Fnewstapa%2F20250327151504363aeav.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250325191502023</link>
             <guid>https://v.daum.net/v/20250325191502023</guid>
             <pubDate>Tue, 25 Mar 2025 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325191502023" class="link_column" data-tiara-layer="[현장_인터뷰]여성_노동자_둘이_불탄_공장_위에서_사는_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장 인터뷰]여성 노동자 둘이 불탄 공장 위에서 사는 이유</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325191859746qceh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325191502023" class="link_column" data-tiara-layer="[현장_인터뷰]여성_노동자_둘이_불탄_공장_위에서_사는_이유_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장 인터뷰]여성 노동자 둘이 불탄 공장 위에서 사는 이유</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325191859746qceh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325191859746qceh.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3634,6 @@
             <pubDate>Thu, 13 Mar 2025 11:12:33 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200524276" class="link_column" data-tiara-layer="[주간_뉴스타파]_7천억대_정부_계약에_명태균과_'VIP'_등장_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 7천억대 정부 계약에 명태균과 'VIP' 등장</strong><span class="info_txt"><span class="txt_info">2025. 3. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200532987idtt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F13%2Fnewstapa%2F20250313200532987idtt.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[방산 대기업 특혜 의혹, 그 뒤에 명태균과 'VIP' 그림자 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250313200503272</link>
-            <guid>https://v.daum.net/v/20250313200503272</guid>
-            <pubDate>Thu, 13 Mar 2025 11:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250313200503272" class="link_column" data-tiara-layer="방산_대기업_특혜_의혹,_그_뒤에_명태균과_'VIP'_그림자_alltab"><div class="cont_thumb"><strong class="tit_txt">방산 대기업 특혜 의혹, 그 뒤에 명태균과 'VIP' 그림자</strong><span class="info_txt"><span class="txt_info">2025. 3. 13.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314113057422kuqq.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314113057422kuqq.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
