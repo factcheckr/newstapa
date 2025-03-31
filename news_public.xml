@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 05:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 06:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가]]></title>
+            <link>http://newstapa.org/article/PCsSH</link>
+            <guid>http://newstapa.org/article/PCsSH</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/28202045-5A4C-373F-6733-SO9WMXOHJQPDPS2DV2VS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[재산공개 2025] 고위공직자 5,682명 재산 공개... 주식, 코인 보유 증가]]></title>
+            <link>http://newstapa.org/article/fSjRF</link>
+            <guid>http://newstapa.org/article/fSjRF</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[재산공개 2025] 고위공직자 5,682명 재산 공개... 주식, 코인 보유 증가]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31143623-8C49-909F-F21B-Z7ASMR37YWG0F41GWR2Z.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정]]></title>
             <link>http://newstapa.org/article/9936r</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 이후의 헌법] ③ 정치의 사법화 다음 사법의 무력화]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/19172415-8045-9193-F0F0-6SYBY5XFUWO120T7CFLP.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소]]></title>
-            <link>http://newstapa.org/article/JF_KX</link>
-            <guid>http://newstapa.org/article/JF_KX</guid>
-            <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/19112541-9F4E-66FB-B431-E4WO5A36EBWIUQH5FK9D.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균 육성파일에 등장한 현대차그룹 회장님과 사장님]]></title>
-            <link>http://newstapa.org/article/_SLTH</link>
-            <guid>http://newstapa.org/article/_SLTH</guid>
-            <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균 육성파일에 등장한 현대차그룹 회장님과 사장님]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/18162613-6888-BC8D-858B-MLECYJJEFXB5QK8KD8HI.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
