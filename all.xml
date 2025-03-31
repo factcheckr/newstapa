@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 04:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 05:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/ehWbY</link>
+            <guid>http://newstapa.org/article/ehWbY</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31113327-8467-51DC-9510-TODL8GQW9ZQD9L8VHVN4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/9936r</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/20184739-BFDC-450C-F8E5-HXIW10ZPY4IRQC6AUNIJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/-gz0w</link>
-            <guid>http://newstapa.org/article/-gz0w</guid>
-            <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장 인터뷰] 조선 하청 노동자가 30m 철탑에 오른 이유]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/20182312-2014-4BEF-E5F3-WIM4645KYI7BSOHNCPGG.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1032,6 +1032,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/29111646-0039-C2FB-851E-4HEY90P6KETN7ELIQJ7K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈 (뉴스타파 ─ 뉴스 ─ )]]></title>
+            <link>http://newstapa.org/article/ehWbY</link>
+            <guid>http://newstapa.org/article/ehWbY</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31113327-8467-51DC-9510-TODL8GQW9ZQD9L8VHVN4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스 ─ )]]></title>
             <link>http://newstapa.org/article/74aqg</link>
             <guid>http://newstapa.org/article/74aqg</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA["이대로 계속 살 순 없지 않습니까" : 조선 하청 노동자의 연말 편지]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/31202756-307B-6A2B-7CD8-ZD04KM0U9HTCJVQ37N9N.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰" (뉴스타파 ─ 뉴스 ─ )]]></title>
-            <link>http://newstapa.org/article/InF09</link>
-            <guid>http://newstapa.org/article/InF09</guid>
-            <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 복지부, 입양기록 사업 부실 확인 "예산 환수 및 수사 의뢰"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/24112339-AC18-F770-5497-1NGS8ADZFM1O7BOCPKNZ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주항공 참사 유가족 인터뷰 : 하루하루 버티고 있다 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/108893656</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/108893656</guid>
+            <pubDate>Mon, 31 Mar 2025 05:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[서울 명동역 10번 출구 앞. 관광객이 쉴 새 없이 오고 가는 거리에서 조금만 시선을 올려다보면, 고공에 있는 한 사람이 보입니다.<br><br>코로나19 시기였던 2021년, 경영악화를 이유로 세종호텔에서 정리해고를 당한 고진수 씨입니다.<br> <br>그는 세종호텔에서 20년을 일한 일식 요리사이자, 회사의 노동조건 악화에 맞섰던 노조위원장입니다.<br><br>코로나19 사태가 안정화되고, 세종호텔 영업은 코로나 이전으로 회복됐지만, 당시 고 지부장과 함께 해고된 <br>12명의 노동자들은 4년째 일터로 돌아가지 못하고 있습니다. 호텔 앞에서 1,200일 넘게 천막 농성 중입니다.<br><br>지난 3년간 부당해고를 주장하며 법적 소송을 진행했지만, 지난해 말 대법원은 정리해고가 타당하다는 판결을 내렸습니다.<br><br>결국 그는 지난 2월 13일 새벽, 세종호텔이 바로 보이는 곳, 왕복 6차선 도로 한가운데 있는 10m 높이 구조물에 올랐습니다. 그리고 고공에서 이런 질문을 던집니다.<br> <br>"코로나19가 끝나고 호텔은 다시 잘 되는데 왜 우리는 복직할 수 없는가. 왜 노조 조합원들만 정리해고를 한 것인가. 이 정리해고가 정말 부당하지 않은가"<br><br>그가 던지는 질문의 답을 영상을 보며 함께 찾아보는 것은 어떨까요?<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/EoFsEKdGB4Q</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/ehWbY</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 〈주간 뉴스타파〉 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/108861792</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/108861792</guid>
@@ -3389,11 +3396,12 @@
             <content:encoded><![CDATA[“정치검찰의 뉴스타파 압수수색과 기소, 그리고 방통위, 방심위의 공영방송 중징계는 윤석열 내란의 서막이었다.”<br><br>뉴스타파필름이 제작한 다큐 영화 〈압수수색: 내란의 시작〉 개봉을 앞두고 티저 영상을  공개합니다. 〈압수수색: 내란의 시작〉은 뉴스타파의 윤석열 검찰총장 후보자 거짓말 추적보도 이후 최근까지 윤석열과 벌인 숙명의 ‘7년 전쟁’을 생생하게 담은 다큐멘터리 영화입니다. <br><br>2023년 9월 윤석열 정치검찰의 뉴스타파 압수수색 이후 이어진 내란 정권의 뉴스타파 등 비판언론 죽이기와 공영언론 입틀막은 윤석열 친위쿠데타의 전조였습니다. 〈압수수색: 내란의 시작〉은 그 과정에서 뉴스타파 김용진, 한상진, 봉지욱 기자 등이 윤석열 검찰에 처절하게 맞선 장면을 미공개 영상 등을 통해 숨가쁘게 그려냅니다.<br><br>또 이 영화는 내란 우두머리 윤석열 파면 이후 새롭게 구성할 민주공화국의 핵심 과제가 검찰개혁, 언론개혁임을 생생하게 보여주는 ‘르포르타주’가 될 것입니다. <br><br>영화 〈압수수색: 내란의 시작〉은 오는 4월말 개봉을 앞두고 있습니다. 모든 국민이 볼 수 있도록 최대한 많은 상영관 확보를 위해 오늘(3월 17일)부터 텀블벅 펀딩을 시작합니다. 시민 여러분의 응원을 모아 더 많은 상영관을 확보할 계획입니다. 많은 관심과 응원 부탁드립니다.<br><br>🔥 〈압수수색: 내란의 시작〉 티저 영상 보러가기 : <span class="link_url">https://youtu.be/-G5flsuL9xo</span><br>🎞 〈압수수색: 내란의 시작〉 텀블벅 후원하기 : <span class="link_url">https://tumblbug.com/seizure2025</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대통령 윤석열 탄핵심판 - 코트워치 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108745987</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108745987</guid>
-            <pubDate>Mon, 17 Mar 2025 08:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[‘뉴스타파저널리즘스쿨’이 배출한 독립언론 &lt;코트워치&gt;가 '재판 업데이트' 특별페이지를 제작해 선보입니다. 주요 재판 소식을 빠르고 쉽게 확인할 수 있습니다. <br><br>첫 시작은 '대통령 윤석열 탄핵심판'입니다. 1차 변론부터 11차 변론까지 탄핵심판 장면을 간결하게 정리했습니다. ‘12·3 내란' 사태 형사재판도 곧 정리해 업데이트할 예정입니다.<br><br>🔥 코트워치 '대통령 윤석열 탄핵심판' 특별페이지 보러가기: <span class="link_url">https://c-watch.org/archives/3567</span>]]></content:encoded>
+            <title><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250331134003215</link>
+            <guid>https://v.daum.net/v/20250331134003215</guid>
+            <pubDate>Mon, 31 Mar 2025 05:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331134003215" class="link_column" data-tiara-layer="[현장_인터뷰]호텔_요리사가_도로_위_10M_고공에서_꾸는_꿈_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈</strong><span class="info_txt"><span class="txt_info">34분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331134032924uqxs.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331134032924uqxs.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3626,14 +3634,6 @@
             <pubDate>Fri, 14 Mar 2025 11:12:19 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250314195002089" class="link_column" data-tiara-layer="딥페이크의_공범들_①_텔레그램_'겹지방'_에_잠입하다_alltab"><div class="cont_thumb"><strong class="tit_txt">딥페이크의 공범들 ① 텔레그램 '겹지방' 에 잠입하다</strong><span class="info_txt"><span class="txt_info">2025. 3. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314195012805ryyg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314195012805ryyg.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열의 내란, 검찰의 내란 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250314120003800</link>
-            <guid>https://v.daum.net/v/20250314120003800</guid>
-            <pubDate>Fri, 14 Mar 2025 03:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250314120003800" class="link_column" data-tiara-layer="[현장에서]_윤석열의_내란,_검찰의_내란_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 내란, 검찰의 내란</strong><span class="info_txt"><span class="txt_info">2025. 3. 14.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314120004447knhi.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F14%2Fnewstapa%2F20250314120004447knhi.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
