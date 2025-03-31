@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Mar 2025 09:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 10:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호]]></title>
+            <link>http://newstapa.org/article/wYXXn</link>
+            <guid>http://newstapa.org/article/wYXXn</guid>
+            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31182229-D927-4BD1-4FE6-LM9A0D8G20U2DOR7MGJ4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가]]></title>
             <link>http://newstapa.org/article/PCsSH</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ③ “북한이 도발했습니까?”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204914-3989-A8C7-4447-W9O70SKE7Z05X9KA3UXS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ④ “코드 원 통화 후 공포탄, 단전 이야기 나온 걸로 기억”]]></title>
-            <link>http://newstapa.org/article/loMim</link>
-            <guid>http://newstapa.org/article/loMim</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ④ “코드 원 통화 후 공포탄, 단전 이야기 나온 걸로 기억”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204931-AFD6-DE7A-D753-TXNDCI52NSN378RRL18J.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
