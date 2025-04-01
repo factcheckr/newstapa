@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Apr 2025 06:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Apr 2025 07:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/snDBh</link>
+            <guid>http://newstapa.org/article/snDBh</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31140513-06B3-A08A-CCDA-LU8WLK6SUK5CY8FUROIQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/aJ7n-</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204858-A229-B9C6-C878-HGD9FAG72Y8JJK7TFW00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ② “이 XX는 얼굴이 하얗게 질렸네” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/EQgJP</link>
-            <guid>http://newstapa.org/article/EQgJP</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ② “이 XX는 얼굴이 하얗게 질렸네”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204836-3035-07C1-98B5-CX1LIWP6J3GIL9R336TA.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14175326-DD04-DAF2-DCC0-A5V0COOO2GN87KK00OPR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
+            <link>http://newstapa.org/article/snDBh</link>
+            <guid>http://newstapa.org/article/snDBh</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31140513-06B3-A08A-CCDA-LU8WLK6SUK5CY8FUROIQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대검 각 부서 특활비의 실체와 심우정의 항소 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
             <link>http://newstapa.org/article/JF_KX</link>
             <guid>http://newstapa.org/article/JF_KX</guid>
@@ -510,14 +518,6 @@
             <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[백지 입양기록①]10년을 했는데 엉터리?…복지부, 입양 기록 전산화 사업 감사 착수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/04160628-096B-84FA-F785-2B7LKIX9F8DYD12HZHYN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱 (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
-            <link>http://newstapa.org/article/rOWcA</link>
-            <guid>http://newstapa.org/article/rOWcA</guid>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 자생한방병원과 악마의 발톱]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/08/08194328-7098-371A-5723-KAZUNXYK9KFRSUSGAX56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 명품시계 밀수 면세점 전 대표, 법정 구속...뉴스타파 보도 5년 8개월만 (뉴스타파 ─ 뉴스 ─ 재벌)]]></title>
@@ -3000,6 +3000,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2013/11/6cbb751a4db37991158e8f9a8ee86eefb32e2b32dac18e01e824e3e6d8c9c667475b2ebcc4b58045e1d556f226efc15e7e477fc9209d8f1b106b82e4073e8b32.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 변화)]]></title>
+            <link>https://www.newstapa.org/article/snDBh</link>
+            <guid>https://www.newstapa.org/article/snDBh</guid>
+            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2025.04.01]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31140513-06B3-A08A-CCDA-LU8WLK6SUK5CY8FUROIQ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내 (뉴스타파 ─ 변화)]]></title>
             <link>https://www.newstapa.org/article/3fZTu</link>
             <guid>https://www.newstapa.org/article/3fZTu</guid>
@@ -3118,14 +3126,6 @@
             <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2023.12.22]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/21032345-D1E1-CADA-C241-L9WMFU2SG0RHZLSEIQYJ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 뉴스타파 X 참여연대, '대통령실 직원 명단 공개소송' 1심 승소 (뉴스타파 ─ 변화)]]></title>
-            <link>https://www.newstapa.org/article/vZzc3</link>
-            <guid>https://www.newstapa.org/article/vZzc3</guid>
-            <pubDate>Mon, 21 Aug 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2023.08.21]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/08/21153915-DE5B-4302-8ADE-76KHJAUHF9L72751ZCM6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시재생 10년, 길을 잃었나③ 도시재생은 지역맞춤으로…사후관리도 중요 (뉴스타파 ─ 참여)]]></title>
@@ -3396,11 +3396,18 @@
             <content:encoded><![CDATA[뉴스타파는 검찰 수사기록에 명태균 씨가 방산 대기업 한화에어로스페이스(이하 한화) 및 현대로템 측과 소통한 정황이 담긴 카카오톡 메시지를 공개했습니다. 공교롭게도 두 기업은 7천억 원대의 방위사업청 및 한국철도공사 발주 사업을 따냈습니다.<br><br>한화와 현대로템 측은 명 씨가 사업 계약에 도움을 준 사실이 없다는 입장입니다. 그러나 명 씨와 김영선 의원실 보좌진이 나눈 카톡 대화에는 'VIP 관심사항'이란 표현 등 의심스러운 대목이 여럿 등장했습니다. &nbsp;<br><br>이에 더해 뉴스타파는 명태균 씨가 지난 2022년 10월에 지인과 통화하며 방산 대기업을 직접 언급한 녹음파일을 입수했습니다. 여기에서 명 씨는 현대차그룹 회장님과 사장님의 실명을 직접 언급했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/ROLCaIq4teU</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/_SLTH</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250401161003207</link>
+            <guid>https://v.daum.net/v/20250401161003207</guid>
+            <pubDate>Tue, 01 Apr 2025 07:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401161003207" class="link_column" data-tiara-layer="[변화]_국가예산_감시,_첫_판례_세웠다...“기재부,_정부부처_예산요구서_공개”_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”</strong><span class="info_txt"><span class="txt_info">4분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250401113002330</link>
             <guid>https://v.daum.net/v/20250401113002330</guid>
             <pubDate>Tue, 01 Apr 2025 02:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401113002330" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_봉지욱_기자,_기소_7개월_만에_재판_시작_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작</strong><span class="info_txt"><span class="txt_info">3시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401113002330" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_봉지욱_기자,_기소_7개월_만에_재판_시작_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3415,7 @@
             <link>https://v.daum.net/v/20250331182502085</link>
             <guid>https://v.daum.net/v/20250331182502085</guid>
             <pubDate>Mon, 31 Mar 2025 10:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331182502085" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_가상자산_보유_급증,_2024년보다_3.8배_증가..._리플·비트코인_선호_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331182502085" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_가상자산_보유_급증,_2024년보다_3.8배_증가..._리플·비트코인_선호_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3479,7 @@
             <link>https://v.daum.net/v/20250326153002190</link>
             <guid>https://v.daum.net/v/20250326153002190</guid>
             <pubDate>Wed, 26 Mar 2025 07:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250326153002190" class="link_column" data-tiara-layer="[현장에서]_한덕수_탄핵_기각_결정을_읽는_세_가지_방법_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 한덕수 탄핵 기각 결정을 읽는 세 가지 방법</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F26%2Fnewstapa%2F20250326153004813kstl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250326153002190" class="link_column" data-tiara-layer="[현장에서]_한덕수_탄핵_기각_결정을_읽는_세_가지_방법_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 한덕수 탄핵 기각 결정을 읽는 세 가지 방법</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F26%2Fnewstapa%2F20250326153004813kstl.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F26%2Fnewstapa%2F20250326153004813kstl.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3496,7 +3503,7 @@
             <link>https://v.daum.net/v/20250325155504260</link>
             <guid>https://v.daum.net/v/20250325155504260</guid>
             <pubDate>Tue, 25 Mar 2025 07:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325155504260" class="link_column" data-tiara-layer="[현장에서]_윤석열의_국무위원,_전두환의_국무위원_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 국무위원, 전두환의 국무위원</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250325155504260" class="link_column" data-tiara-layer="[현장에서]_윤석열의_국무위원,_전두환의_국무위원_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열의 국무위원, 전두환의 국무위원</strong><span class="info_txt"><span class="txt_info">2025. 3. 25.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F25%2Fnewstapa%2F20250325155506573sqrm.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3626,14 +3633,6 @@
             <pubDate>Tue, 18 Mar 2025 07:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250318155514408" class="link_column" data-tiara-layer="홍종민_최후진술_“자기의_양심을_속이지_않고_살아가겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">홍종민 최후진술 “자기의 양심을 속이지 않고 살아가겠다”</strong><span class="info_txt"><span class="txt_info">2025. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155520013ovrh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155520013ovrh.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[안성열 최후진술 “자유를 원하는 만큼의 희생이 필요” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250318155508401</link>
-            <guid>https://v.daum.net/v/20250318155508401</guid>
-            <pubDate>Tue, 18 Mar 2025 07:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250318155508401" class="link_column" data-tiara-layer="안성열_최후진술_“자유를_원하는_만큼의_희생이_필요”_alltab"><div class="cont_thumb"><strong class="tit_txt">안성열 최후진술 “자유를 원하는 만큼의 희생이 필요”</strong><span class="info_txt"><span class="txt_info">2025. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155514306wqle.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155514306wqle.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
