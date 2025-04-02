@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 10:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Z7eDJ</link>
+            <guid>http://newstapa.org/article/Z7eDJ</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02180842-A76B-2CC8-0519-EYCE1TELIAOPWAMHUYWV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/xaQnu</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열의 국무위원, 전두환의 국무위원]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/25155307-5DF0-E565-7FD1-7PAL0SB3FNWBEJPJAWFA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/9JQzx</link>
-            <guid>http://newstapa.org/article/9JQzx</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21182146-0F57-A267-D39E-JMFP1PJA78XHQVK3SAQT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2022/06/21133141-7B44-8996-F07C-B23LYK61IXLC53VSUTSR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
+            <link>http://newstapa.org/article/Z7eDJ</link>
+            <guid>http://newstapa.org/article/Z7eDJ</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02180842-A76B-2CC8-0519-EYCE1TELIAOPWAMHUYWV.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[낙동강 주민들 콧속에서 녹조 독소 검출… 국민 건강 우려 확산 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
             <link>http://newstapa.org/article/fJFNS</link>
             <guid>http://newstapa.org/article/fJFNS</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 천연기념물 장수하늘소 발견 '조작'한 곤충학자들...법정 구속]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22153720-1966-A378-8A27-7K4597P034NHFK18GQBD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10명 참석한 용산 '캠프 킴' 다이옥신 정화 주민 설명회 (뉴스타파 ─ 뉴스 ─ 환경)]]></title>
-            <link>http://newstapa.org/article/hp9Lk</link>
-            <guid>http://newstapa.org/article/hp9Lk</guid>
-            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[10명 참석한 용산 '캠프 킴' 다이옥신 정화 주민 설명회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/29111646-0039-C2FB-851E-4HEY90P6KETN7ELIQJ7K.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈 (뉴스타파 ─ 뉴스 ─ )]]></title>
@@ -3396,11 +3396,19 @@
             <content:encoded><![CDATA[정치의 사법화란 정치로 해결해야 할 문제를 사법기관에 미루는 현상을 가리킵니다. 2000년대 들어 정치의 사법화가 심각해지고 있다는 우려가 큽니다. 그런데 윤석열 정부가 들어서면서 양상이 바뀌었습니다. 정치적 결정을 사법기관에 미루는 것이 아니라, 스스로 헌법재판소 행세를 하고 있습니다. 헌법을 마음대로 해석해 스스로에게 정당성을 부여했습니다. 윤석열 대통령은 정치의 사법화를 넘어 사법의 무력화를 주도했습니다.<br><br>윤석열 이후 사법의 무력화 우려를 헌법학 전공자인 이범준 객원기자가 짚었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/5bRil</span>]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250402183503194</link>
+            <guid>https://v.daum.net/v/20250402183503194</guid>
+            <pubDate>Wed, 02 Apr 2025 10:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250402183503194" class="link_column" data-tiara-layer="경북_산불,_인명_피해_줄인_40차례_대피령_alltab"><div class="cont_thumb"><strong class="tit_txt">경북 산불, 인명 피해 줄인 40차례 대피령</strong><span class="info_txt"><span class="txt_info">39분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewstapa%2F20250402183516013icci.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewstapa%2F20250402183516013icci.jpg" length="0" type="image/q70/"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250402112003034</link>
             <guid>https://v.daum.net/v/20250402112003034</guid>
             <pubDate>Wed, 02 Apr 2025 02:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250402112003034" class="link_column" data-tiara-layer="[현장에서]_윤석열_탄핵_임박,_그리고_국민의_삶_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶</strong><span class="info_txt"><span class="txt_info">6시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewstapa%2F20250402112004522hklj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250402112003034" class="link_column" data-tiara-layer="[현장에서]_윤석열_탄핵_임박,_그리고_국민의_삶_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶</strong><span class="info_txt"><span class="txt_info">7시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewstapa%2F20250402112004522hklj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewstapa%2F20250402112004522hklj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3423,7 +3431,7 @@
             <link>https://v.daum.net/v/20250331182502085</link>
             <guid>https://v.daum.net/v/20250331182502085</guid>
             <pubDate>Mon, 31 Mar 2025 10:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331182502085" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_가상자산_보유_급증,_2024년보다_3.8배_증가..._리플·비트코인_선호_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331182502085" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_가상자산_보유_급증,_2024년보다_3.8배_증가..._리플·비트코인_선호_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호</strong><span class="info_txt"><span class="txt_info">2일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3479,7 +3487,7 @@
             <link>https://v.daum.net/v/20250326185503736</link>
             <guid>https://v.daum.net/v/20250326185503736</guid>
             <pubDate>Wed, 26 Mar 2025 10:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250326185503736" class="link_column" data-tiara-layer="[변화]진실화해위,_해외입양_진실규명_결정...한계도_드러내_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F26%2Fnewstapa%2F20250326185504727qcxg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250326185503736" class="link_column" data-tiara-layer="[변화]진실화해위,_해외입양_진실규명_결정...한계도_드러내_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화]진실화해위, 해외입양 진실규명 결정...한계도 드러내</strong><span class="info_txt"><span class="txt_info">2025. 3. 26.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F26%2Fnewstapa%2F20250326185504727qcxg.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F26%2Fnewstapa%2F20250326185504727qcxg.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3625,14 +3633,6 @@
             <pubDate>Tue, 18 Mar 2025 07:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250318155525414" class="link_column" data-tiara-layer="&quot;자유언론실천은_끝나지_않은_여정입니다&quot;_동아투위_50주년_alltab"><div class="cont_thumb"><strong class="tit_txt">"자유언론실천은 끝나지 않은 여정입니다" 동아투위 50주년</strong><span class="info_txt"><span class="txt_info">2025. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155532444tsxo.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155532444tsxo.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250318155520411</link>
-            <guid>https://v.daum.net/v/20250318155520411</guid>
-            <pubDate>Tue, 18 Mar 2025 07:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250318155520411" class="link_column" data-tiara-layer="안종필_최후진술_“자유_언론을_압살하는_모든_법과_제도는_철폐되어야”_alltab"><div class="cont_thumb"><strong class="tit_txt">안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야”</strong><span class="info_txt"><span class="txt_info">2025. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155525007tanv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155525007tanv.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 환경</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 09:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 10:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령]]></title>
+            <link>http://newstapa.org/article/Z7eDJ</link>
+            <guid>http://newstapa.org/article/Z7eDJ</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02180842-A76B-2CC8-0519-EYCE1TELIAOPWAMHUYWV.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낙동강 주민들 콧속에서 녹조 독소 검출… 국민 건강 우려 확산]]></title>
             <link>http://newstapa.org/article/fJFNS</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[변화] 천연기념물 장수하늘소 발견 '조작'한 곤충학자들...법정 구속]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/03/22153720-1966-A378-8A27-7K4597P034NHFK18GQBD.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10명 참석한 용산 '캠프 킴' 다이옥신 정화 주민 설명회]]></title>
-            <link>http://newstapa.org/article/hp9Lk</link>
-            <guid>http://newstapa.org/article/hp9Lk</guid>
-            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[10명 참석한 용산 '캠프 킴' 다이옥신 정화 주민 설명회]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2023/12/29111646-0039-C2FB-851E-4HEY90P6KETN7ELIQJ7K.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
