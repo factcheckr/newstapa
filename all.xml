@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 00:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 02:25:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/xaQnu</link>
+            <guid>http://newstapa.org/article/xaQnu</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02111316-EA5C-5396-AB81-1BSH6JKD2PRDI6KAGW0L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/snDBh</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21182146-0F57-A267-D39E-JMFP1PJA78XHQVK3SAQT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/7ZP5W</link>
-            <guid>http://newstapa.org/article/7ZP5W</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204858-A229-B9C6-C878-HGD9FAG72Y8JJK7TFW00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/20113527-4FBF-2293-1B11-8HORGC9Y1SCB4UT67EME.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/xaQnu</link>
+            <guid>http://newstapa.org/article/xaQnu</guid>
+            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02111316-EA5C-5396-AB81-1BSH6JKD2PRDI6KAGW0L.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[현장에서] 한덕수 탄핵 기각 결정을 읽는 세 가지 방법 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/n1k6v</link>
             <guid>http://newstapa.org/article/n1k6v</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 이후의 헌법] ① 윤석열 파면 이후 60일 안에 대통령 선거 없을 수도]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/04182851-4915-D371-79CC-67OGA41AHA3YYX4Z8ZQG.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/jNZ1x</link>
-            <guid>http://newstapa.org/article/jNZ1x</guid>
-            <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['노상원 수첩' 내용 입수... 수거대상 목록과 처리 계획]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/02/14175326-DD04-DAF2-DCC0-A5V0COOO2GN87KK00OPR.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/108923652</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/108923652</guid>
+            <pubDate>Wed, 02 Apr 2025 02:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[내란 우두머리 혐의자 윤석열에 대한 탄핵 선고가 4일(금) 오전 11시에 나옵니다. 탄핵은 기정사실로 보입니다. 전 국민이 지켜본 헌법 유린 행위를 부정할 길은 도무지 없어 보입니다. <br><br>문제는 그 이후입니다. 무엇을 할 것인가? 우리 사회에 던져진 숙제가 너무나 많습니다. 내란과 탄핵 국면에서 잊혀진 일상적인 삶이 많습니다. 900억 원에 가까운 임금체불로 3년째 고통받는 800여 명 대유위니아그룹 노동자들의 삶도 그렇습니다. <br><br>뉴스타파는 노동자들의 임금체불에는 눈감은 채, 자신의 퇴직금으로만 160억 원을 챙겨 나간 박영우 대유위니아그룹 회장 일가의 문제를 들여다 봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/xaQnu</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/108913988</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/108913988</guid>
@@ -3389,25 +3396,26 @@
             <content:encoded><![CDATA[정치의 사법화란 정치로 해결해야 할 문제를 사법기관에 미루는 현상을 가리킵니다. 2000년대 들어 정치의 사법화가 심각해지고 있다는 우려가 큽니다. 그런데 윤석열 정부가 들어서면서 양상이 바뀌었습니다. 정치적 결정을 사법기관에 미루는 것이 아니라, 스스로 헌법재판소 행세를 하고 있습니다. 헌법을 마음대로 해석해 스스로에게 정당성을 부여했습니다. 윤석열 대통령은 정치의 사법화를 넘어 사법의 무력화를 주도했습니다.<br><br>윤석열 이후 사법의 무력화 우려를 헌법학 전공자인 이범준 객원기자가 짚었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/5bRil</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[장윤환 최후진술 “어떠한 자유도 하늘에서 저절로 떨어지는 것은 아닙니다.” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108765757</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108765757</guid>
-            <pubDate>Wed, 19 Mar 2025 02:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[동아일보, 조선일보 등 여러 언론사 기자가 박정희 정권과 독재에 야합한 사주에 맞서 ‘자유언론실천선언’을 발표한 지 50년이 지났습니다. 이들 수백 명의 언론인은 회사에서 무자비하게 쫓겨났지만 이들이 주창한 자유언론 정신은 지금까지 면면히 이어지고 있습니다.<br><br>뉴스타파는 살벌한 유신법정에서도 언론인의 기개를 굽히지 않았던 ‘진짜 기자’들이 피를 토하듯 쏟아낸 최후진술 원문을 공개합니다.<br><br>〈안성열 최후진술 "자유를 원하는 만큼의 희생이 필요"〉 편에 이어 이번에는 역시 같은 법정에 섰던 장윤환 전 동아일보 기자의 최후진술을 소개합니다. 1979년 7월 25일 서울고등법원 213호 법정 현장입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/oOBUSHYotuQ</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/t3rlg</span>]]></content:encoded>
+            <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250402112003034</link>
+            <guid>https://v.daum.net/v/20250402112003034</guid>
+            <pubDate>Wed, 02 Apr 2025 02:25:01 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250402112003034" class="link_column" data-tiara-layer="[현장에서]_윤석열_탄핵_임박,_그리고_국민의_삶_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶</strong><span class="info_txt"><span class="txt_info">4분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewstapa%2F20250402112004522hklj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F02%2Fnewstapa%2F20250402112004522hklj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250401161003207</link>
             <guid>https://v.daum.net/v/20250401161003207</guid>
             <pubDate>Tue, 01 Apr 2025 07:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401161003207" class="link_column" data-tiara-layer="[변화]_국가예산_감시,_첫_판례_세웠다...“기재부,_정부부처_예산요구서_공개”_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401161003207" class="link_column" data-tiara-layer="[변화]_국가예산_감시,_첫_판례_세웠다...“기재부,_정부부처_예산요구서_공개”_alltab"><div class="cont_thumb"><strong class="tit_txt">[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250401113002330</link>
             <guid>https://v.daum.net/v/20250401113002330</guid>
             <pubDate>Tue, 01 Apr 2025 02:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401113002330" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_봉지욱_기자,_기소_7개월_만에_재판_시작_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401113002330" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_봉지욱_기자,_기소_7개월_만에_재판_시작_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작</strong><span class="info_txt"><span class="txt_info">23시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3625,14 +3633,6 @@
             <pubDate>Tue, 18 Mar 2025 07:14:25 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250318155520411" class="link_column" data-tiara-layer="안종필_최후진술_“자유_언론을_압살하는_모든_법과_제도는_철폐되어야”_alltab"><div class="cont_thumb"><strong class="tit_txt">안종필 최후진술 “자유 언론을 압살하는 모든 법과 제도는 철폐되어야”</strong><span class="info_txt"><span class="txt_info">2025. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155525007tanv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155525007tanv.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[홍종민 최후진술 “자기의 양심을 속이지 않고 살아가겠다” (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250318155514408</link>
-            <guid>https://v.daum.net/v/20250318155514408</guid>
-            <pubDate>Tue, 18 Mar 2025 07:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250318155514408" class="link_column" data-tiara-layer="홍종민_최후진술_“자기의_양심을_속이지_않고_살아가겠다”_alltab"><div class="cont_thumb"><strong class="tit_txt">홍종민 최후진술 “자기의 양심을 속이지 않고 살아가겠다”</strong><span class="info_txt"><span class="txt_info">2025. 3. 18.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155520013ovrh.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F18%2Fnewstapa%2F20250318155520013ovrh.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
