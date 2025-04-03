@@ -4,9 +4,41 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 09:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 10:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] 검찰이 압수한 ‘명태균 PC’, 뉴스타파가 확보해 공개]]></title>
+            <link>http://newstapa.org/article/izr3g</link>
+            <guid>http://newstapa.org/article/izr3g</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 압수한 ‘명태균 PC’, 뉴스타파가 확보해 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03182724-816E-FC53-BEDD-KGI9GCLS5WNUQO3XWAWZ.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다]]></title>
+            <link>http://newstapa.org/article/QvIAK</link>
+            <guid>http://newstapa.org/article/QvIAK</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03165641-870B-DCE5-6256-MSXPFC5JB9UQ6KLVUX65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 책임 ‘면피 법안’에 김건희 “감사합니다”]]></title>
+            <link>http://newstapa.org/article/0U8i7</link>
+            <guid>http://newstapa.org/article/0U8i7</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이태원 참사 책임 ‘면피 법안’에 김건희 “감사합니다”]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03165610-2022-33D3-85FB-JJBYF5E9U14W9V311KFF.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트]]></title>
+            <link>http://newstapa.org/article/5cDbj</link>
+            <guid>http://newstapa.org/article/5cDbj</guid>
+            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03161826-0470-8835-2556-5GVK4ID2HN5BZZQZ1NZ5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탄핵선고 D-1, 부역자 기록 ‘싫어요’ 누적 8만 건]]></title>
             <link>http://newstapa.org/article/tFKgk</link>
@@ -102,38 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204858-A229-B9C6-C878-HGD9FAG72Y8JJK7TFW00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ② “이 XX는 얼굴이 하얗게 질렸네”]]></title>
-            <link>http://newstapa.org/article/EQgJP</link>
-            <guid>http://newstapa.org/article/EQgJP</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ② “이 XX는 얼굴이 하얗게 질렸네”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204836-3035-07C1-98B5-CX1LIWP6J3GIL9R336TA.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ③ “북한이 도발했습니까?”]]></title>
-            <link>http://newstapa.org/article/gqz5Y</link>
-            <guid>http://newstapa.org/article/gqz5Y</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ③ “북한이 도발했습니까?”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204914-3989-A8C7-4447-W9O70SKE7Z05X9KA3UXS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ④ “코드 원 통화 후 공포탄, 단전 이야기 나온 걸로 기억”]]></title>
-            <link>http://newstapa.org/article/loMim</link>
-            <guid>http://newstapa.org/article/loMim</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ④ “코드 원 통화 후 공포탄, 단전 이야기 나온 걸로 기억”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204931-AFD6-DE7A-D753-TXNDCI52NSN378RRL18J.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ⑤ “체포 명단 없어” vs. “14명 체포 지시 있어”...서로 다른 진술]]></title>
-            <link>http://newstapa.org/article/Imsd1</link>
-            <guid>http://newstapa.org/article/Imsd1</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ⑤ “체포 명단 없어” vs. “14명 체포 지시 있어”...서로 다른 진술]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204949-0CD7-8B10-5660-DH1FNAVOFUMPW2ZTHSR7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
