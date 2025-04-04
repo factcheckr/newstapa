@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 05:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 06:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장에서] 기게스의 반지와 윤석열, 그리고 검찰 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/NVo01</link>
+            <guid>http://newstapa.org/article/NVo01</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 기게스의 반지와 윤석열, 그리고 검찰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/04142918-C364-4A51-B855-VRW21IAXC8DMVNHMUH2I.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/6S-NM</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장 인터뷰]호텔 요리사가 도로 위 10M 고공에서 꾸는 꿈]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31113327-8467-51DC-9510-TODL8GQW9ZQD9L8VHVN4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/9936r</link>
-            <guid>http://newstapa.org/article/9936r</guid>
-            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[대통령실이 불법 은폐한 직원 명단... 대통령기록관은 이미 '공개' 결정]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/28165114-95AD-F1D0-20EB-FS9AISWTD9DVY7MH73LH.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21182146-0F57-A267-D39E-JMFP1PJA78XHQVK3SAQT.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 기게스의 반지와 윤석열, 그리고 검찰 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
+            <link>http://newstapa.org/article/NVo01</link>
+            <guid>http://newstapa.org/article/NVo01</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[현장에서] 기게스의 반지와 윤석열, 그리고 검찰]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/04142918-C364-4A51-B855-VRW21IAXC8DMVNHMUH2I.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
             <link>http://newstapa.org/article/6S-NM</link>
             <guid>http://newstapa.org/article/6S-NM</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['윤석열 석방'… 10년 전과 180도 달라진 검찰의 판단]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/08223329-2C87-BA51-0625-VKYRPSI4E1QSBLHAMMYZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
-            <link>http://newstapa.org/article/5QguL</link>
-            <guid>http://newstapa.org/article/5QguL</guid>
-            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/05132905-6EBB-7E8D-8F90-ZMB4PSLW04U97KY7YJ9E.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 뉴스 ─ 예산감시)]]></title>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[현장에서] 기게스의 반지와 윤석열, 그리고 검찰 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/108955960</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/108955960</guid>
+            <pubDate>Fri, 04 Apr 2025 06:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[그동안 검찰 권력은 끼우기만 하면 투명인간으로 만들어주는 ‘기게스의 반지’처럼 윤석열의 치부를 가리는 역할을 해왔습니다. 윤석열 김건희가 마치 반지를 낀 투명인간이라도 되는 것처럼 그들의 죄를 못본 척해왔기 때문입니다.  <br><br>오늘 헌재의 파면 결정으로 윤석열은 이제 검찰 권력의 보호 없이 그동안의 의혹에 대한 심판을 받아야 합니다. 그렇다면 검찰 권력이라는 ‘반지’는 어떻게 해야할까요? 더 선한 사람에게 반지를 넘겨주면 되는 걸까요? 도이치모터스 사건을 수년동안 추적해 온 기자는 공화정과 민주주의 체제에서 그런 무소불위의 반지가 존재해서는 안되며 반드시 이번 기회에 파괴되어야 한다고 주장합니다. 심인보 기자의 칼럼입니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/NVo01</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/108954905</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/108954905</guid>
@@ -3389,18 +3396,18 @@
             <content:encoded><![CDATA[지난 2월 대법원은 ‘대통령실 직원 명단을 공개하라'고 최종 판결했습니다. 하지만 윤석열 대통령비서실은 한 달 넘게 법원 판결을 묵살하며, 자료를 은폐하고 있습니다.<br><br>재차 정보공개를 요구했지만, 이번에는 직원 명단이 국가 기밀에 해당하는 ‘대통령지정기록물’이 될 예정이라며, 또 비공개했습니다. 공무원의 이름·직책·직급과 같은 기본적인 정보마저 최장 30년까지 비공개하는 대통령지정기록물로 만들겠다는 겁니다.<br><br>오늘(20일) 뉴스타파와 참여연대, '투명사회를 위한 정보공개센터'는 대통령비서실을 직무유기와 직권남용 권리행사방해 혐의로 고위공직자범죄수사처에 고소·고발했습니다. 사법체계를 부정하는 대통령실의 ‘초법적 행태’를 처벌해야 한다는 지적이 나옵니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/_qkQrF5sGow</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/p3eaS</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[현장 인터뷰]조선 하청 노동자가 30m 철탑에 오른 이유 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108786914</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108786914</guid>
-            <pubDate>Thu, 20 Mar 2025 10:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[서울시 중구 한화빌딩 앞 30m 높이의 교통관제용 CCTV 철탑 위에 사람이 있습니다. 아슬아슬해 보이는 철탑의 꼭대기, 사람 한 명이 눕기는커녕 제대로 앉기조차 힘든 공간에서 농성 중인 사람, 금속노조 거제통영고성 조선하청지회 김형수 지회장입니다.<br><br>그는 지난 3월 15일 철탑에 올랐습니다. 오늘(20)로 고공농성 6일째입니다. 조선소에서 배를 짓던 그가 철탑에 올라야 했던 이유는 무엇일까요. <br><br>뉴스타파는 밤새 함박눈이 내렸던 지난 3월 18일, 김 지회장을 현장에서 전화로 인터뷰했습니다. 겨울 외투 위에 투명 비닐 한 장 덮고 긴 밤을 버틴 김 지회장은 “참담한 조선소 노동 현실을 바꾸기 위해선 다른 방법이 없었다”고 말했습니다. 그의 자세한 이야기를 영상에서 만나 보시죠.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/fSo7rNIAL24</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/-gz0w</span>]]></content:encoded>
+            <title><![CDATA[[현장에서] 기게스의 반지와 윤석열, 그리고 검찰 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250404143004682</link>
+            <guid>https://v.daum.net/v/20250404143004682</guid>
+            <pubDate>Fri, 04 Apr 2025 06:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250404143004682" class="link_column" data-tiara-layer="[현장에서]_기게스의_반지와_윤석열,_그리고_검찰_alltab"><div class="cont_thumb"><strong class="tit_txt">[현장에서] 기게스의 반지와 윤석열, 그리고 검찰</strong><span class="info_txt"><span class="txt_info">48분 전</span></span></div><div class="wrap_thumb"><img src="" class="thumb_g" alt=""></div></a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250404134503922</link>
             <guid>https://v.daum.net/v/20250404134503922</guid>
             <pubDate>Fri, 04 Apr 2025 05:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250404134503922" class="link_column" data-tiara-layer="윤석열의_‘12월_3일’,_그리고_명태균_게이트_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열의 ‘12월 3일’, 그리고 명태균 게이트</strong><span class="info_txt"><span class="txt_info">28분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F04%2Fnewstapa%2F20250404134504835rvdu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250404134503922" class="link_column" data-tiara-layer="윤석열의_‘12월_3일’,_그리고_명태균_게이트_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열의 ‘12월 3일’, 그리고 명태균 게이트</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F04%2Fnewstapa%2F20250404134504835rvdu.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F04%2Fnewstapa%2F20250404134504835rvdu.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3415,7 @@
             <link>https://v.daum.net/v/20250403183034484</link>
             <guid>https://v.daum.net/v/20250403183034484</guid>
             <pubDate>Thu, 03 Apr 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183034484" class="link_column" data-tiara-layer="[주간_뉴스타파]_검찰이_압수한_‘명태균_PC’,_뉴스타파가_확보해_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 검찰이 압수한 ‘명태균 PC’, 뉴스타파가 확보해 공개</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183045593jcnl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183034484" class="link_column" data-tiara-layer="[주간_뉴스타파]_검찰이_압수한_‘명태균_PC’,_뉴스타파가_확보해_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 검찰이 압수한 ‘명태균 PC’, 뉴스타파가 확보해 공개</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183045593jcnl.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183045593jcnl.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3423,7 @@
             <link>https://v.daum.net/v/20250403183027479</link>
             <guid>https://v.daum.net/v/20250403183027479</guid>
             <pubDate>Thu, 03 Apr 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183027479" class="link_column" data-tiara-layer="창원산단,_명태균-윤석열_‘직보’_첫_확인...국정농단_게이트_열렸다_alltab"><div class="cont_thumb"><strong class="tit_txt">창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183034097gnfg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183027479" class="link_column" data-tiara-layer="창원산단,_명태균-윤석열_‘직보’_첫_확인...국정농단_게이트_열렸다_alltab"><div class="cont_thumb"><strong class="tit_txt">창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183034097gnfg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183034097gnfg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3431,7 @@
             <link>https://v.daum.net/v/20250403183014473</link>
             <guid>https://v.daum.net/v/20250403183014473</guid>
             <pubDate>Thu, 03 Apr 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183014473" class="link_column" data-tiara-layer="이태원_참사_책임_‘면피_법안’에_김건희_“감사합니다”_alltab"><div class="cont_thumb"><strong class="tit_txt">이태원 참사 책임 ‘면피 법안’에 김건희 “감사합니다”</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183026822caom.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183014473" class="link_column" data-tiara-layer="이태원_참사_책임_‘면피_법안’에_김건희_“감사합니다”_alltab"><div class="cont_thumb"><strong class="tit_txt">이태원 참사 책임 ‘면피 법안’에 김건희 “감사합니다”</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183026822caom.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183026822caom.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3439,7 @@
             <link>https://v.daum.net/v/20250403183003460</link>
             <guid>https://v.daum.net/v/20250403183003460</guid>
             <pubDate>Thu, 03 Apr 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183003460" class="link_column" data-tiara-layer="명태균의_국정농단,_‘창원산단’_관련_대화_복원_업데이트_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트</strong><span class="info_txt"><span class="txt_info">19시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183005323ekwp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183003460" class="link_column" data-tiara-layer="명태균의_국정농단,_‘창원산단’_관련_대화_복원_업데이트_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183005323ekwp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183005323ekwp.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3495,7 +3502,7 @@
             <link>https://v.daum.net/v/20250331145503573</link>
             <guid>https://v.daum.net/v/20250331145503573</guid>
             <pubDate>Mon, 31 Mar 2025 06:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331145503573" class="link_column" data-tiara-layer="[재산공개_2025]_윤석열·김건희_부부_2025년_2억_300만_원_재산_증가_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145504591sxrr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331145503573" class="link_column" data-tiara-layer="[재산공개_2025]_윤석열·김건희_부부_2025년_2억_300만_원_재산_증가_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145504591sxrr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145504591sxrr.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3503,7 +3510,7 @@
             <link>https://v.daum.net/v/20250331145002360</link>
             <guid>https://v.daum.net/v/20250331145002360</guid>
             <pubDate>Mon, 31 Mar 2025 06:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331145002360" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_5,682명_재산_공개...__주식,_코인_보유_증가_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 5,682명 재산 공개...  주식, 코인 보유 증가</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145004412read.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331145002360" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_5,682명_재산_공개...__주식,_코인_보유_증가_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 5,682명 재산 공개...  주식, 코인 보유 증가</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145004412read.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145004412read.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3625,14 +3632,6 @@
             <pubDate>Fri, 21 Mar 2025 10:14:52 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250321190003361" class="link_column" data-tiara-layer="[주간_뉴스타파]_내란_수사기록으로_본_'정치인_체포'의_진실_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실</strong><span class="info_txt"><span class="txt_info">2025. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321190015976yefb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321190015976yefb.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250320185003086</link>
-            <guid>https://v.daum.net/v/20250320185003086</guid>
-            <pubDate>Thu, 20 Mar 2025 10:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250320185003086" class="link_column" data-tiara-layer="윤석열_대통령실의_직원_명단_'불법_은폐'..._끝까지_간다_alltab"><div class="cont_thumb"><strong class="tit_txt">윤석열 대통령실의 직원 명단 '불법 은폐'... 끝까지 간다</strong><span class="info_txt"><span class="txt_info">2025. 3. 20.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F20%2Fnewstapa%2F20250320185005083qtju.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
