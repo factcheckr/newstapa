@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 사법정의</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 05:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트]]></title>
+            <link>http://newstapa.org/article/6S-NM</link>
+            <guid>http://newstapa.org/article/6S-NM</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03182526-6BE0-1313-B9F3-THXZFU9PTN8WP5ME1ANZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다]]></title>
             <link>http://newstapa.org/article/QvIAK</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 범죄 혐의 담긴 녹음파일...검찰은 8개월 뭉갰다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/05132905-6EBB-7E8D-8F90-ZMB4PSLW04U97KY7YJ9E.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 '캐비닛 보고서' 4건이 핵심...윤 부부 혐의 입증됐다]]></title>
-            <link>http://newstapa.org/article/GcLPJ</link>
-            <guid>http://newstapa.org/article/GcLPJ</guid>
-            <pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[검찰 '캐비닛 보고서' 4건이 핵심...윤 부부 혐의 입증됐다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/05182121-6C11-646F-A997-HTVC7VAEB8XG3YSI2GEP.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

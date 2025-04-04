@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 04:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 05:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트]]></title>
+            <link>http://newstapa.org/article/6S-NM</link>
+            <guid>http://newstapa.org/article/6S-NM</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열의 ‘12월 3일’, 그리고 명태균 게이트]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03182526-6BE0-1313-B9F3-THXZFU9PTN8WP5ME1ANZ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 검찰이 압수한 ‘명태균 PC’, 뉴스타파가 확보해 공개]]></title>
             <link>http://newstapa.org/article/izr3g</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 내란 수사기록으로 본 '정치인 체포'의 진실]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21182146-0F57-A267-D39E-JMFP1PJA78XHQVK3SAQT.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동”]]></title>
-            <link>http://newstapa.org/article/7ZP5W</link>
-            <guid>http://newstapa.org/article/7ZP5W</guid>
-            <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/21204858-A229-B9C6-C878-HGD9FAG72Y8JJK7TFW00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
