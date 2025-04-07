@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 다음뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 08:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 09:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인]]></title>
+            <link>https://v.daum.net/v/20250407175504750</link>
+            <guid>https://v.daum.net/v/20250407175504750</guid>
+            <pubDate>Mon, 07 Apr 2025 09:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250407175504750" class="link_column" data-tiara-layer="'김영선_일정표'에_현대로템_사장_미팅...정치후원금_기부도_첫_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">'김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인</strong><span class="info_txt"><span class="txt_info">20분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F07%2Fnewstapa%2F20250407175512024ysqc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F07%2Fnewstapa%2F20250407175512024ysqc.jpg" length="0" type="image/q70/"/>
+        </item>
         <item>
             <title><![CDATA['8:0 전원 일치' 내란수괴 윤석열이 파면됐다]]></title>
             <link>https://v.daum.net/v/20250404191003349</link>
@@ -235,14 +243,6 @@
             <pubDate>Fri, 21 Mar 2025 12:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250321210527002" class="link_column" data-tiara-layer="[윤석열_내란]_방첩사_수사기록_①_“사령관,_계엄_해제되지_않은_것처럼_행동”_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열 내란] 방첩사 수사기록 ① “사령관, 계엄 해제되지 않은 것처럼 행동”</strong><span class="info_txt"><span class="txt_info">2025. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321210528717whkz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321210528717whkz.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤석열 내란] 방첩사 수사기록 ② “이 XX는 얼굴이 하얗게 질렸네”]]></title>
-            <link>https://v.daum.net/v/20250321210518000</link>
-            <guid>https://v.daum.net/v/20250321210518000</guid>
-            <pubDate>Fri, 21 Mar 2025 12:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250321210518000" class="link_column" data-tiara-layer="[윤석열_내란]_방첩사_수사기록_②_“이_XX는_얼굴이_하얗게_질렸네”_alltab"><div class="cont_thumb"><strong class="tit_txt">[윤석열 내란] 방첩사 수사기록 ② “이 XX는 얼굴이 하얗게 질렸네”</strong><span class="info_txt"><span class="txt_info">2025. 3. 21.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321210520374zhnv.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F21%2Fnewstapa%2F20250321210520374zhnv.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
