@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 04:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 05:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></title>
+            <link>http://newstapa.org/article/FLyiu</link>
+            <guid>http://newstapa.org/article/FLyiu</guid>
+            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/08140352-0D95-1BDC-2689-T5BIL47IQC693GLVIJ6S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인]]></title>
             <link>http://newstapa.org/article/MVHBu</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02111316-EA5C-5396-AB81-1BSH6JKD2PRDI6KAGW0L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”]]></title>
-            <link>http://newstapa.org/article/snDBh</link>
-            <guid>http://newstapa.org/article/snDBh</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31140513-06B3-A08A-CCDA-LU8WLK6SUK5CY8FUROIQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
