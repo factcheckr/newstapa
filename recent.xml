@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 06:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 07:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['김건희 통화폰' 알고도 놓친 검찰...김영선 폰 11대 중 4대만 압수]]></title>
+            <link>http://newstapa.org/article/Oecb4</link>
+            <guid>http://newstapa.org/article/Oecb4</guid>
+            <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA['김건희 통화폰' 알고도 놓친 검찰...김영선 폰 11대 중 4대만 압수]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/08155553-9137-DCCE-C551-KZFXEFX01OIKDACP8QY6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></title>
             <link>http://newstapa.org/article/FLyiu</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[경북 산불, 인명 피해 줄인 40차례 대피령]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02180842-A76B-2CC8-0519-EYCE1TELIAOPWAMHUYWV.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶]]></title>
-            <link>http://newstapa.org/article/xaQnu</link>
-            <guid>http://newstapa.org/article/xaQnu</guid>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/02111316-EA5C-5396-AB81-1BSH6JKD2PRDI6KAGW0L.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
