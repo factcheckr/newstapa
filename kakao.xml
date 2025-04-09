@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-04-09T04:16:19.431Z</updated>
+    <updated>2025-04-09T05:14:18.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/1a04e23/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109003907</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109003907"/>
+        <updated>2025-04-09T05:14:08.367Z</updated>
+        <content type="html"><![CDATA[앞서 뉴스타파는 '명태균 게이트' 검찰 수사기록에서 민간인 명태균 씨와 VIP, 즉 대통령(혹은 김건희)이 국내 최대 방산 기업인 한화에어로스페이스(이하 한화)의 정부 계약 과정에 개입한 정황이 담긴 카카오톡 메시지를 보도했습니다.<br><br>최근&nbsp;뉴스타파가 입수한 김영선 의원의 일정표에도 이들의 유착 정황이 나옵니다. 민간인 명태균은 사실상 국회의원 행세를 하며 한화 부사장과 만난 것으로 보이며, 이 과정에서 한화그룹 김동관 부회장을 언급하기도 했습니다.&nbsp;<br><br>오늘 뉴스타파는 민간인 명태균 씨가 한화 관련 국회 예산안을 통과시켰다고 말하는 통화 녹음파일을 공개합니다. 명 씨와 VIP가 방산 기업에 특혜를 준 정황이 계속 나오고 있지만, 검찰은 아무런 수사를 하지 않고 있습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/OHiDQ9kDPvA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/4RIJX</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김건희 통화폰' 알고도 놓친 검찰...김영선 폰 11대 중 4대만 압수]]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/108993310</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108857842"/>
         <updated>2025-03-27T21:12:36.978Z</updated>
         <content type="html"><![CDATA[오세훈 서울시장과 강철원 전 서울부시장에 대한 압수수색을 실시하기 사흘 전 검찰이 2021년 서울시장 선거 당시 명태균 씨의 서울행 항공권 예매 내역을 확보한 것으로 확인됐습니다. 법원이 오 시장 측에 대한 동시다발 압수수색 영장을 발부해준 결정적 근거가 됐을 가능성이 제기됩니다.<br><br>뉴스타파가 해당 자료를 확보해 살펴본 결과 명 씨 측이 명태균-오세훈 만남일로 지목된 날짜, 오 시장 측이 명 씨와의 관계를 끊어냈다고 주장한 2021년 2월 이후, 오 시장 당선일까지 명 씨가 서울에 수차례 올라간 사실이 확인됩니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Stc8j</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 한덕수 탄핵 기각 결정을 읽는 세 가지 방법]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108844620</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108844620"/>
-        <updated>2025-03-27T21:12:36.980Z</updated>
-        <content type="html"><![CDATA[헌법재판소가 지난 24일 한덕수 대통령 권한대행 탄핵소추 사건을 기각했습니다. 시중에서는 이 결정을 근거로 윤석열 대통령 탄핵심판 사건 결론을 예측하고 있습니다. <br><br>하지만 헌법재판소는 두 사건에서 겹치는 쟁점을 피해 갔습니다. 오히려 이 사건 결정은 논리적 결함과 재판 역량의 한계를 드러냈습니다. 이러한 결함과 한계가 윤석열 대통령 탄핵심판 사건에도 영향을 줄 것으로 우려된다고, 헌법학 박사인 이범준 객원기자는 지적합니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/n1k6v</span>]]></content>
     </entry>
 </feed>

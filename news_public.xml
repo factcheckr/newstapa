@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 04:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 05:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급]]></title>
+            <link>http://newstapa.org/article/4RIJX</link>
+            <guid>http://newstapa.org/article/4RIJX</guid>
+            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09135509-2AD1-917E-0CAE-7PR75U08BLXFWU75AGKQ.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김건희 통화폰' 알고도 놓친 검찰...김영선 폰 11대 중 4대만 압수]]></title>
             <link>http://newstapa.org/article/Oecb4</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/28202045-5A4C-373F-6733-SO9WMXOHJQPDPS2DV2VS.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재산공개 2025] 고위공직자 5,682명 재산 공개... 주식, 코인 보유 증가]]></title>
-            <link>http://newstapa.org/article/fSjRF</link>
-            <guid>http://newstapa.org/article/fSjRF</guid>
-            <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[재산공개 2025] 고위공직자 5,682명 재산 공개... 주식, 코인 보유 증가]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/03/31143623-8C49-909F-F21B-Z7ASMR37YWG0F41GWR2Z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
