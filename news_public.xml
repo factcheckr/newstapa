@@ -4,9 +4,33 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 09:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들]]></title>
+            <link>http://newstapa.org/article/xyBjc</link>
+            <guid>http://newstapa.org/article/xyBjc</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10180918-6C35-AF2E-81FA-U3OBN8AK7O18UXIZ1GYS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[창원산단 정보 빼낸 명태균 "국힘 김종양·박완수 측도 땅 샀다"]]></title>
+            <link>http://newstapa.org/article/Vhypy</link>
+            <guid>http://newstapa.org/article/Vhypy</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[창원산단 정보 빼낸 명태균 "국힘 김종양·박완수 측도 땅 샀다"]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10170442-7EC5-6DB1-9EC9-JLT8VLFK211W6YTQHN6Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘비선 실세’ 명태균, 대통령 부부 '문고리'들과도 카카오톡]]></title>
+            <link>http://newstapa.org/article/k7RDn</link>
+            <guid>http://newstapa.org/article/k7RDn</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[‘비선 실세’ 명태균, 대통령 부부 '문고리'들과도 카카오톡]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10180830-6CAE-7075-5B1E-ORKOC29KJ0WMUXI3JX6L.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?]]></title>
             <link>http://newstapa.org/article/eHBKq</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03161826-0470-8835-2556-5GVK4ID2HN5BZZQZ1NZ5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄핵선고 D-1, 부역자 기록 ‘싫어요’ 누적 8만 건]]></title>
-            <link>http://newstapa.org/article/tFKgk</link>
-            <guid>http://newstapa.org/article/tFKgk</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[탄핵선고 D-1, 부역자 기록 ‘싫어요’ 누적 8만 건]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03112618-F276-93DA-8DEA-KLDHN4B2EWSC51UIS66C.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘명태균 PC’ 최초·단독 입수… ‘70기가’ 자료 연속 보도]]></title>
-            <link>http://newstapa.org/article/p4Gpz</link>
-            <guid>http://newstapa.org/article/p4Gpz</guid>
-            <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘명태균 PC’ 최초·단독 입수… ‘70기가’ 자료 연속 보도]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03105727-3E17-D91B-0000-NH7WQ7Y9RAF7U62QOKPX.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작]]></title>
-            <link>http://newstapa.org/article/aJ7n-</link>
-            <guid>http://newstapa.org/article/aJ7n-</guid>
-            <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/01112608-F1CD-D888-1A70-ATZI6HQ15JSFA7L2E46Z.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
