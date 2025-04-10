@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 미디어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 00:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 02:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식]]></title>
+            <link>http://newstapa.org/article/LadNG</link>
+            <guid>http://newstapa.org/article/LadNG</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10111622-AC35-5AFB-6AF6-I6QD5A8MCHZJH6GT2UE0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<뉴스타파 v. 윤석열> 봉지욱 기자, 기소 7개월 만에 재판 시작]]></title>
             <link>http://newstapa.org/article/aJ7n-</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[계엄 포고령으로 본 윤석열의 정적들]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/12/05175534-1491-DDA2-DC3B-XHSTB8ZN3L2HJV9D175U.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[언론장악 카르텔]⑭ 尹 정권 '언론장악 돌격대'로 환생한 여론공작 '좀비들']]></title>
-            <link>http://newstapa.org/article/H_5lh</link>
-            <guid>http://newstapa.org/article/H_5lh</guid>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[언론장악 카르텔]⑭ 尹 정권 '언론장악 돌격대'로 환생한 여론공작 '좀비들']]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/11/29110000-EE6E-A347-277B-SOL7PN4PI55L2JL4F8AB.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
