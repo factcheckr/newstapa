@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 04:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 05:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?]]></title>
+            <link>http://newstapa.org/article/eHBKq</link>
+            <guid>http://newstapa.org/article/eHBKq</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10104713-A882-123E-80E4-XNDN5U5W36BY4A13RJJ7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식]]></title>
             <link>http://newstapa.org/article/LadNG</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03165641-870B-DCE5-6256-MSXPFC5JB9UQ6KLVUX65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 책임 ‘면피 법안’에 김건희 “감사합니다”]]></title>
-            <link>http://newstapa.org/article/0U8i7</link>
-            <guid>http://newstapa.org/article/0U8i7</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[이태원 참사 책임 ‘면피 법안’에 김건희 “감사합니다”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03165610-2022-33D3-85FB-JJBYF5E9U14W9V311KFF.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
