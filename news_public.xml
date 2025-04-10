@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 09:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 10:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯]]></title>
+            <link>http://newstapa.org/article/yckGp</link>
+            <guid>http://newstapa.org/article/yckGp</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10183825-BAB1-A6E0-DACA-DQMANQI5NGRGHCB9XP1U.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들]]></title>
             <link>http://newstapa.org/article/xyBjc</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[이태원 참사 책임 ‘면피 법안’에 김건희 “감사합니다”]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03165610-2022-33D3-85FB-JJBYF5E9U14W9V311KFF.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트]]></title>
-            <link>http://newstapa.org/article/5cDbj</link>
-            <guid>http://newstapa.org/article/5cDbj</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03161826-0470-8835-2556-5GVK4ID2HN5BZZQZ1NZ5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
