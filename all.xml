@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 00:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 02:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/Oz2Yz</link>
+            <guid>http://newstapa.org/article/Oz2Yz</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10172759-1EA9-D186-4F3E-NZROL7848GNZZV21H2RC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 임기 일치시켜 ‘알박기’ 막자 제안 …대구시 조례가 모범사례? (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/euzeu</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/04183908-033E-1047-907C-HY1MEGC84AOOC81JERB1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세계 외신, 윤석열은 "무모한 도박에서 패배한 지도자" (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/oiOmt</link>
-            <guid>http://newstapa.org/article/oiOmt</guid>
-            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[세계 외신, 윤석열은 "무모한 도박에서 패배한 지도자"]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/04184310-339D-0F3D-185C-YAO3YI7W64X991606WG4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/Oz2Yz</link>
+            <guid>http://newstapa.org/article/Oz2Yz</guid>
+            <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10172759-1EA9-D186-4F3E-NZROL7848GNZZV21H2RC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트체크] 임기 일치시켜 ‘알박기’ 막자 제안 …대구시 조례가 모범사례? (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[주간 뉴스타파] 검찰이 압수한 ‘명태균 PC’, 뉴스타파가 확보해 공개]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03182724-816E-FC53-BEDD-KGI9GCLS5WNUQO3XWAWZ.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/QvIAK</link>
-            <guid>http://newstapa.org/article/QvIAK</guid>
-            <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[창원산단, 명태균-윤석열 ‘직보’ 첫 확인...국정농단 게이트 열렸다]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/03165641-870B-DCE5-6256-MSXPFC5JB9UQ6KLVUX65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, “뉴스타파 영화 <압수수색> 상영 제지해 달라” 법원에 요청 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3256,6 +3256,20 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[팩트체크] 임기 일치시켜 ‘알박기’ 막자 제안 …대구시 조례가 모범사례? (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109026393</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109026393</guid>
+            <pubDate>Fri, 11 Apr 2025 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[홍준표 대구시장은 자신의 저서에서 "대통령이 인사권을 행사하는 자리에 대한 임기를 분명히 하는 법률제정이 필요하다"고 말했습니다. 그래야 이전 정권에서 임명된 인사들을 교체하기 위한 편법적인 수단이나 권력 남용을 없앨 수 있다는 겁니다. 그러면서 대구시에서 자신이 시장일 때 제정한  '임기 일치 조례'를 사례로 들었습니다. <br><br>과연 대구시 조례가 이른바 '알박기'를 막기 위한 모범사례였을까요? 한국독립언론네트워크 KINN 소속 '뉴스민'의 팩트체크 기사입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/euzeu</span><br>📰 이 기사는 뉴스민 홈페이지에서도 보실 수 있습니다 : <span class="link_url">https://www.newsmin.co.kr/news/117264</span><br>📰 한국독립언론네트워크 KINN에 대한 정보는 여기서 확인하세요 : <span class="link_url">https://withnewstapa.org/kinn</span>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109026209</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109026209</guid>
+            <pubDate>Fri, 11 Apr 2025 02:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 ‘윤석열 명예훼손 사건’ 관련 허위사실을 유포한 정치인과 관료 등 3명을 상대로 형사 고소와 민사 소송을 제기합니다. 대상자는 한동훈 전 국민의힘 대표, 이진숙 방송통신위원장, 박정훈 국민의힘 의원입니다.<br><br>이들은 김만배-신학림 녹취록 보도에서 촉발된 소위 ‘윤석열 커피’ 논란과 관련해 뉴스타파 보도 내용과 다른 허위 사실을 공표해 뉴스타파와 뉴스타파 소속 기자 3명(김용진, 봉지욱, 한상진)의 명예를 훼손하였습니다.<br><br>뉴스타파는 해당 보도의 영상 리포트와 글 기사에서 윤석열의 후배 검사인 ‘박OO 검사’가 조우형에게 커피를 타 줬다고 보도했습니다. 그러나 이들은 “뉴스타파가 ‘윤석열 검사가 커피를 타 줬다’고 보도했다”라고 말하며 허위 사실을 유포했습니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/gaJgtcjP9Xs</span><br>👉 더 상세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Oz2Yz</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109021323</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109021323</guid>
@@ -3382,25 +3396,19 @@
             <content:encoded><![CDATA[12.3 내란 이후, 뉴스타파는 내란 동조 공직자들의 언행을 빠짐없이 기록해왔습니다.<br>그리고 윤석열 대통령 탄핵 선고를 하루 앞둔 지금, 총 36명의 고위공직자, 106건의 망언이 업데이트됐습니다.<br>자리를 위해, 안위를 위해, 국민보다 권력을 택한 이들의 말과 행동, 기억하고 기록해야 할 순간들입니다.<br>‘싫어요’ 버튼도 준비돼 있습니다. 직접 확인하세요.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/tFKgk</span><br>〈윤석열의 내란 PART 2. 부역자는 기록된다〉<br>📌 특별페이지 보기 👉 <span class="link_url">https://pages.newstapa.org/2024/traitors/</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 윤석열 탄핵 임박, 그리고 국민의 삶 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108923652</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108923652</guid>
-            <pubDate>Wed, 02 Apr 2025 02:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[내란 우두머리 혐의자 윤석열에 대한 탄핵 선고가 4일(금) 오전 11시에 나옵니다. 탄핵은 기정사실로 보입니다. 전 국민이 지켜본 헌법 유린 행위를 부정할 길은 도무지 없어 보입니다. <br><br>문제는 그 이후입니다. 무엇을 할 것인가? 우리 사회에 던져진 숙제가 너무나 많습니다. 내란과 탄핵 국면에서 잊혀진 일상적인 삶이 많습니다. 900억 원에 가까운 임금체불로 3년째 고통받는 800여 명 대유위니아그룹 노동자들의 삶도 그렇습니다. <br><br>뉴스타파는 노동자들의 임금체불에는 눈감은 채, 자신의 퇴직금으로만 160억 원을 챙겨 나간 박영우 대유위니아그룹 회장 일가의 문제를 들여다 봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/xaQnu</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[변화] 국가예산 감시, 첫 판례 세웠다...“기재부, 정부부처 예산요구서 공개” (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108913988</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108913988</guid>
-            <pubDate>Tue, 01 Apr 2025 08:17:56 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파와 세금도둑잡아라 등 3개 시민단체가 기획재정부를 상대로 벌였던 '정부 부처 예산요구서' 공개 행정소송에서 대법원 확정 판결을 받아내 최종 승소했습니다. 2022년 5월에 소송낸 지 약 35개월 만에 나온 승소입니다.<br><br>지금까지 기재부는 정부 부처와 지방자치단체로부터 받아온 모든 예산요구서를 비공개해 왔는데, 이번 판결에 따라 사상 최초로 예산요구서가 공개되는 것입니다. 국가 예산의 투명성 확보는 물론, 기재부의 예산 권력을 견제·감시할 수 있는 기틀을 마련한 셈입니다. <br><br>뉴스타파와 3개 시민단체는 예산요구서를 받는 대로 협업해 막강한 예산 권력을 가진 기재부가 각 부처가 낸 예산요구서를 어떤 방식으로 검토·조정·수정하고 있는지 분석 보도할 방침입니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/snDBh</span>]]></content:encoded>
+            <title><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250411104502212</link>
+            <guid>https://v.daum.net/v/20250411104502212</guid>
+            <pubDate>Fri, 11 Apr 2025 02:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250411104502212" class="link_column" data-tiara-layer="뉴스타파,_‘윤석열_명예훼손_사건’_관련_한동훈_등_3명_고소_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소</strong><span class="info_txt"><span class="txt_info">39분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F11%2Fnewstapa%2F20250411104511802htru.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F11%2Fnewstapa%2F20250411104511802htru.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250410184003691</link>
             <guid>https://v.daum.net/v/20250410184003691</guid>
             <pubDate>Thu, 10 Apr 2025 10:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410184003691" class="link_column" data-tiara-layer="[주간_뉴스타파]_'명태균_PC'가_들춰낸_윤석열_정권의_민낯_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410185706292kekb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410184003691" class="link_column" data-tiara-layer="[주간_뉴스타파]_'명태균_PC'가_들춰낸_윤석열_정권의_민낯_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯</strong><span class="info_txt"><span class="txt_info">16시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410185706292kekb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410185706292kekb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250410181029860</link>
             <guid>https://v.daum.net/v/20250410181029860</guid>
             <pubDate>Thu, 10 Apr 2025 09:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410181029860" class="link_column" data-tiara-layer="“명태균_박사님!”...채용_청탁하고_아부한_국민의힘_의원들_alltab"><div class="cont_thumb"><strong class="tit_txt">“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181042771qiji.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410181029860" class="link_column" data-tiara-layer="“명태균_박사님!”...채용_청탁하고_아부한_국민의힘_의원들_alltab"><div class="cont_thumb"><strong class="tit_txt">“명태균 박사님!”...채용 청탁하고 아부한 국민의힘 의원들</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181042771qiji.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181042771qiji.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20250410181016846</link>
             <guid>https://v.daum.net/v/20250410181016846</guid>
             <pubDate>Thu, 10 Apr 2025 09:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410181016846" class="link_column" data-tiara-layer="창원산단_정보_빼낸_명태균_&quot;국힘_김종양·박완수_측도_땅_샀다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">창원산단 정보 빼낸 명태균 "국힘 김종양·박완수 측도 땅 샀다"</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181029453bqcj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410181016846" class="link_column" data-tiara-layer="창원산단_정보_빼낸_명태균_&quot;국힘_김종양·박완수_측도_땅_샀다&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">창원산단 정보 빼낸 명태균 "국힘 김종양·박완수 측도 땅 샀다"</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181029453bqcj.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181029453bqcj.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250410181003827</link>
             <guid>https://v.daum.net/v/20250410181003827</guid>
             <pubDate>Thu, 10 Apr 2025 09:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410181003827" class="link_column" data-tiara-layer="‘비선_실세’_명태균,_대통령_부부_'문고리'들과도_카카오톡_alltab"><div class="cont_thumb"><strong class="tit_txt">‘비선 실세’ 명태균, 대통령 부부 '문고리'들과도 카카오톡</strong><span class="info_txt"><span class="txt_info">15시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181016460zvzg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410181003827" class="link_column" data-tiara-layer="‘비선_실세’_명태균,_대통령_부부_'문고리'들과도_카카오톡_alltab"><div class="cont_thumb"><strong class="tit_txt">‘비선 실세’ 명태균, 대통령 부부 '문고리'들과도 카카오톡</strong><span class="info_txt"><span class="txt_info">17시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181016460zvzg.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410181016460zvzg.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20250410133504888</link>
             <guid>https://v.daum.net/v/20250410133504888</guid>
             <pubDate>Thu, 10 Apr 2025 05:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410133504888" class="link_column" data-tiara-layer="[팩트체크]_사형_집행_안_하면_흉악_범죄_반복된다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?</strong><span class="info_txt"><span class="txt_info">20시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410203022478cchz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410133504888" class="link_column" data-tiara-layer="[팩트체크]_사형_집행_안_하면_흉악_범죄_반복된다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?</strong><span class="info_txt"><span class="txt_info">21시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410203022478cchz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410203022478cchz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3440,7 +3448,7 @@
             <link>https://v.daum.net/v/20250410112003996</link>
             <guid>https://v.daum.net/v/20250410112003996</guid>
             <pubDate>Thu, 10 Apr 2025 02:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410112003996" class="link_column" data-tiara-layer="[KINN]내란과_일본언론_5:_윤석열_파면과_일본극우언론의_탄식_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식</strong><span class="info_txt"><span class="txt_info">22시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410112004734igqz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410112003996" class="link_column" data-tiara-layer="[KINN]내란과_일본언론_5:_윤석열_파면과_일본극우언론의_탄식_alltab"><div class="cont_thumb"><strong class="tit_txt">[KINN]내란과 일본언론 5: 윤석열 파면과 일본극우언론의 탄식</strong><span class="info_txt"><span class="txt_info">1일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410112004734igqz.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410112004734igqz.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3623,14 +3631,6 @@
             <pubDate>Mon, 31 Mar 2025 10:15:04 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331182502085" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_가상자산_보유_급증,_2024년보다_3.8배_증가..._리플·비트코인_선호_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호</strong><span class="info_txt"><span class="txt_info">2025. 3. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250331145503573</link>
-            <guid>https://v.daum.net/v/20250331145503573</guid>
-            <pubDate>Mon, 31 Mar 2025 06:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331145503573" class="link_column" data-tiara-layer="[재산공개_2025]_윤석열·김건희_부부_2025년_2억_300만_원_재산_증가_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 윤석열·김건희 부부 2025년 2억 300만 원 재산 증가</strong><span class="info_txt"><span class="txt_info">2025. 3. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145504591sxrr.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331145504591sxrr.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
