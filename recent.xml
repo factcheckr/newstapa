@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 08:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 09:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작]]></title>
+            <link>http://newstapa.org/article/Pzse4</link>
+            <guid>http://newstapa.org/article/Pzse4</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14151436-CC4B-48B2-CBE6-BSXBQVAUZANBBUUZTH2M.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특집방송] '명태균PC'에 홍준표 아들 및 측근들 '카톡 수두룩']]></title>
             <link>http://newstapa.org/article/yTLkt</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] '윤석열 파면'으로 드러난 대통령기록물법의 사각지대]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09081045-FF53-B762-3C42-ZY6V1DO35B3G28LD7YEI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급]]></title>
-            <link>http://newstapa.org/article/4RIJX</link>
-            <guid>http://newstapa.org/article/4RIJX</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09135509-2AD1-917E-0CAE-7PR75U08BLXFWU75AGKQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
