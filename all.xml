@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 09:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 10:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴스타파, '명태균 PC' 추가 확보... 대선 후보들과 '검은 커넥션' 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/O2kDW</link>
+            <guid>http://newstapa.org/article/O2kDW</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '명태균 PC' 추가 확보... 대선 후보들과 '검은 커넥션' 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14182344-A9E9-2C5C-C9C3-EW9OIEXHIVOXPGOKSLNC.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Pzse4</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09171629-F49D-51B7-A605-Z9EFS7FCCPXN8Y6TK0BQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장에서] '윤석열 파면'으로 드러난 대통령기록물법의 사각지대 (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/xCqmT</link>
-            <guid>http://newstapa.org/article/xCqmT</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[현장에서] '윤석열 파면'으로 드러난 대통령기록물법의 사각지대]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09081045-FF53-B762-3C42-ZY6V1DO35B3G28LD7YEI.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[뉴스타파, '명태균 PC' 추가 확보... 대선 후보들과 '검은 커넥션' 공개 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
+            <link>http://newstapa.org/article/O2kDW</link>
+            <guid>http://newstapa.org/article/O2kDW</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파, '명태균 PC' 추가 확보... 대선 후보들과 '검은 커넥션' 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14182344-A9E9-2C5C-C9C3-EW9OIEXHIVOXPGOKSLNC.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['김건희 통화폰' 알고도 놓친 검찰...김영선 폰 11대 중 4대만 압수]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/08155553-9137-DCCE-C551-KZFXEFX01OIKDACP8QY6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
-            <link>http://newstapa.org/article/MVHBu</link>
-            <guid>http://newstapa.org/article/MVHBu</guid>
-            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA['김영선 일정표'에 현대로템 사장 미팅...정치후원금 기부도 첫 확인]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/07173930-1C5E-9B80-00C4-L37WJPB5NOVRGUEUN7ZS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, “뉴스타파 영화 <압수수색> 상영 제지해 달라” 법원에 요청 (뉴스타파 ─ 뉴스 ─ 사법정의)]]></title>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스타파, '명태균 PC' 추가 확보...  대선 후보들과 '검은 커넥션' 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109057295</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109057295</guid>
+            <pubDate>Mon, 14 Apr 2025 10:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[뉴스타파가 '명태균 PC'를 추가로 입수했습니다. <br>명 씨가 실질 소유한 미래한국연구소에서 사용하던 PC 하드디스크 3개입니다. 2차로 확보한 '명태균 PC'에는 지금까지 공개되지 않았던 대선 후보 주자와 그 측근들이 명 씨와 나눈 미공개 카톡 대화가 다수 포함됐습니다. <br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/F4sB9GCos1U</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/O2kDW</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109056693</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109056693</guid>
@@ -3389,18 +3396,19 @@
             <content:encoded><![CDATA[세계 주요 외신들도 윤석열 전 대통령의 파면 결정을 긴급 속보로 타전하며, 12·3 비상계엄에 따른 한국의 정치적 혼란 상황을 비중 있게 다뤘습니다. <br><br>우방국으로 분류되는 미국과 일본뿐 아니라, 중국, 독일, 영국 등에서도 윤 전 대통령의 파면 결정이 주요 뉴스로 소개됐습니다. <br>그 중엔 윤석열 정부의 실책과 윤 전 대통령 부부를 둘러싼 의혹을 비판하는 보도도 있었습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/oiOmt</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[현장에서] 기게스의 반지와 윤석열, 그리고 검찰 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108955960</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108955960</guid>
-            <pubDate>Fri, 04 Apr 2025 06:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[그동안 검찰 권력은 끼우기만 하면 투명인간으로 만들어주는 ‘기게스의 반지’처럼 윤석열의 치부를 가리는 역할을 해왔습니다. 윤석열 김건희가 마치 반지를 낀 투명인간이라도 되는 것처럼 그들의 죄를 못본 척해왔기 때문입니다.  <br><br>오늘 헌재의 파면 결정으로 윤석열은 이제 검찰 권력의 보호 없이 그동안의 의혹에 대한 심판을 받아야 합니다. 그렇다면 검찰 권력이라는 ‘반지’는 어떻게 해야할까요? 더 선한 사람에게 반지를 넘겨주면 되는 걸까요? 도이치모터스 사건을 수년동안 추적해 온 기자는 공화정과 민주주의 체제에서 그런 무소불위의 반지가 존재해서는 안되며 반드시 이번 기회에 파괴되어야 한다고 주장합니다. 심인보 기자의 칼럼입니다. <br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/NVo01</span>]]></content:encoded>
+            <title><![CDATA[뉴스타파, '명태균 PC' 추가 확보...  대선 후보들과 '검은 커넥션' 공개 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250414183502842</link>
+            <guid>https://v.daum.net/v/20250414183502842</guid>
+            <pubDate>Mon, 14 Apr 2025 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414183502842" class="link_column" data-tiara-layer="뉴스타파,_'명태균_PC'_추가_확보...__대선_후보들과_'검은_커넥션'_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">뉴스타파, '명태균 PC' 추가 확보...  대선 후보들과 '검은 커넥션' 공개</strong><span class="info_txt"><span class="txt_info">40분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414183507531dpgc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414183507531dpgc.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작 (뉴스타파 ─ 다음뉴스)]]></title>
             <link>https://v.daum.net/v/20250414175003098</link>
             <guid>https://v.daum.net/v/20250414175003098</guid>
             <pubDate>Mon, 14 Apr 2025 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414175003098" class="link_column" data-tiara-layer="이제_기록과_심판의_시간…뉴스타파,_'다시_쓰는_공소장'_프로젝트_시작_alltab"><div class="cont_thumb"><strong class="tit_txt">이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작</strong><span class="info_txt"><span class="txt_info">25분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414175010566troe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414175003098" class="link_column" data-tiara-layer="이제_기록과_심판의_시간…뉴스타파,_'다시_쓰는_공소장'_프로젝트_시작_alltab"><div class="cont_thumb"><strong class="tit_txt">이제 기록과 심판의 시간…뉴스타파, '다시 쓰는 공소장' 프로젝트 시작</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414175010566troe.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414175010566troe.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3408,7 +3416,7 @@
             <link>https://v.daum.net/v/20250414164003332</link>
             <guid>https://v.daum.net/v/20250414164003332</guid>
             <pubDate>Mon, 14 Apr 2025 08:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414164003332" class="link_column" data-tiara-layer="[특집방송]_'명태균PC'에_홍준표_아들_및_측근들_'카톡_수두룩'_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집방송] '명태균PC'에 홍준표 아들 및 측근들 '카톡 수두룩'</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414164010489wxbf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414164003332" class="link_column" data-tiara-layer="[특집방송]_'명태균PC'에_홍준표_아들_및_측근들_'카톡_수두룩'_alltab"><div class="cont_thumb"><strong class="tit_txt">[특집방송] '명태균PC'에 홍준표 아들 및 측근들 '카톡 수두룩'</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414164010489wxbf.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414164010489wxbf.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3416,7 +3424,7 @@
             <link>https://v.daum.net/v/20250414163528132</link>
             <guid>https://v.daum.net/v/20250414163528132</guid>
             <pubDate>Mon, 14 Apr 2025 08:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414163528132" class="link_column" data-tiara-layer="홍준표-명태균,_여론조사_'대면_보고'_정황_최초_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">홍준표-명태균, 여론조사 '대면 보고' 정황 최초 확인</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163529611ywwt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414163528132" class="link_column" data-tiara-layer="홍준표-명태균,_여론조사_'대면_보고'_정황_최초_확인_alltab"><div class="cont_thumb"><strong class="tit_txt">홍준표-명태균, 여론조사 '대면 보고' 정황 최초 확인</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163529611ywwt.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163529611ywwt.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3424,7 +3432,7 @@
             <link>https://v.daum.net/v/20250414163515127</link>
             <guid>https://v.daum.net/v/20250414163515127</guid>
             <pubDate>Mon, 14 Apr 2025 08:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414163515127" class="link_column" data-tiara-layer="홍준표가_명태균의_'진짜_고객'…_입증할_카톡_나왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">홍준표가 명태균의 '진짜 고객'… 입증할 카톡 나왔다</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163516796cube.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414163515127" class="link_column" data-tiara-layer="홍준표가_명태균의_'진짜_고객'…_입증할_카톡_나왔다_alltab"><div class="cont_thumb"><strong class="tit_txt">홍준표가 명태균의 '진짜 고객'… 입증할 카톡 나왔다</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163516796cube.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163516796cube.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3432,7 +3440,7 @@
             <link>https://v.daum.net/v/20250414163503116</link>
             <guid>https://v.daum.net/v/20250414163503116</guid>
             <pubDate>Mon, 14 Apr 2025 08:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414163503116" class="link_column" data-tiara-layer="'명태균PC'에_홍준표_아들_카톡...&quot;아버지_복당_도와줘_항상_감사&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'명태균PC'에 홍준표 아들 카톡..."아버지 복당 도와줘 항상 감사"</strong><span class="info_txt"><span class="txt_info">1시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163505212nvrq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414163503116" class="link_column" data-tiara-layer="'명태균PC'에_홍준표_아들_카톡...&quot;아버지_복당_도와줘_항상_감사&quot;_alltab"><div class="cont_thumb"><strong class="tit_txt">'명태균PC'에 홍준표 아들 카톡..."아버지 복당 도와줘 항상 감사"</strong><span class="info_txt"><span class="txt_info">2시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163505212nvrq.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414163505212nvrq.png" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3440,7 +3448,7 @@
             <link>https://v.daum.net/v/20250414135004937</link>
             <guid>https://v.daum.net/v/20250414135004937</guid>
             <pubDate>Mon, 14 Apr 2025 05:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414135004937" class="link_column" data-tiara-layer="[세월호_참사_11주기_특집]_다큐_영화_'세_가지_안부'_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개</strong><span class="info_txt"><span class="txt_info">4시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414135012572qnjt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414135004937" class="link_column" data-tiara-layer="[세월호_참사_11주기_특집]_다큐_영화_'세_가지_안부'_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개</strong><span class="info_txt"><span class="txt_info">5시간 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414135012572qnjt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414135012572qnjt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3456,7 +3464,7 @@
             <link>https://v.daum.net/v/20250410184003691</link>
             <guid>https://v.daum.net/v/20250410184003691</guid>
             <pubDate>Thu, 10 Apr 2025 10:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410184003691" class="link_column" data-tiara-layer="[주간_뉴스타파]_'명태균_PC'가_들춰낸_윤석열_정권의_민낯_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410185706292kekb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410184003691" class="link_column" data-tiara-layer="[주간_뉴스타파]_'명태균_PC'가_들춰낸_윤석열_정권의_민낯_alltab"><div class="cont_thumb"><strong class="tit_txt">[주간 뉴스타파] '명태균 PC'가 들춰낸 윤석열 정권의 민낯</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410185706292kekb.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410185706292kekb.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3624,14 +3632,6 @@
             <pubDate>Thu, 03 Apr 2025 10:14:35 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403183003460" class="link_column" data-tiara-layer="명태균의_국정농단,_‘창원산단’_관련_대화_복원_업데이트_alltab"><div class="cont_thumb"><strong class="tit_txt">명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트</strong><span class="info_txt"><span class="txt_info">2025. 4. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183005323ekwp.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403183005323ekwp.png" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[탄핵선고 D-1, 부역자 기록 ‘싫어요’ 누적 8만 건 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250403134505699</link>
-            <guid>https://v.daum.net/v/20250403134505699</guid>
-            <pubDate>Thu, 03 Apr 2025 05:14:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250403134505699" class="link_column" data-tiara-layer="탄핵선고_D-1,_부역자_기록_‘싫어요’_누적_8만_건_alltab"><div class="cont_thumb"><strong class="tit_txt">탄핵선고 D-1, 부역자 기록 ‘싫어요’ 누적 8만 건</strong><span class="info_txt"><span class="txt_info">2025. 4. 3.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403134506530onax.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F03%2Fnewstapa%2F20250403134506530onax.jpg" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
