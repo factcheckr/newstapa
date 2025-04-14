@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 04:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 05:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개 (뉴스타파 ─ 뉴스)]]></title>
+            <link>http://newstapa.org/article/sE25M</link>
+            <guid>http://newstapa.org/article/sE25M</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14134132-D07D-785D-1567-27IVZW29TBF67TLJHJ6Q.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소 (뉴스타파 ─ 뉴스)]]></title>
             <link>http://newstapa.org/article/Oz2Yz</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA['8:0 전원 일치' 내란수괴 윤석열이 파면됐다]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/04190519-F465-F978-DCD1-W4FTOI1E2JU88O5IH1EY.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[난중칼럼] 윤석열 파면에 부쳐 “이기는 역사를 완성하자” (뉴스타파 ─ 뉴스)]]></title>
-            <link>http://newstapa.org/article/08GkV</link>
-            <guid>http://newstapa.org/article/08GkV</guid>
-            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[난중칼럼] 윤석열 파면에 부쳐 “이기는 역사를 완성하자”]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/04183908-033E-1047-907C-HY1MEGC84AOOC81JERB1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소 (뉴스타파 ─ 뉴스 ─ 공직감시)]]></title>
@@ -1160,6 +1160,14 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/01/10160401-8A04-34A3-C17A-9U8SMS130U70ICT5TARQ.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
+            <link>http://newstapa.org/article/sE25M</link>
+            <guid>http://newstapa.org/article/sE25M</guid>
+            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/14134132-D07D-785D-1567-27IVZW29TBF67TLJHJ6Q.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
             <link>http://newstapa.org/article/FLyiu</link>
             <guid>http://newstapa.org/article/FLyiu</guid>
@@ -1278,14 +1286,6 @@
             <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[돈벌이 욕망과 죽음의 저류조 : 전주 리싸이클링타운 폭발사고의 전말]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/27165824-9549-4285-C6D4-14EVHP9TQVITF6A3MN2R.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나 (뉴스타파 ─ 뉴스 ─ 공공안전)]]></title>
-            <link>http://newstapa.org/article/CMsnw</link>
-            <guid>http://newstapa.org/article/CMsnw</guid>
-            <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[이태원 참사 미규명 진실] ⑩ 정부는 피해자 '2차 가해' 왜 방치했나]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2024/09/26094836-23E6-E2F8-F95E-5W9P4AK1HD9AVHWAHRP4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간 뉴스타파] 딥페이크의 공범들② 학교 딥페이크, 가해자가 돌아왔다 (뉴스타파 ─ 뉴스 ─ 교육)]]></title>
@@ -3256,6 +3256,13 @@
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2020/08/05184324-93D7-0BDF-7E93-FDV3U958BWJDUZ4U0NAB.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개 (뉴스타파 ─ 카카오톡 채널)]]></title>
+            <link>https://pf.kakao.com/_xkxkxjXl/109052229</link>
+            <guid>https://pf.kakao.com/_xkxkxjXl/109052229</guid>
+            <pubDate>Mon, 14 Apr 2025 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[한국탐사저널리즘센터-뉴스타파는 2025년 4월 16일 세월호 참사 11주기를 맞아 지난해 개봉한 다큐멘터리 영화 &lt;세 가지 안부&gt;(제작: 연분홍치마, (사)4.16세월호참사가족협의회)를 4월 14일 오전 10시부터 한달간 공개합니다. <br><br>영화 &lt;세 가지 안부&gt;는 참사 당시 언론인들의 이야기를 다룬 ‘그레이존’, 세월호 참사 희생자의 가족 이야기를 다룬 ‘흔적’, 단원고 생존자의 이야기를 다룬 ‘드라이브97’로 이뤄진 작품입니다. 세월호 참사 11주기를 맞아, 숭고한 희생의 의미가 더 오래 기억되길 바랍니다. 영화 &lt;세 가지 안부&gt;에 여러분의 많은 관심 바랍니다. <br><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/sE25M</span><br>👉 '세 가지 안부' 1편 &lt;그레이존&gt; 보러가기 : <span class="link_url">https://youtu.be/Pmkvh4gpMnw</span><br>👉 '세 가지 안부' 2편 &lt;흔적&gt; 보러가기 : <span class="link_url">https://youtu.be/d54EYlLLgqM</span><br>👉 '세 가지 안부' 3편 &lt;드라이브97&gt; 보러가기 : <span class="link_url">https://youtu.be/V0VdonBvdBU</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🎬 검찰이 싫어하는 <압수수색: 내란의 시작> 완성 (뉴스타파 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_xkxkxjXl/109035374</link>
             <guid>https://pf.kakao.com/_xkxkxjXl/109035374</guid>
@@ -3389,11 +3396,12 @@
             <content:encoded><![CDATA[헌법재판소 선고를 하루 앞둔 오늘 오후 5시, 뉴스타파는 윤석열 내란의 결정적 마중물이 된 사건 '명태균 게이트'의 핵심 증거물을 유튜브 생방송으로 공개합니다. 명 씨가 2년 넘게 직접 사용한 ‘데스크톱 PC’ 본체입니다.  <br><br>여기에는 윤석열 부부의 공천 개입 증거들, 그리고 명 씨가 윤석열 부부와 소통하며 국정농단을 도모한 정황 증거들이 빼곡히 담겼습니다. 이에 따라 윤석열 파면 이후 조기 대선이 시작된다면, 대선 정국을 흔들 스모킹건은 '명태균 게이트'가 될 전망입니다. <br><br>‘명태균 게이트’는 단순한 공천개입 문제가 아니었습니다. 민간인 명태균과 대통령 부부가 합작해 저지른 초유의 국정농단 게이트라는 게 뉴스타파 취재진의 판단입니다. 여기에는 대기업과 정치인들이 관여한 정황도 짙습니다. <br><br>윤석열 대통령이 파면되더라도, ‘명태균 게이트’ 보도를 계속할 수밖에 없는 이유를 '명태균 PC'가 말해주고 있습니다. 뉴스타파는 사건의 실체가 완전히 드러날 때까지 끝까지 추적해서 보도할 것입니다.<br><br>🎬 더 자세한 내용을 영상에서 확인하세요 : <span class="link_url">https://youtu.be/HiXOo7XsQFA</span><br>📰 기사 보러가기 : <span class="link_url">https://newstapa.org/article/izr3g</span>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[명태균의 국정농단, ‘창원산단’ 관련 대화 복원 업데이트 (뉴스타파 ─ 카카오톡 채널)]]></title>
-            <link>https://pf.kakao.com/_xkxkxjXl/108946233</link>
-            <guid>https://pf.kakao.com/_xkxkxjXl/108946233</guid>
-            <pubDate>Thu, 03 Apr 2025 10:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[뉴스타파가 단독 입수한 ‘명태균 PC’에 저장된 자료를 복원해 공개합니다. 뉴스타파는 지난 1월부터 명태균씨가 윤석열·김건희 부부와 주고 받은 카카오톡 및 텔레그램 대화를 시작으로 이준석, 경호처 직원과의 대화도 복원해 공개했습니다.<br><br>뉴스타파는 새롭게 확보한 명태균 PC에서 창원국가산업단지 개발을 둘러싼 권력형 비리 정황을 확인했습니다. 윤석열·김건희 부부와 명태균, 김영선 의원과 명태균과의 대화는 권력과 이권이 얽힌 비선 네트워크의 민낯을 그대로 보여줍니다. 뉴스타파는 이와 관련된 대화를 복원해 특별 페이지 &lt;명태균 게이트, 판도라의 상자를 열다&gt;에 공개합니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/5cDbj</span><br>👉 [명태균 게이트 판도라의 상자를 열다] 페이지 바로가기: <span class="link_url">https://pages.newstapa.org/2025/pandora/</span>]]></content:encoded>
+            <title><![CDATA[[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개 (뉴스타파 ─ 다음뉴스)]]></title>
+            <link>https://v.daum.net/v/20250414135004937</link>
+            <guid>https://v.daum.net/v/20250414135004937</guid>
+            <pubDate>Mon, 14 Apr 2025 05:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250414135004937" class="link_column" data-tiara-layer="[세월호_참사_11주기_특집]_다큐_영화_'세_가지_안부'_공개_alltab"><div class="cont_thumb"><strong class="tit_txt">[세월호 참사 11주기 특집] 다큐 영화 '세 가지 안부' 공개</strong><span class="info_txt"><span class="txt_info">25분 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414135012572qnjt.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F14%2Fnewstapa%2F20250414135012572qnjt.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
             <title><![CDATA[뉴스타파, ‘윤석열 명예훼손 사건’ 관련 한동훈 등 3명 고소 (뉴스타파 ─ 다음뉴스)]]></title>
@@ -3440,7 +3448,7 @@
             <link>https://v.daum.net/v/20250410133504888</link>
             <guid>https://v.daum.net/v/20250410133504888</guid>
             <pubDate>Thu, 10 Apr 2025 05:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410133504888" class="link_column" data-tiara-layer="[팩트체크]_사형_집행_안_하면_흉악_범죄_반복된다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?</strong><span class="info_txt"><span class="txt_info">3일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410203022478cchz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250410133504888" class="link_column" data-tiara-layer="[팩트체크]_사형_집행_안_하면_흉악_범죄_반복된다?_alltab"><div class="cont_thumb"><strong class="tit_txt">[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410203022478cchz.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F10%2Fnewstapa%2F20250410203022478cchz.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3472,7 +3480,7 @@
             <link>https://v.daum.net/v/20250409140004652</link>
             <guid>https://v.daum.net/v/20250409140004652</guid>
             <pubDate>Wed, 09 Apr 2025 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250409140004652" class="link_column" data-tiara-layer="한화_부사장_만난_명태균...'윗선'_말하며_김동관_부회장_언급_alltab"><div class="cont_thumb"><strong class="tit_txt">한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급</strong><span class="info_txt"><span class="txt_info">4일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F09%2Fnewstapa%2F20250409140008344jkev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250409140004652" class="link_column" data-tiara-layer="한화_부사장_만난_명태균...'윗선'_말하며_김동관_부회장_언급_alltab"><div class="cont_thumb"><strong class="tit_txt">한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F09%2Fnewstapa%2F20250409140008344jkev.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F09%2Fnewstapa%2F20250409140008344jkev.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3488,7 +3496,7 @@
             <link>https://v.daum.net/v/20250408140504650</link>
             <guid>https://v.daum.net/v/20250408140504650</guid>
             <pubDate>Tue, 08 Apr 2025 05:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250408140504650" class="link_column" data-tiara-layer="해심,_세월호_사고_원인_‘내인설’_공식_결론…청해진해운_불복·재심_청구_alltab"><div class="cont_thumb"><strong class="tit_txt">해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구</strong><span class="info_txt"><span class="txt_info">5일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408140506924iyws.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
+            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250408140504650" class="link_column" data-tiara-layer="해심,_세월호_사고_원인_‘내인설’_공식_결론…청해진해운_불복·재심_청구_alltab"><div class="cont_thumb"><strong class="tit_txt">해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구</strong><span class="info_txt"><span class="txt_info">6일 전</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408140506924iyws.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F08%2Fnewstapa%2F20250408140506924iyws.jpg" length="0" type="image/q70/"/>
         </item>
         <item>
@@ -3623,14 +3631,6 @@
             <pubDate>Tue, 01 Apr 2025 02:44:15 GMT</pubDate>
             <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250401113002330" class="link_column" data-tiara-layer="<뉴스타파_v._윤석열>_봉지욱_기자,_기소_7개월_만에_재판_시작_alltab"><div class="cont_thumb"><strong class="tit_txt">&lt;뉴스타파 v. 윤석열&gt; 봉지욱 기자, 기소 7개월 만에 재판 시작</strong><span class="info_txt"><span class="txt_info">2025. 4. 1.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" class="thumb_g" alt=""></div></a>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202504%2F01%2Fnewstapa%2F20250401113006030thdc.jpg" length="0" type="image/q70/"/>
-        </item>
-        <item>
-            <title><![CDATA[[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호 (뉴스타파 ─ 다음뉴스)]]></title>
-            <link>https://v.daum.net/v/20250331182502085</link>
-            <guid>https://v.daum.net/v/20250331182502085</guid>
-            <pubDate>Mon, 31 Mar 2025 10:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://v.daum.net/v/20250331182502085" class="link_column" data-tiara-layer="[재산공개_2025]_고위공직자_가상자산_보유_급증,_2024년보다_3.8배_증가..._리플·비트코인_선호_alltab"><div class="cont_thumb"><strong class="tit_txt">[재산공개 2025] 고위공직자 가상자산 보유 급증, 2024년보다 3.8배 증가... 리플·비트코인 선호</strong><span class="info_txt"><span class="txt_info">2025. 3. 31.</span></span></div><div class="wrap_thumb"><img src="//img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" class="thumb_g" alt=""></div></a>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/S200x132.fwebp.q70/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fnews%2F202503%2F31%2Fnewstapa%2F20250331182505541zoav.png" length="0" type="image/q70/"/>
         </item>
     </channel>
 </rss>
