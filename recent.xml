@@ -4,9 +4,25 @@
         <title>뉴스타파 ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 07:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 08:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[팩트체크]국민연금이 중국 등 외국인 노동자들의 노후 대책?]]></title>
+            <link>http://newstapa.org/article/7G340</link>
+            <guid>http://newstapa.org/article/7G340</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[팩트체크]국민연금이 중국 등 외국인 노동자들의 노후 대책?]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/15102549-A8D3-27FD-F4A4-PVICDP6PN7UN6507BX0Y.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[다시 쓰는 공소장] 국민을 배신한 군대, '노상원의 반란군']]></title>
+            <link>http://newstapa.org/article/bjNwf</link>
+            <guid>http://newstapa.org/article/bjNwf</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[[다시 쓰는 공소장] 국민을 배신한 군대, '노상원의 반란군']]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/15162542-4A68-0CD5-4970-Z428G18SYTDHWJRRE2A4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비화폰 서버 등 대통령기록 한 건이라도 더 찾아 이관해야]]></title>
             <link>http://newstapa.org/article/HLutc</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[창원산단 정보 빼낸 명태균 "국힘 김종양·박완수 측도 땅 샀다"]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10170442-7EC5-6DB1-9EC9-JLT8VLFK211W6YTQHN6Y.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘비선 실세’ 명태균, 대통령 부부 '문고리'들과도 카카오톡]]></title>
-            <link>http://newstapa.org/article/k7RDn</link>
-            <guid>http://newstapa.org/article/k7RDn</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[‘비선 실세’ 명태균, 대통령 부부 '문고리'들과도 카카오톡]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10180830-6CAE-7075-5B1E-ORKOC29KJ0WMUXI3JX6L.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?]]></title>
-            <link>http://newstapa.org/article/eHBKq</link>
-            <guid>http://newstapa.org/article/eHBKq</guid>
-            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[[팩트체크] 사형 집행 안 하면 흉악 범죄 반복된다?]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/10104713-A882-123E-80E4-XNDN5U5W36BY4A13RJJ7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
