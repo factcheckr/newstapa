@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pf.kakao.com/_xkxkxjXl/posts</id>
     <title>뉴스타파 ─ 카카오톡 채널</title>
-    <updated>2025-04-15T08:18:24.971Z</updated>
+    <updated>2025-04-15T09:14:43.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://pf.kakao.com/cdn/rocket/channel-home-web/production/1a04e23/assets/favicon-CmO6ClOa.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크]국민연금이 중국 등 외국인 노동자들의 노후 대책?]]></title>
+        <id>https://pf.kakao.com/_xkxkxjXl/109069611</id>
+        <link href="https://pf.kakao.com/_xkxkxjXl/109069611"/>
+        <updated>2025-04-15T09:14:33.526Z</updated>
+        <content type="html"><![CDATA[이준석 개혁신당 대선 예비후보는 "우리의 국민연금제도가 중국, 몽골 등 외국인 노동자들의 노후 대책으로 사용된다"고 말했습니다. 한국에서 일하다 본국으로 돌아가서는 추후 납부까지 할 정도로 수익률 좋은 금융상품으로 인식하고 있다는 겁니다. 그래서 우리나라 젊은 세대가 이들 외국인 노동자의 생계까지 책임지고 있다는 식으로 말했습니다. 과연 사실인지 검증해봤습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/7G340</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[다시 쓰는 공소장] 국민을 배신한 군대, '노상원의 반란군']]></title>
         <id>https://pf.kakao.com/_xkxkxjXl/109068724</id>
@@ -137,12 +144,5 @@
         <link href="https://pf.kakao.com/_xkxkxjXl/108993310"/>
         <updated>2025-04-08T07:13:56.173Z</updated>
         <content type="html"><![CDATA['명태균 게이트' 핵심 인물인 김영선 전 의원이 사용한 휴대전화는 총 11대였지만, 검찰이 압수한 건 4대에 불과했던 것으로 드러났습니다. 검찰은 나머지 7대의 존재를 파악하고도, 추가적인 압수수색에 나서지 않았습니다.&nbsp;<br><br>22대 총선에서 공천을 받지 못한 김영선 전 의원은 공기업 사장 자리를 약속한 김건희 씨와 이후에도 수시로 통화 했습니다. 언론에서는 명태균 '황금폰'을 이 사건의 스모킹건이라고 보도했지만, 실제로 김건희와 더욱 긴밀하게 자주 소통한 사람은 명태균이 아닌 김영선이었습니다.&nbsp;<br><br>뉴스타파는 김영선의 또 다른 휴대전화 번호가 있다는 사실도 최근 확인했습니다. 가족 명의를 동원해서 차명 전화를 사용했을 가능성도 충분히 예측되지만, 검찰은 이 부분에 대해서도 제대로 수사하지 않았습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/Oecb4</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해심, 세월호 사고 원인 ‘내인설’ 공식 결론…청해진해운 불복·재심 청구]]></title>
-        <id>https://pf.kakao.com/_xkxkxjXl/108991056</id>
-        <link href="https://pf.kakao.com/_xkxkxjXl/108991056"/>
-        <updated>2025-04-08T06:18:04.984Z</updated>
-        <content type="html"><![CDATA[세월호 선체 인양 이후 조사를 벌인 국가기관으로는 처음으로 세월호가 선체 자체의 결함으로 침몰했다는 ‘내인설’을 공식 인정했습니다. 해양사고를 조사·심판하는 상설 국가기관인 해양안전심판원이 세월호는 복원성 불량과 조타장치 고장, 화물 쏠림으로 급선회 및 급경사 이후 전복됐으며, 외력은 선체 흔적 등 타당한 증거가 없어 검토 대상이 되지 않는다고 최종 결론내린 사실이 뒤늦게 확인됐습니다.  하지만 세월호의 선사인 청해진해운은 이에 불복하고 재심을 청구했습니다.<br><br>📰 더 자세한 내용을 기사로 확인하세요 : <span class="link_url">https://newstapa.org/article/FLyiu</span>]]></content>
     </entry>
 </feed>
