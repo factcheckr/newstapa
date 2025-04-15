@@ -4,9 +4,17 @@
         <title>뉴스타파 ─ 뉴스 ─ 공직감시</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Apr 2025 04:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 05:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비화폰 서버 등 대통령기록 한 건이라도 더 찾아 이관해야]]></title>
+            <link>http://newstapa.org/article/HLutc</link>
+            <guid>http://newstapa.org/article/HLutc</guid>
+            <pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[비화폰 서버 등 대통령기록 한 건이라도 더 찾아 이관해야]]></content:encoded>
+            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/15140924-FCE9-4E9B-6BE3-01YE94K3ZLVSWLJNGVSI.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[팩트체크] 유정복 인천시장, 탄핵 찬반 표명한 적 없다?]]></title>
             <link>http://newstapa.org/article/9vU0Y</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[[현장에서] '윤석열 파면'으로 드러난 대통령기록물법의 사각지대]]></content:encoded>
             <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09081045-FF53-B762-3C42-ZY6V1DO35B3G28LD7YEI.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급]]></title>
-            <link>http://newstapa.org/article/4RIJX</link>
-            <guid>http://newstapa.org/article/4RIJX</guid>
-            <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[한화 부사장 만난 명태균...'윗선' 말하며 김동관 부회장 언급]]></content:encoded>
-            <enclosure url="https://d1lawh9lju1xqd.cloudfront.net/2025/04/09135509-2AD1-917E-0CAE-7PR75U08BLXFWU75AGKQ.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
